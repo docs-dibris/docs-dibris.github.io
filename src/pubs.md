@@ -5,7 +5,7 @@ permalink: /publications/
 ---
 
 #### Journal and Conference Papers
-{{ bibliography }} 
+{% bibliography %} 
 [view all papers](/publications/journals-and-conferences) 
 
 {% if site.data.preprints %} 

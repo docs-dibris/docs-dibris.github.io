@@ -22,6 +22,6 @@ Email firstname dot surname at dibris dot unige dot it
   .social-contacts li { display: inline } 
 </style> 
 <ul class="social-contacts"> 
-  {{ include social.html }} 
+  {% include social.html %} 
 </ul> 
 
