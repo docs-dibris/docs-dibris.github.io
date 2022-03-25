@@ -17,11 +17,3 @@ Room 309
 
 Email firstname dot surname at dibris dot unige dot it 
 
-<style> 
-  .social-contacts { list-style: none; margin-left: 0 } 
-  .social-contacts li { display: inline } 
-</style> 
-<ul class="social-contacts"> 
-  {% include social.html %} 
-</ul> 
-
