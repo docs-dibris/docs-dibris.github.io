@@ -4,6 +4,6 @@ title: Publications
 ---
 
 ### Workshop Papers 
-{% bibliography -f ws %} 
+{{ bibliography -f ws }}
 
 
