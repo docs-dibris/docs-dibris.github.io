@@ -1,0 +1,11 @@
+
+- name: Inference Systems in Agda 
+  url: https://github.com/LcicC/inference-systems-agda 
+  description: An Agda library for inference systems with corules, which supports standard induction and coinduction as well as flexible coinduction 
+- name: QueryAGT  
+  url: https://github.com/RiccardoBianc/QueryAGT 
+  description: An implementation in co-logic programming of the asynchronous global type system with a simple query language to interact with it
+- name: Coinductive Logic Programming (coLP) with coclauses 
+  url: https://github.com/davideancona/coLP-with-coclauses 
+  description: A Prolog meta-interpreter for flexible coinductive logic programming 
+

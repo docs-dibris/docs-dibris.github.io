@@ -1,0 +1,25 @@
+
+- ay: "2019/2020" 
+  courses: 
+  - title: Automata Theory and Computability
+    course: BSc in Computer Science 
+    role: Teaching Assistant 
+- ay: "2018/2019" 
+  courses: 
+  - title: Automata Theory and Computability
+    course: BSc in Computer Science 
+    role: Teaching Assistant 
+  - title: Principles and Paradigms of Programming Languages 
+    course: MSc in Computer Science 
+    role: Teaching Assistant 
+- ay: "2017/2018" 
+  courses: 
+  - title: Foundations of Computer Science 
+    course: BSc in Computer Science 
+    role: Teaching Assistant 
+  - title: Advanced Data Management 
+    course: MSc in Computer Science 
+    role: Teaching Assistant 
+
+
+

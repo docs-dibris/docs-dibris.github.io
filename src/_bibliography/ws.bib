@@ -1,0 +1,155 @@
+
+% conferences 
+@string{coalpty16="Proceedings of the First Workshop on Coalgebra, Horn Clause Logic Programming and Types, {CoALP-Ty}'16"}
+@string{ecoop18="32nd European Conference on Object-Oriented Programming, {ECOOP} 2018"}
+@string{ecoop20="34th European Conference on Object-Oriented Programming, {ECOOP} 2020"}
+@string{esop17="Programming Languages and Systems - 26th European Symposium on Programming, {ESOP} 2017"}
+@string{esop20="Programming Languages and Systems - 29th European Symposium on Programming, {ESOP} 2020"}
+@string{ftfjp16="Proceedings of 18th Workshop on Formal Techniques for Java-like Programs, {FTfJP}'16"}
+@string{ftfjp18="Proceedings of 20th Workshop on Formal Techniques for Java-like Programs, {FTfJP}'18"}
+@string{ftfjp20="Proceedings of 22nd Workshop on Formal Techniques for Java-like Programs, {FTfJP}'20"}
+@string{ictcs18="Proceedings of the 19th Italian Conference on Theoretical Computer Science, {ICTCS} 2018"} 
+@string{ictcs19="Proceedings of the 20th Italian Conference on Theoretical Computer Science, {ICTCS} 2019"} 
+
+% journals
+@string{ai="Acta Informatica"}
+@string{au="Algebra Universalis"}
+@string{apal="Annals of  Pure and Applied Logic"}
+@string{acs="Applied Categorical Structures"}
+@string{clss="Computer Languages, Systems {\&} Structures"}
+@string{entcs="Electronic Notes in Theoretical Computer Science"}
+@string{fi="Fundamenta Informaticae"}
+@string{ic="Information and Computation"}
+@string{jcss="Journal of Computer and System Sciences"}
+@string{jfp="Journal of Functional Programming"}
+@string{jlamp="Journal of Logic and Algebraic Methods  in Programming"}
+@string{jlap="Journal of Logic and Algebraic Programming"}
+@string{jlc="Journal of Logic and Computation"}
+@string{jot="Journal of Object Technology"}
+@string{pacmpl="Proceedings of {ACM} on Programming Languages"}
+@string{lmcs="Logical Methods in Computer Science"}
+@string{mscs="Mathematical Structures in Computer Scienc"}
+@string{scp="Science of Computer Programming"}
+@string{siam="{SIAM} Journal of Computing"}
+@string{tplp="Theory and Practice of Logic Programming"}
+@string{tcs="Theoretical Computer Science"}
+@string{toplas="{ACM} Transactions on Programming Languages and Systems"}
+
+% series
+@string{lncs="Lecture Notes in Computer Science"}
+@string{eptcs="Electronic Proceedings in Theoretical Computer Science"}
+
+% publisher
+@string{acm="{ACM}"}
+@string{cmb="Cambridge University Press"}
+@string{dags="Schloss Dagstuhl - Leibniz-Zentrum fuer Informatik"}
+@string{ev="Elsevier"}
+@string{ios="IOS Press"}
+@string{nh="North Holland"}
+@string{sv="Springer"}
+
+
+% 2020 
+
+@inproceedings{BarbieriDZ20,
+  author = {Barbieri, Pietro and Dagnino, Francesco and Zucca, Elena},
+  title = {An Inductive Abstract Semantics for CoFJ},
+  year = {2020},
+  publisher = acm,
+  doi = {10.1145/3427761.3428342},
+  abstract = {We describe an inductive abstract semantics for coFJ, a Java-like calculus where, when the same method call is encountered twice, non-termination is avoided, and the programmer can decide the behaviour in this case, by writing a codefinition. The proposed semantics is abstract in the sense that evaluation is non-deterministic, and objects are possibly infinite. However, differently from typical coinductive handling of infinite values, the semantics is inductive, since it relies on detection of cyclic calls. Whereas soundness with respect to the reference coinductive semantics has already been proved, we conjecture that completeness with respect to the regular subset of such semantics holds as well. This relies on the fact that in the proposed semantics detection of cycles is non-deterministic, that is, does not necessarily happens the first time a cycle is found.},
+  booktitle = ftfjp20,
+  pages = {4--9},
+}
+
+% 2019 
+
+@inproceedings{BarbieriDZA19,
+  author    = {Pietro Barbieri and
+               Francesco Dagnino and
+               Elena Zucca and
+               Davide Ancona},
+  editor    = {Alessandra Cherubini and
+               Nicoletta Sabadini and
+               Simone Tini},
+  title     = {Corecursive Featherweight Java Revisited},
+  booktitle = ictcs19, 
+  series    = {{CEUR} Workshop Proceedings},
+  volume    = {2504},
+  pages     = {158--170},
+  publisher = {CEUR-WS.org},
+  year      = {2019},
+  url       = {http://ceur-ws.org/Vol-2504/paper19.pdf},
+}
+
+@inproceedings{Dagnino19,
+  author    = {Francesco Dagnino},
+  editor    = {Stefan Marr and
+               Walter Cazzola},
+  title     = {A framework for big-step semantics},
+  booktitle = {Conference Companion of the 3rd International Conference on Art, Science,
+               and Engineering of Programming},
+  pages     = {27:1--27:3},
+  publisher = acm,
+  year      = {2019},
+  doi       = {10.1145/3328433.3328461},
+}
+
+@inproceedings{Dagnino18,
+  author    = {Francesco Dagnino},
+  editor    = {Alessandro Aldini and
+               Marco Bernardo},
+  title     = {Flexible Coinduction for Infinite Behaviour},
+  booktitle = {, Urbino, Italy, September 18-20, 2018},
+  series    = {{CEUR} Workshop Proceedings},
+  volume    = {2243},
+  pages     = {17--23},
+  publisher = {CEUR-WS.org},
+  year      = {2018},
+  url       = {http://ceur-ws.org/Vol-2243/award4.pdf},
+}
+
+@inproceedings{AnconaDF18,
+  author    = {Davide Ancona and
+               Francesco Dagnino and
+               Luca Franceschini},
+  editor    = {Julian Dolby and
+               William G. J. Halfond and
+               Ashish Mishra},
+  title     = {A formalism for specification of Java {API} interfaces},
+  booktitle = ftfjp18, 
+  pages     = {24--26},
+  publisher = acm,
+  year      = {2018},
+  doi       = {10.1145/3236454.3236476},
+}
+
+@inproceedings{AnconaDZ-coalp17,
+  author    = {Davide Ancona and
+               Francesco Dagnino and
+               Elena Zucca},
+  editor    = {Ekaterina Komendantskaya and
+               John Power},
+  title     = {Extending Coinductive Logic Programming with Co-Facts},
+  booktitle = coalpty16, 
+  series    = eptcs,
+  volume    = {258},
+  pages     = {1--18},
+  year      = {2017},
+  doi       = {10.4204/EPTCS.258.1},
+}
+
+@inproceedings{AnconaDZ16,
+  author    = {Davide Ancona and
+               Francesco Dagnino and
+               Elena Zucca},
+  editor    = {Vladimir Klebanov},
+  title     = {Towards a model of corecursion with default},
+  booktitle = ftfjp16, 
+  pages     = {9},
+  publisher = acm,
+  year      = {2016},
+  url       = {http://dl.acm.org/citation.cfm?id=2955820},
+}
+
+

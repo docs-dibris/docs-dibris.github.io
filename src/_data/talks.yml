@@ -1,0 +1,32 @@
+- date: 2021-12-20  
+  title: "Doctrines, Modalities and Comonads" 
+  venue: 2nd ItaCa Workshop 
+  where: Genova, Italy
+- date: 2021-09-01
+  title: Graded Doctrines and Quantitative Equality 
+  venue: Category Theory 2021 
+  where: Genova, Italy
+  video: https://www.youtube.com/watch?v=0TNUGS3UA10 
+- date: 2021-06-15
+  title: Deconfined Global Types for Asynchronous Sessions 
+  venue: COORDINATION 2021 
+  where: Valletta, Malta
+  video: https://www.youtube.com/watch?v=-U5rHva7XNs 
+  note: online 
+- date: 2021-03-31
+  title: Soundness Conditions for Big-Step Semantics 
+  venue: ESOP 2021  
+  where: Luxembeurg, Luxembeurg
+  video: https://www.morressier.com/article/soundness-conditions-bigstep-semantics/604907f41a80aac83ca25d4f 
+  note: online 
+- date: 2021-03-04
+  title: On Quantitative Equality in Graded Doctrines 
+  venue: DIAPASON seminars 
+  where: Bologna, Italy 
+  note: online 
+- date: 2020-06-18
+  title: Flexible coinductive definitions by inference systems 
+  venue: Computer Science Theory Seminar 
+  where: Tallinn University of Technology, Estonia 
+  note: online 
+
