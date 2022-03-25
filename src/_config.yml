@@ -48,23 +48,23 @@ header_pages:
   - teaching.md 
 
 
-# minima:
-#   social_links: 
-#     googlescholar: V1hW620AAAAJ 
-#     dblp: 
-#       fs: "190"  
-#       snd: "4511" 
-#     researchgate: Francesco_Dagnino
-#     orcid: 0000-0003-3599-3535
-#     github: fdgn
-#     linkedin: francesco-dagnino-43389a1bb 
-#     twitter: false 
+minima:
+  social_links: 
+    googlescholar: V1hW620AAAAJ 
+    dblp: 
+      fs: "190"  
+      snd: "4511" 
+    researchgate: Francesco_Dagnino
+    orcid: 0000-0003-3599-3535
+    github: fdgn
+    linkedin: francesco-dagnino-43389a1bb 
+    twitter: false 
 
-# scholar:
-#   style: _bibliography/mystyle.csl  # modern-language-association 
-#   bibliography_template: bib 
-#   bibliography_list_tag: ul 
-#   bibliography: pubs.bib 
+scholar:
+  style: _bibliography/mystyle.csl  # modern-language-association 
+  bibliography_template: bib 
+  bibliography_list_tag: ul 
+  bibliography: pubs.bib 
 
 # Exclude from processing.
 # The following items will not be processed, by default.
