@@ -1,8 +1,9 @@
 #after any changes to the Gemfile, execute bundle update!
 source "https://rubygems.org"
 
-gem "jekyll", "~> 4.2.0"
-gem "jekyll-agency"
+#gem "jekyll", "~> 4.2.0"
+#gem "jekyll-agency"
+gem "jekyll-remote-theme"
 
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.6"
