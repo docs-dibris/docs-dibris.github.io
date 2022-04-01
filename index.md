@@ -1,5 +1,3 @@
 ---
-title: DoCS's Homepage
+layout: home
 ---
-
-Ciao fs

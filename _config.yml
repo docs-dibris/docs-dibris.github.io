@@ -16,9 +16,9 @@ theme: jekyll-agency
 url    : "" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
 
-title      : DoCS's Homepage
-email      : docs@gmail.com #this is also the email contact forms will go to
-description: "Here we are! Dottorandi in Computer Science @ DIBRIS"
+title      : DoCS' Homepage
+email      : docs.dibrs@gmail.com #this is also the email contact forms will go to
+description: "Welcome to our homepage! We are the DoCS, Dottorandi in Computer Science @ DIBRIS"
 author     : federicodassereto
 # logo:     #optional, defaults to site title
   # path: assets\img\clients\creative-market.jpg
@@ -37,3 +37,6 @@ markdown: kramdown
 # Uncomment following line to use Formspree form ID based URL instead of email based URL
 # Details: https://help.formspree.io/hc/en-us/articles/360017735154-How-to-prevent-spam
 # formspree_form_path: "f/a_form_id"
+
+#plugins:
+#  - jekyll-remote-theme
