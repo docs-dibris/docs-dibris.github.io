@@ -1,58 +1,23 @@
-#
-# Work based on https://github.com/mmistakes/minimal-mistakes/blob/master/_data/ui-text.yml
-#
-# Configuration: Add to _config.yml
-# locale: "en-US"  [YOUR PREFERRED LOCALE]
-#
-# How to use:
-# {{ site.data.navigation[site.locale].nav.<var_name> | default: 'text' }}
+# Links listed below will be included in your site's navbar (navigation at the top)
 
-# English (default)
-# -----------------
-en: &DEFAULT_EN
-  nav:
-    - title: "What we do"
-      section: services
-    - title: "Portfolio"
-      section: portfolio
-    - title: "About"
-      section: about
-    - title: "Timeline"
-      section: timeline
-    - title: "Team"
-      section: team
-    - title: "Contact"
-      section: contact
-    - title: "Theme Source"
-      url: https://github.com/raviriley/agency-jekyll-theme/
-en-US:
-  <<: *DEFAULT_EN
-en-CA:
-  <<: *DEFAULT_EN
-en-GB:
-  <<: *DEFAULT_EN
-en-AU:
-  <<: *DEFAULT_EN
-
-# Spanish
-# -------
-es: &DEFAULT_ES
-  nav:
-    - title: "Servicios"
-      section: servicios
-    - title: "Portafolio"
-      section: portafolio
-    - title: "Sobre Nosotros"
-      section: nosotros
-    - title: "Cronología"
-      section: cronologia
-    - title: "Equipo"
-      section: equipo
-    - title: "Contáctenos"
-      section: contacto
-    - title: "Fuente de la plantilla"
-      url: https://github.com/raviriley/agency-jekyll-theme/
-es-ES:
-  <<: *DEFAULT_ES
-es-CO:
-  <<: *DEFAULT_ES
+- text: Home # Note that users can also reach the homepage by clicking the site's title on the left in the navbar
+  href: /
+- text: About
+  href: /about/
+- text: Team
+  href: /team/
+- text: Blog
+  href: /blog/
+- text: Documentation
+  menu: # Dropdown menu (one level deep only)
+  - text: Installation
+    href: /installation/
+  - text: Configuration
+    href: /configuration/
+  - text: Markdown
+    href: /markdown/
+  - text: "---" # Divider to separate blocks of menu items (at least 3 "-")
+  - text: "Dropdown header" # Title for block of menu items
+  - text: External link to GitHub
+    href: https://github.com/peterdesmet/petridish/
+    new_window: true

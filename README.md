@@ -1,14 +1,57 @@
-# [Agency Jekyll Theme](https://github.com/raviriley/agency-jekyll-theme) Starter Template
-[![RubyGems Downloads](https://img.shields.io/gem/dt/jekyll-agency.svg)](https://rubygems.org/gems/jekyll-agency)
-[![LICENSE](https://img.shields.io/badge/license-MIT-lightgrey.svg)](https://github.com/raviriley/agency-jekyll-theme/blob/master/LICENSE.txt)
-[![Tip Me via PayPal](https://img.shields.io/badge/PayPal-tip%20me-green.svg?logo=paypal)](https://www.paypal.me/raviriley)
+# petridish 🧫
 
-This is the fastest and easiest way to get up and running on GitHub Pages.
-Simply generate your own repository by clicking the [![template button](https://img.shields.io/badge/-Use%20this%20template-brightgreen)](https://github.com/raviriley/agency-jekyll-theme-starter/generate) button, 
-then replace the sample content with your own and configure for your needs.
+Petridish is a Jekyll theme for research project websites. Or your personal blog or lab website. 👩‍🔬 It's mobile-friendly (thanks to [Bootstrap 5](https://getbootstrap.com/docs/5.1/)), free, easy to customize, and designed to work well with [GitHub Pages](https://pages.github.com/).
 
-If you want your website to be at `YOUR-USERNAME.github.io`, that's what you must name your repo. If you want it to be like this: `https://raviriley.github.io/agency-jekyll-theme-starter/`, them make sure the `baseurl` in `_config.yml` matches the name of your repo. You can also use a `CNAME` file and your own custom domain!
+## Installation
 
-**If you enjoy this theme, please consider [supporting me](https://www.paypal.me/raviriley) to continue developing and maintaining it.**
+See the demo website for instructions:
 
-[![Support via PayPal](https://cdn.rawgit.com/twolfson/paypal-github-button/1.0.0/dist/button.svg)](https://www.paypal.me/raviriley)
+- [Installation](https://peterdesmet.github.io/petridish/installation)
+- [Configuration](https://peterdesmet.github.io/petridish/configuration)
+- [Markdown](https://peterdesmet.github.io/petridish/markdown)
+
+## Preview
+
+[Demo website](https://peterdesmet.github.io/petridish)
+
+[![screenshot](screenshot.png)](https://peterdesmet.github.io/petridish)
+
+## Contributing
+
+Bug reports and pull requests are welcome on GitHub at https://github.com/peterdesmet/petridish. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
+
+## License
+
+[MIT License](LICENSE)
+
+---
+
+<!-- All the above is about the Petridish theme, so you might want to remove that. -->
+
+_The instructions below can be adapted/included in the README of your site repository._
+
+## Usage
+
+This website makes use of the static website generator [Jekyll](https://jekyllrb.com/) and the [Petridish](https://github.com/peterdesmet/petridish) theme. **Each commit to `main` will automatically trigger a new build on GitHub Pages.** There is no need to build the site locally, but you can by installing Jekyll and running `bundle exec jekyll serve`.
+
+Minor changes can be committed directly to `main`.
+
+Changes requiring review (e.g. new blog posts) should be created in a separate branch and submitted as a pull request. Some guidelines:
+
+- Use `72dpi` as image resolution
+- Place background images in `assets/backgrounds`, name them after their corresponding page/post and ideally crop them to `2100 x 700px`
+- Place content images in `assets/images/`, name them after their corresponding page/post + a suffix, e.g. `-month-tracks-3`
+- Add categories to posts to indicate the project, output type, software language, and maybe partner organization, e.g. `[TrIAS, software, R, GBIF, rOpenSci]`
+- Create internal links as `[previous post]({% link 2013-10-01-tracking-eric.md %})`
+
+## Repo structure
+
+The repository structure follows that of Jekyll websites.
+
+- General site settings: [_config.yml](_config.yml)
+- Pages: [pages/](pages/)
+- Posts: [_posts/](_posts/)
+- Images & static files: [assets/](assets/)
+- Top navigation: [_data/navigation.yml](_data/navigation.yml)
+- Footer content: [_data/footer.yml](_data/footer.yml)
+- Team members: [_data/team.yml](_data/team.yml)

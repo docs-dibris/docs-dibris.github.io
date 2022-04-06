@@ -1,44 +1,55 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that.
-# This file is *NOT* reloaded automatically when you use 'bundle exec jekyll serve'.
-# If you change this file, please restart the server process.
+# SITE SETTINGS
+title: DoCS Homepage                        # Title in top navigation bar (navbar) and <head>
+description: Jekyll theme for research project websites # Site description in <head>
+author: Peter Desmet                    # Used for copyright statement in footer
+# url: "https://peterdesmet.github.io"  # No slash at the end
+# baseurl: "/petridish"                 # Only required if your site is on a subdomain e.g. https://username.github.io/sitename
+                                        # which has url: "https://username.github.io" (no slash) and baseurl: "/sitename" (leading slash)
+                                        # A baseurl affects internal links, see http://peterdesmet.github.io/petridish/about/#links
 
-# Site settings
-# are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
+# SOCIAL PROFILES
+email: docs.dibris@gmail.com           # Social icon in footer
+twitter_username: DOCS12404539           # Social icon in footer
+github_username: docs-dibris            # Social icon in footer
+#instagram_username: docs.dibris         # Social icon in footer
 
-#theme: jekyll-agency
-remote_theme: raviriley/agency-jekyll-theme
+# THEME SETTINGS (ALL OPTIONAL)
+posts_on_home: 3                        # Show x number of latest posts on homepage, can be 0
+tweets_on_home: false                    # Show Twitter feed of twitter_username on homepage
+archive_permalink: /blog/               # Permalink of page using archive.html layout, required when using post categories
+logo: /assets/theme/images/DOCS.png     # Logo in navbar, will be displayed with 30px height
+colors:
+  links: "#007bff"                      # Color for links: use a readable color that contrasts well with dark text
+  banner: "#007bff"                     # Background color for page banners: use color that contrasts well with white
+  footer: "#6c757d"                     # Background color for footer: use color that contrasts well with white
+  title: "#6c757d"
+rounded_corners: true                   # Enable (default) rounded corners on boxes and buttons
 
-
-url    : "" # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: "/" # the subpath of your site, e.g. /blog
-
-title      : DoCS' Homepage
-email      : docs.dibrs@gmail.com #this is also the email contact forms will go to
-description: "Welcome to our homepage! We are the DoCS, Dottorandi in Computer Science @ DIBRIS"
-author     : federicodassereto
-# logo:     #optional, defaults to site title
-  # path: assets\img\clients\creative-market.jpg
-  # height: 60 #height in px, defaults to 52px
-
-locale: "en-US" # See available languages in _data/sitetext.yml
-
-analytics:
-  google: #Google Analytics tracking code here
-
-collections:
-  portfolio:
-
+# BUILD SETTINGS
 markdown: kramdown
+plugins:                                # If you build your site on gh-pages, only use these plugins: https://pages.github.com/versions/
+  - jekyll-feed
+  - jekyll-sitemap
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - LICENSE
+  - package-lock.json
+  - package.json
+  - petridish.gemspec
 
-# Uncomment following line to use Formspree form ID based URL instead of email based URL
-# Details: https://help.formspree.io/hc/en-us/articles/360017735154-How-to-prevent-spam
-# formspree_form_path: "f/a_form_id"
-
-plugins:
-  - jekyll-remote-theme
+# FRONTMATTER DEFAULTS
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      permalink: "/blog/:year/:slug/"   # Use /blog/yyyy/{filename}/ as permalink for all posts
+  -
+    scope:
+      path: ""
+    values:
+      layout: "default"                 # Only required for Petridish website, implied for sites using a theme
