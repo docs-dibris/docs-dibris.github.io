@@ -1,5 +1,5 @@
 # SITE SETTINGS
-title: DoCS Homepage                        # Title in top navigation bar (navbar) and <head>
+title: DoCS                         # Title in top navigation bar (navbar) and <head>
 description: Jekyll theme for research project websites # Site description in <head>
 author: Peter Desmet                    # Used for copyright statement in footer
 # url: "https://peterdesmet.github.io"  # No slash at the end
@@ -11,11 +11,11 @@ author: Peter Desmet                    # Used for copyright statement in footer
 email: docs.dibris@gmail.com           # Social icon in footer
 twitter_username: DOCS12404539           # Social icon in footer
 github_username: docs-dibris            # Social icon in footer
-#instagram_username: docs.dibris         # Social icon in footer
+instagram_username: docs.dibris         # Social icon in footer
 
 # THEME SETTINGS (ALL OPTIONAL)
 posts_on_home: 3                        # Show x number of latest posts on homepage, can be 0
-tweets_on_home: false                    # Show Twitter feed of twitter_username on homepage
+tweets_on_home: true                    # Show Twitter feed of twitter_username on homepage
 archive_permalink: /blog/               # Permalink of page using archive.html layout, required when using post categories
 logo: /assets/theme/images/DOCS.png     # Logo in navbar, will be displayed with 30px height
 colors:

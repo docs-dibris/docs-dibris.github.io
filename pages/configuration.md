@@ -171,9 +171,9 @@ logo: /assets/images/logo.png  # Logo in navbar, will be displayed with 30px hei
 Add social icons to the footer by adding your (project's) social profiles in `_config.yml`:
 
 ```yml
-email: your.email@example.com
-twitter_username: your_twitter_username
-github_username: your_github_username
+email: docs.dibris@gmail.com
+twitter_username: DOCS12404539
+github_username: docs-dibrs
 ```
 
 Create a [`_data/footer.yml`][data_footer] file to further customize your footer with text, links and/or a disclaimer.
