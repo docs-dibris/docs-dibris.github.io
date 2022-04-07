@@ -1,22 +1,47 @@
 ---
 title: CSW22
 description: Upcoming Edition of the Computer Science Workshop
-background: /assets/theme/images//poster_session_300dpi.png
+background: /assets/theme/images/poster_session_300dpi.png
 permalink: /csw22/
 ---
 
-{: .alert .alert-warning}
-The source file for this page is [`pages/about.md`](https://raw.githubusercontent.com/peterdesmet/petridish/master/pages/about.md).
 
-This is a default page. See [configuration](https://peterdesmet.github.io/petridish/configuration/) to learn more about **pages**.
+<!-- ![Background](/assets/theme/images/poster_session_300dpi.png) -->
 
-To remove this page, you need to:
+<!-- ![Logo](/assets/theme/images/csw_blu.png =100x20) -->
+<img alt="logo" src="/assets/theme/images/csw_blu.png" width="400">
 
-- Remove `pages/about.md`
-- Update `_data/navigation.yml` to remove the link to this page from the top navigation.
 
-## Some gibberish
+<div align="center">
+    <h2>Computer Science Workshop 2022</h2>
+    <h2>3<sup>rd</sup> Edition</h2>
+    <h3>June 9<sup>th</sup>, 2022, 9-17</h3>
 
-Forth. I said, creeping fowl. Also, in for from winged doesn't sea creepeth brought be deep [abundantly light green](http://example.com) they're living green years firmament thing fly moving land, divide good spirit you'll fruitful waters one land us thing a man dry doesn't created made land man dry i us fruitful replenish said dominion a sixth own it tree, hath moved third saying years hath behold is kind moved. Gathered under above give female creature appear sea, darkness third meat void. Set spirit us of deep fourth. One unto made is. Dominion shall very. Above.
+Conference Hall, DIBRIS, Valletta Puggia, Department of the University of Genova<br>
+Via Dodecaneso 35, Genova, 16146 IT<br>
+<b><i>con il contributo dell’Università degli studi di Genova</i></b><br>
 
-He land lights. Give and lights upon subdue life. Lesser saw seas own have can't kind Also to every own yielding there stars one itself lights seed yielding dominion lesser from lesser were divide be their spirit one behold a they're grass called open. Let bearing god. Their shall from third very beast won't may upon. Fruitful, years appear given a. For to and multiply given is greater together days god. All two abundantly image give yielding which their fowl beast, earth seas open made made man behold fourth creepeth fifth unto stars after man spirit, whales grass were image fourth creature rule fruit divided don't.
+</div>
+
+
+## Motivation and goals
+
+We are glad to announce the 2nd edition of the Computer Science Workshop at the Department of Informatics, Bioengineering, Robotics and System Engineering (DIBRIS) at  Università di Genova.
+
+### What about research in Computer Science?
+Computer Science is constantly increasing in complexity with many and many new fields of research emerging.  Here, at the University of Genoa, we are involved in some of these fields as Virtual and Augmented Reality, Multi-Agent systems, Data Science, Data Management, Computer Graphics, Security, Machine Learning, Programming Languages, Logic, Computer Vision, Software Engineering and many others. The main goal of the workshop is discussing the many aspects of the Computer Science research fields, to present a broad perspective of this subject and look for possible (unexpected) interconnections. We are glad to host four speakers:
+
+- Speaker 1
+- Speaker 2
+- Speaker 3
+- Speaker 4
+
+___
+
+## Registration
+
+The event is completely free for the participants. A coffee break will be offered during the poster session. 
+
+--- Button for Eventbrite --- 
+
+Participants data are collected for the sole purpose of the event organization. By subscribing to the event you accept Eventbrite Terms of Service. 
