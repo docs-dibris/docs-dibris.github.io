@@ -19,7 +19,7 @@ permalink: /seminars/
     border: 1px solid black;
     border-collapse: collapse;
     text-align: center;
-    font-family: Baskerville
+    font-family: Arial, Helvetica, sans-serif
     }
 
     th {
