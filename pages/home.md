@@ -18,5 +18,5 @@ Matteo Moro, Davide Garbarino, Claudio Mancinelli, Elena Nicora, Issa Mouawad, F
 
 ### Upcoming events:
 
-- [Weekly PhD Seminar Series](https://peterdesmet.github.io/petridish/installation/)
-- [2022 Computer Science Workshop](https://peterdesmet.github.io/petridish/configuration/)
+- [Weekly PhD Seminar Series](./seminars/)
+- [2022 Computer Science Workshop](./csw22/)

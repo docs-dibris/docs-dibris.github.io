@@ -26,7 +26,7 @@ Via Dodecaneso 35, Genova, 16146 IT<br>
 
 ## Motivation and goals
 
-We are glad to announce the 2nd edition of the Computer Science Workshop at the Department of Informatics, Bioengineering, Robotics and System Engineering (DIBRIS) at  Università di Genova.
+We are glad to announce the 2nd edition of the Computer Science Workshop at the Department of Informatics, Bioengineering, Robotics and System Engineering (DIBRIS) at Università di Genova.
 
 ### What about research in Computer Science?
 Computer Science is constantly increasing in complexity with many and many new fields of research emerging.  Here, at the University of Genoa, we are involved in some of these fields as Virtual and Augmented Reality, Multi-Agent systems, Data Science, Data Management, Computer Graphics, Security, Machine Learning, Programming Languages, Logic, Computer Vision, Software Engineering and many others. The main goal of the workshop is discussing the many aspects of the Computer Science research fields, to present a broad perspective of this subject and look for possible (unexpected) interconnections. We are glad to host four speakers:
