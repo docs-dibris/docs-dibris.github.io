@@ -19,7 +19,7 @@ permalink: /csw22/
 
 <div align="center">
     <h2>Computer Science Workshop 2022</h2>
-    <h2>3<sup>rd</sup> Edition</h2>s
+    <h2>3<sup>rd</sup> Edition</h2>
     <h3>June 9<sup>th</sup>, 2022, 9-17</h3>
 
 Conference Hall, DIBRIS, Valletta Puggia, Department of the University of Genova<br>
