@@ -48,9 +48,9 @@ permalink: /seminars/
 <tr><td>23/03/22</td><td>Federico Dassereto</td><td>Database research meets Data Science: an (un)expected journey</td></tr>
 <tr><td>30/03/22</td><td>Chiara Accinelli</td><td>covRew: a Python Toolkit for Pre-Processing Pipeline Rewriting Ensuring Coverage Constraint Satisfaction</td></tr>
 <tr><td>06/04/22</td><td>Mouawad Issa</td><td>I Spy with My Little Eye: Advances and Challenges in 3D Monocular Vision</td></tr>
-<tr class="upcoming"><td>13/04/22</td><td>Cammarasana Simone</td><td>Learning-Based Low-Rank Denoising: Computer graphics and Biomedical applications</td></tr>
+<tr><td>13/04/22</td><td>Cammarasana Simone</td><td>Learning-Based Low-Rank Denoising: Computer graphics and Biomedical applications</td></tr>
 <tr class="holidays"><td colspan="3"><center>EASTER BREAK</center></td></tr>
-<tr><td>27/04/22</td><td>Barbieri Pietro</td><td></td></tr>
+<tr class="upcoming"><td>27/04/22</td><td>Barbieri Pietro</td><td>A Stream Calculus</td></tr>
 <tr><td>04/05/22</td><td>Alfano Paolo</td><td></td></tr>
 <tr><td>11/05/22</td><td>Meanti Giacomo</td><td></td></tr>
 <tr><td>18/05/22</td><td>Romdhana Andrea</td><td></td></tr>
