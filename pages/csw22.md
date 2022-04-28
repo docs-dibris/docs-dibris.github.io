@@ -32,7 +32,7 @@ Via Dodecaneso 35, Genova, 16146 IT<br>
 <div>
 <a href="https://www.rulex.ai/"><img alt="logo" src="/assets/theme/images/rulex.png" width="200" style="left: 0%; position: relative"></a>
 <a href="https://www.unige.it/"><img alt="logo" src="/assets/theme/images/logo_verticale_COLORE.png" width="200" style="left: 15%; position: relative"></a>
-<a href="https://www.unige.it/"><img alt="logo" src="/assets/theme/images/logo_verticale_BLACK.png" width="200" style="left: 30%; position: relative"></a>
+<a href="https://www.unige.it/"><img alt="logo" src="/assets/theme/images/DIBRIS_UniGe_black.png" width="200" style="left: 30%; position: relative"></a>
 </div>
 
 ## Motivation and goals
