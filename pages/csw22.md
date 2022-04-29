@@ -46,7 +46,7 @@ Computer Science is constantly increasing in complexity with many and many new f
 <li><a href="https://tanca.faculty.polimi.it/">Letizia Tanca</a>, <i>Politecnico di Milano (IT)</i></li>
 <li><a href="http://jurriaan.me/">Jurriaan Rot</a>, <i>Radboud University (NL)</i></li>
 <li><a href="https://www.unimib.it/dimitri-ognibene">Dimitri Ognibene</a>, <i>Università degli Studi di Milano Bicocca (IT)</i></li>
-<li><a href="">Speaker 4</a></li>
+<li><a href="http://people.cs.aau.dk/~matteo">Matteo Lissandrini</a>, <i>Aalborg University (DK)</i></li>
 </ul>
 
 ___
@@ -58,3 +58,28 @@ The event is completely free for the participants. A coffee break will be offere
 --- Button for Eventbrite --- 
 
 Participants data are collected for the sole purpose of the event organization. By subscribing to the event you accept Eventbrite Terms of Service. 
+
+
+___
+
+## Abstracts
+
+TITLE: **Health Big Data: a step forward for data management in the Italian medical landscape** <br>
+SPEAKER: Letizia Tanca
+
+ABSTRACT: TBA
+
+TITLE: **Introduction to automata learning**<br>
+SPEAKER: Jurriaan Rot
+
+ABSTRACT: TBA
+
+TITLE: **TBA**<br>
+SPEAKER: Dimitri Ognibene
+
+ABSTRACT: TBA
+
+TITLE: **TBA**<br>
+SPEAKER: Matteo Lissandrini
+
+ABSTRACT: TBA
