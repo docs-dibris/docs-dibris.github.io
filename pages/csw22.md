@@ -79,7 +79,7 @@ SPEAKER: Dimitri Ognibene
 
 ABSTRACT: TBA
 
-TITLE: **TBA**<br>
+TITLE: **Knowledge Graph Exploration: How to find Your Way in the Data Wilderness**<br>
 SPEAKER: Matteo Lissandrini
 
 ABSTRACT: TBA
