@@ -9,6 +9,17 @@ permalink: /csw22/
 
     li {font-size: 22px}
 
+    #register {
+        border-radius: 15%; 
+        border: none; 
+        background-color: #4caf50; 
+        color: white; 
+        padding: 15px 25px; 
+        text-align: center; 
+        font-size: 16px; 
+        cursor: pointer;
+    }
+
 </style>
 
 <!-- ![Background](/assets/theme/images/poster_session_300dpi.png) -->
@@ -32,7 +43,7 @@ Via Dodecaneso 35, Genova, 16146 IT<br>
 <div>
 <a href="https://www.rulex.ai/"><img alt="logo" src="/assets/theme/images/rulex.png" width="200" style="left: 0%; position: relative"></a>
 <a href="https://www.unige.it/"><img alt="logo" src="/assets/theme/images/logo_verticale_COLORE.png" width="200" style="left: 15%; position: relative"></a>
-<a href="https://www.unige.it/"><img alt="logo" src="/assets/theme/images/DIBRIS_UniGe_black.png" width="200" style="left: 30%; position: relative"></a>
+<a href="https://www.gruppofos.it/"><img alt="logo" src="/assets/theme/images/fos.png" width="200" style="left: 30%; position: relative"></a>
 </div>
 
 ## Motivation and goals
@@ -53,9 +64,11 @@ ___
 
 ## Registration
 
-The event is completely free for the participants. A coffee break will be offered during the poster session. 
+The event is completely free for the participants. A coffee break will be offered in the morning and in the afternoon. 
 
---- Button for Eventbrite --- 
+<centered>
+<p align="center"><a title="Register to the event on Eventbrite" href="https://www.eventbrite.it/e/3rd-computer-science-workshop-2022-tickets-332950823877" target="_blank" rel="alternate"><button id="register">REGISTER HERE!</button></a></p>
+</centered>
 
 Participants data are collected for the sole purpose of the event organization. By subscribing to the event you accept Eventbrite Terms of Service. 
 
