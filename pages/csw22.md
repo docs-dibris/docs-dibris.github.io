@@ -78,23 +78,60 @@ ___
 ## Abstracts
 
 TITLE: **Health Big Data: a step forward for data management in the Italian medical landscape** <br>
-SPEAKER: Letizia Tanca
+SPEAKER: *Letizia Tanca*
 
-ABSTRACT: TBA
+ABSTRACT: Understanding the molecular mechanisms underlying diseases is radically changing the landscape of medicine (Precision, or Custom Medicine). This revolution was initiated by Genomics, which was later joined by other Omics approaches ( transcriptomics, metabolomics, radiomics, etc.)  that have increased the granularity of the investigations in healthy and diseased cells. The systematic collection and sharing of omics and clinical data from individuals, and in perspective of real-world data, health and environmental data, will generate a universal resource of knowledge for health and care management. A priority of the Biomedical Research and Health Systems is therefore the acceleration of the transition to Data Medicine. The Health Big Data project aims at the creation of a technological platform that allows the generation, extraction, collection, sharing and analysis of scientific and clinical data of the patients of each of the 50 institutes (IRCCS) belonging to the project. The type of data that will be processed includes omic data, clinical data (electronic medical record, patient follow-up data, real world data), imaging and radiomics data, and further data provided by patients. The platform must also guarantee connectivity of the project institutes with other Research Institutes, database of the National Health Service and international public ones. After a general presentation of the project, I will concentrate on the main issues related to the integration platform.
+
 
 TITLE: **Introduction to automata learning**<br>
-SPEAKER: Jurriaan Rot
+SPEAKER: *Jurriaan Rot*
 
 ABSTRACT: TBA
 
 TITLE: **TBA**<br>
-SPEAKER: Dimitri Ognibene
+SPEAKER: *Dimitri Ognibene*
 
 ABSTRACT: TBA
 
 TITLE: **Knowledge Graph Exploration: How to find Your Way in the Data Wilderness**<br>
-SPEAKER: Matteo Lissandrini
+SPEAKER: *Matteo Lissandrini*
 
-ABSTRACT: TBA
+ABSTRACT: Exploration is one of the primordial ways to accrue knowledge about the world and its nature.
+As we accumulate, mostly automatically, data at unprecedented volumes and speed, our datasets have become complex and hard to understand. In this context, exploratory search provides a handy tool for progressively gathering the necessary knowledge when dealing with datasets that are to us "terra incognita". When dealing with complex data, we are in need of powerful data models that give us the necessary expressivity to properly handle the richness and intricacies of the information contained in the dataset at hand. Knowledge graphs (KGs) are quickly becoming the most adopted model in these cases. KGs represent facts in the form of nodes and relationships and are widely used to represent and share knowledge in many different domains.
+The widespread adoption of knowledge graphs led to the advent of new KG exploration approaches to better understand their contents and extract relevant insights. This talk will provide an overview of such methods focusing especially on the exploratory techniques, the advantages they offer, as well as on the abundant research opportunities that lie ahead.
+
+___
+
+## Speakers
+
+<div align="left"><img src="https://tanca.faculty.polimi.it/wp-content/uploads/letizia1-300x200.jpg"></div>
+
+### Letizia Tanca
+In the past, Letizia served as Chairman of the Board of Studies in Computer Engineering (Milan) from 2000 to 2006, and from 2011 to the end of 2015 as Director of the Computer Science Area of DEIB. More recently, until the end of 2021 she has acted as Vice President of the National Group of Computer Engineers (GII) whose objective is to organize, coordinate and promote, at the Italian national level, the scientific and educational activities of professors and researchers in Computer Science and Engineering.
+ Her research interests, in the recent years, have included databases for mobile devices, customizing and integrating data in context-driven, peer-to-peer distributed databases, design of quality- and context-aware databases and applications, the data curation pipeline before data analysis. Letizia Tanca is especially interested in the ethical issues inherently involved in the use of data analysis techniques. 
+ At the moment she is also responsible for the project RECKON (INAIL – ID 09/2018): “Real-world, context-aware knowledge-based Lab: Definition of an Operating Framework and its Participatory Validation in the Manufacturing Area”, on methods and techniques to integrate and restructure data related to the “operator-machine-environment” domain.
+
+<br>
+
+<div align="left"><img src="http://jurriaan.creativecode.org/wp-content/uploads/2013/04/ik3-212x300.jpeg" width=300 height=350></div>
+
+### Jurriaan Rot
+Jurriaan is an assistant professor at Radboud University. He is interested in theoretical computer science in general, and coalgebra, semantics, formal languages and verification in particular. Previously, he received my PhD degree at Leiden University, under supervision of Marcello Bonsangue, Jan Rutten and Frank de Boer.
+
+<div align="left"><img src="http://www1.essex.ac.uk/people-images/OGNIB28704.jpg" width=300 height=300></div>
+
+### Dimitri Ognibene
+Dimitri joined Milano Bicocca University in 2020 as Associate Professor. Before, he had joined University of Essex as Lecturer in Computer Science and Artificial Intelligence in October 2017 moving from University Pompeu Fabra (Barcelona, Spain) where he was focusing on the development of algorithms for intelligent social agents with bounded sensory and computational resources supported by a Marie Curie Actions COFUND fellowship. Before he has been developing algorithms for active vision in industrial robotic tasks as a Research Associate (RA) at Centre for Robotics Research, Kings College London; devising Bayesian methods and robotic models for attention in social and dynamic environments as a RA at the Personal Robotics Laboratory in Imperial College London; studying interaction between active vision and autonomous learning in neuro-robotic models as a RA at Institute of Cognitive Science and Technologies of the Italian Research Council (ISTC CNR).  He also collaborated with Wellcome Trust Centre for Neuroimaging (UCL) to study how to model exploration in the active inference modelling paradigm. He has also been Visiting Researcher at Bounded Resource Reasoning Laboratory in UMass and at University of Reykjavik (Iceland) exploring the symmetries between active sensor control and active computation or metareasoning. He obtained his PhD in Robotics in 2009 from University of Genoa with a thesis titled "Ecological Adaptive Perception from a Neuro-Robotic perspective: theory, architecture and experiments" and graduated in Information Engineering at the University of Palermo in 2004.
+
+<div align="left"><img src="https://dl.acm.org/do/10.1145/contrib-89758953557/full/crop-tie.png" width=300 height=400></div>
+
+### Matteo Lissandrini
+Matteo Lissandrini is an Assistant Professor in the Department of Computer Science at Aalborg University working on Data Exploration and Knowledge Graph Management systems. Matteo has been a Marie Skłodowska Curie IF fellow. He received his PhD from the University of Trento (Italy) with a thesis on exploratory search for information graphs. He was also a member of the DbTrento research group. He has been visiting researcher at the HP Labs in Palo Alto, California in 2013, and at the Cheriton School of Computer Science at the University of Waterloo, Canada, in 2014.
+
+
+
+___
+
+<br>
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2850.4555436103997!2d8.970135815903216!3d44.403297079102785!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x12d3430a80534c9d%3A0xd8bbae8ccf264fc!2sDipartimento%20di%20Informatica%2C%20Bioingegneria%2C%20Robotica%20e%20Ingegneria%20dei%20Sistemi%20-%20Universit%C3%A0%20di%20Genova%20-%20sezione%20scuola%20di%20scienze%20matematiche%20fisiche%20e%20naturali!5e0!3m2!1sit!2sit!4v1651591768868!5m2!1sit!2sit" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>

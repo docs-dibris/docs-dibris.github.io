@@ -11,7 +11,7 @@
 
 - name: Chiara Accinelli
   #role: PhD Student  # Will appear next to name
-  image: assets/theme/images/fry_ethan-hoover-311143-unsplash.jpg # Can be external link
+  image: assets/theme/images/unk.png # Can be external link
   description: > # Can be Markdown
     Protagonist, from the 20th century. Many times great-uncle to Professor Hubert Farnsworth.
   github: chia-a
@@ -20,9 +20,91 @@
 - name: Debora Engelmann
   #role: PhD Student  # Will appear next to name
   orcid: 0000-0002-6090-8294
-  image: assets/theme/images/fry_ethan-hoover-311143-unsplash.jpg # Can be external link
+  image: assets/theme/images/unk.png # Can be external link
   description: > # Can be Markdown
     Protagonist, from the 20th century. Many times great-uncle to Professor Hubert Farnsworth.
   github: DeboraEngelmann
   email: debora.engelmann@acad.pucrs.br
 
+- name: Issa Mouawad
+  #role: PhD Student  # Will appear next to name
+  image: assets/theme/images/unk.png # Can be external link
+  description: # Can be Markdown
+  github: 
+  email: 
+
+- name: Francesco Dagnino
+  #role: PhD Student  # Will appear next to name
+  image: assets/theme/images/unk.png # Can be external link
+  description: # Can be Markdown
+  github: 
+  email: 
+
+
+- name: Matteo Moro
+  #role: PhD Student  # Will appear next to name
+  image: assets/theme/images/unk.png # Can be external link
+  description:  # Can be Markdown
+  github: 
+  email: 
+
+- name: Eros Viola
+  #role: PhD Student  # Will appear next to name
+  image: assets/theme/images/unk.png # Can be external link
+  description:  # Can be Markdown
+
+
+- name: Elena Nicora
+  #role: PhD Student  # Will appear next to name
+  image: assets/theme/images/unk.png # Can be external link
+  description: # Can be Markdown
+  github: 
+  email: 
+
+- name: Claudio Mancinelli
+  #role: PhD Student  # Will appear next to name
+  orcid: 
+  image: assets/theme/images/unk.png # Can be external link
+  description: # Can be Markdown
+  github: 
+  email: 
+
+- name: Daniele Traversaro
+  #role: PhD Student  # Will appear next to name
+  orcid: 
+  image: assets/theme/images/unk.png # Can be external link
+  description: # Can be Markdown
+  github: 
+  email: 
+
+- name: Pietro Barbieri
+  #role: PhD Student  # Will appear next to name
+  orcid: 
+  image: assets/theme/images/unk.png # Can be external link
+  description:  # Can be Markdown
+  github: 
+  email: 
+
+- name: Luca Ciccone
+  #role: PhD Student  # Will appear next to name
+  orcid: 
+  image: assets/theme/images/unk.png # Can be external link
+  description: # Can be Markdown
+  github: 
+  email: 
+
+- name: Andrea Fasciglione
+  #role: PhD Student  # Will appear next to name
+  orcid: 
+  image: assets/theme/images/unk.png # Can be external link
+  description: # Can be Markdown
+  github: 
+  email: 
+
+- name: Riccardo Bianchini
+  #role: PhD Student  # Will appear next to name
+  orcid: 
+  image: assets/theme/images/unk.png # Can be external link
+  description:  # Can be Markdown
+  github: 
+  email: 
