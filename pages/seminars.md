@@ -51,17 +51,17 @@ permalink: /seminars/
 <tr><td>13/04/22</td><td>Simone Cammarasana</td><td>Learning-Based Low-Rank Denoising: Computer graphics and Biomedical applications</td></tr>
 <tr class="holidays"><td colspan="3"><center>EASTER BREAK</center></td></tr>
 <tr><td>27/04/22</td><td>Pietro Barbieri</td><td>A Stream Calculus</td></tr>
-<tr class="upcoming"><td>04/05/22</td><td>Paolo Didier Alfano</td><td>Efficient Embeddings for Machine Learning via Variational Autoencoders</td></tr>
-<tr><td>11/05/22</td><td>Giacomo Meanti</td><td></td></tr>
+<tr><td>04/05/22</td><td>Paolo Didier Alfano</td><td>Efficient Embeddings for Machine Learning via Variational Autoencoders</td></tr>
+<tr class="upcoming"><td>11/05/22</td><td>Daniele Traversaro</td><td>Collaborative Learning in an Introductory Database Course: A Study with Think-Pair-Share and Team Peer Review</td></tr>
 <tr><td>18/05/22</td><td>Andrea Romdhana</td><td></td></tr>
 <tr><td>25/05/22</td><td>Marco Zuppelli</td><td></td></tr>
 <tr><td>01/06/22</td><td>Federico Figari Tomenotti</td><td></td></tr>
-<tr><td>08/06/22</td><td>Andrea Fasciglione</td><td></td></tr>
+<tr><td>08/06/22</td><td>Debora Cristina Engelmann</td><td></td></tr>
 <tr><td>15/06/22</td><td>Riccardo Bianchini</td><td></td></tr>
-<tr><td>22/06/22</td><td>Debora Cristina Engelmann</td><td></td></tr>
+<tr><td>22/06/22</td><td>Andrea Fasciglione</td><td></td></tr>
 <tr class="holidays"><td colspan="3"><center>SUMMER BREAK</center></td></tr>
 <tr><td>21/09/22</td><td>Eros Viola</td><td></td></tr>
-<tr><td>28/09/22</td><td>Daniele Traversaro</td><td></td></tr>
+<tr><td>28/09/22</td><td>Giacomo Meanti</td><td></td></tr>
 <tr><td>05/10/22</td><td>Stefano De Marchi</td><td></td></tr>
 <tr><td>12/10/22</td><td>Luca Ciccone</td><td></td></tr>
 <tr><td>19/10/22</td><td>Marco Rando</td><td></td></tr>
