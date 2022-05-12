@@ -11,9 +11,9 @@
 
 - name: Chiara Accinelli
   #role: PhD Student  # Will appear next to name
-  image: assets/theme/images/unk.png # Can be external link
+  image: http://dama.dibris.unige.it/wp-content/uploads/images/people/resized/chiaraNew.jpeg # Can be external link
   description: > # Can be Markdown
-    Protagonist, from the 20th century. Many times great-uncle to Professor Hubert Farnsworth.
+    PhD Student in Computer Science. Interested in (but not only) Fair Data Management.  
   github: chia-a
   email: chiara.accinelli@dibris.unige.it
 
@@ -22,30 +22,31 @@
   orcid: 0000-0002-6090-8294
   image: assets/theme/images/unk.png # Can be external link
   description: > # Can be Markdown
-    Protagonist, from the 20th century. Many times great-uncle to Professor Hubert Farnsworth.
+    
   github: DeboraEngelmann
   email: debora.engelmann@acad.pucrs.br
 
 - name: Issa Mouawad
   #role: PhD Student  # Will appear next to name
-  image: assets/theme/images/unk.png # Can be external link
+  image: https://rubrica.unige.it/static/foto/UUZCX11p.jpg?1652362134.1219 # Can be external link
   description: # Can be Markdown
-  github: 
+  github: issamouawad
   email: 
 
 - name: Francesco Dagnino
   #role: PhD Student  # Will appear next to name
   image: assets/theme/images/unk.png # Can be external link
-  description: # Can be Markdown
-  github: 
-  email: 
+  description: Postdoctoral Researcher in Theoretical Computer Science at DIBRIS, University of Genova and member of the Genoa Logic Group
+  researchgate: Francesco-Dagnino
+  github: fdgn
+  email: francesco.dagnino@dibris.unige.it
 
 
 - name: Matteo Moro
   #role: PhD Student  # Will appear next to name
-  image: assets/theme/images/unk.png # Can be external link
+  image: https://rubrica.unige.it/static/foto/VkpHWFJh.jpg?1652362158.5667 # Can be external link
   description:  # Can be Markdown
-  github: 
+  github: MoroMatteo
   email: 
 
 - name: Eros Viola
@@ -58,7 +59,7 @@
   #role: PhD Student  # Will appear next to name
   image: assets/theme/images/unk.png # Can be external link
   description: # Can be Markdown
-  github: 
+  github: elenanicora
   email: 
 
 - name: Claudio Mancinelli
@@ -104,7 +105,7 @@
 - name: Riccardo Bianchini
   #role: PhD Student  # Will appear next to name
   orcid: 
-  image: assets/theme/images/unk.png # Can be external link
+  image: https://rubrica.unige.it/static/foto/UUFEWlNq.jpg?1652362185.5391 # Can be external link
   description:  # Can be Markdown
   github: 
   email: 
