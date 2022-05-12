@@ -88,10 +88,10 @@ SPEAKER: *Jurriaan Rot*
 
 ABSTRACT: TBA
 
-TITLE: **TBA**<br>
+TITLE: **From learning to search to finding what others miss: developing a theory of mind for human-robot interaction with active perception**<br>
 SPEAKER: *Dimitri Ognibene*
 
-ABSTRACT: TBA
+ABSTRACT: In the last 10 years, with the advent of modern deep learning methodologies, substantial performance improvement has been observed in artificial perception systems. However, the common solution to deal with the sensory limits (e.g. occlusions and limited FOV) through the increase in the number and types of sensors resulted in an escalation of costs, weight, and power demands, while important information can still be missed (e.g. occlusions). Active perception mechanisms, that enable to dynamically deal with sensory limits, have received less attention. Yet, it has been recently shown that such mechanisms, which select part of the input also through spatial relations, may substantially improve learning performance and even enable online adaptation to new environments. Active perception plays a crucial role also when interacting with other agents, who may have a different field of view or occlude relevant information. We here present a line of study about learning to find relevant information in solo tasks and during social interactions. We propose that learning combined with self-observation while performing such tasks may be at the base of the development of the flexible theory of mind capabilities.  
 
 TITLE: **Knowledge Graph Exploration: How to find Your Way in the Data Wilderness**<br>
 SPEAKER: *Matteo Lissandrini*
