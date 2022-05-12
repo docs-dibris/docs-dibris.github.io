@@ -86,7 +86,7 @@ ABSTRACT: Understanding the molecular mechanisms underlying diseases is radicall
 TITLE: **Introduction to automata learning**<br>
 SPEAKER: *Jurriaan Rot*
 
-ABSTRACT: TBA
+ABSTRACT: Automata learning and testing techniques are successful in improving correctness of software and hardware systems. They have been applied to analyse network protocols, legacy software and embedded control software. In this talk, I will give a basic introduction to automata learning techniques and algorithms.
 
 TITLE: **From learning to search to finding what others miss: developing a theory of mind for human-robot interaction with active perception**<br>
 SPEAKER: *Dimitri Ognibene*
@@ -113,10 +113,10 @@ In the past, Letizia served as Chairman of the Board of Studies in Computer Engi
 
 <br>
 
-<div align="left"><img src="http://jurriaan.creativecode.org/wp-content/uploads/2013/04/ik3-212x300.jpeg" width=300 height=350></div>
+<div align="left"><img src="http://jurriaan.creativecode.org/wp-content/uploads/2013/04/ik3-212x300.jpeg" width=212 height=300></div>
 
 ### Jurriaan Rot
-Jurriaan is an assistant professor at Radboud University. He is interested in theoretical computer science in general, and coalgebra, semantics, formal languages and verification in particular. Previously, he received my PhD degree at Leiden University, under supervision of Marcello Bonsangue, Jan Rutten and Frank de Boer.
+Jurriaan is an assistant professor at Radboud University. He is interested in theoretical computer science in general, and coalgebra, semantics, formal languages and verification in particular. Previously, he received his PhD degree at Leiden University, under supervision of Marcello Bonsangue, Jan Rutten and Frank de Boer.
 
 <div align="left"><img src="http://www1.essex.ac.uk/people-images/OGNIB28704.jpg" width=300 height=300></div>
 
