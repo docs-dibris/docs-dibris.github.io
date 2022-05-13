@@ -38,13 +38,14 @@ Via Dodecaneso 35, Genova, 16146 IT<br>
 <b><i>con il contributo dell’Università degli studi di Genova</i></b><br>
 
 </div>
-
 <br>
+<hr style="border:2px solid gray">
 <div>
 <a href="https://www.rulex.ai/"><img alt="logo" src="/assets/theme/images/rulex.png" width="200" style="left: 0%; position: relative"></a>
 <a href="https://www.unige.it/"><img alt="logo" src="/assets/theme/images/logo_verticale_COLORE.png" width="200" style="left: 15%; position: relative"></a>
 <a href="https://www.gruppofos.it/"><img alt="logo" src="/assets/theme/images/fos.png" width="200" style="left: 30%; position: relative"></a>
 </div>
+<hr style="border:2px solid gray">
 
 ## Motivation and goals
 
@@ -75,6 +76,7 @@ Participants data are collected for the sole purpose of the event organization. 
 
 ___
 
+
 ## Abstracts
 
 <!-- <div style="background-color: #EBEBEB;" markdown="1"> -->
@@ -87,21 +89,22 @@ ABSTRACT: Understanding the molecular mechanisms underlying diseases is radicall
 
 <!-- </div> -->
 
-_________
+<hr style="border:2px solid gray">
 
 TITLE: **Introduction to automata learning**<br>
 SPEAKER: *Jurriaan Rot*
 
 ABSTRACT: Automata learning and testing techniques are successful in improving correctness of software and hardware systems. They have been applied to analyse network protocols, legacy software and embedded control software. In this talk, I will give a basic introduction to automata learning techniques and algorithms.
 
-_________
+<hr style="border:2px solid gray">
 
 TITLE: **From learning to search to finding what others miss: developing a theory of mind for human-robot interaction with active perception**<br>
 SPEAKER: *Dimitri Ognibene*
 
 ABSTRACT: In the last 10 years, with the advent of modern deep learning methodologies, substantial performance improvement has been observed in artificial perception systems. However, the common solution to deal with the sensory limits (e.g. occlusions and limited FOV) through the increase in the number and types of sensors resulted in an escalation of costs, weight, and power demands, while important information can still be missed (e.g. occlusions). Active perception mechanisms, that enable to dynamically deal with sensory limits, have received less attention. Yet, it has been recently shown that such mechanisms, which select part of the input also through spatial relations, may substantially improve learning performance and even enable online adaptation to new environments. Active perception plays a crucial role also when interacting with other agents, who may have a different field of view or occlude relevant information. We here present a line of study about learning to find relevant information in solo tasks and during social interactions. We propose that learning combined with self-observation while performing such tasks may be at the base of the development of the flexible theory of mind capabilities.  
 
-_________
+<hr style="border:2px solid gray">
+
 
 TITLE: **Knowledge Graph Exploration: How to find Your Way in the Data Wilderness**<br>
 SPEAKER: *Matteo Lissandrini*
@@ -121,18 +124,19 @@ Currently, she coordinates her Department’s group in the Project Health Big Da
  Her research interests, in the recent years, have included databases for mobile devices, customizing and integrating data in context-driven, peer-to-peer distributed databases, design of quality- and context-aware databases and applications, the data curation pipeline before data analysis. Letizia Tanca is especially interested in the ethical issues inherently involved in the use of data analysis techniques. 
  At the moment she is also responsible for the project RECKON (INAIL – ID 09/2018): “Real-world, context-aware knowledge-based Lab: Definition of an Operating Framework and its Participatory Validation in the Manufacturing Area”, on methods and techniques to integrate and restructure data related to the “operator-machine-environment” domain.
 
-<br>
-
+<hr style="border:2px solid gray">
 <div align="left"><img src="http://jurriaan.creativecode.org/wp-content/uploads/2013/04/ik3-212x300.jpeg" width=212 height=300></div>
 
 ### Jurriaan Rot
 Jurriaan is an assistant professor at Radboud University. He is interested in theoretical computer science in general, and coalgebra, semantics, formal languages and verification in particular. Previously, he received his PhD degree at Leiden University, under supervision of Marcello Bonsangue, Jan Rutten and Frank de Boer.
 
+<hr style="border:2px solid gray">
 <div align="left"><img src="http://www1.essex.ac.uk/people-images/OGNIB28704.jpg" width=300 height=300></div>
 
 ### Dimitri Ognibene
 Dimitri joined Milano Bicocca University in 2020 as Associate Professor. Before, he had joined University of Essex as Lecturer in Computer Science and Artificial Intelligence in October 2017 moving from University Pompeu Fabra (Barcelona, Spain) where he was focusing on the development of algorithms for intelligent social agents with bounded sensory and computational resources supported by a Marie Curie Actions COFUND fellowship. Before he has been developing algorithms for active vision in industrial robotic tasks as a Research Associate (RA) at Centre for Robotics Research, Kings College London; devising Bayesian methods and robotic models for attention in social and dynamic environments as a RA at the Personal Robotics Laboratory in Imperial College London; studying interaction between active vision and autonomous learning in neuro-robotic models as a RA at Institute of Cognitive Science and Technologies of the Italian Research Council (ISTC CNR).  He also collaborated with Wellcome Trust Centre for Neuroimaging (UCL) to study how to model exploration in the active inference modelling paradigm. He has also been Visiting Researcher at Bounded Resource Reasoning Laboratory in UMass and at University of Reykjavik (Iceland) exploring the symmetries between active sensor control and active computation or metareasoning. He obtained his PhD in Robotics in 2009 from University of Genoa with a thesis titled "Ecological Adaptive Perception from a Neuro-Robotic perspective: theory, architecture and experiments" and graduated in Information Engineering at the University of Palermo in 2004.
 
+<hr style="border:2px solid gray">
 <div align="left"><img src="https://dl.acm.org/do/10.1145/contrib-89758953557/full/crop-tie.png" width=300 height=400></div>
 
 ### Matteo Lissandrini
