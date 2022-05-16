@@ -25,7 +25,7 @@ permalink: /csw22/
 <!-- ![Background](/assets/theme/images/poster_session_300dpi.png) -->
 
 <!-- ![Logo](/assets/theme/images/csw_blu.png =100x20) -->
-<img alt="logo" src="/assets/theme/images/csw_blu.png" width="400">
+<img alt="logo" src="/assets/theme/images/csw_blu.png" width="400" >
 
 
 <div align="center">
