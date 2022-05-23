@@ -53,8 +53,8 @@ permalink: /seminars/
 <tr><td>27/04/22</td><td>Pietro Barbieri</td><td>A Stream Calculus</td></tr>
 <tr><td>04/05/22</td><td>Paolo Didier Alfano</td><td>Efficient Embeddings for Machine Learning via Variational Autoencoders</td></tr>
 <tr><td>11/05/22</td><td>Daniele Traversaro</td><td>Collaborative Learning in an Introductory Database Course: A Study with Think-Pair-Share and Team Peer Review</td></tr>
-<tr class="upcoming"><td>18/05/22</td><td>Andrea Romdhana</td><td>IFRIT Focused Testing through Deep Reinforcement Learning</td></tr>
-<tr><td>25/05/22</td><td>Marco Zuppelli</td><td></td></tr>
+<tr><td>18/05/22</td><td>Andrea Romdhana</td><td>IFRIT Focused Testing through Deep Reinforcement Learning</td></tr>
+<tr class="upcoming"><td>25/05/22</td><td>Marco Zuppelli</td><td>Detection of Network Covert Channels</td></tr>
 <tr><td>01/06/22</td><td>Federico Figari Tomenotti</td><td></td></tr>
 <tr><td>08/06/22</td><td>Debora Cristina Engelmann</td><td></td></tr>
 <tr><td>15/06/22</td><td>Riccardo Bianchini</td><td></td></tr>

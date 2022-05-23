@@ -75,6 +75,11 @@ Participants data are collected for the sole purpose of the event organization. 
 
 
 ___
+## Program
+
+<img alt="program" src="/assets/theme/images/program.png" width="80%">
+
+___
 
 
 ## Abstracts
