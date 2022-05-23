@@ -33,7 +33,7 @@ permalink: /csw22/
     <h2>3<sup>rd</sup> Edition</h2>
     <h3>June 9<sup>th</sup>, 2022, 9-17</h3>
 
-Room 509, DIBRIS, Valletta Puggia, Department of the University of Genova<br>
+Room 506, DIBRIS, Valletta Puggia, Department of the University of Genova<br>
 Via Dodecaneso 35, Genova, 16146 IT<br>
 <b><i>con il contributo dell’Università degli studi di Genova</i></b><br>
 
