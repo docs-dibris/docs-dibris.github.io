@@ -20,6 +20,16 @@ permalink: /csw22/
         cursor: pointer;
     }
 
+    #content {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+    #content img {
+        min-width: 100px;
+        padding: 10px;
+}
+
 </style>
 
 <!-- ![Background](/assets/theme/images/poster_session_300dpi.png) -->
@@ -40,10 +50,12 @@ Via Dodecaneso 35, Genova, 16146 IT<br>
 </div>
 <br>
 <hr style="border:2px solid gray">
-<div>
-<a href="https://www.rulex.ai/"><img alt="logo" src="/assets/theme/images/rulex.png" width="200" style="left: 0%; position: relative"></a>
-<a href="https://www.unige.it/"><img alt="logo" src="/assets/theme/images/logo_verticale_COLORE.png" width="200" style="left: 15%; position: relative"></a>
-<a href="https://www.gruppofos.it/"><img alt="logo" src="/assets/theme/images/fos.png" width="200" style="left: 30%; position: relative"></a>
+<div id="content">
+<a href="https://www.unige.it/"><img alt="logo" src="/assets/theme/images/logo_verticale_COLORE.png" width="125"></a>
+<a href="https://www.rulex.ai/"><img alt="logo" src="/assets/theme/images/rulex.png" width="200"></a>
+<a href="https://www.gruppofos.it/"><img alt="logo" src="/assets/theme/images/fos.png" width="200"></a>
+<a href="https://www.https://www.decathlon.it/"><img alt="logo" src="/assets/theme/images/dechatlon.png" width="205"></a>
+<a href="https://www.unige.it/"><img alt="logo" src="/assets/theme/images/logo_verticale_COLORE.png" width="125"></a>
 </div>
 <hr style="border:2px solid gray">
 
@@ -78,7 +90,7 @@ ___
 ## Program 
 
 <!-- <img alt="program" src="/assets/theme/images/program.png" width="80%"> -->
-<img alt="program" src="/assets/theme/images/time.jpg" width="70%">
+<img alt="program" src="/assets/theme/images/time.png" width="80%">
 
 ___
 
