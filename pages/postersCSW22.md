@@ -54,11 +54,9 @@ ___
 
 <style type="text/css">
 
-
-  ul,li {
+ul,li {
   font-size: 18px;
 }
-
 a {
     text-decoration: none;
 }
