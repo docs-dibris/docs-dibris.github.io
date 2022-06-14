@@ -85,6 +85,9 @@ The event is completely free for the participants. A coffee break will be offere
 
 Participants data are collected for the sole purpose of the event organization. By subscribing to the event you accept Eventbrite Terms of Service. 
 
+<centered>
+<p align="center"><a title="Check out out virtual Poster Session!" href="/postersCSW22" target="_blank" rel="alternate">Check out out virtual Poster Session!</a></p>
+</centered>
 
 ___
 ## Program 
@@ -100,7 +103,7 @@ ___
 <!-- <div style="background-color: #EBEBEB;" markdown="1"> -->
 
 
-TITLE: **Health Big Data: a step forward for data management in the Italian medical landscape** <br>
+TITLE: **Health Big Data: a step forward for data management in the Italian medical landscape** <a href="/assets/theme/slides/Tanca.pdf">[Slides]</a> <br>
 SPEAKER: *Letizia Tanca*
 
 ABSTRACT: Understanding the molecular mechanisms underlying diseases is radically changing the landscape of medicine (Precision, or Custom Medicine). This revolution was initiated by Genomics, which was later joined by other Omics approaches ( transcriptomics, metabolomics, radiomics, etc.)  that have increased the granularity of the investigations in healthy and diseased cells. The systematic collection and sharing of omics and clinical data from individuals, and in perspective of real-world data, health and environmental data, will generate a universal resource of knowledge for health and care management. A priority of the Biomedical Research and Health Systems is therefore the acceleration of the transition to Data Medicine. The Health Big Data project aims at the creation of a technological platform that allows the generation, extraction, collection, sharing and analysis of scientific and clinical data of the patients of each of the 50 institutes (IRCCS) belonging to the project. The type of data that will be processed includes omic data, clinical data (electronic medical record, patient follow-up data, real world data), imaging and radiomics data, and further data provided by patients. The platform must also guarantee connectivity of the project institutes with other Research Institutes, database of the National Health Service and international public ones. After a general presentation of the project, I will concentrate on the main issues related to the integration platform.
@@ -109,7 +112,7 @@ ABSTRACT: Understanding the molecular mechanisms underlying diseases is radicall
 
 <hr style="border:2px solid gray">
 
-TITLE: **Introduction to automata learning**<br>
+TITLE: **Introduction to automata learning** <a href="/assets/theme/slides/Rot.pdf">[Slides]</a> <br>
 SPEAKER: *Jurriaan Rot*
 
 ABSTRACT: Automata learning and testing techniques are successful in improving correctness of software and hardware systems. They have been applied to analyse network protocols, legacy software and embedded control software. In this talk, I will give a basic introduction to automata learning techniques and algorithms.
@@ -124,7 +127,7 @@ ABSTRACT: In the last 10 years, with the advent of modern deep learning methodol
 <hr style="border:2px solid gray">
 
 
-TITLE: **Knowledge Graph Exploration: How to find Your Way in the Data Wilderness**<br>
+TITLE: **Knowledge Graph Exploration: How to find Your Way in the Data Wilderness** <a href="/assets/theme/slides/Lissandrini.pdf">[Slides]</a> <br>
 SPEAKER: *Matteo Lissandrini*
 
 ABSTRACT: Exploration is one of the primordial ways to accrue knowledge about the world and its nature.
