@@ -30,6 +30,9 @@ permalink: /csw22/
         padding: 10px;
 }
 
+a {
+    text-decoration: none;
+}
 </style>
 
 <!-- ![Background](/assets/theme/images/poster_session_300dpi.png) -->
@@ -75,6 +78,12 @@ Computer Science is constantly increasing in complexity with many and many new f
 
 ___
 
+<centered>
+<p align="center"><a title="Check out out virtual Poster Session!" href="/postersCSW22" target="_blank" rel="alternate"><button style="background-color: #2E3D96" id="register">CHECK OUT THE VIRTUAL POSTER SESSION!</button></a></p>
+</centered>
+
+___
+
 ## Registration
 
 The event is completely free for the participants. A coffee break will be offered in the morning and in the afternoon. 
@@ -84,12 +93,9 @@ The event is completely free for the participants. A coffee break will be offere
 </centered>
 
 Participants data are collected for the sole purpose of the event organization. By subscribing to the event you accept Eventbrite Terms of Service. 
-
-<centered>
-<p align="center"><a title="Check out out virtual Poster Session!" href="/postersCSW22" target="_blank" rel="alternate">Check out out virtual Poster Session!</a></p>
-</centered>
-
 ___
+
+
 ## Program 
 
 <!-- <img alt="program" src="/assets/theme/images/program.png" width="80%"> -->
