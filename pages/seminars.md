@@ -57,8 +57,8 @@ permalink: /seminars/
 <tr><td>25/05/22</td><td>Marco Zuppelli</td><td>Detection of Network Covert Channels</td></tr>
 <tr><td>01/06/22</td><td>Federico Figari Tomenotti</td><td>Why Human Action Recognition is a multi task problem?</td></tr>
 <tr><td>08/06/22</td><td>Debora Cristina Engelmann</td><td>Intentional dialogues in multi-agent systems based on ontologies and argumentation</td></tr>
-<tr class="upcoming"><td>15/06/22</td><td>Riccardo Bianchini</td><td>A brief survey on Rust language</td></tr>
-<tr><td>22/06/22</td><td>Andrea Fasciglione</td><td></td></tr>
+<tr><td>15/06/22</td><td>Riccardo Bianchini</td><td>A brief survey on Rust language</td></tr>
+<tr class="upcoming"><td>22/06/22</td><td>Andrea Fasciglione</td><td>Reproducibility in Activity Recognition Based on Wearable Devices: a Focus on Used Datasets</td></tr>
 <tr class="holidays"><td colspan="3"><center>SUMMER BREAK</center></td></tr>
 <tr><td>21/09/22</td><td>Eros Viola</td><td></td></tr>
 <tr><td>28/09/22</td><td>Giacomo Meanti</td><td></td></tr>
