@@ -8,4 +8,4 @@ permalink: "/docs/PhD Seminars"
 
 # PhD Seminars 
 
-TODO: description
+TODO: PhD seminars description

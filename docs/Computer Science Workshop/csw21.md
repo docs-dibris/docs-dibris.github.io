@@ -5,4 +5,4 @@ parent: Computer Science Workshop
 nav_order: 2
 ---
 
-# CSV 2021
+# CSW 2021

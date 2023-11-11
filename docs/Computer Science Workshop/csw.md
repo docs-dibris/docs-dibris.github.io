@@ -7,3 +7,5 @@ permalink: "/docs/Computer Science Workshop"
 ---
 
 # The Computer Science Workshop
+
+TODO: CSW general description
