@@ -1,8 +1,33 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
-theme: just-the-docs
-
 url: https://docs-dibris.github.io
+theme: just-the-docs
+color_scheme: dark
+
+title: DoCS
+description: Dottorandi in Computer Science
+# logo: "/assets/images/logo_new.png"
+# favicon-ico: "/assets/images/logo_new.ico"
+search_enabled: false
+
+
+callouts:
+  highlight:
+    title:
+    color: yellow
+  new:
+    title: New
+    color: green
+  important:
+    title: Important
+    color: blue
+  warning:
+    title: Warining
+    color: red
+  note:
+    title: note
+    color: purple
 
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
+
+ga_tracking: UA-2709176-10
+ga_tracking_anonymize_ip: true
