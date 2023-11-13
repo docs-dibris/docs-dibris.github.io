@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Calendar 23/24
-parent: PhD Seminars
+parent: PhD Seminar Series
 nav_order: 2
 ---
 
