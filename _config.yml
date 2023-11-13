@@ -14,16 +14,16 @@ callouts:
     title:
     color: yellow
   new:
-    title: New
+    title: New!
     color: green
   important:
     title: Important
     color: blue
   warning:
-    title: Warining
+    title: Warning
     color: red
   note:
-    title: note
+    title: Note
     color: purple
 
 aux_links:
