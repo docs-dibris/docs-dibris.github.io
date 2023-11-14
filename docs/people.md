@@ -43,7 +43,7 @@ Here you can find the list of current members of the DoCS group, along with some
     </tr>
     <tr>
         <td>
-            <img src="https://rubrica.unige.it/static/img/foto.jpg" style="display: block; margin: 0 auto; max-width: 150px;">
+            <img src="/assets/images/people/geriniLorenzo.jpg" style="display: block; margin: 0 auto; max-width: 150px;">
         </td>
         <td>
             <dl>
@@ -68,6 +68,19 @@ Here you can find the list of current members of the DoCS group, along with some
                 <dd><a href="mailto:matteo.martini@edu.unige.it">matteo.martini@edu.unige.it</a></dd>
                 <dt>Research group</dt>
                 <dd>PILAB</dd>
+            </dl>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img src="https://rubrica.unige.it/static/foto/UEBPUl1r.jpg?1700002139.4392" style="display: block; margin: 0 auto; max-width: 150px;">
+        </td>
+        <td>
+            <dl>
+                <dt>Name</dt>
+                <dd>Muhammad Mohsin</dd>
+                <dt>Email</dt>
+                <dd><a href="mailto:muhammad.mohsin@edu.unige.it ">muhammad.mohsin@edu.unige.it </a></dd>
             </dl>
         </td>
     </tr>
