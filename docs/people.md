@@ -96,8 +96,6 @@ Here you can find the list of current members of the DoCS group, along with some
                 <dd>Federico Sichetti</dd>
                 <dt>Email</dt>
                 <dd><a href="mailto:federico.sichetti@edu.unige.it">federico.sichetti@edu.unige.it</a></dd>
-                <dt>Research group</dt>
-                <dd>Enrico Puppo's boyz</dd>
             </dl>
         </td>
     </tr>

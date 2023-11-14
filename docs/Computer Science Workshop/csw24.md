@@ -7,7 +7,7 @@ nav_order: 5
 
 # CSW 2024
 
-<img src="/assets/images/csw_logo_light.svg" style="display: block; margin: 0 auto; max-width: 300px;">
+<img src="/assets/images/csw_logo_light_24.svg" style="display: block; margin: 0 auto; max-width: 300px;">
 
 As every year, we are collecting signatures to request funding for CSW 2024.
 We need at least **60 signatures** to organize the workshop.
