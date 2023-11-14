@@ -8,7 +8,9 @@ nav_order: 1
 # CSW 2019
 
 <div align="center">
-    <img src="/assets/images/csw19-heading.png" style="display: block; margin: 0 auto; max-width: 500px;">
+    <div style="display: flex; justify-content: center; align-items: center; margin: 20px 0;">
+        <img src="/assets/images/csw19-heading.png" style="width: 700px; height: auto;">
+    </div>
     <br>
     <img src="/assets/images/csw-logo-old.png" style="display: block; margin: 0 auto; max-width: 300px;">
     <h2>Computer Science Workshop 2019</h2>
@@ -38,7 +40,11 @@ The presentations are aimed at providing an international view of a wide range o
 
 ## Flier
 
-<img src="/assets/fliers/2019.png" style="display: block; margin: 0 auto; max-width: 500px;">
+<div style="display: flex; justify-content: center; align-items: center; margin: 20px 0;">
+    <a href="/assets/fliers/2019.png">
+        <img src="/assets/fliers/2019.png" style="width: 500px; height: auto;">
+    </a>
+</div>
 
 ## Abstracts
 

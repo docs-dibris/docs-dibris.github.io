@@ -57,7 +57,11 @@ We are glad to host four speakers:
 
 ## Flier
 
-<img src="/assets/fliers/2022.png" style="display: block; margin: 0 auto; max-width: 500px;">
+<div style="display: flex; justify-content: center; align-items: center; margin: 20px 0;">
+    <a href="/assets/fliers/2022.png">
+        <img src="/assets/fliers/2022.png" style="width: 500px; height: auto;">
+    </a>
+</div>
 
 ## Abstracts
 
