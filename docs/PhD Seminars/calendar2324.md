@@ -105,7 +105,7 @@ The next appointment is scheduled for **15/11/2023** for **Khan Dadan**'s semina
     <tr>
         <td>15/11/2023</td>
         <td>Khan Dadan</td>
-        <td>t.b.d.</td>
+        <td>Synthetic Data for Surveillance</td>
     </tr>
     <tr>
         <td>22/11/2023</td>
