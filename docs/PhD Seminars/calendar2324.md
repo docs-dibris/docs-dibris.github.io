@@ -73,11 +73,6 @@ The next appointment is scheduled for **15/11/2023** for **Khan Dadan**'s semina
         <td colspan="3"><center><b>SUMMER BREAK</b></center></td>
     </tr>
     <tr>
-        <td>20/09/2023</td>
-        <td>Marco Rando</td>
-        <td></td>
-    </tr>
-    <tr>
         <td>27/09/2023</td>
         <td>Nicola Corbellini</td>
         <td>Few Labels are Enough! Semi-supervised Graph Learning for Social Interaction</td>
@@ -95,41 +90,41 @@ The next appointment is scheduled for **15/11/2023** for **Khan Dadan**'s semina
     <tr>
         <td>18/10/2023</td>
         <td>Federico Sichetti</td>
-        <td></td>
+        <td>How to (not) break FEM: the importance of robust mesh generation</td>
     </tr>
     <tr>
         <td>25/10/2023</td>
         <td>Marianna Pizzo</td>
-        <td></td>
+        <td>Therapy or Play-apy? The gamification revolution</td>
     </tr>
     <tr>
         <td>08/11/2023</td>
-        <td>Jacopo Dapueto</td>
-        <td></td>
+        <td>Marco Rando</td>
+        <td>An Optimal Structured Zeroth-order Algorithm for Non-smooth Optimization</td>
     </tr>
     <tr>
         <td>15/11/2023</td>
         <td>Khan Dadan</td>
-        <td></td>
+        <td>t.b.d.</td>
     </tr>
     <tr>
         <td>22/11/2023</td>
         <td>George Kurshakhov</td>
-        <td></td>
+        <td>t.b.d.</td>
     </tr>
     <tr>
         <td>29/11/2023</td>
         <td>Arnaud Mavakala Watusadisi</td>
-        <td></td>
+        <td>t.b.d.</td>
     </tr>
     <tr>
         <td>06/12/2023</td>
         <td>Pawar Manasa Mohan</td>
-        <td></td>
+        <td>t.b.d.</td>
     </tr>
     <tr>
         <td>13/12/2023</td>
         <td>Stefano Avola</td>
-        <td></td>
+        <td>t.b.d.</td>
     </tr>
 </table>
