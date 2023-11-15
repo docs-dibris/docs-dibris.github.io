@@ -4,13 +4,14 @@ layout: home
 nav_order: 1
 ---
 
-# Welcome!
+# Welcome to the new DoCS website!
 
-Welcome to the DoCS website! 
+We are a collective of computer science PhD students at the [DIBRIS][dibris] department, [University of Genoa][unige]. 
+Since 2018, we organize public activities such as the [Computer Science Workshop][csw] and weekly [seminars][phdsem] to share our research with everyone in the department.
 
-We are a collective of computer science doctoral students from the [DIBRIS][dibris] department at the [University of Genoa][unige]. 
-Since 2018, we have been organizing initiatives and seminars to share and discuss our research activities. 
-Additionally, we are the organizers of the Computer Science Workshop, which we have been hosting since 2019.
+**Do**ttorandi in **C**omputer **S**cience
 
 [dibris]: https://dibris.unige.it/en
 [unige]: https://unige.it/en
+[csw]: https://docs-dibris.github.io/docs/csw
+[phdsem]: https://docs-dibris.github.io/docs/phd_seminars

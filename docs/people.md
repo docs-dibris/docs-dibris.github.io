@@ -81,6 +81,8 @@ Here you can find the list of current members of the DoCS group, along with some
                 <dd>Muhammad Mohsin</dd>
                 <dt>Email</dt>
                 <dd><a href="mailto:muhammad.mohsin@edu.unige.it ">muhammad.mohsin@edu.unige.it </a></dd>
+                <dt>Research group</dt>
+                <dd>Computational Intelligence Group</dd>
             </dl>
         </td>
     </tr>
@@ -146,3 +148,8 @@ Here you can find the list of current members of the DoCS group, along with some
 - Elena Nicora
 - Daniele Traversaro
 - Eros Viola
+
+
+## Future members?
+
+If you are a PhD student at our department and you want to help us organize our activities, come talk with one of us or send us an email!
