@@ -13,13 +13,18 @@ Since 2018, we organize public activities such as the [Computer Science Workshop
 <p style="text-align: center;">
 <samp>
     ____        ___________
+
    / __ \____  / ____/ ___/
+
   / / / / __ \/ /    \__ \ 
+
  / /_/ / /_/ / /___ ___/ / 
+ 
 /_____/\____/\____//____/  
 </samp>
-**Do**ttorandi in **C**omputer **S**cience
 </p>
+
+**Do**ttorandi in **C**omputer **S**cience
 
 [dibris]: https://dibris.unige.it/en
 [unige]: https://unige.it/en
