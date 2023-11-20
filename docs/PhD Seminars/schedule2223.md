@@ -5,7 +5,7 @@ parent: PhD Seminar Series
 nav_order: 1
 ---
 
-# Seminars schedule A.Y. 2022-2023
+# Seminars schedule AY 2022-2023
 
 <table>
     <tr>

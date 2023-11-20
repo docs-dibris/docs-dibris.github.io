@@ -4,6 +4,34 @@ title: People
 nav_order: 4
 ---
 
+ <style>
+    table {
+        width: 100%;
+        table-layout: fixed;
+    }
+
+    td:first-child {
+        width: 30%;
+    }
+
+    img {
+        width: 100%; /* Rendi le immagini al 100% della larghezza del contenitore */
+        height: auto; /* Mantiene l'aspetto proporzionato */
+    }
+
+    @media only screen and (max-width: 767px) {
+        /* Stili per visualizzazione mobile */
+        td {
+            display: table-row;
+        }
+
+        dl {
+            font-size: 14px;
+        }
+    }
+</style>
+
+
 # People
 
 ## Current members
@@ -13,7 +41,7 @@ Here you can find the list of current members of the DoCS group, along with some
 <table>
     <tr>
         <td>
-            <img src="https://rubrica.unige.it/static/foto/UUBDXlhs.jpg?1699915150.365" style="display: block; margin: 0 auto; max-width: 150px;">
+            <img src="https://rubrica.unige.it/static/foto/UUBDXlhs.jpg?1699915150.365">
         </td>
         <td>
             <dl>
@@ -28,7 +56,7 @@ Here you can find the list of current members of the DoCS group, along with some
     </tr>
     <tr>
         <td>
-            <img src="/assets/images/people/gattiAndrea.jpg" style="display: block; margin: 0 auto; max-width: 150px;">
+            <img src="/assets/images/people/gattiAndrea.jpg">
         </td>
         <td>
             <dl>
@@ -43,7 +71,7 @@ Here you can find the list of current members of the DoCS group, along with some
     </tr>
     <tr>
         <td>
-            <img src="/assets/images/people/geriniLorenzo.jpg" style="display: block; margin: 0 auto; max-width: 150px;">
+            <img src="/assets/images/people/geriniLorenzo.jpg">
         </td>
         <td>
             <dl>
@@ -58,7 +86,7 @@ Here you can find the list of current members of the DoCS group, along with some
     </tr>
     <tr>
         <td>
-            <img src="/assets/images/people/martiniMatteo.jpg" style="display: block; margin: 0 auto; max-width: 150px;">
+            <img src="/assets/images/people/martiniMatteo.jpg">
         </td>
         <td>
             <dl>
@@ -73,7 +101,7 @@ Here you can find the list of current members of the DoCS group, along with some
     </tr>
     <tr>
         <td>
-            <img src="https://rubrica.unige.it/static/foto/UEBPUl1r.jpg?1700002139.4392" style="display: block; margin: 0 auto; max-width: 150px;">
+            <img src="https://rubrica.unige.it/static/foto/UEBPUl1r.jpg?1700002139.4392">
         </td>
         <td>
             <dl>
@@ -88,7 +116,7 @@ Here you can find the list of current members of the DoCS group, along with some
     </tr>
     <tr>
         <td>
-            <img src="https://rubrica.unige.it/static/foto/UUBEWF9r.jpg?1699729226.7903" style="display: block; margin: 0 auto; max-width: 150px;">
+            <img src="https://rubrica.unige.it/static/foto/UUBEWF9r.jpg?1699729226.7903">
         </td>
         <td>
             <dl>
@@ -103,7 +131,7 @@ Here you can find the list of current members of the DoCS group, along with some
     </tr>
     <tr>
         <td>
-            <img src="https://rubrica.unige.it/static/foto/UUdAX1Jv.jpg?1699729176.6326" style="display: block; margin: 0 auto; max-width: 150px;">
+            <img src="https://rubrica.unige.it/static/foto/UUdAX1Jv.jpg?1699729176.6326">
         </td>
         <td>
             <dl>
@@ -116,7 +144,7 @@ Here you can find the list of current members of the DoCS group, along with some
     </tr>
     <tr>
         <td>
-            <img src="https://rubrica.unige.it/static/foto/UURHWVlg.jpg?1699915068.6555" style="display: block; margin: 0 auto; max-width: 150px;">
+            <img src="https://rubrica.unige.it/static/foto/UURHWVlg.jpg?1699915068.6555">
         </td>
         <td>
             <dl>

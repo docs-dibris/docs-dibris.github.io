@@ -5,7 +5,7 @@ color_scheme: dark
 title: DoCS
 description: Dottorandi in Computer Science
 logo: "/assets/images/docs-grad.png"
-favicon-ico: "favicon.png"
+favicon-ico: "/favicon.ico"
 search_enabled: false
 
 
