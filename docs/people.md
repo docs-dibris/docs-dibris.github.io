@@ -28,7 +28,7 @@ Here you can find the list of current members of the DoCS group, along with some
     </tr>
     <tr>
         <td>
-            <img src="https://rubrica.unige.it/static/img/foto.jpg" style="display: block; margin: 0 auto; max-width: 150px;">
+            <img src="/assets/images/people/gattiAndrea.jpg" style="display: block; margin: 0 auto; max-width: 150px;">
         </td>
         <td>
             <dl>
