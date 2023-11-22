@@ -11,7 +11,7 @@ We will try to follow this schedule.
 You will be duly informed via email in case there are any changes.
 
 {: .highlight }
-The next appointment is scheduled for **22/11/2023** for **George Kurshakhov**'s seminar.
+The next appointment is scheduled for **29/11/2023** for **Arnaud Mavakala Watusadisi**'s seminar.
 
 <table>
     <tr>
@@ -107,11 +107,11 @@ The next appointment is scheduled for **22/11/2023** for **George Kurshakhov**'s
         <td>Khan Dadan</td>
         <td>Synthetic Data for Surveillance</td>
     </tr>
-    <tr>
+    <!-- <tr>
         <td>22/11/2023</td>
         <td>George Kurshakhov</td>
         <td>t.b.d.</td>
-    </tr>
+    </tr> -->
     <tr>
         <td>29/11/2023</td>
         <td>Arnaud Mavakala Watusadisi</td>
