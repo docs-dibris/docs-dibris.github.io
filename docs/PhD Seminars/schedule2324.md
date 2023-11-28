@@ -107,11 +107,6 @@ The next appointment is scheduled for **29/11/2023** for **Arnaud Mavakala Watus
         <td>Khan Dadan</td>
         <td>Synthetic Data for Surveillance</td>
     </tr>
-    <!-- <tr>
-        <td>22/11/2023</td>
-        <td>George Kurshakhov</td>
-        <td>t.b.d.</td>
-    </tr> -->
     <tr>
         <td>29/11/2023</td>
         <td>Arnaud Mavakala Watusadisi</td>
@@ -120,11 +115,16 @@ The next appointment is scheduled for **29/11/2023** for **Arnaud Mavakala Watus
     <tr>
         <td>06/12/2023</td>
         <td>Pawar Manasa Mohan</td>
-        <td>t.b.d.</td>
+        <td>T.B.A.</td>
     </tr>
     <tr>
         <td>13/12/2023</td>
         <td>Stefano Avola</td>
-        <td>t.b.d.</td>
+        <td>T.B.A.</td>
     </tr>
+    <!-- <tr>
+        <td>22/11/2023</td>
+        <td>George Kurshakhov</td>
+        <td>t.b.d.</td>
+    </tr> -->
 </table>
