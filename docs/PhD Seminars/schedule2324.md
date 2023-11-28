@@ -115,7 +115,7 @@ The next appointment is scheduled for **29/11/2023** for **Arnaud Mavakala Watus
     <tr>
         <td>29/11/2023</td>
         <td>Arnaud Mavakala Watusadisi</td>
-        <td>t.b.d.</td>
+        <td>Efficient Learning under Covariate Shift using Random Projection</td>
     </tr>
     <tr>
         <td>06/12/2023</td>
