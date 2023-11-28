@@ -14,6 +14,3 @@ The topics cover many aspect of computer science and are suitable for people who
 
 All presentations are in English, last only 15~30 minutes plus questions, and are open to everyone.
 Seminar titles are announced weekly: be sure to keep an eye on the calendar as to not miss the ones you're interested in.
-
-{: .highlight }
-The next appointment is scheduled for **22/11/2023** for **George Kurshakhov**'s seminar.
