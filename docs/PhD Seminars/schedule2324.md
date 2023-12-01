@@ -11,7 +11,7 @@ We will try to follow this schedule.
 You will be duly informed via email in case there are any changes.
 
 {: .highlight }
-The next appointment is scheduled for **29/11/2023** for **Arnaud Mavakala Watusadisi**'s seminar.
+The next appointment is scheduled for **06/12/2023** for **Pawar Manasa Mohan**'s seminar.
 
 <table>
     <tr>
