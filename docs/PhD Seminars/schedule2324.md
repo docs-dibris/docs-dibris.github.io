@@ -11,7 +11,7 @@ We will try to follow this schedule.
 You will be duly informed via email in case there are any changes.
 
 {: .highlight }
-The next appointment is scheduled for **06/12/2023** for **Pawar Manasa Mohan**'s seminar.
+The next appointment is scheduled for **04/12/2023** for **Jacopo Dapueto**'s seminar.
 
 <table>
     <tr>
@@ -111,6 +111,11 @@ The next appointment is scheduled for **06/12/2023** for **Pawar Manasa Mohan**'
         <td>29/11/2023</td>
         <td>Arnaud Mavakala Watusadisi</td>
         <td>Efficient Learning under Covariate Shift using Random Projection</td>
+    </tr>
+    <tr>
+        <td>04/12/2023</td>
+        <td>Jacopo Dapueto</td>
+        <td>Disentangled Representations via Variational Autoencoder Models</td>
     </tr>
     <tr>
         <td>06/12/2023</td>
