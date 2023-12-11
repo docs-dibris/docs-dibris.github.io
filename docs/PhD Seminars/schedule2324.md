@@ -11,7 +11,7 @@ We will try to follow this schedule.
 You will be duly informed via email in case there are any changes.
 
 {: .highlight }
-The next appointment is scheduled for **06/12/2023** for **Pawar Manasa Mohan**'s seminar.
+The next appointment is scheduled for **16/12/2023** for **Stefano Avola**'s seminar.
 
 <table>
     <tr>
@@ -125,7 +125,7 @@ The next appointment is scheduled for **06/12/2023** for **Pawar Manasa Mohan**'
     <tr>
         <td>13/12/2023</td>
         <td>Stefano Avola</td>
-        <td>T.B.A.</td>
+        <td>Permissioned Blockchains and Confidential Computing for the logistics domain</td>
     </tr>
     <!-- <tr>
         <td>22/11/2023</td>
