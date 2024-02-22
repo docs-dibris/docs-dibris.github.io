@@ -10,8 +10,8 @@ nav_order: 2
 We will try to follow this schedule. 
 You will be duly informed via email in case there are any changes.
 
-{: .highlight }
-The next appointment is scheduled for **16/12/2023** for **Stefano Avola**'s seminar.
+<!-- {: .highlight }
+The next appointment is scheduled for **16/12/2023** for **Stefano Avola**'s seminar. -->
 
 <table>
     <tr>
