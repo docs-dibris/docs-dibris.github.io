@@ -7,12 +7,6 @@ nav_order: 2
 
 # Seminars schedule AY 2023-2024
 
-We will try to follow this schedule. 
-You will be duly informed via email in case there are any changes.
-
-<!-- {: .highlight }
-The next appointment is scheduled for **16/12/2023** for **Stefano Avola**'s seminar. -->
-
 <table>
     <tr>
         <th>DATE</th>
