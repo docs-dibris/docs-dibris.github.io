@@ -22,7 +22,7 @@ The next appointment is scheduled for **10/04/2024** for **Corbellini Nicola**'s
     <tr>
         <td>10/04/2024</td>
         <td>Corbellini Nicola</td>
-        <td>TBD</td>
+        <td>Multimodal Team Potency Automated Classification for Human-Machine Collaboration</td>
     </tr>
     <tr>
         <td>17/04/2024</td>
