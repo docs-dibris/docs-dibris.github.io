@@ -11,7 +11,7 @@ We will try to follow this schedule.
 You will be duly informed via email in case there are any changes.
 
 {: .highlight }
-The next appointment is scheduled for **10/04/2024** for **Corbellini Nicola**'s seminar.
+The next appointment is scheduled for **17/04/2024** for **Marco Mochi**'s seminar.
 
 <table>
     <tr>
@@ -27,7 +27,7 @@ The next appointment is scheduled for **10/04/2024** for **Corbellini Nicola**'s
     <tr>
         <td>17/04/2024</td>
         <td>Mochi Marco</td>
-        <td>TBD</td>
+        <td>A Simple Proof-theoretic Characterization of Stable Models: Reduction to Difference Logic</td>
     </tr>
     <tr>
         <td>24/04/2024</td>
