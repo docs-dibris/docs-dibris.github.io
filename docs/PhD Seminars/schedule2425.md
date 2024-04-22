@@ -11,7 +11,7 @@ We will try to follow this schedule.
 You will be duly informed via email in case there are any changes.
 
 {: .highlight }
-The next appointment is scheduled for **17/04/2024** for **Marco Mochi**'s seminar.
+The next appointment is scheduled for **24/04/2024** for **Muhammad Mohsin**'s seminar.
 
 <table>
     <tr>
@@ -32,7 +32,7 @@ The next appointment is scheduled for **17/04/2024** for **Marco Mochi**'s semin
     <tr>
         <td>24/04/2024</td>
         <td>Mohsin Muhammad</td>
-        <td>TBD</td>
+        <td>Measuring the recyclability of waste electronic components in printed circuit boards</td>
     </tr>
     <tr>
         <td>01/05/2024</td>
