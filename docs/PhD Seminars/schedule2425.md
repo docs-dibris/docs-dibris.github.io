@@ -11,7 +11,7 @@ We will try to follow this schedule.
 You will be duly informed via email in case there are any changes.
 
 {: .highlight }
-The next appointment is scheduled for **24/04/2024** for **Muhammad Mohsin**'s seminar.
+The next appointment is scheduled for **08/05/2024** for **Francesco Montagna**'s seminar.
 
 <table>
     <tr>
@@ -35,57 +35,57 @@ The next appointment is scheduled for **24/04/2024** for **Muhammad Mohsin**'s s
         <td>Measuring the recyclability of waste electronic components in printed circuit boards</td>
     </tr>
     <tr>
-        <td>01/05/2024</td>
+        <td>08/05/2024</td>
         <td>Montagna Francesco</td>
         <td>TBD</td>
     </tr>
     <tr>
-        <td>08/05/2024</td>
+        <td>15/05/2024</td>
         <td>Touijer Larbi</td>
         <td>TBD</td>
     </tr>
     <tr>
-        <td>15/05/2024</td>
+        <td>22/05/2024</td>
         <td>Dadan Khan</td>
         <td>TBD</td>
     </tr>
     <tr>
-        <td>22/05/2024</td>
+        <td>29/05/2024</td>
         <td>Dapueto Jacopo</td>
         <td>TBD</td>
     </tr>
     <tr>
-        <td>29/06/2024</td>
+        <td>05/06/2024</td>
         <td>Ferrando Silvia</td>
         <td>TBD</td>
     </tr>
     <tr>
-        <td>05/06/2024</td>
+        <td>12/06/2024</td>
         <td>Janpih Ziad</td>
         <td>TBD</td>
     </tr>
     <tr>
-        <td>12/06/2024</td>
+        <td>19/06/2024</td>
         <td>Kurshakhov George</td>
         <td>TBD</td>
     </tr>
     <tr>
-        <td>19/06/2024</td>
+        <td>26/06/2024</td>
         <td>Mavakala Watusadisi Arnaud </td>
         <td>TBD</td>
     </tr>
     <tr>
-        <td>26/06/2024</td>
+        <td>03/06/2024</td>
         <td>Pawar Manasa Mohan</td>
         <td>TBD</td>
     </tr>
     <tr>
-        <td>03/07/2024</td>
+        <td>10/07/2024</td>
         <td>Pizzo Marianna</td>
         <td>TBD</td>
     </tr>
     <tr>
-        <td>10/07/2024</td>
+        <td>17/07/2024</td>
         <td>Sichetti Federico</td>
         <td>TBD</td>
     </tr>
