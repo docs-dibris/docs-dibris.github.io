@@ -11,7 +11,7 @@ We will try to follow this schedule.
 You will be duly informed via email in case there are any changes.
 
 {: .highlight }
-The next appointment is scheduled for **08/05/2024** for **Francesco Montagna**'s seminar.
+The next appointment is scheduled for **15/05/2024** for **Larbi Touijer**'s seminar.
 
 <table>
     <tr>
@@ -42,7 +42,7 @@ The next appointment is scheduled for **08/05/2024** for **Francesco Montagna**'
     <tr>
         <td>15/05/2024</td>
         <td>Touijer Larbi</td>
-        <td>TBD</td>
+        <td>In Domain Transfer Learning for Prostate MRI Segmentation</td>
     </tr>
     <tr>
         <td>22/05/2024</td>
