@@ -11,7 +11,7 @@ We will try to follow this schedule.
 You will be duly informed via email in case there are any changes.
 
 {: .highlight }
-The next appointment is scheduled for **15/05/2024** for **Larbi Touijer**'s seminar.
+The next appointment is scheduled for **22/05/2024** for **Dadan Khan**'s seminar.
 
 <table>
     <tr>
@@ -47,7 +47,7 @@ The next appointment is scheduled for **15/05/2024** for **Larbi Touijer**'s sem
     <tr>
         <td>22/05/2024</td>
         <td>Dadan Khan</td>
-        <td>TBD</td>
+        <td>Real-Time Object Detection with Yolo and Its Applications</td>
     </tr>
     <tr>
         <td>29/05/2024</td>
