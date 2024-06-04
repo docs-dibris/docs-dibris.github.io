@@ -11,7 +11,7 @@ We will try to follow this schedule.
 You will be duly informed via email in case there are any changes.
 
 {: .highlight }
-The next appointment is scheduled for **22/05/2024** for **Dadan Khan**'s seminar.
+The next appointment is scheduled for **05/06/2024** for **Silvia Ferrando**'s seminar.
 
 <table>
     <tr>
@@ -35,11 +35,6 @@ The next appointment is scheduled for **22/05/2024** for **Dadan Khan**'s semina
         <td>Measuring the recyclability of waste electronic components in printed circuit boards</td>
     </tr>
     <tr>
-        <td>08/05/2024</td>
-        <td>Montagna Francesco</td>
-        <td>TBD</td>
-    </tr>
-    <tr>
         <td>15/05/2024</td>
         <td>Touijer Larbi</td>
         <td>In Domain Transfer Learning for Prostate MRI Segmentation</td>
@@ -50,14 +45,9 @@ The next appointment is scheduled for **22/05/2024** for **Dadan Khan**'s semina
         <td>Real-Time Object Detection with Yolo and Its Applications</td>
     </tr>
     <tr>
-        <td>29/05/2024</td>
-        <td>Dapueto Jacopo</td>
-        <td>TBD</td>
-    </tr>
-    <tr>
         <td>05/06/2024</td>
         <td>Ferrando Silvia</td>
-        <td>TBD</td>
+        <td>Let’s Play: Early Explorations of Child-Caregiver Embodied Interactions</td>
     </tr>
     <tr>
         <td>12/06/2024</td>
