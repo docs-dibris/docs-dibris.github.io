@@ -11,7 +11,7 @@ We will try to follow this schedule.
 You will be duly informed via email in case there are any changes.
 
 {: .highlight }
-The next appointment is scheduled for **19/06/2024** for **George Kurshakhov**'s seminar.
+The next appointment is scheduled for **03/07/2024** for **Manasa Mohan Pawar**'s seminar.
 The seminar will be held online at <a href="https://teams.microsoft.com/l/team/19%3aa830ceaf779b4c69a719318232186180%40thread.tacv2/conversations?groupId=5dbf9ae3-ebb4-4ba7-9f0f-49bf400e3138&tenantId=6cd36f83-1a02-442d-972f-2670cb5e9b1a">this link</a>
 
 <table>
@@ -61,14 +61,9 @@ The seminar will be held online at <a href="https://teams.microsoft.com/l/team/1
         <td>Loosely-Coupled GNSS/INS Integration for Foot Trajectory Reconstruction in Outdoor Environments</td>
     </tr>
     <tr>
-        <td>26/06/2024</td>
-        <td>Mavakala Watusadisi Arnaud </td>
-        <td>TBD</td>
-    </tr>
-    <tr>
         <td>03/06/2024</td>
         <td>Pawar Manasa Mohan</td>
-        <td>TBD</td>
+        <td>Leveraging the Power of Machine Learning to Improve Precipitation Forecasting</td>
     </tr>
     <tr>
         <td>10/07/2024</td>
