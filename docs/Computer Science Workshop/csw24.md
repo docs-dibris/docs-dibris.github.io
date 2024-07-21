@@ -11,13 +11,13 @@ nav_order: 5
 
 <div align="center">
     <h2>Computer Science Workshop 2024</h2>
-    <h2>5<sup>th</sup> Edition</h2>
-    <h3>September 9<sup>th</sup> and 10<sup>th</sup>, 2024</h3>
-    Room TBA, DIBRIS, Valletta Puggia, Department of the University of Genova
+    <h3>5<sup>th</sup> Edition</h3>
+    <h2>September 9<sup>th</sup> and 10<sup>th</sup>, 2024</h2>
+    Room TBA, DIBRIS (Valletta Puggia), Università di Genova
     <br>
-    Via Dodecaneso 35, Genova, 16146 IT
+    Via Dodecaneso 35, Genoa
     <br>
-    <b><i>with the contribution of the University of Genova</i></b>
+    <b><i>with the contribution of the University of Genoa</i></b>
     <br>
 </div>
 <!-- <div style="display: flex; justify-content: center; align-items: center; margin: 20px 0;">
@@ -60,15 +60,15 @@ nav_order: 5
 
 ## Motivation and goals
 
-We are glad to announce the 5<sup>th</sup> edition of the Computer Science Workshop at the Department of Informatics, Bioengineering, Robotics and System Engineering (DIBRIS) at Università di Genova.
+The DoCS group is pleased to announce that the 5<sup>th</sup> edition of the Computer Science Workshop will be held on <b>September 9 and 10, 2024<b> at the Department of Informatics, Bioengineering, Robotics and System Engineering (DIBRIS) at the University of Genoa.
 
-### What about research in Computer Science?
+Computer Science is a vast field of ever-increasing complexity, with new and exciting research challenges emerging at all times.
+Here at the University of Genoa we are involved in active areas of research such as Virtual and Augmented Reality, Multi-Agent systems, Data Management, Geometric Modeling, Security, Machine Learning, Programming Languages, Logic, Computer Vision, Software Engineering, Artificial Intelligence and more. 
 
-Computer Science is constantly increasing in complexity with many and many new fields of research emerging.  
-Here, at the University of Genoa, we are involved in some of these fields as Virtual and Augmented Reality, Multi-Agent systems, Data Science, Data Management, Computer Graphics, Security, Machine Learning, Programming Languages, Logic, Computer Vision, Software Engineering and many others. 
-The main goal of the workshop is discussing the many aspects of the Computer Science research fields, to present a broad perspective of this subject and look for possible (unexpected) interconnections. 
+Every year, the Workshop provides its attendees with a broad perspective on the state of research in Computer Science, both at our department and abroad. It is an opportunity for students to connect with the research world, and for researchers to discover unexpected connections.
 
-We are glad to host six speakers
+### Keynotes
+This year's edition will feature six keynotes by distinguished researchers from Italian and foreign Universities:
 
  - [Piotr Falizewski](https://home.agh.edu.pl/~faliszew/), AGH University of Science and Technology, Krakow
  - [Giovanni Maria Farinella](https://web.dmi.unict.it/docenti/giovanni.maria.farinella), University of Catania
@@ -77,9 +77,27 @@ We are glad to host six speakers
  - [Daniela Giorgi](), National Research Council - Institute of Information Science and Technologies, Pisa
  - [Marco Polignano](https://scholar.google.it/citations?user=sjQSYGQAAAAJ&hl=it), University of Bari
 
-plus a special guest
+as well as a talk by a very special guest:
 
  - [Moreno Razzoli](https://morrolinux.it/), morrolinux.it
+
+### Local Companies
+As every year, the Workshop gives participants the opportunity to connect with local companies doing active research in Computer Science. Company employees will present challenging problems they encountered on their job, and the solutions they developed to tackle them.
+
+Companies will also setup informative booths during lunch of the second day of the event.
+
+<i>The list of companies has not yet been finalized.</i>
+
+TBD
+
+### PhD Poster Session
+During lunch of the first day of the event, all Computer Science PhD students will have a poster session to present their work to participants and speakers.
+
+### Additional information
+Participation is free of charge and open to everyone, but registration is required.
+Links for registration will be provided soon.
+
+Lunch and coffee breaks will be offered to all participants.
 
 ## Flier
  <!-- <div style="display: flex; justify-content: center; align-items: center; margin: 20px 0;">
@@ -89,7 +107,7 @@ plus a special guest
 </div> -->
 TBD
 
-## Talks
+# Speakers
 
 ### _TBD_
 #### Abstract
