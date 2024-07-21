@@ -17,4 +17,4 @@ It is an engaging social and scientific event for students, faculty and guests a
 The 2024 edition of the Computer Science Workshop is taking shape! 
 Visit the [dedicated page][csw24] to discover what we are organizing for you.
 
-[csw24]: https://docs-dibris.github.io/docs/csw
+[csw24]: https://docs-dibris.github.io/docs/Computer%20Science%20Workshop/csw24.html
