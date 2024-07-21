@@ -67,7 +67,7 @@ Here at the University of Genoa we are involved in active areas of research such
 
 Every year, the Workshop provides its attendees with a broad perspective on the state of research in Computer Science, both at our department and abroad. It is an opportunity for students to connect with the research world, and for researchers to discover unexpected connections.
 
-### Keynotes
+## Keynotes
 This year's edition will feature six keynotes by distinguished researchers from Italian and foreign Universities:
 
  - [Piotr Falizewski](https://home.agh.edu.pl/~faliszew/), AGH University of Science and Technology, Krakow
@@ -81,7 +81,7 @@ as well as a talk by a very special guest:
 
  - [Moreno Razzoli](https://morrolinux.it/), morrolinux.it
 
-### Local Companies
+## Local Companies
 As every year, the Workshop gives participants the opportunity to connect with local companies doing active research in Computer Science. Company employees will present challenging problems they encountered on their job, and the solutions they developed to tackle them.
 
 Companies will also setup informative booths during lunch of the second day of the event.
@@ -90,26 +90,18 @@ Companies will also setup informative booths during lunch of the second day of t
 
 TBD
 
-### PhD Poster Session
+## PhD Poster Session
 During lunch of the first day of the event, all Computer Science PhD students will have a poster session to present their work to participants and speakers.
 
-### Additional information
+## Additional information
 Participation is free of charge and open to everyone, but registration is required.
 Links for registration will be provided soon.
 
 Lunch and coffee breaks will be offered to all participants.
 
-## Flier
- <!-- <div style="display: flex; justify-content: center; align-items: center; margin: 20px 0;">
-    <a href="/assets/fliers/2023.png">
-        <img src="/assets/fliers/2023.png" style="width: 500px; height: auto;">
-    </a>
-</div> -->
-TBD
-
 # Speakers
 
-### _TBD_
+### _Title TBD_
 #### Abstract
 TBD
 
@@ -122,7 +114,7 @@ Piotr has published over 110 conference papers and 50 journal ones.
 He has received Friedrich Wilhelm Bessel Research Award from the Alexandra von Humboldta Foundation and currently is running an ERC Consolidator project PRAGMA.
 
 
-### _TBD_
+### _Title TBD_
 #### Abstract
 TBD
 
@@ -136,7 +128,7 @@ Giovanni is part of the EPICKITCHENS and EGO4D teams.
 He founded and currently directs the International Computer Vision Summer School (ICVSS). 
 He was awarded the PAMI Mark Everingham Prize 2017 and the Intel's 2022 Outstanding Researcher Award.
 
-### _TBD_
+### _Title TBD_
 #### Abstract
 TBD
 
@@ -145,7 +137,7 @@ TBD
 TBD
 
 
-### _TBD_
+### _Title TBD_
 #### Abstract
 TBD
 
@@ -154,7 +146,7 @@ TBD
 TBD
 
 
-### _TBD_
+### _Title TBD_
 #### Abstract
 TBD
 
@@ -167,7 +159,7 @@ Currently, she is a Principal Investigator in the PNRR Extended Partnership FAIR
 In 2022, she was elected President of the Italian Chapter of the European Association for Computer Graphics (Eurographics).
 
 
-### _TBD_
+### _Title TBD_
 #### Abstract
 TBD
 
@@ -184,7 +176,7 @@ Within this context, he worked on <a href="https://chat.llamantino.it">LLaMAntin
 He is responsible for the "User Preferences and Personalization" task of the FAIR Transversal Project TP2 - Vision, Language, and Multimodal Challenges.
 
 
-### _TBD_
+### _Title TBD_
 #### Abstract
 TBD
 
@@ -194,3 +186,11 @@ Moreno Razzoli holds a degree in Computer Science.
 He has obtained Linux certifications including LPI, CompTIA Linux+, and Suse CLA. 
 He has developed several Open Source projects and contributed to the development of new features in many existing projects. 
 Since 2008, he has been creating educational videos on YouTube and his official website.
+
+# Flier
+ <!-- <div style="display: flex; justify-content: center; align-items: center; margin: 20px 0;">
+    <a href="/assets/fliers/2023.png">
+        <img src="/assets/fliers/2023.png" style="width: 500px; height: auto;">
+    </a>
+</div> -->
+TBD
