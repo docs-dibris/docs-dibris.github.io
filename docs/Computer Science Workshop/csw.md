@@ -14,4 +14,7 @@ It features international speakers working in various fields of computer science
 It is an engaging social and scientific event for students, faculty and guests alike.
 
 {: .new }
-We are now collecting signatures for CSW 2024! Check the page and follow the link there to support us.
+The 2024 edition of the Computer Science Workshop is taking shape! 
+Visit the [dedicated page][csw24] to discover what we are organizing for you.
+
+[csw24]: https://docs-dibris.github.io/docs/csw
