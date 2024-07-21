@@ -75,7 +75,7 @@ We are glad to host four speakers:
  - [Simone Melzi](https://sites.google.com/site/melzismn), University of Milano-Bicocca
  - [Vittorio Murino](https://www.di.univr.it/?ent=persona&id=92), University of Verona
 
- ## Flier
+## Flier
 
  <div style="display: flex; justify-content: center; align-items: center; margin: 20px 0;">
     <a href="/assets/fliers/2023.png">
