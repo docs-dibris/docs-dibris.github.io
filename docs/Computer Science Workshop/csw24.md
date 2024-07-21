@@ -133,7 +133,7 @@ He was awarded the PAMI Mark Everingham Prize 2017 and the Intel's 2022 Outstand
 TBD
 
 #### Michael's bio
-<img src="/assets/images/people/avatar.png" style="display: block; max-height: 150px;">
+<img src="/assets/images/people/CSW24/fisher.jpg" style="display: block; max-height: 150px;">
 TBD
 
 
