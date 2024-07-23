@@ -106,7 +106,7 @@ Lunch and coffee breaks will be offered to all participants.
 TBD
 
 #### Piotr's bio 
-<img src="/assets/images/people/CSW24/faliszewski.jpg" style="display: block; max-height: 150px;">
+<img src="/assets/images/people/CSW24/faliszewski-sq.jpg" style="display: block; max-height: 150px;">
 Piotr Faliszewski is a professor of computer science at the AGH University in Krakow, Poland. 
 His research is focused on computational social choice, a multidisciplinary research area that spans theoretical computer science, multiagent research, economics, operations research and other areas. 
 Main themes of Piotr's research include algorithms for computational analysis of candidate performance in elections, multiwinner and particpatory budgeting elections, and analysis of the space of elections. 
@@ -128,13 +128,23 @@ Giovanni is part of the EPICKITCHENS and EGO4D teams.
 He founded and currently directs the International Computer Vision Summer School (ICVSS). 
 He was awarded the PAMI Mark Everingham Prize 2017 and the Intel's 2022 Outstanding Researcher Award.
 
-### _Title TBD_
+### Trustworthy Autonomous Systems?
 #### Abstract
-TBD
+Autonomy represents a step-change in systems development and requires new approaches to systems architectures, systems analysis, and practical regulation. In this presentation, I will describe our approach utilising the modularity and heterogeneity of (software) components to provide hybrid agent architectures for autonomous systems.
+
+This then allows for a range of verification techniques to be utilised in the different components, from formal verification applied to the core autonomous decision-making through to varieties of testing used in other parts of the system. An important component is the use of runtime verification (or runtime monitoring) to check for anomalies and violations.
+
+This approach provides a basis for more reliable, transparent, trustworthy and verifiable autonomous (often robotic) systems. Finally, moving beyond trustworthiness to wider issues of responsibility, I will briefly discuss both sustainability and governance issues.
 
 #### Michael's bio
 <img src="/assets/images/people/avatar.png" style="display: block; max-height: 150px;">
-TBD
+Michael Fisher is a Professor of Computer Science, and Royal Academy of Engineering Chair in Emerging Technologies, at the University of Manchester.
+
+His research concerns autonomous systems, particularly verification, software engineering, self-awareness, and trustworthiness, with applications across robotics and autonomous vehicles. Increasingly, his work encompasses not just safety but broader ethical issues such as sustainability and responsibility across these (AI, Autonomous Systems, IoT, Robotics, etc) technologies.
+
+Fisher chairs the British Standards Institution Committee on Sustainable Robotics, co-chairs the IEEE Technical Committee on the Verification of Autonomous Systems, and is a member of both the IEEE P7009 Standards committee on "Fail-Safe Design of Autonomous Systems" and the Strategy Group of the UK's Responsible AI programme.
+
+He is currently on secondment (for 2 days per week) to the UK Government's Department for Science, Innovation and Technology [https://www.gov.uk/dsit] advising on issues around AI and Robotics.
 
 
 ### _Title TBD_
@@ -164,7 +174,7 @@ In 2022, she was elected President of the Italian Chapter of the European Associ
 TBD
 
 #### Marco's bio
-<img src="/assets/images/people/CSW24/polignano.jpeg" style="display: block; max-height: 150px;">
+<img src="/assets/images/people/CSW24/polignano-sq.jpeg" style="display: block; max-height: 150px;">
 Marco Polignano is an Assistant Professor in the computer science department at the University of Bari Aldo Moro, Italy, and a key member of the SWAP research group. 
 He constantly contributes to cutting-edge AI, NLP, and Recommender Systems advancements. 
 In 2018, he obtained a Ph.D. with a doctoral thesis titled "An affect-aware computational model for supporting decision-making through recommender systems". 
