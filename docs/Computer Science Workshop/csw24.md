@@ -137,14 +137,8 @@ This then allows for a range of verification techniques to be utilised in the di
 This approach provides a basis for more reliable, transparent, trustworthy and verifiable autonomous (often robotic) systems. Finally, moving beyond trustworthiness to wider issues of responsibility, I will briefly discuss both sustainability and governance issues.
 
 #### Michael's bio
-<img src="/assets/images/people/avatar.png" style="display: block; max-height: 150px;">
-Michael Fisher is a Professor of Computer Science, and Royal Academy of Engineering Chair in Emerging Technologies, at the University of Manchester.
-
-His research concerns autonomous systems, particularly verification, software engineering, self-awareness, and trustworthiness, with applications across robotics and autonomous vehicles. Increasingly, his work encompasses not just safety but broader ethical issues such as sustainability and responsibility across these (AI, Autonomous Systems, IoT, Robotics, etc) technologies.
-
-Fisher chairs the British Standards Institution Committee on Sustainable Robotics, co-chairs the IEEE Technical Committee on the Verification of Autonomous Systems, and is a member of both the IEEE P7009 Standards committee on "Fail-Safe Design of Autonomous Systems" and the Strategy Group of the UK's Responsible AI programme.
-
-He is currently on secondment (for 2 days per week) to the UK Government's Department for Science, Innovation and Technology [https://www.gov.uk/dsit] advising on issues around AI and Robotics.
+<img src="/assets/images/people/CSW24/fisher.jpg" style="display: block; max-height: 150px;">
+TBD
 
 
 ### _Title TBD_
