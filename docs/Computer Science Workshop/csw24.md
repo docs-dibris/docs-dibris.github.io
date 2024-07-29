@@ -77,9 +77,6 @@ This year's edition will feature six keynotes by distinguished researchers from 
  - [Daniela Giorgi](), National Research Council - Institute of Information Science and Technologies, Pisa
  - [Marco Polignano](https://scholar.google.it/citations?user=sjQSYGQAAAAJ&hl=it), University of Bari
 
-as well as a talk by a very special guest:
-
- - [Moreno Razzoli](https://morrolinux.it/), morrolinux.it
 
 ## Local Companies
 As every year, the Workshop gives participants the opportunity to connect with local companies doing active research in Computer Science. Company employees will present challenging problems they encountered on their job, and the solutions they developed to tackle them.
@@ -183,13 +180,6 @@ He is responsible for the "User Preferences and Personalization" task of the FAI
 ### _Title TBD_
 #### Abstract
 TBD
-
-#### Moreno's bio
-<img src="/assets/images/people/CSW24/razzoli.jpg" style="display: block; max-height: 150px;">
-Moreno Razzoli holds a degree in Computer Science. 
-He has obtained Linux certifications including LPI, CompTIA Linux+, and Suse CLA. 
-He has developed several Open Source projects and contributed to the development of new features in many existing projects. 
-Since 2008, he has been creating educational videos on YouTube and his official website.
 
 # Flier
  <!-- <div style="display: flex; justify-content: center; align-items: center; margin: 20px 0;">
