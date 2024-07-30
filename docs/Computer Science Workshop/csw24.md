@@ -98,7 +98,7 @@ Lunch and coffee breaks will be offered to all participants.
 
 # Speakers
 
-### _Title TBD_
+### Map of Elections
 #### Abstract
 An election is a pair (C,V), where C is a set of candidates and V is a collection of voters, with preferences over the candidates, typically expressed as rankings. Such elections can, naturally, describe political elections, but they are also useful in modelling various sport competitions, participatory budgeting exercises, and many other tasks. In this talk I will present the "map of elections" framework, which is a general method of visualizing relations between elections (or, for that matter, any other compound objects). The talk will include general introduction to the topic of algorithmic analysis of elections and a collection of results, ranging from complexity theory and algorithm analysis, through discrete mathematics, to empirical observations and engineering solutions.
 
