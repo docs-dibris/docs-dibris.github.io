@@ -100,7 +100,7 @@ Lunch and coffee breaks will be offered to all participants.
 
 ### _Title TBD_
 #### Abstract
-TBD
+An election is a pair (C,V), where C is a set of candidates and V is a collection of voters, with preferences over the candidates, typically expressed as rankings. Such elections can, naturally, describe political elections, but they are also useful in modelling various sport competitions, participatory budgeting exercises, and many other tasks. In this talk I will present the "map of elections" framework, which is a general method of visualizing relations between elections (or, for that matter, any other compound objects). The talk will include general introduction to the topic of algorithmic analysis of elections and a collection of results, ranging from complexity theory and algorithm analysis, through discrete mathematics, to empirical observations and engineering solutions.
 
 #### Piotr's bio 
 <img src="/assets/images/people/CSW24/faliszewski-sq.jpg" style="display: block; max-height: 150px;">
@@ -111,9 +111,9 @@ Piotr has published over 110 conference papers and 50 journal ones.
 He has received Friedrich Wilhelm Bessel Research Award from the Alexandra von Humboldta Foundation and currently is running an ERC Consolidator project PRAGMA.
 
 
-### Map of Elections
+### _Title TBD_
 #### Abstract
-An election is a pair (C,V), where C is a set of candidates and V is a collection of voters, with preferences over the candidates, typically expressed as rankings. Such elections can, naturally, describe political elections, but they are also useful in modelling various sport competitions, participatory budgeting exercises, and many other tasks. In this talk I will present the "map of elections" framework, which is a general method of visualizing relations between elections (or, for that matter, any other compound objects). The talk will include general introduction to the topic of algorithmic analysis of elections and a collection of results, ranging from complexity theory and algorithm analysis, through discrete mathematics, to empirical observations and engineering solutions.
+TBD
 
 #### Giovanni's bio
 <img src="/assets/images/people/CSW24/farinella.jpg" style="display: block; max-height: 150px;">
