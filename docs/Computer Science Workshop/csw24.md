@@ -119,8 +119,10 @@ TBD
 <img src="/assets/images/people/CSW24/farinella.jpg" style="display: block; max-height: 150px;">
 Giovanni Maria Farinella is a Full Professor, at the University of Catania, Italy. 
 His research interests lie in the fields of Computer Vision and Machine Learning with focus on Egocentric Perception. 
+
 He is Associate Editor of the international journals IEEE Transactions on PAMI, PR, and IJCV. 
 He regularly serves as Area Chair for CVPR/ICCV/ECCV/BMVC/WACV/ICPR and has been Program Chair of ECCV 2022. 
+
 Giovanni is part of the EPICKITCHENS and EGO4D teams. 
 He founded and currently directs the International Computer Vision Summer School (ICVSS). 
 He was awarded the PAMI Mark Everingham Prize 2017 and the Intel's 2022 Outstanding Researcher Award.
@@ -135,7 +137,15 @@ This approach provides a basis for more reliable, transparent, trustworthy and v
 
 #### Michael's bio
 <img src="/assets/images/people/CSW24/fisher.jpg" style="display: block; max-height: 150px;">
-TBD
+Michael Fisher is a Professor of Computer Science, and Royal Academy of Engineering Chair in Emerging Technologies, at the University of Manchester.
+
+His research concerns autonomous systems, particularly verification, engineering, self-awareness, and trustworthiness, with applications robotics and autonomous vehicles. Increasingly, his work encompasses not safety but broader ethical issues such as sustainability and across these (AI, Autonomous Systems, IoT, Robotics, etc).
+
+Fisher chairs the British Standards Institution Committee on Sustainable Robotics, co-chairs the IEEE Technical Committee on the Verification of Autonomous Systems, and is a member of both the IEEE P7009 Standards committee on ""Fail-Safe Design of Autonomous Systems"" and the Strategy Group of the UK's Responsible AI programme.
+
+He is currently on secondment (for 2 days per week) to the UK Government's
+Department for Science, Innovation and Technology [https://www.gov.uk/dsit]
+advising on issues around AI and Robotics."
 
 
 ### _Title TBD_
@@ -143,8 +153,10 @@ TBD
 TBD
 
 #### Mikhail's bio
-<img src="/assets/images/people/avatar.png" style="display: block; max-height: 150px;">
-TBD
+<img src="/assets/images/people/CSW24/fominykh.jpg" style="display: block; max-height: 150px;">
+Dr. Mikhail Fominykh is a researcher at the Norwegian University of Science and Technology (NTNU), specializing in Augmented and Virtual Reality applications for learning. His research interests include advancing the multidisciplinary field of technology-enhanced learning, augmented and virtual reality application development for learning, educational authoring tools, management of research and development teams, innovation and product development in education, and technology transfer.
+
+Mikhail is a member of the Innovative Immersive Technologies for Learning (IMTEL) research group at NTNU, mostly working on project coordination and managing technical software development activities. Mikhail has (co-)led several research-and-development projects, including several funded by the European Union. Mikhail is currently a project coordinator of two EU-funded projects Virtual Reality for Vocational Education and Training - VR4VET (2022-2024) and Augmented Reality Instructional Design for Language Learning - ARIDLL (2022-2025).
 
 
 ### _Title TBD_
@@ -153,9 +165,10 @@ TBD
 
 #### Daniela's bio
 <img src="/assets/images/people/CSW24/giorgi.jpg" style="display: block; max-height: 150px;">
-Daniela Giorgi is a Senior Researcher at the Visual Computing Lab at CNR-ISTI (National Research Council of Italy, Institute of Information Science and Technologies). 
+Daniela Giorgi is a Senior Researcher at the Visual Computing Lab at CNR-ISTI (National Research Council of Italy, Institute of Information Science and Technologies).
 Her research interests include Computer Graphics; 3D Shape Analysis; Computational Topology; Artificial Intelligence; Geometric and 3D Deep Learning. 
 She has authored more than 70 peer-reviewed papers published in international journals and conferences. 
+
 Currently, she is a Principal Investigator in the PNRR Extended Partnership FAIR - Future Artificial Intelligence Research, and a WP Leader for the Horizon Europe Project SUN (Social and hUman ceNtered XR). 
 In 2022, she was elected President of the Italian Chapter of the European Association for Computer Graphics (Eurographics).
 
@@ -169,6 +182,7 @@ TBD
 Marco Polignano is an Assistant Professor in the computer science department at the University of Bari Aldo Moro, Italy, and a key member of the SWAP research group. 
 He constantly contributes to cutting-edge AI, NLP, and Recommender Systems advancements. 
 In 2018, he obtained a Ph.D. with a doctoral thesis titled "An affect-aware computational model for supporting decision-making through recommender systems". 
+
 He served as a program committee member for several international conferences, including IJCAI, IUI, RecSys, and WWW. 
 He served as an organizer for many workshops and has been among the chairs for the ACL 2021, EACL, and EMNLP 2024. 
 He was part of the prestigious Marie Skłodowska-Curie (MSCA-RISE) fellowship program in 2016 and 2018. 
