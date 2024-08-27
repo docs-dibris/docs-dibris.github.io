@@ -19,6 +19,9 @@ nav_order: 5
     <br>
     <b><i>with the contribution of the University of Genoa</i></b>
     <br>
+    <a href="https://forms.gle/UhBDbi44Sxr3sSdg9">
+        <button type="button">Register here</button>
+    </a>
 </div>
 <!-- <div style="display: flex; justify-content: center; align-items: center; margin: 20px 0;">
     <a href="https://www.unige.it/">
