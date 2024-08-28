@@ -9,7 +9,7 @@ permalink: "/docs/csw"
 
 # The Computer Science Workshop
 
-The CSW is a one-day conference held at our department yearly, free and open to everyone.
+The CSW is a conference held at our department yearly, free and open to everyone.
 It features international speakers working in various fields of computer science research, presentations from local companies, and a poster session held by the PhD students.
 It is an engaging social and scientific event for students, faculty and guests alike.
 
