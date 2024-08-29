@@ -176,9 +176,14 @@ Currently, she is a Principal Investigator in the PNRR Extended Partnership FAIR
 In 2022, she was elected President of the Italian Chapter of the European Association for Computer Graphics (Eurographics).
 
 
-### _Title TBD_
+### Large Language Models: The Italian Perspective
 #### Abstract
-TBD
+As the field of Natural Language Processing (NLP) continues to evolve, the advent of large language models has revolutionized the way we approach language understanding and generation.
+With a growing focus on multilingual and cross-lingual applications, it is essential to explore the performance of these models in less-resourced languages, such as Italian.
+In this talk, I will provide an overview of the current state of large language models in the Italian context, discussing the challenges, opportunities, and future directions in this area.
+I will present our team's research on the adaptation of pre-trained models to the Italian language and the results of their evaluation on a range of NLP tasks.
+The talk will also touch upon the potential applications of these models in analyzing gender biases in generated text.
+By sharing our experience and insights, we aim to contribute to a deeper understanding of the capabilities and limitations of large language models in the Italian language and to inspire further research in this exciting and rapidly evolving field.
 
 #### Marco's bio
 <img src="/assets/images/people/CSW24/polignano-sq.jpeg" style="display: block; max-height: 150px;">
