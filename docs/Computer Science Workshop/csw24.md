@@ -209,4 +209,3 @@ TBD
         <img src="/assets/fliers/2024.png" style="width: 500px; height: auto;">
     </a>
 </div>
-TBD
