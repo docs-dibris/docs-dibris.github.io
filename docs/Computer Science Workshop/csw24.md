@@ -206,7 +206,7 @@ TBD
 # Flier
 <div style="display: flex; justify-content: center; align-items: center; margin: 20px 0;">
     <a href="/assets/fliers/2024.pdf">
-        <img src="/assets/fliers/2024.pdf" style="width: 500px; height: auto;">
+        <iframe src="/assets/fliers/2024.pdf" style="width: 90%; height: auto;">
     </a>
 </div>
 TBD
