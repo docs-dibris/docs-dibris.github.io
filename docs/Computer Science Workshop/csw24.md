@@ -23,43 +23,13 @@ nav_order: 5
         <button type="button">Register here</button>
     </a>
 </div>
-<!-- <div style="display: flex; justify-content: center; align-items: center; margin: 20px 0;">
-    <a href="https://www.unige.it/">
-        <img alt="logo" src="/assets/images/sponsor/unige-color.png" style="width: 100px; height: auto; margin-right: 10px;">
-    </a>
-    <a href="https://www.circlegroup.eu">
-        <img alt="logo" src="/assets/images/sponsor/circle.png" style="width: 100px; height: auto; margin-right: 10px;">
-    </a>
-    <a href="https://comftech.com/en/">
-        <img alt="logo" src="/assets/images/sponsor/comftech.png" style="width: 100px; height: auto; margin-right: 10px;">
-    </a>
-    <a href="https://ettsolutions.com/en/">
-        <img alt="logo" src="/assets/images/sponsor/ett.png" style="width: 100px; height: auto; margin-right: 10px;">
-    </a>
-    <a href="https://www.technoleader.it/en/home/">
-        <img alt="logo" src="/assets/images/sponsor/technoleader.png" style="width: 100px; height: auto; margin-right: 10px;">
-    </a>
-    <a href="https://www.unige.it/">
-        <img alt="logo" src="/assets/images/sponsor/unige-color.png" style="width: 100px; height: auto; margin-right: 10px;">
+
+# Flier
+<div style="display: flex; justify-content: center; align-items: center; margin: 20px 0;">
+    <a href="/assets/fliers/2024.png">
+        <img src="/assets/fliers/2024.png" style="width: 500px; height: auto;">
     </a>
 </div>
-<div style="display: flex; justify-content: center; align-items: center; margin: 20px 0;">
-    <a href="https://www.unige.it/">
-        <img alt="logo" src="/assets/images/sponsor/unige-color.png" style="width: 100px; height: auto; margin-right: 10px;">
-    </a>
-    <a href="https://www.gruppofos.it">
-        <img alt="logo" src="/assets/images/sponsor/fos.png" style="width: 100px; height: auto; margin-right: 10px;">
-    </a>
-    <a href="https://www.leonardo.com/it/home">
-        <img alt="logo" src="/assets/images/sponsor/leonardo.png" style="width: 100px; height: auto; margin-right: 10px;">
-    </a>
-    <a href="https://www.cobogroup.net/it/">
-        <img alt="logo" src="/assets/images/sponsor/cobo.png" style="width: 100px; height: auto; margin-right: 10px;">
-    </a>
-    <a href="https://www.unige.it/">
-        <img alt="logo" src="/assets/images/sponsor/unige-color.png" style="width: 100px; height: auto; margin-right: 10px;">
-    </a>
-</div> -->
 
 ## Motivation and goals
 
@@ -70,7 +40,7 @@ Here at the University of Genoa we are involved in active areas of research such
 
 Every year, the Workshop provides its attendees with a broad perspective on the state of research in Computer Science, both at our department and abroad. It is an opportunity for students to connect with the research world, and for researchers to discover unexpected connections.
 
-## Keynotes
+# Keynotes
 This year's edition will feature six keynotes by distinguished researchers from Italian and foreign Universities:
 
  - [Piotr Falizewski](https://home.agh.edu.pl/~faliszew/), AGH University of Science and Technology, Krakow
@@ -86,9 +56,10 @@ As every year, the Workshop gives participants the opportunity to connect with l
 
 Companies will also setup informative booths during lunch of the second day of the event.
 
-<i>The list of companies has not yet been finalized.</i>
-
-TBD
+- [Leonardo](https://leonardo.com)
+- [Iren](https://irenlucegas.it)
+- [STAM](https://stamtech.com)
+- [WonderTech](https://wondertechweb.com)
 
 ## PhD Poster Session
 During lunch of the first day of the event, all Computer Science PhD students will have a poster session to present their work to participants and speakers.
@@ -202,10 +173,3 @@ He is responsible for the "User Preferences and Personalization" task of the FAI
 ### _Title TBD_
 #### Abstract
 TBD
-
-# Flier
-<div style="display: flex; justify-content: center; align-items: center; margin: 20px 0;">
-    <a href="/assets/fliers/2024.png">
-        <img src="/assets/fliers/2024.png" style="width: 500px; height: auto;">
-    </a>
-</div>
