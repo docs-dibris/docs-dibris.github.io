@@ -205,8 +205,8 @@ TBD
 
 # Flier
 <div style="display: flex; justify-content: center; align-items: center; margin: 20px 0;">
-    <a href="/assets/fliers/2024.pdf">
-        <embed src="/assets/fliers/2024.pdf" style="width: 90%; height: auto;">
+    <a href="/assets/fliers/2024.png">
+        <img src="/assets/fliers/2024.png" style="width: 500px; height: auto;">
     </a>
 </div>
 TBD
