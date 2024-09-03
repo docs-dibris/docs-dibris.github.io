@@ -204,9 +204,9 @@ He is responsible for the "User Preferences and Personalization" task of the FAI
 TBD
 
 # Flier
- <!-- <div style="display: flex; justify-content: center; align-items: center; margin: 20px 0;">
-    <a href="/assets/fliers/2023.png">
-        <img src="/assets/fliers/2023.png" style="width: 500px; height: auto;">
+<div style="display: flex; justify-content: center; align-items: center; margin: 20px 0;">
+    <a href="/assets/fliers/2024.pdf">
+        <img src="/assets/fliers/2024.pdf" style="width: 500px; height: auto;">
     </a>
-</div> -->
+</div>
 TBD
