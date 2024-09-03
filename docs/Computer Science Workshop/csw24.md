@@ -56,10 +56,10 @@ As every year, the Workshop gives participants the opportunity to connect with l
 
 Companies will also setup informative booths during lunch of the second day of the event.
 
-- [Leonardo](https://leonardo.com)
-- [Iren](https://irenlucegas.it)
-- [STAM](https://stamtech.com)
-- [WonderTech](https://wondertechweb.com)
+- [Leonardo](https://www.leonardo.com)
+- [Iren](https://www.irenlucegas.it)
+- [STAM](https://www.stamtech.com)
+- [WonderTech](https://www.wondertechweb.com)
 
 ## PhD Poster Session
 During lunch of the first day of the event, all Computer Science PhD students will have a poster session to present their work to participants and speakers.
