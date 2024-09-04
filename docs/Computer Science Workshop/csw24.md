@@ -13,7 +13,7 @@ nav_order: 5
     <h2>Computer Science Workshop 2024</h2>
     <h3>5<sup>th</sup> Edition</h3>
     <h2>September 9<sup>th</sup> and 10<sup>th</sup>, 2024</h2>
-    Room TBA, DIBRIS (Valletta Puggia), Università di Genova
+    Room 505, DIBRIS (Valletta Puggia), Università di Genova
     <br>
     Via Dodecaneso 35, Genoa
     <br>
@@ -85,9 +85,13 @@ Piotr has published over 110 conference papers and 50 journal ones.
 He has received Friedrich Wilhelm Bessel Research Award from the Alexandra von Humboldta Foundation and currently is running an ERC Consolidator project PRAGMA.
 
 
-### _Title TBD_
+### Toward Egocentric Perception Powered Wearable Artificial Assistants
 #### Abstract
-TBD
+Computer Vision and Artificial Intelligence have become more and more popular in the last years thanks to important technological and algorithmic breakthroughs. However, the access to AI is still limited to few individuals and mediated through devices, such as computers and smartphones, which detach humans from the reality.
+ 
+To democratize access to AI, we need to build systems which can perceive the world as humans do, able provide them feedback and assist them while they are engaged in their daily activities.
+ 
+In this talk, we’ll see how egocentric vision, i.e., the analysis of images, videos and multimodal data captured from the user’s point of view, can answer this call. We’ll discuss the challenges and opportunities provided by the field, point out the scientific contributions and the technological tools which make research in this field possible, showcase the main applications, and highlight the open research questions.
 
 #### Giovanni's bio
 <img src="/assets/images/people/CSW24/farinella.jpg" style="display: block; max-height: 150px;">
@@ -122,9 +126,9 @@ Department for Science, Innovation and Technology [https://www.gov.uk/dsit]
 advising on issues around AI and Robotics."
 
 
-### _Title TBD_
+### From Research to Reality: Innovation in Educational Extended Reality
 #### Abstract
-TBD
+In this talk, I will share my experience of research, development, and innovation in the area of educational extended reality. Improving human learning with educational software provides plenty of research challenges for academia in computer science, human-computer interaction, and educational sciences. Transferring the results of design-based research from academic to practice presents a different societal challenge. In this talk, I will present examples of my work in this field with examples from two international projects which both started with research and overtime transformed into software products that are developed and maintained by small open-source communities. The topics and questions I will touch upon are different in nature, including technical (virtual and augmented reality, cooperation technology, virtual humans, and artificial intelligence), human (user experience, learning, inclusion), organizational (software distribution, maintenance, approval), and business (technology transfer, sustainability, business models).
 
 #### Mikhail's bio
 <img src="/assets/images/people/CSW24/fominykh.jpg" style="display: block; max-height: 150px;">
@@ -133,9 +137,11 @@ Dr. Mikhail Fominykh is a researcher at the Norwegian University of Science and 
 Mikhail is a member of the Innovative Immersive Technologies for Learning (IMTEL) research group at NTNU, mostly working on project coordination and managing technical software development activities. Mikhail has (co-)led several research-and-development projects, including several funded by the European Union. Mikhail is currently a project coordinator of two EU-funded projects Virtual Reality for Vocational Education and Training - VR4VET (2022-2024) and Augmented Reality Instructional Design for Language Learning - ARIDLL (2022-2025).
 
 
-### _Title TBD_
+### The Value of Studying Computer Graphics and Geometry Processing
 #### Abstract
-TBD
+Is it worth studying and researching Computer Graphics and Geometry Processing in today's world? The answer is a resounding yes. These disciplines are essential for creating and interacting with the stunning visual content that permeates our lives, from movies and video games to extended reality experiences. However, the significance of Computer Graphics and Geometry Processing extends far beyond entertainment. They play a crucial role in scientific visualization, enabling professionals to interpret complex data and structures in fields such as biology, environmental monitoring, and cultural heritage. Additionally, they enhance design and fabrication processes, from small-scale objects up to architectural projects.
+This talk will explore real-world problems in these fields, and discuss how addressing them requires a blend of concepts from computer science, geometry, optimization, numerical simulation, and artificial intelligence. We will examine the evolving landscape, particularly the increasing influence of AI, and discuss the open challenges and opportunities that lie ahead. 
+
 
 #### Daniela's bio
 <img src="/assets/images/people/CSW24/giorgi.jpg" style="display: block; max-height: 150px;">
@@ -168,8 +174,3 @@ He was part of the prestigious Marie Skłodowska-Curie (MSCA-RISE) fellowship pr
 Recently, he actively worked on the FAIR (Future AI Research) national project. 
 Within this context, he worked on <a href="https://chat.llamantino.it">LLaMAntino</a>, an LLM for the Italian language. 
 He is responsible for the "User Preferences and Personalization" task of the FAIR Transversal Project TP2 - Vision, Language, and Multimodal Challenges.
-
-
-### _Title TBD_
-#### Abstract
-TBD
