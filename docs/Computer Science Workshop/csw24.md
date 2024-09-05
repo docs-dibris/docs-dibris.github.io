@@ -57,7 +57,7 @@ As every year, the Workshop gives participants the opportunity to connect with l
 Companies will also setup informative booths during lunch of the second day of the event.
 
 - [Leonardo](https://www.leonardo.com)
-- [Iren](https://www.irenlucegas.it)
+- [Iren](https://www.gruppoiren.it/)
 - [STAM](https://www.stamtech.com)
 - [WonderTech](https://www.wondertechweb.com)
 
