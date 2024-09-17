@@ -11,7 +11,7 @@ We will try to follow this schedule.
 You will be duly informed via email in case there are any changes.
 
 {: .highlight }
-The next appointment is scheduled for **12/09/2024** for **Gabriele Bortolai**'s seminar. 
+The next appointment is scheduled for **18/09/2024** for **Massimiliano Ciranni**'s seminar. 
 It is possible to follow the seminar remotely via <a href="https://teams.microsoft.com/l/team/19%3aa830ceaf779b4c69a719318232186180%40thread.tacv2/conversations?groupId=5dbf9ae3-ebb4-4ba7-9f0f-49bf400e3138&tenantId=6cd36f83-1a02-442d-972f-2670cb5e9b1a">this link</a>.
 
 <table>
@@ -79,67 +79,67 @@ It is possible to follow the seminar remotely via <a href="https://teams.microso
         <td colspan="3"><center><b>SUMMER BREAK</b></center></td>
     </tr>
     <tr>
-        <td>12/09/2024</td>
+        <td>11/09/2024</td>
         <td>Bortolai Gabriele </td>
         <td>Gait-based human analysis and authentication</td>
     </tr>
     <tr>
-        <td>19/09/2024</td>
+        <td>18/09/2024</td>
         <td>Ciranni Massimiliano </td>
-        <td>TBD</td>
+        <td>Looking at model debiasing through the lens of anomaly detection</td>
     </tr>
     <tr>
-        <td>26/09/2024</td>
+        <td>25/09/2024</td>
         <td>Di Via Roberto</td>
         <td>TBD</td>
     </tr>
     <tr>
-        <td>03/10/2024</td>
+        <td>02/10/2024</td>
         <td>Gatti Andrea</td>
         <td>TBD</td>
     </tr>
     <tr>
-        <td>10/10/2024</td>
+        <td>09/10/2024</td>
         <td>Gerini Lorenzo </td>
         <td>TBD</td>
     </tr>
     <tr>
-        <td>17/10/2024</td>
+        <td>16/10/2024</td>
         <td>Granatella Giampiero </td>
         <td>TBD</td>
     </tr>
     <tr>
-        <td>24/10/2024</td>
+        <td>23/10/2024</td>
         <td>Khristodulo Anna </td>
         <td>TBD</td>
     </tr>
     <tr>
-        <td>31/10/2024</td>
+        <td>30/10/2024</td>
         <td>Maffia Andrea</td>
         <td>TBD</td>
     </tr>
     <tr>
-        <td>07/11/2024</td>
+        <td>06/11/2024</td>
         <td>Martini Matteo</td>
         <td>TBD</td>
     </tr>
     <tr>
-        <td>14/11/2024</td>
+        <td>13/11/2024</td>
         <td>Stanzani Ilaria</td>
         <td>TBD</td>
     </tr>
     <tr>
-        <td>21/11/2024</td>
+        <td>20/11/2024</td>
         <td>Unniyankal Hishaam</td>
         <td>TBD</td>
     </tr>
     <tr>
-        <td>28/11/2024</td>
+        <td>27/11/2024</td>
         <td>Varasteh Ranjbar Ali</td>
         <td>TBD</td>
     </tr>
     <tr>
-        <td>05/12/2024</td>
+        <td>04/12/2024</td>
         <td>Xing Xiaolin</td>
         <td>TBD</td>
     </tr>
