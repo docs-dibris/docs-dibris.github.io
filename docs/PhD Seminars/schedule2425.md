@@ -11,7 +11,7 @@ We will try to follow this schedule.
 You will be duly informed via email in case there are any changes.
 
 {: .highlight }
-The next appointment is scheduled for **18/09/2024** for **Massimiliano Ciranni**'s seminar. 
+The next appointment is scheduled for **25/09/2024** for **Roberto Di Via**'s seminar, room 715, 2:30 PM.
 It is possible to follow the seminar remotely via <a href="https://teams.microsoft.com/l/team/19%3aa830ceaf779b4c69a719318232186180%40thread.tacv2/conversations?groupId=5dbf9ae3-ebb4-4ba7-9f0f-49bf400e3138&tenantId=6cd36f83-1a02-442d-972f-2670cb5e9b1a">this link</a>.
 
 <table>
@@ -91,7 +91,7 @@ It is possible to follow the seminar remotely via <a href="https://teams.microso
     <tr>
         <td>25/09/2024</td>
         <td>Di Via Roberto</td>
-        <td>TBD</td>
+        <td>Anatomical Landmark Detection in X-ray Images: Exploring Transfer Learning and Self-Supervised Approaches</td>
     </tr>
     <tr>
         <td>02/10/2024</td>
