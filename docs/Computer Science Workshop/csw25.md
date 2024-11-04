@@ -21,7 +21,15 @@ nav_order: 6
     <br>
     <h2>Make it possible, sign now!</h2>
     <br>
-    <a href="https://forms.gle/c213d7gd8SXYenwe6">
-        <button type="button">Sign here</button>
-    </a>
+
+</div>
+
+As every year, we are collecting signatures to request funding for CSW 2025.
+We need at least **60 signatures** to organize the workshop.
+If you wish to support us, please fill out the form linked below.
+Leaving your signature **does not force you to participate** and takes less than half a minute.
+
+<div align="center">
+    [Sign here](https://forms.gle/ZnmesPY1FhhkBYbT9){: .btn}
+    {: .text-center }
 </div>
