@@ -12,14 +12,16 @@ nav_order: 6
 <div align="center">
     <h2>Computer Science Workshop 2025</h2>
     <h3>6<sup>th</sup> Edition</h3>
-    <h2>September 9<sup>th</sup> and 10<sup>th</sup>, 2024</h2>
+    <!-- <h2>September 9<sup>th</sup> and 10<sup>th</sup>, 2024</h2>
     Room 505, DIBRIS (Valletta Puggia), Università di Genova
     <br>
     Via Dodecaneso 35, Genoa
     <br>
-    <b><i>with the contribution of the University of Genoa</i></b>
+    <b><i>with the contribution of the University of Genoa</i></b> -->
     <br>
-    <a href="https://forms.gle/UhBDbi44Sxr3sSdg9">
-        <button type="button">Register here</button>
+    <h2>Make it possible, sign now!</h2>
+    <br>
+    <a href="https://forms.gle/c213d7gd8SXYenwe6">
+        <button type="button">Sign here</button>
     </a>
 </div>
