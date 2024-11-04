@@ -18,10 +18,7 @@ nav_order: 6
     Via Dodecaneso 35, Genoa
     <br>
     <b><i>with the contribution of the University of Genoa</i></b> -->
-    <br>
     <h2>Make it possible, sign now!</h2>
-    <br>
-
 </div>
 
 As every year, we are collecting signatures to request funding for CSW 2025.
@@ -29,7 +26,7 @@ We need at least **60 signatures** to organize the workshop.
 If you wish to support us, please fill out the form linked below.
 Leaving your signature **does not force you to participate** and takes less than half a minute.
 
-<div align="center">
-    [Sign here](https://forms.gle/ZnmesPY1FhhkBYbT9){: .btn}
-    {: .text-center }
-</div>
+<!-- <div align="center"> -->
+[Sign here](https://forms.gle/ZnmesPY1FhhkBYbT9){: .btn}
+{: .text-center }
+<!-- </div> -->
