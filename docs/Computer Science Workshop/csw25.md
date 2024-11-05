@@ -7,7 +7,7 @@ nav_order: 6
 
 # CSW 2025
 
-<img src="/assets/images/csw_logo_light.svg" style="display: block; margin: 0 auto; max-width: 300px;">
+<img src="/assets/images/csw_logo_light_25.svg" style="display: block; margin: 0 auto; max-width: 300px;">
 
 <div align="center">
     <h2>Computer Science Workshop 2025</h2>
