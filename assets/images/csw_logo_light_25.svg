@@ -77,12 +77,12 @@
      inkscape:document-units="pt"
      showgrid="false"
      inkscape:zoom="0.57859876"
-     inkscape:cx="452.81812"
+     inkscape:cx="330.10786"
      inkscape:cy="523.67897"
      inkscape:window-width="1910"
-     inkscape:window-height="1046"
+     inkscape:window-height="1022"
      inkscape:window-x="0"
-     inkscape:window-y="1080"
+     inkscape:window-y="24"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1" />
   <metadata
@@ -263,17 +263,17 @@ Created by potrace 1.15, written by Peter Selinger 2001-2017
      inkscape:label="badge"
      style="display:inline;fill:#9b5de5;fill-opacity:1"
      inkscape:highlight-color="#cd87de">
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:155.02px;line-height:1.25;font-family:'Miriam CLM';-inkscape-font-specification:'Miriam CLM, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#9b5de5;fill-opacity:1;stroke:none;stroke-width:3.87553"
-       x="653.77972"
-       y="264.16632"
+    <g
+       aria-label="25"
+       transform="scale(1.0971074,0.91148775)"
        id="text9634"
-       transform="scale(1.0971074,0.91148775)"><tspan
-         sodipodi:role="line"
-         id="tspan9632"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:155.02px;font-family:'Miriam CLM';-inkscape-font-specification:'Miriam CLM, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#9b5de5;fill-opacity:1;stroke-width:3.87553"
-         x="653.77972"
-         y="264.16632">25</tspan></text>
+       style="font-weight:bold;font-size:155.02px;line-height:1.25;font-family:'Miriam CLM';-inkscape-font-specification:'Miriam CLM, Bold';display:inline;stroke-width:3.87553">
+      <path
+         d="m 661.31739,197.74949 q 6.82657,-19.91082 28.01738,-19.91082 12.23094,0 20.05305,7.67989 6.82657,6.96879 6.82657,17.35086 0,6.54213 -1.70665,11.51984 -1.70664,4.83548 -5.6888,9.81319 -1.99109,2.55996 -4.69327,4.83548 -2.55996,2.27553 -6.54213,5.54659 -3.98216,3.12885 -5.40437,4.26661 -5.83102,4.83548 -8.53321,8.53321 -0.56888,0.85332 -0.42666,1.4222 0.14222,0.42666 0.85332,0.42666 h 26.87962 q 2.98662,0 4.26661,1.27998 1.27998,1.27998 1.27998,4.26661 v 3.83994 q 0,2.98663 -1.27998,4.26661 -1.27999,1.27998 -4.26661,1.27998 h -44.3727 q -2.98662,0 -4.2666,-1.27998 -1.27999,-1.27998 -1.27999,-4.26661 0,-4.55104 2.13331,-8.39099 3.27106,-6.11547 8.24877,-11.94649 5.11992,-5.68881 12.94203,-11.9465 7.96433,-6.39991 7.96433,-6.39991 4.83549,-4.2666 6.82657,-7.53767 2.13331,-3.41328 2.13331,-8.24877 0,-5.26215 -3.55551,-8.24877 -3.5555,-3.12884 -9.10209,-3.12884 -9.10209,0 -12.79982,8.81765 -1.13776,3.12884 -2.41774,3.83994 -1.56442,0.85332 -4.40883,0.14222 l -3.69772,-0.99554 q -2.98662,-0.85332 -3.83995,-2.41774 -0.99554,-1.70664 -0.14222,-4.40883 z"
+         id="path894" />
+      <path
+         d="m 752.19606,205.71382 q 3.69772,-0.56888 7.53767,-0.56888 9.10209,0 15.64422,4.12439 6.54213,4.12438 9.67097,10.23985 3.12885,6.11547 3.12885,15.92866 0,12.6576 -8.39099,21.19081 -8.391,8.53321 -22.47079,8.53321 -15.64423,0 -26.45296,-12.23093 -3.5555,-4.12439 0.7111,-7.82211 l 2.98663,-2.41775 q 1.56442,-1.4222 2.8444,-1.56442 1.4222,-0.28444 2.27552,0.28444 0.85332,0.56888 1.99108,1.70664 7.25323,7.53767 16.49755,7.53767 6.96879,0 11.09317,-4.55104 4.26661,-4.69327 4.26661,-11.80428 0,-6.54213 -4.26661,-10.52429 -4.12438,-3.98217 -10.80873,-3.98217 -8.24877,0 -13.08426,5.11993 -1.13776,1.27998 -1.84886,1.84886 -0.7111,0.56888 -2.13331,1.13776 -1.4222,0.56888 -2.98662,-0.14222 l -2.41774,-0.42666 q -2.98663,-0.56888 -3.98217,-1.99108 -0.99554,-1.4222 -0.42666,-4.55105 l 7.39545,-37.83057 q 0.42666,-2.55996 1.70664,-3.27106 1.27999,-0.85332 3.69773,-0.85332 h 34.70172 q 3.12885,0 4.26661,1.27998 1.27998,1.27998 1.27998,4.26661 v 3.83994 q 0,3.12884 -1.27998,4.40883 -1.27998,1.13776 -4.26661,1.13776 H 756.7471 q -4.69326,0 -5.26214,3.27106 l -1.4222,6.82657 q -0.14222,1.13776 0.28444,1.56442 0.42666,0.42666 1.84886,0.28444 z"
+         id="path896" />
+    </g>
   </g>
 </svg>
