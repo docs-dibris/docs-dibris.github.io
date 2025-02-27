@@ -12,6 +12,7 @@ permalink: "/docs/phd_seminars"
 The PhD Seminar Series consists of short presentations held weekly by PhD students from our program, who get a chance to present their research and practice public speaking.
 
 Topics cover many fields of computer science and attendance is open to students and faculty.
-All seminars are in English and last only 15~30 minutes plus questions.
+All seminars are in English and last strictly 30 minutes or less, including questions.
+Usually we will hold a seminar every Tuesday.
 
 Seminar titles are announced weekly: be sure to keep an eye on the calendar as to not miss the ones you're interested in.

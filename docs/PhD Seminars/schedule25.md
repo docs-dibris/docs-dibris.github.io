@@ -5,7 +5,10 @@ parent: PhD Seminar Series
 nav_order: 4
 ---
 
-# TENTATIVE Seminars schedule 2025
+# Seminars schedule 2025
+
+{: warning}
+This is a tentative schedule. If you see typos or cannot be present on your assigned date, please send an email to <a href="mailto:federico.sichetti@edu.unige.it">Federico</a> as soon as possible.
 
 <!-- {: .highlight }
 The next appointment is scheduled for **06/11/2024** for **Matteo Martini**'s seminar, room 214, 2:30 PM. -->
