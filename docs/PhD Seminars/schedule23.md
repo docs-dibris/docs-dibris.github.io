@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Schedule 23/24
+title: Schedule 2023
 parent: PhD Seminar Series
 nav_order: 2
 ---
 
-# Seminars schedule AY 2023-2024
+# Seminars schedule 2023
 
 <table>
     <tr>

@@ -1,18 +1,17 @@
 ---
 layout: default
-title: Schedule 24/25
+title: Schedule 2024
 parent: PhD Seminar Series
-nav_order: 2
+nav_order: 3
 ---
 
-# Seminars schedule AY 2024-2025
+# Seminars schedule 2024
 
 We will try to follow this schedule. 
 You will be duly informed via email in case there are any changes.
 
-{: .highlight }
-The next appointment is scheduled for **06/11/2024** for **Matteo Martini**'s seminar, room 214, 2:30 PM.
-It is possible to follow the seminar remotely via <a href="https://teams.microsoft.com/l/team/19%3aa830ceaf779b4c69a719318232186180%40thread.tacv2/conversations?groupId=5dbf9ae3-ebb4-4ba7-9f0f-49bf400e3138&tenantId=6cd36f83-1a02-442d-972f-2670cb5e9b1a">this link</a>.
+<!-- {: .highlight }
+The next appointment is scheduled for **06/11/2024** for **Matteo Martini**'s seminar, room 214, 2:30 PM. -->
 
 <table>
     <tr>
