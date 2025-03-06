@@ -139,18 +139,18 @@ The next appointment is scheduled for **06 November 2024** for **Matteo Martini*
         <td>TBA</td>
     </tr>
     <tr>
-        <td rowspan="2">17 June 2025</td>
+        <td rowspan="1">17 June 2025</td>
         <td>Xiaolin Xing</td>
-        <td>TBA</td>
-    </tr>
-    <tr>
-        <td>Marianna Pizzo</td>
         <td>TBA</td>
     </tr>
     <!-- July -->
     <tr>
-        <td rowspan="1">8 July 2025</td>
+        <td rowspan="2">8 July 2025</td>
         <td>Jacopo Dapueto</td>
+        <td>TBA</td>
+    </tr>
+    <tr>
+        <td>Marianna Pizzo</td>
         <td>TBA</td>
     </tr>
     <tr>
