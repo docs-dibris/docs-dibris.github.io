@@ -143,6 +143,10 @@ The next appointment is scheduled for **06 November 2024** for **Matteo Martini*
         <td>Xiaolin Xing</td>
         <td>TBA</td>
     </tr>
+    <tr>
+        <td>Marianna Pizzo</td>
+        <td>TBA</td>
+    </tr>
     <!-- July -->
     <tr>
         <td rowspan="2">8 July 2025</td>
@@ -150,8 +154,7 @@ The next appointment is scheduled for **06 November 2024** for **Matteo Martini*
         <td>TBA</td>
     </tr>
     <tr>
-        <td>Marianna Pizzo</td>
-        <td>TBA</td>
+        <td colspan="3" style="text-align: center;">Summer break</td>
     </tr>
     <!-- September -->
     <tr>
