@@ -11,8 +11,8 @@ Since 2018, we organize public activities such as the [Computer Science Workshop
 
 **Do**ttorandi in **C**omputer **S**cience
 
-<!-- {: .new }
-The program for the 2025 Seminar Series is online! -->
+{: .new }
+The 2025 Seminar Series will start in April.
 
 [dibris]: https://dibris.unige.it/en
 [unige]: https://unige.it/en

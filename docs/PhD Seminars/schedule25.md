@@ -56,15 +56,6 @@ The next appointment is scheduled for **06 November 2024** for **Matteo Martini*
     </tr>
     <!-- April -->
     <tr>
-        <td rowspan="2">8 April 2025</td>
-        <td>Dadan Khan</td>
-        <td>TBA</td>
-    </tr>
-    <tr>
-        <td>George Kurshakov</td>
-        <td>TBA</td>
-    </tr>
-    <tr>
         <td rowspan="2">15 April 2025</td>
         <td>Ziad Janpih</td>
         <td>TBA</td>
@@ -190,6 +181,15 @@ The next appointment is scheduled for **06 November 2024** for **Matteo Martini*
     <!-- October -->
     <tr>
         <td rowspan="2">14 October 2025</td>
+        <td>George Kurshakov</td>
+        <td>TBA</td>
+    </tr>
+    <tr>
+        <td>Dadan Khan</td>
+        <td>TBA</td>
+    </tr>
+    <tr>
+        <td rowspan="2">21 October 2025</td>
         <td>Abdelmalik Benfadhil</td>
         <td>TBA</td>
     </tr>
@@ -198,7 +198,7 @@ The next appointment is scheduled for **06 November 2024** for **Matteo Martini*
         <td>TBA</td>
     </tr>
     <tr>
-        <td rowspan="2">21 October 2025</td>
+        <td rowspan="2">28 October 2025</td>
         <td>Zahra Daoui</td>
         <td>TBA</td>
     </tr>
@@ -206,8 +206,9 @@ The next appointment is scheduled for **06 November 2024** for **Matteo Martini*
         <td>Abdolhamid Livani</td>
         <td>TBA</td>
     </tr>
+    <!-- November -->
     <tr>
-        <td rowspan="2">28 October 2025</td>
+        <td rowspan="2">4 November 2025</td>
         <td>Monica Parodi</td>
         <td>TBA</td>
     </tr>
