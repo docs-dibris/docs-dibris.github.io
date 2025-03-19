@@ -208,7 +208,7 @@ The next appointment is scheduled for **06 November 2024** for **Matteo Martini*
     </tr>
     <!-- November -->
     <tr>
-        <td rowspan="2">4 November 2025</td>
+        <td rowspan="2">11 November 2025</td>
         <td>Monica Parodi</td>
         <td>TBA</td>
     </tr>
