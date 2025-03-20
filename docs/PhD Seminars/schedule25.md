@@ -57,16 +57,7 @@ The next appointment is scheduled for **06 November 2024** for **Matteo Martini*
     <!-- April -->
     <tr>
         <td rowspan="2">15 April 2025</td>
-        <td>Ziad Janpih</td>
-        <td>TBA</td>
-    </tr>
-    <tr>
-        <td>Federico Sichetti</td>
-        <td>TBA</td>
-    </tr>
-    <tr>
-        <td rowspan="2">22 April 2025</td>
-        <td>Ulises Nicolas Torrella</td>
+        <td>Arnaud Watusadisi Mavakala</td>
         <td>TBA</td>
     </tr>
     <tr>
@@ -74,17 +65,16 @@ The next appointment is scheduled for **06 November 2024** for **Matteo Martini*
         <td>TBA</td>
     </tr>
     <tr>
+        <td rowspan="2">22 April 2025</td>
+        <td>Federico Sichetti</td>
+        <td>TBA</td>
+    </tr>
+    <tr>
+        <td>Ulises Nicolas Torrella</td>
+        <td>TBA</td>
+    </tr>
+    <tr>
         <td rowspan="2">29 April 2025</td>
-        <td>Arnaud Watusadisi Mavakala</td>
-        <td>TBA</td>
-    </tr>
-    <tr>
-        <td>Xiaolin Xing</td>
-        <td>TBA</td>
-    </tr>
-    <!-- May -->
-    <tr>
-        <td rowspan="2">6 May 2025</td>
         <td>Gabriele Bortolai</td>
         <td>TBA</td>
     </tr>
@@ -92,8 +82,9 @@ The next appointment is scheduled for **06 November 2024** for **Matteo Martini*
         <td>Massimiliano Ciranni</td>
         <td>TBA</td>
     </tr>
+    <!-- May -->
     <tr>
-        <td rowspan="2">13 May 2025</td>
+        <td rowspan="2">6 May 2025</td>
         <td>Roberto Di Via</td>
         <td>TBA</td>
     </tr>
@@ -102,7 +93,7 @@ The next appointment is scheduled for **06 November 2024** for **Matteo Martini*
         <td>TBA</td>
     </tr>
     <tr>
-        <td rowspan="2">20 May 2025</td>
+        <td rowspan="2">13 May 2025</td>
         <td>Lorenzo Gerini</td>
         <td>TBA</td>
     </tr>
@@ -110,9 +101,8 @@ The next appointment is scheduled for **06 November 2024** for **Matteo Martini*
         <td>Anna Khristodulo</td>
         <td>TBA</td>
     </tr>
-    <!-- June -->
     <tr>
-        <td rowspan="2">3 June 2025</td>
+        <td rowspan="2">20 May 2025</td>
         <td>Andrea Maffia</td>
         <td>TBA</td>
     </tr>
@@ -120,8 +110,9 @@ The next appointment is scheduled for **06 November 2024** for **Matteo Martini*
         <td>Matteo Martini</td>
         <td>TBA</td>
     </tr>
+    <!-- June -->
     <tr>
-        <td rowspan="2">10 June 2025</td>
+        <td rowspan="2">3 June 2025</td>
         <td>Ilaria Stanzani</td>
         <td>TBA</td>
     </tr>
@@ -130,12 +121,17 @@ The next appointment is scheduled for **06 November 2024** for **Matteo Martini*
         <td>TBA</td>
     </tr>
     <tr>
-        <td rowspan="2">17 June 2025</td>
+        <td rowspan="2">10 June 2025</td>
         <td>Jacopo Dapueto</td>
         <td>TBA</td>
     </tr>
     <tr>
         <td>Marianna Pizzo</td>
+        <td>TBA</td>
+    </tr>
+    <tr>
+        <td rowspan="1">17 June 2025</td>
+        <td>Xiaolin Xing</td>
         <td>TBA</td>
     </tr>
     <tr>
@@ -208,11 +204,16 @@ The next appointment is scheduled for **06 November 2024** for **Matteo Martini*
     </tr>
     <!-- November -->
     <tr>
-        <td rowspan="2">11 November 2025</td>
+        <td rowspan="2">4 November 2025</td>
         <td>Monica Parodi</td>
         <td>TBA</td>
     </tr>
     <tr>
+        <td>Ziad Janpih</td>
+        <td>TBA</td>
+    </tr>
+    <tr>
+        <td rowspan="1">11 November 2025</td>
         <td>Silvia Ferrando</td>
         <td>TBA</td>
     </tr>
