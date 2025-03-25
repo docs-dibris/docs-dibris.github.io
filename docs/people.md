@@ -56,6 +56,21 @@ Here you can find the list of current members of the DoCS group, along with some
     </tr>
     <tr>
         <td>
+            <img src="https://rubrica.unige.it/static/foto/UkFHWF1q.jpg?1742916980.5907">
+        </td>
+        <td>
+            <dl>
+                <dt>Name</dt>
+                <dd>Andrea De Filippis</dd>
+                <dt>Email</dt>
+                <dd><a href="mailto:jacopo.dapueto@edu.unige.it">andrea.defilippis@edu.unige.it</a></dd>
+                <dt>Research group</dt>
+                <dd>PILab</dd>
+            </dl>
+        </td>
+    </tr>
+    <tr>
+        <td>
             <img src="/assets/images/people/gattiAndrea.jpg">
         </td>
         <td>
@@ -71,7 +86,7 @@ Here you can find the list of current members of the DoCS group, along with some
     </tr>
     <tr>
         <td>
-            <img src="/assets/images/people/geriniLorenzo.jpg">
+            <img src="https://rubrica.unige.it/static/foto/UkFHW15p.jpg?1742916807.3277">
         </td>
         <td>
             <dl>
@@ -80,13 +95,13 @@ Here you can find the list of current members of the DoCS group, along with some
                 <dt>Email</dt>
                 <dd><a href="mailto:lorenzo.gerini@edu.unige.it">lorenzo.gerini@edu.unige.it</a></dd>
                 <dt>Research group</dt>
-                <dd>PILAB</dd>
+                <dd>PILab</dd>
             </dl>
         </td>
     </tr>
     <tr>
         <td>
-            <img src="/assets/images/people/martiniMatteo.jpg">
+            <img src="https://rubrica.unige.it/static/foto/VkpFWVNt.jpg?1742916843.5705">
         </td>
         <td>
             <dl>
@@ -95,22 +110,7 @@ Here you can find the list of current members of the DoCS group, along with some
                 <dt>Email</dt>
                 <dd><a href="mailto:matteo.martini@edu.unige.it">matteo.martini@edu.unige.it</a></dd>
                 <dt>Research group</dt>
-                <dd>PILAB</dd>
-            </dl>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <img src="https://rubrica.unige.it/static/foto/UEBPUl1r.jpg?1700002139.4392">
-        </td>
-        <td>
-            <dl>
-                <dt>Name</dt>
-                <dd>Muhammad Mohsin</dd>
-                <dt>Email</dt>
-                <dd><a href="mailto:muhammad.mohsin@edu.unige.it ">muhammad.mohsin@edu.unige.it </a></dd>
-                <dt>Research group</dt>
-                <dd>Computational Intelligence Group</dd>
+                <dd>PILab</dd>
             </dl>
         </td>
     </tr>
@@ -125,7 +125,7 @@ Here you can find the list of current members of the DoCS group, along with some
                 <dt>Email</dt>
                 <dd><a href="mailto:marianna.pizzo@edu.unige.it">marianna.pizzo@edu.unige.it</a></dd>
                 <dt>Research group</dt>
-                <dd>PILAB</dd>
+                <dd>PILab</dd>
             </dl>
         </td>
     </tr>
@@ -139,21 +139,6 @@ Here you can find the list of current members of the DoCS group, along with some
                 <dd>Federico Sichetti</dd>
                 <dt>Email</dt>
                 <dd><a href="mailto:federico.sichetti@edu.unige.it">federico.sichetti@edu.unige.it</a></dd>
-            </dl>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <img src="https://rubrica.unige.it/static/foto/UURHWVlg.jpg?1699915068.6555">
-        </td>
-        <td>
-            <dl>
-                <dt>Name</dt>
-                <dd>Larbi Touijer</dd>
-                <dt>Email</dt>
-                <dd><a href="mailto:larbi.touijer@edu.unige.it">larbi.touijer@edu.unige.it</a></dd>
-                <dt>Research group</dt>
-                <dd>MaLGa</dd>
             </dl>
         </td>
     </tr>
@@ -176,6 +161,9 @@ Here you can find the list of current members of the DoCS group, along with some
 - Elena Nicora
 - Daniele Traversaro
 - Eros Viola
+- Larbi Touijer
+- Muhammad Mohsin
+
 
 
 ## Future members?
