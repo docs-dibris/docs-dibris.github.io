@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Schedule<br>Room ? 14:30-15:30
+title: Schedule 2025
 parent: PhD Seminar Series
 nav_order: 4
 ---
 
-# Seminars schedule<br>Room ? 14:30-15:30
+# Seminars schedule 2025
 
 {: .warning}
 This is a tentative schedule. If you see typos or cannot be present on your assigned date, please send an email to <a href="mailto:federico.sichetti@edu.unige.it">Federico</a> as soon as possible.
@@ -89,7 +89,7 @@ The next appointment is scheduled for **06 Nov 2024** for **Matteo Martini**'s s
         <td>TBA</td>
     </tr>
     <tr>
-        <td>Andrea Gatti</td>
+        <td>Andrea Maffia</td>
         <td>TBA</td>
     </tr>
     <tr>
@@ -103,7 +103,7 @@ The next appointment is scheduled for **06 Nov 2024** for **Matteo Martini**'s s
     </tr>
     <tr>
         <td rowspan="2">Tue 20 May<br>Room ? 14:30-15:30</td>
-        <td>Andrea Maffia</td>
+        <td>Andrea Gatti</td>
         <td>TBA</td>
     </tr>
     <tr>
