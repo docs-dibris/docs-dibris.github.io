@@ -1,63 +1,63 @@
 ---
 layout: default
-title: Schedule 2025
+title: Schedule<br>Room ? 14:30-15:30
 parent: PhD Seminar Series
 nav_order: 4
 ---
 
-# Seminars schedule 2025
+# Seminars schedule<br>Room ? 14:30-15:30
 
 {: .warning}
 This is a tentative schedule. If you see typos or cannot be present on your assigned date, please send an email to <a href="mailto:federico.sichetti@edu.unige.it">Federico</a> as soon as possible.
 
 <!-- {: .highlight }
-The next appointment is scheduled for **06 November 2024** for **Matteo Martini**'s seminar, room 214, 2:30 PM. -->
+The next appointment is scheduled for **06 Nov 2024** for **Matteo Martini**'s seminar, room 214, 2:30 PM. -->
 
 <!--
-<td rowspan="2">1 April 2025</td>
-<td rowspan="2">8 April 2025</td>
-<td rowspan="2">15 April 2025</td>
-<td rowspan="2">22 April 2025</td>
-<td rowspan="2">29 April 2025</td>
-<td rowspan="2">6 May 2025</td>
-<td rowspan="2">13 May 2025</td>
-<td rowspan="2">20 May 2025</td>
-<td rowspan="2">27 May 2025</td>
-<td rowspan="2">3 June 2025</td>
-<td rowspan="2">10 June 2025</td>
-<td rowspan="2">17 June 2025</td>
-<td rowspan="2">1 July 2025</td>
-<td rowspan="2">8 July 2025</td>
-<td rowspan="2">15 July 2025</td>
-<td rowspan="2">22 July 2025</td>
-<td rowspan="2">29 July 2025</td>
-<td rowspan="2">9 September 2025</td>
-<td rowspan="2">16 September 2025</td>
-<td rowspan="2">23 September 2025</td>
-<td rowspan="2">30 September 2025</td>
-<td rowspan="2">7 October 2025</td>
-<td rowspan="2">14 October 2025</td>
-<td rowspan="2">21 October 2025</td>
-<td rowspan="2">28 October 2025</td>
-<td rowspan="2">4 November 2025</td>
-<td rowspan="2">11 November 2025</td>
-<td rowspan="2">18 November 2025</td>
-<td rowspan="2">25 November 2025</td>
-<td rowspan="2">02 December 2025</td>
-<td rowspan="2">9 December 2025</td>
-<td rowspan="2">16 December 2025</td>
+<td rowspan="2">Tue 1 Apr<br>Room ? 14:30-15:30</td>
+<td rowspan="2">Tue 8 Apr<br>Room ? 14:30-15:30</td>
+<td rowspan="2">Tue 15 Apr<br>Room ? 14:30-15:30</td>
+<td rowspan="2">Tue 22 Apr<br>Room ? 14:30-15:30</td>
+<td rowspan="2">Tue 29 Apr<br>Room ? 14:30-15:30</td>
+<td rowspan="2">Tue 6 May<br>Room ? 14:30-15:30</td>
+<td rowspan="2">Tue 13 May<br>Room ? 14:30-15:30</td>
+<td rowspan="2">Tue 20 May<br>Room ? 14:30-15:30</td>
+<td rowspan="2">Tue 27 May<br>Room ? 14:30-15:30</td>
+<td rowspan="2">Tue 3 Jun<br>Room ? 14:30-15:30</td>
+<td rowspan="2">Tue 10 Jun<br>Room ? 14:30-15:30</td>
+<td rowspan="2">Tue 17 Jun<br>Room ? 14:30-15:30</td>
+<td rowspan="2">Tue 1 Jul<br>Room ? 14:30-15:30</td>
+<td rowspan="2">Tue 8 Jul<br>Room ? 14:30-15:30</td>
+<td rowspan="2">Tue 15 Jul<br>Room ? 14:30-15:30</td>
+<td rowspan="2">Tue 22 Jul<br>Room ? 14:30-15:30</td>
+<td rowspan="2">Tue 29 Jul<br>Room ? 14:30-15:30</td>
+<td rowspan="2">Tue 9 Sep<br>Room ? 14:30-15:30</td>
+<td rowspan="2">Tue 16 Sep<br>Room ? 14:30-15:30</td>
+<td rowspan="2">Tue 23 Sep<br>Room ? 14:30-15:30</td>
+<td rowspan="2">Tue 30 Sep<br>Room ? 14:30-15:30</td>
+<td rowspan="2">Tue 7 Oct<br>Room ? 14:30-15:30</td>
+<td rowspan="2">Tue 14 Oct<br>Room ? 14:30-15:30</td>
+<td rowspan="2">Tue 21 Oct<br>Room ? 14:30-15:30</td>
+<td rowspan="2">Tue 28 Oct<br>Room ? 14:30-15:30</td>
+<td rowspan="2">Tue 4 Nov<br>Room ? 14:30-15:30</td>
+<td rowspan="2">Tue 11 Nov<br>Room ? 14:30-15:30</td>
+<td rowspan="2">Tue 18 Nov<br>Room ? 14:30-15:30</td>
+<td rowspan="2">Tue 25 Nov<br>Room ? 14:30-15:30</td>
+<td rowspan="2">Tue 02 Dec<br>Room ? 14:30-15:30</td>
+<td rowspan="2">Tue 9 Dec<br>Room ? 14:30-15:30</td>
+<td rowspan="2">Tue 16 Dec<br>Room ? 14:30-15:30</td>
 -->
 
 <table>
     <tr>
-        <th>DATE</th>
+        <th>DATE and TIME</th>
         <th>SPEAKER</th>
         <th>TITLE</th>
     </tr>
-    <!-- April -->
+    <!-- Apr -->
     <tr>
-        <td rowspan="2">15 April 2025</td>
-        <td>Arnaud Watusadisi Mavakala</td>
+        <td rowspan="2">Tue 15 Apr<br>Room ? 14:30-15:30</td>
+        <td>Federico Sichetti</td>
         <td>TBA</td>
     </tr>
     <tr>
@@ -65,8 +65,8 @@ The next appointment is scheduled for **06 November 2024** for **Matteo Martini*
         <td>TBA</td>
     </tr>
     <tr>
-        <td rowspan="2">22 April 2025</td>
-        <td>Federico Sichetti</td>
+        <td rowspan="2">Mon 21 Apr<br>Room ? 14:30-15:30</td>
+        <td>Arnaud Watusadisi Mavakala</td>
         <td>TBA</td>
     </tr>
     <tr>
@@ -74,7 +74,7 @@ The next appointment is scheduled for **06 November 2024** for **Matteo Martini*
         <td>TBA</td>
     </tr>
     <tr>
-        <td rowspan="2">29 April 2025</td>
+        <td rowspan="2">Tue 29 Apr<br>Room ? 14:30-15:30</td>
         <td>Gabriele Bortolai</td>
         <td>TBA</td>
     </tr>
@@ -84,7 +84,7 @@ The next appointment is scheduled for **06 November 2024** for **Matteo Martini*
     </tr>
     <!-- May -->
     <tr>
-        <td rowspan="2">6 May 2025</td>
+        <td rowspan="2">Tue 6 May<br>Room ? 14:30-15:30</td>
         <td>Roberto Di Via</td>
         <td>TBA</td>
     </tr>
@@ -93,7 +93,7 @@ The next appointment is scheduled for **06 November 2024** for **Matteo Martini*
         <td>TBA</td>
     </tr>
     <tr>
-        <td rowspan="2">13 May 2025</td>
+        <td rowspan="2">Tue 13 May<br>Room ? 14:30-15:30</td>
         <td>Lorenzo Gerini</td>
         <td>TBA</td>
     </tr>
@@ -102,7 +102,7 @@ The next appointment is scheduled for **06 November 2024** for **Matteo Martini*
         <td>TBA</td>
     </tr>
     <tr>
-        <td rowspan="2">20 May 2025</td>
+        <td rowspan="2">Tue 20 May<br>Room ? 14:30-15:30</td>
         <td>Andrea Maffia</td>
         <td>TBA</td>
     </tr>
@@ -110,9 +110,9 @@ The next appointment is scheduled for **06 November 2024** for **Matteo Martini*
         <td>Matteo Martini</td>
         <td>TBA</td>
     </tr>
-    <!-- June -->
+    <!-- Jun -->
     <tr>
-        <td rowspan="2">3 June 2025</td>
+        <td rowspan="2">Tue 3 Jun<br>Room ? 14:30-15:30</td>
         <td>Dadan Khan</td>
         <td>TBA</td>
     </tr>
@@ -121,7 +121,7 @@ The next appointment is scheduled for **06 November 2024** for **Matteo Martini*
         <td>TBA</td>
     </tr>
     <tr>
-        <td rowspan="2">10 June 2025</td>
+        <td rowspan="2">Tue 10 Jun<br>Room ? 14:30-15:30</td>
         <td>Jacopo Dapueto</td>
         <td>TBA</td>
     </tr>
@@ -130,7 +130,7 @@ The next appointment is scheduled for **06 November 2024** for **Matteo Martini*
         <td>TBA</td>
     </tr>
     <tr>
-        <td rowspan="2">17 June 2025</td>
+        <td rowspan="2">Tue 17 Jun<br>Room ? 14:30-15:30</td>
         <td>Ilaria Stanzani</td>
         <td>TBA</td>
     </tr>
@@ -141,9 +141,9 @@ The next appointment is scheduled for **06 November 2024** for **Matteo Martini*
     <tr>
         <td colspan="3" style="text-align: center;">Summer break</td>
     </tr>
-    <!-- September -->
+    <!-- Sep -->
     <tr>
-        <td rowspan="2">9 September 2025</td>
+        <td rowspan="2">Tue 9 Sep<br>Room ? 14:30-15:30</td>
         <td>Peiman Ataei</td>
         <td>TBA</td>
     </tr>
@@ -152,7 +152,7 @@ The next appointment is scheduled for **06 November 2024** for **Matteo Martini*
         <td>TBA</td>
     </tr>
     <tr>
-        <td rowspan="2">16 September 2025</td>
+        <td rowspan="2">Tue 16 Sep<br>Room ? 14:30-15:30</td>
         <td>Gabriele Romano</td>
         <td>TBA</td>
     </tr>
@@ -161,7 +161,7 @@ The next appointment is scheduled for **06 November 2024** for **Matteo Martini*
         <td>TBA</td>
     </tr>
     <tr>
-        <td rowspan="2">23 September 2025</td>
+        <td rowspan="2">Tue 23 Sep<br>Room ? 14:30-15:30</td>
         <td>Lorenzo Farina</td>
         <td>TBA</td>
     </tr>
@@ -170,7 +170,7 @@ The next appointment is scheduled for **06 November 2024** for **Matteo Martini*
         <td>TBA</td>
     </tr>
     <tr>
-        <td rowspan="2">30 September 2025</td>
+        <td rowspan="2">Tue 30 Sep<br>Room ? 14:30-15:30</td>
         <td>Arici Irem</td>
         <td>TBA</td>
     </tr>
@@ -178,9 +178,9 @@ The next appointment is scheduled for **06 November 2024** for **Matteo Martini*
         <td>Veronica Pignedoli</td>
         <td>TBA</td>
     </tr>
-    <!-- October -->
+    <!-- Oct -->
     <tr>
-        <td rowspan="2">14 October 2025</td>
+        <td rowspan="2">Tue 14 Oct<br>Room ? 14:30-15:30</td>
         <td>George Kurshakov</td>
         <td>TBA</td>
     </tr>
@@ -189,7 +189,7 @@ The next appointment is scheduled for **06 November 2024** for **Matteo Martini*
         <td>TBA</td>
     </tr>
     <tr>
-        <td rowspan="2">21 October 2025</td>
+        <td rowspan="2">Tue 21 Oct<br>Room ? 14:30-15:30</td>
         <td>Christian Daniele</td>
         <td>TBA</td>
     </tr>
@@ -198,7 +198,7 @@ The next appointment is scheduled for **06 November 2024** for **Matteo Martini*
         <td>TBA</td>
     </tr>
     <tr>
-        <td rowspan="2">28 October 2025</td>
+        <td rowspan="2">Tue 28 Oct<br>Room ? 14:30-15:30</td>
         <td>Abdolhamid Livani</td>
         <td>TBA</td>
     </tr>
@@ -206,9 +206,9 @@ The next appointment is scheduled for **06 November 2024** for **Matteo Martini*
         <td>Monica Parodi</td>
         <td>TBA</td>
     </tr>
-    <!-- November -->
+    <!-- Nov -->
     <tr>
-        <td rowspan="2">4 November 2025</td>
+        <td rowspan="2">Tue 4 Nov<br>Room ? 14:30-15:30</td>
         <td>Ziad Janpih</td>
         <td>TBA</td>
     </tr>
