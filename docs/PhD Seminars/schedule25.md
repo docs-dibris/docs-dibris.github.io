@@ -7,8 +7,7 @@ nav_order: 4
 
 # Seminars schedule 2025
 
-{: .warning}
-This is a tentative schedule. If you see typos or cannot be present on your assigned date, please send an email to <a href="mailto:federico.sichetti@edu.unige.it">Federico</a> as soon as possible.
+This schedule is subject to changes. If you see typos or cannot be present on your assigned date, please send an email to <a href="mailto:federico.sichetti@edu.unige.it">Federico</a>.
 
 <!-- {: .highlight }
 The next appointment is scheduled for **06 Nov 2024** for **Matteo Martini**'s seminar, room 214, 2:30 PM. -->
@@ -65,7 +64,7 @@ The next appointment is scheduled for **06 Nov 2024** for **Matteo Martini**'s s
         <td>TBA</td>
     </tr>
     <tr>
-        <td rowspan="2">Mon 21 Apr<br>Room ? 14:30-15:30</td>
+        <td rowspan="2">Thu 24 Apr<br>Room ? 14:30-15:30</td>
         <td>Arnaud Watusadisi Mavakala</td>
         <td>TBA</td>
     </tr>
