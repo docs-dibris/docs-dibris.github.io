@@ -142,7 +142,7 @@ The next appointment is scheduled for **06 Nov 2024** for **Matteo Martini**'s s
         <td>Stefano Avola</td>
         <td>TBA</td>
     <tr>
-        <td colspan="3" style="text-align: center;">Summer break</td>
+        <th colspan="3" style="text-align: center;">Summer break</th>
     </tr>
     <!-- Sep -->
     <tr>
