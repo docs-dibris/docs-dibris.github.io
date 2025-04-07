@@ -117,7 +117,7 @@ The next appointment is scheduled for **06 Nov 2024** for **Matteo Martini**'s s
         <td>TBA</td>
     </tr>
     <tr>
-        <td>Hisham Unniyankal</td>
+        <td>Ilaria Stanzani</td>
         <td>TBA</td>
     </tr>
     <tr>
@@ -131,7 +131,7 @@ The next appointment is scheduled for **06 Nov 2024** for **Matteo Martini**'s s
     </tr>
     <tr>
         <td rowspan="2">Tue 17 Jun<br>14:30-15:30<br>Room TBD</td>
-        <td>Ilaria Stanzani</td>
+        <td>Hisham Unniyankal</td>
         <td>TBA</td>
     </tr>
     <tr>
