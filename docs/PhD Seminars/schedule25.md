@@ -58,11 +58,11 @@ The next appointment is scheduled for **06 Nov 2024** for **Matteo Martini**'s s
     <tr>
         <td rowspan="2">Tue 15 Apr<br>14:30-15:30<br>Room 214</td>
         <td>Federico Sichetti</td>
-        <td>TBA</td>
+        <td>MiSo: a DSL for fast and robust MINIMIZE and SOLVE problems</td>
     </tr>
     <tr>
         <td>Manasa Pawar</td>
-        <td>TBA</td>
+        <td>From Radar to Rainfall: Enhancing Nowcasting with Deep Learning</td>
     </tr>
     <tr>
         <td rowspan="2">Thu 24 Apr<br>14:30-15:30<br>Room TBD</td>
