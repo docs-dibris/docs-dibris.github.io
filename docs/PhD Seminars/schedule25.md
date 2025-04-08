@@ -7,10 +7,11 @@ nav_order: 4
 
 # Seminars schedule 2025
 
+{: .highlight }
+The next appointment is scheduled for **Federico Sichetti** and **Manasa Pawar**'s seminars, on **Tuesday, April 15** at 14:30 in Room 214.
+
 This schedule is subject to changes. If you see typos or cannot be present on your assigned date, please send an email to <a href="mailto:federico.sichetti@edu.unige.it">Federico</a>.
 
-<!-- {: .highlight }
-The next appointment is scheduled for **06 Nov 2024** for **Matteo Martini**'s seminar, room 214, 2:30 PM. -->
 
 <!--
 <td rowspan="2">Tue 1 Apr<br>14:30-15:30<br>Room TBD</td>
