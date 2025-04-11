@@ -51,14 +51,14 @@ This schedule is subject to changes. If you see typos or cannot be present on yo
 
 <table>
     <tr>
-        <th>FLIER</th>
+        <th>FLYER</th>
         <th>DATE and TIME</th>
         <th>SPEAKER</th>
         <th>TITLE</th>
     </tr>
     <!-- Apr -->
     <tr>
-        <td rowspan="2"><a href="/seminar-flyers/seminar_1.pdf" download>download</a></td>
+        <td rowspan="2"><a href="/assets/seminar-flyers/seminar_1.pdf" download>download</a></td>
         <td rowspan="2">Tue 15 Apr<br>14:30-15:30<br>Room 214</td>
         <td>Federico Sichetti</td>
         <td>MiSo: a DSL for fast and robust MINIMIZE and SOLVE problems</td>
@@ -154,7 +154,7 @@ This schedule is subject to changes. If you see typos or cannot be present on yo
         <td>Stefano Avola</td>
         <td>TBA</td>
     <tr>
-        <th colspan="3" style="text-align: center;">Summer break</th>
+        <th colspan="4" style="text-align: center;">Summer break</th>
     </tr>
     <!-- Sep -->
     <tr>
