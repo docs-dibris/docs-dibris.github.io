@@ -69,14 +69,14 @@ This schedule is subject to changes. If you see typos or cannot be present on yo
     </tr>
     <tr>
         <td rowspan="2"></td>
-        <td rowspan="2">Thu 24 Apr<br>14:30-15:30<br>Room TBD</td>
-        <td>Arnaud Watusadisi Mavakala</td>
-        <td>TBA</td>
+        <td rowspan="2">Thu 24 Apr<br>14:30-15:30<br>Room 214</td>
+        <td>Ulises Nicolas Torrella</td>
+        <td>Fair termination for resource-aware active objects</td>
     </tr>
     <tr>
-        <td>Ulises Nicolas Torrella</td>
-        <td>TBA</td>
     </tr>
+        <td>Arnaud Watusadisi Mavakala</td>
+        <td>TBA</td>
     <tr>
         <td rowspan="2"></td>
         <td rowspan="2">Tue 29 Apr<br>14:30-15:30<br>Room TBD</td>
