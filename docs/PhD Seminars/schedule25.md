@@ -75,8 +75,8 @@ This schedule is subject to changes. If you see typos or cannot be present on yo
     </tr>
     <tr>
     </tr>
-        <td>Arnaud Watusadisi Mavakala</td>
-        <td>TBA</td>
+        <td>Arnaud Watusadisi</td>
+        <td>Efficient Learning under Covariate Shift using Random Projection</td>
     <tr>
         <td rowspan="2"></td>
         <td rowspan="2">Tue 29 Apr<br>14:30-15:30<br>Room TBD</td>
