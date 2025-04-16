@@ -74,9 +74,9 @@ This schedule is subject to changes. If you see typos or cannot be present on yo
         <td>Fair termination for resource-aware active objects</td>
     </tr>
     <tr>
-    </tr>
         <td>Arnaud Watusadisi</td>
         <td>Efficient Learning under Covariate Shift using Random Projection</td>
+    </tr>
     <tr>
         <td rowspan="2"></td>
         <td rowspan="2">Tue 29 Apr<br>14:30-15:30<br>Room TBD</td>
