@@ -35,7 +35,7 @@ This schedule is subject to changes. If you see typos or cannot be present on yo
     <tr>
         <td rowspan="2"><a href="/assets/seminar-flyers/seminar_2.pdf" download>download</a></td>
         <td rowspan="2">Thu 24 Apr<br>14:30-15:30<br>Room 214</td>
-        <td>Ulises Nicolas Torrella</td>
+        <td>Ulises Torrella</td>
         <td>Fair termination for resource-aware active objects</td>
     </tr>
     <tr>
