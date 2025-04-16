@@ -8,46 +8,11 @@ nav_order: 4
 # Seminars schedule 2025
 
 {: .highlight }
-The next appointment is scheduled for **Federico Sichetti** and **Manasa Pawar**'s seminars, on **Tuesday, April 15** at 14:30 in Room 214.
+The next appointment is scheduled for **Ulises Torrella** and **Arnaud Watusadisi**'s seminars, on **Thursday, April 24** at 14:30 in Room 214.
 
 This schedule is subject to changes. If you see typos or cannot be present on your assigned date, please send an email to <a href="mailto:federico.sichetti@edu.unige.it">Federico</a>.
 
 
-<!--
-<td rowspan="2">Tue 1 Apr<br>14:30-15:30<br>Room TBD</td>
-<td rowspan="2">Tue 8 Apr<br>14:30-15:30<br>Room TBD</td>
-<td rowspan="2">Tue 15 Apr<br>14:30-15:30<br>Room TBD</td>
-<td rowspan="2">Thu 24 Apr<br>14:30-15:30<br>Room TBD</td>
-<td rowspan="2">Tue 29 Apr<br>14:30-15:30<br>Room TBD</td>
-<td rowspan="2">Tue 6 May<br>14:30-15:30<br>Room TBD</td>
-<td rowspan="2">Tue 13 May<br>14:30-15:30<br>Room TBD</td>
-<td rowspan="2">Tue 20 May<br>14:30-15:30<br>Room TBD</td>
-<td rowspan="2">Tue 27 May<br>14:30-15:30<br>Room TBD</td>
-<td rowspan="2">Tue 3 Jun<br>14:30-15:30<br>Room TBD</td>
-<td rowspan="2">Tue 10 Jun<br>14:30-15:30<br>Room TBD</td>
-<td rowspan="2">Tue 17 Jun<br>14:30-15:30<br>Room TBD</td>
-<td rowspan="2">Mon 23 Jun<br>14:30-15:30<br>Room TBD</td>
-<td rowspan="2">Tue 1 Jul<br>14:30-15:30<br>Room TBD</td>
-<td rowspan="2">Tue 8 Jul<br>14:30-15:30<br>Room TBD</td>
-<td rowspan="2">Tue 15 Jul<br>14:30-15:30<br>Room TBD</td>
-<td rowspan="2">Tue 22 Jul<br>14:30-15:30<br>Room TBD</td>
-<td rowspan="2">Tue 29 Jul<br>14:30-15:30<br>Room TBD</td>
-<td rowspan="2">Tue 9 Sep<br>14:30-15:30<br>Room TBD</td>
-<td rowspan="2">Tue 16 Sep<br>14:30-15:30<br>Room TBD</td>
-<td rowspan="2">Tue 23 Sep<br>14:30-15:30<br>Room TBD</td>
-<td rowspan="2">Tue 30 Sep<br>14:30-15:30<br>Room TBD</td>
-<td rowspan="2">Tue 7 Oct<br>14:30-15:30<br>Room TBD</td>
-<td rowspan="2">Tue 14 Oct<br>14:30-15:30<br>Room TBD</td>
-<td rowspan="2">Tue 21 Oct<br>14:30-15:30<br>Room TBD</td>
-<td rowspan="2">Tue 28 Oct<br>14:30-15:30<br>Room TBD</td>
-<td rowspan="2">Tue 4 Nov<br>14:30-15:30<br>Room TBD</td>
-<td rowspan="2">Tue 11 Nov<br>14:30-15:30<br>Room TBD</td>
-<td rowspan="2">Tue 18 Nov<br>14:30-15:30<br>Room TBD</td>
-<td rowspan="2">Tue 25 Nov<br>14:30-15:30<br>Room TBD</td>
-<td rowspan="2">Tue 02 Dec<br>14:30-15:30<br>Room TBD</td>
-<td rowspan="2">Tue 9 Dec<br>14:30-15:30<br>Room TBD</td>
-<td rowspan="2">Tue 16 Dec<br>14:30-15:30<br>Room TBD</td>
--->
 
 <table>
     <tr>
@@ -68,7 +33,7 @@ This schedule is subject to changes. If you see typos or cannot be present on yo
         <td>From Radar to Rainfall: Enhancing Nowcasting with Deep Learning</td>
     </tr>
     <tr>
-        <td rowspan="2"></td>
+        <td rowspan="2"><a href="/assets/seminar-flyers/seminar_2.pdf" download>download</a></td>
         <td rowspan="2">Thu 24 Apr<br>14:30-15:30<br>Room 214</td>
         <td>Ulises Nicolas Torrella</td>
         <td>Fair termination for resource-aware active objects</td>
@@ -240,3 +205,40 @@ This schedule is subject to changes. If you see typos or cannot be present on yo
         <td>TBA</td>
     </tr>
 </table>
+
+
+<!--
+<td rowspan="2">Tue 1 Apr<br>14:30-15:30<br>Room TBD</td>
+<td rowspan="2">Tue 8 Apr<br>14:30-15:30<br>Room TBD</td>
+<td rowspan="2">Tue 15 Apr<br>14:30-15:30<br>Room TBD</td>
+<td rowspan="2">Thu 24 Apr<br>14:30-15:30<br>Room TBD</td>
+<td rowspan="2">Tue 29 Apr<br>14:30-15:30<br>Room TBD</td>
+<td rowspan="2">Tue 6 May<br>14:30-15:30<br>Room TBD</td>
+<td rowspan="2">Tue 13 May<br>14:30-15:30<br>Room TBD</td>
+<td rowspan="2">Tue 20 May<br>14:30-15:30<br>Room TBD</td>
+<td rowspan="2">Tue 27 May<br>14:30-15:30<br>Room TBD</td>
+<td rowspan="2">Tue 3 Jun<br>14:30-15:30<br>Room TBD</td>
+<td rowspan="2">Tue 10 Jun<br>14:30-15:30<br>Room TBD</td>
+<td rowspan="2">Tue 17 Jun<br>14:30-15:30<br>Room TBD</td>
+<td rowspan="2">Mon 23 Jun<br>14:30-15:30<br>Room TBD</td>
+<td rowspan="2">Tue 1 Jul<br>14:30-15:30<br>Room TBD</td>
+<td rowspan="2">Tue 8 Jul<br>14:30-15:30<br>Room TBD</td>
+<td rowspan="2">Tue 15 Jul<br>14:30-15:30<br>Room TBD</td>
+<td rowspan="2">Tue 22 Jul<br>14:30-15:30<br>Room TBD</td>
+<td rowspan="2">Tue 29 Jul<br>14:30-15:30<br>Room TBD</td>
+<td rowspan="2">Tue 9 Sep<br>14:30-15:30<br>Room TBD</td>
+<td rowspan="2">Tue 16 Sep<br>14:30-15:30<br>Room TBD</td>
+<td rowspan="2">Tue 23 Sep<br>14:30-15:30<br>Room TBD</td>
+<td rowspan="2">Tue 30 Sep<br>14:30-15:30<br>Room TBD</td>
+<td rowspan="2">Tue 7 Oct<br>14:30-15:30<br>Room TBD</td>
+<td rowspan="2">Tue 14 Oct<br>14:30-15:30<br>Room TBD</td>
+<td rowspan="2">Tue 21 Oct<br>14:30-15:30<br>Room TBD</td>
+<td rowspan="2">Tue 28 Oct<br>14:30-15:30<br>Room TBD</td>
+<td rowspan="2">Tue 4 Nov<br>14:30-15:30<br>Room TBD</td>
+<td rowspan="2">Tue 11 Nov<br>14:30-15:30<br>Room TBD</td>
+<td rowspan="2">Tue 18 Nov<br>14:30-15:30<br>Room TBD</td>
+<td rowspan="2">Tue 25 Nov<br>14:30-15:30<br>Room TBD</td>
+<td rowspan="2">Tue 02 Dec<br>14:30-15:30<br>Room TBD</td>
+<td rowspan="2">Tue 9 Dec<br>14:30-15:30<br>Room TBD</td>
+<td rowspan="2">Tue 16 Dec<br>14:30-15:30<br>Room TBD</td>
+-->
