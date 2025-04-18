@@ -10,6 +10,9 @@ nav_order: 4
 {: .highlight }
 The next appointment is scheduled for **Ulises Torrella** and **Arnaud Watusadisi**'s seminars, on **Thursday, April 24** at 14:30 in Room 214.
 
+{: .note }
+All seminars are streamed on Microsoft Teams. Code to join: wfogmsx
+
 This schedule is subject to changes. If you see typos or cannot be present on your assigned date, please send an email to <a href="mailto:federico.sichetti@edu.unige.it">Federico</a>.
 
 
