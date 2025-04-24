@@ -47,7 +47,7 @@ This schedule is subject to changes. If you see typos or cannot be present on yo
     </tr>
     <tr>
         <td rowspan="2"><a href="/assets/seminar-flyers/seminar_3.pdf" download>download</a></td>
-        <td rowspan="2">Tue 29 Apr<br>14:30-15:30<br>Room TBD</td>
+        <td rowspan="2">Tue 29 Apr<br>14:30-15:30<br>Room 214</td>
         <td>Gabriele Bortolai</td>
         <td>Gait-based human analysis and authentication</td>
     </tr>
