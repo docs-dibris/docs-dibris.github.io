@@ -8,7 +8,7 @@ nav_order: 4
 # Seminars schedule 2025
 
 {: .highlight }
-The next appointment is scheduled for **Ulises Torrella** and **Arnaud Watusadisi**'s seminars, on **Thursday, April 24** at 14:30 in Room 214.
+The next appointment is scheduled for **Ulises Torrella** and **Arnaud Watusadisi**'s seminars, on **Tuersday, April 29** at 14:30 in Room 214.
 
 {: .note }
 All seminars are streamed on Microsoft Teams. Code to join: wfogmsx
@@ -46,14 +46,14 @@ This schedule is subject to changes. If you see typos or cannot be present on yo
         <td>Efficient Learning under Covariate Shift using Random Projection</td>
     </tr>
     <tr>
-        <td rowspan="2"></td>
+        <td rowspan="2"><a href="/assets/seminar-flyers/seminar_3.pdf" download>download</a></td>
         <td rowspan="2">Tue 29 Apr<br>14:30-15:30<br>Room TBD</td>
         <td>Gabriele Bortolai</td>
-        <td>TBA</td>
+        <td>Gait-based human analysis and authentication</td>
     </tr>
     <tr>
         <td>Massimiliano Ciranni</td>
-        <td>TBA</td>
+        <td>Diffusing DeBias: Synthetic Bias Amplification for Model Debiasing</td>
     </tr>
     <!-- May -->
     <tr>
