@@ -8,7 +8,7 @@ nav_order: 4
 # Seminars schedule 2025
 
 {: .highlight }
-The next appointment is scheduled for **Ulises Torrella** and **Arnaud Watusadisi**'s seminars, on **Tuersday, April 29** at 14:30 in Room 214.
+The next appointment is scheduled for **Gabriele Bortolai** and **Massimiliano Ciranni**'s seminars, on **Tuersday, April 29** at 14:30 in Room 214.
 
 {: .note }
 All seminars are streamed on Microsoft Teams. Code to join: wfogmsx
