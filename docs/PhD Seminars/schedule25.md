@@ -57,13 +57,13 @@ This schedule is subject to changes. If you see typos or cannot be present on yo
     </tr>
     <!-- May -->
     <tr>
-        <td rowspan="2"></td>
+        <td rowspan="2"><a href="/assets/seminar-flyers/seminar_4.pdf" download>download</a></td>
         <td rowspan="2">Tue 6 May<br>14:30-15:30<br>Room TBD</td>
-        <td>Roberto Di Via</td>
+        <td>Andrea Maffia</td>
         <td>TBA</td>
     </tr>
     <tr>
-        <td>Andrea Maffia</td>
+        <td>Roberto Di Via</td>
         <td>TBA</td>
     </tr>
     <tr>
