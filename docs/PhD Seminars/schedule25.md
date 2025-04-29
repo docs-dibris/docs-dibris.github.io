@@ -60,11 +60,11 @@ This schedule is subject to changes. If you see typos or cannot be present on yo
         <td rowspan="2"><a href="/assets/seminar-flyers/seminar_4.pdf" download>download</a></td>
         <td rowspan="2">Tue 6 May<br>14:30-15:30<br>Room TBD</td>
         <td>Andrea Maffia</td>
-        <td>TBA</td>
+        <td>Implementation and Evaluation of Multipath Mitigation Algorithm in GNSS PPK Using Smartphone Data in Urban Environments</td>
     </tr>
     <tr>
         <td>Roberto Di Via</td>
-        <td>TBA</td>
+        <td>Tackling Data Scarcity and Fairness in Automated X-ray Landmark Detection</td>
     </tr>
     <tr>
         <td rowspan="2"></td>
