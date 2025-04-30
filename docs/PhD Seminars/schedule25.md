@@ -15,6 +15,7 @@ All seminars are streamed on Microsoft Teams. Code to join: wfogmsx
 
 This schedule is subject to changes. If you see typos or cannot be present on your assigned date, please send an email to <a href="mailto:federico.sichetti@edu.unige.it">Federico</a>.
 
+We now have a public <a href="https://calendar.google.com/calendar/u/0?cid=NWNlNTFkZDlmNTJmYmI2NjU5NDQ3YjMxYzhkZTAzN2I2YTZhNmE0Yzk4ZDU0ZmY5ZDQ1NjA3NmJmYzgyZjRmMUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t">Google Calendar</a> with the seminar dates for your convenience.
 
 
 <table>
