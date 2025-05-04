@@ -31,9 +31,8 @@ Computer Science is a rapidly evolving field, constantly driven by innovation an
 
 The annual Computer Science Workshop is a key moment for our community to share ideas, present ongoing research, and foster collaborations. This year, we chose to maintain the successful two-day format introduced in last year’s edition, while also introducing new types of activities alongside the traditional keynote talks. These additions are meant to bring a fresh perspective to the event, encourage greater interaction, and keep the program diverse and engaging for all participants.
 
-The Workshop remains a valuable opportunity for students to get in touch with cutting-edge research and for researchers to explore new connections—within and beyond the boundaries of their own fields.
+The Workshop remains a valuable opportunity for students to get in touch with cutting-edge research and for researchers to explore new connections—within and beyond the boundaries of their own fields. However, this year’s edition pays special attention to Master's students, with the aim of encouraging their engagement with the world of research and the department’s ongoing activities. Students interested in obtaining AUK credits for attending the event can find all the relevant information in [the dedicated section](#additional-useful-knowledge-auk-credits-for-master-students).
 
-This year’s edition also pays special attention to Master's students, with the aim of encouraging their engagement with the world of research and the department’s ongoing activities. Students interested in obtaining AUK credits for attending the event can find all the relevant information in [the dedicated section](#additional-useful-knowledge-auk-credits-for-master-students).
 
 # Activities
 This year's edition will feature activities delivered by distinguished speakers:
@@ -43,7 +42,9 @@ This year's edition will feature activities delivered by distinguished speakers:
  - [Riccardo Marin](https://ricma.netlify.app/), Technical University of Munich
  - [Moreno Razzoli (Morrolinux)](https://morrolinux.it) Morrolinux.it
  - [Raffaele Rialdi](https://www.ugidotnet.org/autore/4991/Raffaele-Rialdi), Microsoft MVP, Vevy Europe, DotNetLiguria
+ - [Lorenzo Rosasco](https://dibris.unige.it/lorenzo.rosasco%40unige.it), University of Genoa
  - [Danilo Pani](https://sites.unica.it/medsp/danilo-pani/), University of Cagliari
+Additional information about the speakers and their activities can be found in the [schedule](#program) section.
 
 ## PhD Poster Session
 During lunch of the second day of the event, Computer Science and Systems Engineering PhD students will have a poster session to present their work to participants and speakers.
@@ -52,6 +53,8 @@ The poster session will be held during the lunch of Friday, May 30, in room 210,
 Posters will be set up in the room during the morning. Our staff will handle the setup of those printed by us. If you plan to print your poster in some other way, please be sure to hang it in the designated area within lunch time.
 
 ## Competitive Debate
+TBD
+
 
 # Program
 This year’s edition of the Computer Science Workshop will take place over the course of two days: Thursday, May 29, with activities scheduled in the afternoon, and Friday, May 30, featuring a full-day program.
@@ -129,6 +132,10 @@ A registration booth will be arranged at the 5th floor. There will be a registra
 - **Duration:** 30 minutes
 - **Location:** Room 505, 5th floor
 After a quick introduction to the second day of the CSW, we will welcome Lorenzo Rosasco, who will give a brief overview of the life of a researcher.
+
+#### Lorenzo's Bio
+<img src="https://rubrica.unige.it/static/foto/UkNHXVxs.jpg?1746373530.704" style="display: block; max-height: 150px;">
+TBD
 
 ### Keynote - TBD by Annalisa barla
 - **Start time:** 10:00 AM
