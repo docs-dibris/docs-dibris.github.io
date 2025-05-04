@@ -25,7 +25,7 @@ nav_order: 6
 {: .text-center }
 
 ## Motivation and goals
-The DoCS group is pleased to announce the 6th edition of the Computer Science Workshop (CSW), which will take place on May 29th and 30th, 2025, at the DIBRIS (Valletta Puggia) campus of the University of Genoa.
+The DoCS group is pleased to announce the sixth edition of the Computer Science Workshop (CSW), which will take place this year on May 29th and 30th at the Valletta Puggia building of the DIBRIS department, at the University of Genoa.
 
 Computer Science is a rapidly evolving field, constantly driven by innovation and interdisciplinary challenges. At the University of Genoa, our department is active in a wide range of research areas, including Virtual and Augmented Reality, Multi-Agent Systems, Data Management, Geometric Modeling, Cybersecurity, Machine Learning, Programming Languages, Logic, Computer Vision, Software Engineering, Artificial Intelligence, and more.
 
@@ -207,7 +207,6 @@ TBD
 - **Location:** Room 505, 5th floor
 
 Closing of the event, acknowledgments, and farewells.
-
 
 # Additional information
 Participation is free of charge and open to everyone, but registration is required.
