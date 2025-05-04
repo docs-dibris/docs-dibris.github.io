@@ -5,8 +5,9 @@ parent: Computer Science Workshop
 nav_order: 6
 ---
 
-# CSW 2025
+[registration]: https://www.google.com
 
+# CSW 2025
 <img src="/assets/images/csw_logo_light_25.svg" style="display: block; margin: 0 auto; max-width: 300px;">
 
 <div align="center">
@@ -24,7 +25,6 @@ nav_order: 6
 {: .text-center }
 
 ## Motivation and goals
-
 The DoCS group is pleased to announce the 6th edition of the Computer Science Workshop (CSW), which will take place on May 29th and 30th, 2025, at the DIBRIS (Valletta Puggia) campus of the University of Genoa.
 
 Computer Science is a rapidly evolving field, constantly driven by innovation and interdisciplinary challenges. At the University of Genoa, our department is active in a wide range of research areas, including Virtual and Augmented Reality, Multi-Agent Systems, Data Management, Geometric Modeling, Cybersecurity, Machine Learning, Programming Languages, Logic, Computer Vision, Software Engineering, Artificial Intelligence, and more.
@@ -35,6 +35,8 @@ The Workshop remains a valuable opportunity for students to get in touch with cu
 
 
 # Activities
+
+## Keynotes, Hands-on, Panel
 This year's edition will feature activities delivered by distinguished speakers:
  - [Annalisa Barla](https://dibris.unige.it/annalisa.barla%40unige.it), University of Genova
  - [Matteo Dell'Amico](https://dibris.unige.it/matteo.dellamico%40unige.it), University of Genoa
@@ -45,7 +47,7 @@ This year's edition will feature activities delivered by distinguished speakers:
  - [Lorenzo Rosasco](https://dibris.unige.it/lorenzo.rosasco%40unige.it), University of Genoa
  - [Danilo Pani](https://sites.unica.it/medsp/danilo-pani/), University of Cagliari
 
-Additional information about the speakers and their activities can be found in the [schedule](#program) section.
+Additional information about the speakers and their activities can be found in the [program](#program) section.
 
 ## PhD Poster Session
 During lunch of the second day of the event, Computer Science and Systems Engineering PhD students will have a poster session to present their work to participants and speakers.
@@ -62,18 +64,20 @@ This year’s edition of the Computer Science Workshop will take place over the 
 
 A variety of sessions and formats will follow one another throughout the event, offering opportunities for in-depth discussion, exchange of ideas, and discovery. The full schedule is outlined below, with details provided for each day.
 
-## Thursday, May 29
+## --- Thursday, May 29 ---
 
 ### Registration
 - **Start time:** 1:30 PM
 - **Duration:** 1 hour
 - **Location:** DIBRIS corridor, 5th floor
+
 A registration booth will be arranged at the 5th floor. There will be a registration desk where you can pick up your badge.
 
 ### Welcome
 - **Start time:** 2:00 PM
 - **Duration:** 30 minutes
 - **Location:** Room 505, 5th floor
+
 Welcome and introduction to the CSW. The DoCS team will also present itself and their activities.
 
 ### Keynote - TBD by Jesús Gutiérrez
@@ -118,20 +122,23 @@ TBD
 - **Start time:** 5:00 PM
 - **Duration:** TBD
 - **Location:** Room 505, 5th floor
+
 Final remarks and thanks. This is the moment when team roles for Friday’s activity will be announced.
 
-## Friday, May 30
+## --- Friday, May 30 ---
 
 ### Registration
 - **Start time:** 9:00 AM
 - **Duration:** 1 hour
 - **Location:** DIBRIS corridor, 5th floor
+
 A registration booth will be arranged at the 5th floor. There will be a registration desk where you can pick up your badge.
 
 ### Welcome + TBD by Lorenzo Rosasco
 - **Start time:** 9:30 AM
 - **Duration:** 30 minutes
 - **Location:** Room 505, 5th floor
+
 After a quick introduction to the second day of the CSW, we will welcome Lorenzo Rosasco, who will give a brief overview of the life of a researcher.
 
 #### Lorenzo's Bio
@@ -167,7 +174,7 @@ TBD
 TBD
 
 ### Lunch (catered) + Poster Session
-- **Start time:** 1:00 Program
+- **Start time:** 1:00 PM
 - **Duration:** 1 hour
 - **Location:** Room 210, 2nd floor
 
@@ -198,6 +205,7 @@ TBD
 - **Start time:** 5:30 PM
 - **Duration:** 15 minutes
 - **Location:** Room 505, 5th floor
+
 Closing of the event, acknowledgments, and farewells.
 
 
@@ -215,7 +223,3 @@ To this end, students whose study plan includes the acquisition of AUK credits w
 Students will be required to demonstrate their attendance, and credits will be awarded only to those who attend all activities, with the exception of at most one session. Participation in the debate is mandatory.
 
 After the event, eligible students will be notified via email regarding the proper registration of the acquired credits.
-
-
-
-[registration]: https://www.google.com
