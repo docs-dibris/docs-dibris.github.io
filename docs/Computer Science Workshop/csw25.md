@@ -36,14 +36,14 @@ The Workshop remains a valuable opportunity for students to get in touch with cu
 This year’s edition also pays special attention to Master's students, with the aim of encouraging their engagement with the world of research and the department’s ongoing activities. Students interested in obtaining AUK credits for attending the event can find all the relevant information in [the dedicated section](##Additional-Useful-Knowledge-(AUK)-credits-for-Master-Students)).
 
 # Activities
-This year's edition will feature six keynotes by distinguished researchers from Italian and foreign Universities:
-
- - [Piotr Falizewski](https://home.agh.edu.pl/~faliszew/), AGH University of Science and Technology, Krakow
- - [Giovanni Maria Farinella](https://web.dmi.unict.it/docenti/giovanni.maria.farinella), University of Catania
- - [Michael Fisher](https://personalpages.manchester.ac.uk/staff/michael.fisher/), University of Manchester
- - [Mikhail Fominykh](https://www.ntnu.edu/employees/mikhail.fominykh), Norwegian University of Science and Technology, Trondheim
- - [Daniela Giorgi](), National Research Council - Institute of Information Science and Technologies, Pisa
- - [Marco Polignano](https://scholar.google.it/citations?user=sjQSYGQAAAAJ&hl=it), University of Bari
+This year's edition will feature activities delivered by distinguished speakers:
+ - [Annalisa Barla](https://dibris.unige.it/annalisa.barla%40unige.it), University of Genova
+ - [Matteo Dell'Amico](https://dibris.unige.it/matteo.dellamico%40unige.it), University of Genoa
+ - [Jesús Gutiérrez](https://www.gti.ssr.upm.es/jesus-gutierrez), Universidad Politécnica de Madrid
+ - [Riccardo Marin](https://ricma.netlify.app/), Technical University of Munich
+ - [Moreno Razzoli (Morrolinux)](https://morrolinux.it) Morrolinux.it
+ - [Raffaele Rialdi](https://www.ugidotnet.org/autore/4991/Raffaele-Rialdi), Microsoft MVP, Vevy Europe, DotNetLiguria
+ - [Danilo Pani](https://sites.unica.it/medsp/danilo-pani/), University of Cagliari
 
 ## PhD Poster Session
 During lunch of the second day of the event, Computer Science and Systems Engineering PhD students will have a poster session to present their work to participants and speakers.
