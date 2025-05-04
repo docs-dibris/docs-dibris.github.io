@@ -33,7 +33,7 @@ The annual Computer Science Workshop is a key moment for our community to share 
 
 The Workshop remains a valuable opportunity for students to get in touch with cutting-edge research and for researchers to explore new connections—within and beyond the boundaries of their own fields.
 
-This year’s edition also pays special attention to Master's students, with the aim of encouraging their engagement with the world of research and the department’s ongoing activities. Students interested in obtaining AUK credits for attending the event can find all the relevant information in [the dedicated section](##Additional-Useful-Knowledge-(AUK)-credits-for-Master-Students)).
+This year’s edition also pays special attention to Master's students, with the aim of encouraging their engagement with the world of research and the department’s ongoing activities. Students interested in obtaining AUK credits for attending the event can find all the relevant information in [the dedicated section](#additional-useful-knowledge-auk-credits-for-master-students).
 
 # Activities
 This year's edition will feature activities delivered by distinguished speakers:
@@ -51,6 +51,8 @@ The poster session will be held during the lunch of Friday, May 30, in room 210,
 
 Posters will be set up in the room during the morning. Our staff will handle the setup of those printed by us. If you plan to print your poster in some other way, please be sure to hang it in the designated area within lunch time.
 
+## Competitive Debate
+
 # Program
 This year’s edition of the Computer Science Workshop will take place over the course of two days: Thursday, May 29, with activities scheduled in the afternoon, and Friday, May 30, featuring a full-day program.
 
@@ -59,19 +61,19 @@ A variety of sessions and formats will follow one another throughout the event, 
 ## Thursday, May 29
 
 ### Registration
-- **Start time:** 13:30 PM
+- **Start time:** 1:30 PM
 - **Duration:** 1 hour
 - **Location:** DIBRIS corridor, 5th floor
 A registration booth will be arranged at the 5th floor. There will be a registration desk where you can pick up your badge.
 
 ### Welcome
-- **Start time:** 14:00 PM
+- **Start time:** 2:00 PM
 - **Duration:** 30 minutes
 - **Location:** Room 505, 5th floor
 Welcome and introduction to the CSW. The DoCS team will also present itself and their activities.
 
 ### Keynote - TBD by Jesús Gutiérrez
-- **Start time:** 14:30 PM
+- **Start time:** 2:30 PM
 - **Duration:** 1 hour
 - **Location:** Room 505, 5th floor
 
@@ -82,8 +84,13 @@ TBD
 <!-- <img src="/assets/images/people/CSW24/fominykh.jpg" style="display: block; max-height: 150px;"> -->
 TBD
 
+### Coffee Break (catered)
+- **Start time:** 3:30 PM
+- **Duration:** 15 minutes
+- **Location:** 5th floor
+
 ### Panel - TBD by Matteo Dell'Amico, Moreno Razzoli (Morrolinux), Raffaele Rialdi
-- **Start time:** 15:30 PM
+- **Start time:** 3:45 PM
 - **Duration:** 1 hour and 15 minutes
 - **Location:** Room 505, 5th floor
 
@@ -104,12 +111,86 @@ TBD
 TBD
 
 ### End of Day
-- **Start time:** 17:15
+- **Start time:** 5:00 PM
 - **Duration:** TBD
 - **Location:** Room 505, 5th floor
 Final remarks and thanks. This is the moment when team roles for Friday’s activity will be announced.
 
 ## Friday, May 30
+
+### Registration
+- **Start time:** 9:00 AM
+- **Duration:** 1 hour
+- **Location:** DIBRIS corridor, 5th floor
+A registration booth will be arranged at the 5th floor. There will be a registration desk where you can pick up your badge.
+
+### Welcome + TBD by Lorenzo Rosasco
+- **Start time:** 9:30 AM
+- **Duration:** 30 minutes
+- **Location:** Room 505, 5th floor
+After a quick introduction to the second day of the CSW, we will welcome Lorenzo Rosasco, who will give a brief overview of the life of a researcher.
+
+### Keynote - TBD by Annalisa barla
+- **Start time:** 10:00 AM
+- **Duration:** 1 hour
+- **Location:** Room 505, 5th floor
+
+#### Abstract
+TBD
+
+#### Annalisa's bio
+<img src="https://rubrica.unige.it/static/foto/UkNHU15t.jpg?1746371391.3473" style="display: block; max-height: 150px;">
+TBD
+
+### Coffee Break (catered)
+- **Start time:** 11:00 AM
+- **Duration:** 15 minutes
+- **Location:** 5th floor
+
+### Hands-On Session - TBD by Riccardo Marin
+- **Start time:** 11:15 AM
+- **Duration:** 1 hour and 45 minutes
+
+#### Abstract
+TBD
+
+#### Riccardo's bio
+<!-- <img src="https://rubrica.unige.it/static/foto/UkNHU15t.jpg?1746371391.3473" style="display: block; max-height: 150px;"> -->
+TBD
+
+### Lunch (catered) + Poster Session
+- **Start time:** 1:00 Program
+- **Duration:** 1 hour
+- **Location:** Room 210, 2nd floor
+
+### Hands-On Session - TBD by Danilo Pani
+- **Start time:** 2:00 PM
+- **Duration:** 2 hours
+- **Location:** Room 505, 5th floor
+
+#### Abstract
+TBD
+
+#### Danilo's bio
+TBD
+
+### Coffee Break (catered)
+- **Start time:** 4:00 PM
+- **Duration:** 15 minutes
+- **Location:** 5th floor
+
+### Competitive Debate - AI and Ethics
+- **Start time:** 4:15 PM
+- **Duration:** 1 hour
+- **Location:** Room 505, 5th floor
+
+TBD
+
+### End of Day
+- **Start time:** 5:30 PM
+- **Duration:** 15 minutes
+- **Location:** Room 505, 5th floor
+Closing of the event, acknowledgments, and farewells.
 
 
 # Additional information
