@@ -44,6 +44,7 @@ This year's edition will feature activities delivered by distinguished speakers:
  - [Raffaele Rialdi](https://www.ugidotnet.org/autore/4991/Raffaele-Rialdi), Microsoft MVP, Vevy Europe, DotNetLiguria
  - [Lorenzo Rosasco](https://dibris.unige.it/lorenzo.rosasco%40unige.it), University of Genoa
  - [Danilo Pani](https://sites.unica.it/medsp/danilo-pani/), University of Cagliari
+
 Additional information about the speakers and their activities can be found in the [schedule](#program) section.
 
 ## PhD Poster Session
