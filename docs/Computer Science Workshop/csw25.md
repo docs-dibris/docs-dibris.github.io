@@ -21,9 +21,9 @@ nav_order: 6
     <b><i>with the contribution of the University of Genoa</i></b>
     <br>
 </div>
-<span class="fs-8">
+<span class="fs-8" align="center">
 [Register here](https://forms.gle/F2cNJGpat6avP7MH6){: .btn .btn-purple}
-{: .text-center }
+<!-- {: .text-center } -->
 </span>
 
 ## Motivation and goals
