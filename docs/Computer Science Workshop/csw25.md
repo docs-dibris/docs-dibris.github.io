@@ -5,7 +5,7 @@ parent: Computer Science Workshop
 nav_order: 6
 ---
 
-[registration]: https://www.google.com
+[registration]: https://forms.gle/F2cNJGpat6avP7MH6
 
 # CSW 2025
 <img src="/assets/images/csw_logo_light_25.svg" style="display: block; margin: 0 auto; max-width: 300px;">
