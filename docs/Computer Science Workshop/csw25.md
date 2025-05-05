@@ -212,7 +212,7 @@ Closing of the event, acknowledgments, and farewells.
 
 # Additional information
 Participation is free of charge and open to everyone, but registration is required.
-You can register by clicking on the button under the CSW logo at the top of the page, or on [this link]([registration_url]).
+You can register by clicking on the button under the CSW logo at the top of the page, or on [this link][registration_url].
 
 Lunch and coffee breaks will be offered to all participants.
 
