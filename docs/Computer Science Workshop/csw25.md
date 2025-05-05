@@ -3,9 +3,9 @@ layout: default
 title: CSW 2025
 parent: Computer Science Workshop
 nav_order: 6
+registration_url: https://forms.gle/F2cNJGpat6avP7MH6
 ---
 
-[registration]: https://forms.gle/F2cNJGpat6avP7MH6
 
 # CSW 2025
 <img src="/assets/images/csw_logo_light_25.svg" style="display: block; margin: 0 auto; max-width: 300px;">
@@ -21,8 +21,10 @@ nav_order: 6
     <b><i>with the contribution of the University of Genoa</i></b>
     <br>
 </div>
-[Register here]([registration]){: .btn}
+<span class="fs-8">
+[Register here]({{registration_url}}){: .btn .btn-purple}
 {: .text-center }
+</span>
 
 ## Motivation and goals
 The DoCS group is pleased to announce the sixth edition of the Computer Science Workshop (CSW), which will take place this year on May 29th and 30th at the Valletta Puggia building of the DIBRIS department, at the University of Genoa.
@@ -210,7 +212,7 @@ Closing of the event, acknowledgments, and farewells.
 
 # Additional information
 Participation is free of charge and open to everyone, but registration is required.
-You can register by clicking on the button under the CSW logo at the top of the page, or on [this link][registration].
+You can register by clicking on the button under the CSW logo at the top of the page, or on [this link]({{registration_url}}).
 
 Lunch and coffee breaks will be offered to all participants.
 
