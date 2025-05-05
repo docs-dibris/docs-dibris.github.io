@@ -147,7 +147,7 @@ After a quick introduction to the second day of the CSW, we will welcome Lorenzo
 <img src="https://rubrica.unige.it/static/foto/UkNHXVxs.jpg?1746373530.704" style="display: block; max-height: 150px;">
 TBD
 
-### Keynote - <i>AI for All? Navigating Ethical Frontiers in Artificial Intelligence</i> by Annalisa barla
+### Keynote - <i>AI for All? Navigating Ethical Frontiers in Artificial Intelligence</i> by Annalisa Barla
 - **Start time:** 10:00 AM
 - **Duration:** 1 hour
 - **Location:** Room 505, 5th floor
