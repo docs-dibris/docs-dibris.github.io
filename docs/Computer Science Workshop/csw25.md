@@ -147,17 +147,21 @@ After a quick introduction to the second day of the CSW, we will welcome Lorenzo
 <img src="https://rubrica.unige.it/static/foto/UkNHXVxs.jpg?1746373530.704" style="display: block; max-height: 150px;">
 TBD
 
-### Keynote - TBD by Annalisa barla
+### Keynote - <i>AI for All? Navigating Ethical Frontiers in Artificial Intelligence</i> by Annalisa barla
 - **Start time:** 10:00 AM
 - **Duration:** 1 hour
 - **Location:** Room 505, 5th floor
 
 #### Abstract
-TBD
+Artificial intelligence promises to revolutionize our world, but as AI systems become deeply embedded in our lives – deciding who gets a loan, diagnosing diseases, or shaping our news – critical ethical questions arise.
+This talk moves beyond surface-level discussions of bias in algorithms to confront the deeper, often invisible, ethical challenges of real-world AI deployment.
+We'll explore how bias manifests not just in data, but in the very processes of annotation and representation, revealing the limitations of current techniques and illustrating how regulations may fix that.
 
 #### Annalisa's bio
 <img src="https://rubrica.unige.it/static/foto/UkNHU15t.jpg?1746371391.3473" style="display: block; max-height: 150px;">
-TBD
+Annalisa Barla received the master’s degree in Physics and the PhD degree in Computer Science from the University of Genoa, Genoa, Italy, in 2001 and 2005, respectively, working on kernel functions engineering for regularization methods in machine learning applied to image content understanding.
+She is currently an associate professor of computer science with the University of Genoa.
+Her main areas of interest are in the field of machine learning spanning from the study of robust and reproducible variable selection methods to the understanding and visualization of complex structured network data.
 
 ### Coffee Break (catered)
 - **Start time:** 11:00 AM
