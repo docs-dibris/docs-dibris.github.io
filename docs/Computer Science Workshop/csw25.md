@@ -20,11 +20,11 @@ nav_order: 6
     <br>
     <b><i>with the contribution of the University of Genoa</i></b>
     <br>
+    <span class="fs-8">
+    [Register here](https://forms.gle/F2cNJGpat6avP7MH6){: .btn .btn-purple}
+    {: .text-center }
+    </span>
 </div>
-<span class="fs-8" align="center">
-[Register here](https://forms.gle/F2cNJGpat6avP7MH6){: .btn .btn-purple}
-<!-- {: .text-center } -->
-</span>
 
 ## Motivation and goals
 The DoCS group is pleased to announce the sixth edition of the Computer Science Workshop (CSW), which will take place this year on May 29th and 30th at the Valletta Puggia building of the DIBRIS department, at the University of Genoa.
