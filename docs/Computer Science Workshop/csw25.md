@@ -21,7 +21,7 @@ nav_order: 6
     <b><i>with the contribution of the University of Genoa</i></b>
     <br>
 </div>
-[Register here](https://www.google.com){: .btn}
+[Register here]([registration]){: .btn}
 {: .text-center }
 
 ## Motivation and goals
