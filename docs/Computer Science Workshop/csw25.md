@@ -172,7 +172,7 @@ Her main areas of interest are in the field of machine learning spanning from th
 - **Start time:** 11:00 AM
 - **Duration:** 2 hours
 - **Location:** Room 505, 5th floor
-{: .prerequisites }
+{: .highlight }
 Basic knowledge of Python, fundamentals of deep learning. A notebook with a working Python environment is recommended.
 
 #### Abstract
