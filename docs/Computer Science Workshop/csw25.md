@@ -137,7 +137,7 @@ Final remarks and thanks. This is the moment when team roles for Friday’s acti
 A registration booth will be arranged at the 5th floor. There will be a registration desk where you can pick up your badge.
 
 ### Welcome + TBD by Lorenzo Rosasco
-- **Start time:** 9:30 AM
+- **Start time:** 9:15 AM
 - **Duration:** 30 minutes
 - **Location:** Room 505, 5th floor
 
@@ -147,8 +147,8 @@ After a quick introduction to the second day of the CSW, we will welcome Lorenzo
 <img src="https://rubrica.unige.it/static/foto/UkNHXVxs.jpg?1746373530.704" style="display: block; max-height: 150px;">
 TBD
 
-### Keynote - <i>AI for All? Navigating Ethical Frontiers in Artificial Intelligence</i> by Annalisa Barla
-- **Start time:** 10:00 AM
+### Keynote - _AI for All? Navigating Ethical Frontiers in Artificial Intelligence_ by Annalisa Barla
+- **Start time:** 9:45 AM
 - **Duration:** 1 hour
 - **Location:** Room 505, 5th floor
 
@@ -164,20 +164,33 @@ She is currently an associate professor of computer science with the University 
 Her main areas of interest are in the field of machine learning spanning from the study of robust and reproducible variable selection methods to the understanding and visualization of complex structured network data.
 
 ### Coffee Break (catered)
-- **Start time:** 11:00 AM
+- **Start time:** 10:45 AM
 - **Duration:** 15 minutes
 - **Location:** 5th floor
 
-### Hands-On Session - TBD by Riccardo Marin
-- **Start time:** 11:15 AM
-- **Duration:** 1 hour and 45 minutes
+### Hands-On Session - _From Points to Avatars: Processing 3D Data at the time of Metaverse_ by Riccardo Marin
+- **Start time:** 11:00 AM
+- **Duration:** 2 hours
+- **Location:** Room 505, 5th floor
+{: .note-title }
+> Prerequisites and and recommended materials
+>
+> Basic knowledge of Python, fundamentals of deep learning. A notebook with a working Python environment is recommended.
 
 #### Abstract
-TBD
+As humans, our 3D perception of the world is as natural as crucial.
+Understanding spatial relations, finding differences and similarities, and interacting with objects is at the core of almost every daily activity.
+But how can such intelligence be coded into a computer? With recent technological advances in 3D shape acquisitions and processing, the Computer Vision, Graphics, and Artificial Intelligence fields look for methods and representations that ease the reasoning on this structured data.
+Developing systems that perceive the physical world as we do would be terrific for all sorts of applications, from medicine to entertainment, from archeology to social humanities.
+But reasoning about geometry is not just about objects -- it is also about us. At the time of virtual and augmented reality, understanding 3D data is fundamental for a fair and comprehensive representation of our digitized identities.
+In this lecture, we will introduce the core ideas for working with geometrical information, discussing its role in (geometrical) deep learning, and provide the audience with code to visualize and process 3D data.
 
 #### Riccardo's bio
-<!-- <img src="https://rubrica.unige.it/static/foto/UkNHU15t.jpg?1746371391.3473" style="display: block; max-height: 150px;"> -->
-TBD
+<img src="/assets/images/people/CSW25/marin.png" style="display: block; max-height: 150px;">
+Riccardo is a postdoc researcher at the Computer Vision Group of the Technical University of Munich (TUM), part of the Munich Center for Machine Learning (MCML), and member of the European Laboratory for Learning and Intelligent Systems (ELLIS).
+Previously, he has been a Marie-Curie postdoc at the University of Tubingen, and a postdoc at Sapienza University of Rome.
+Riccardo obtained his PhD from University of Verona, collecting the Best PhD Thesis Award in Computer Graphics from the Italian Chapter of EuroGraphics.
+His reasearch focus on 3D Geometry Processing, Spectral Shape Analysis, and in particular on Shape Matching and Virtual Humans applications.
 
 ### Lunch (catered) + Poster Session
 - **Start time:** 1:00 PM
@@ -188,6 +201,10 @@ TBD
 - **Start time:** 2:00 PM
 - **Duration:** 2 hours
 - **Location:** Room 505, 5th floor
+{: .note-title }
+> Prerequisites and and recommended materials
+>
+> Basic knowledge of Matlab. A notebook with a working Matlab/Octave install is recommended.
 
 #### Abstract
 TBD
