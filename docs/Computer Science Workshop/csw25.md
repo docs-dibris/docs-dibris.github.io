@@ -173,7 +173,7 @@ Her main areas of interest are in the field of machine learning spanning from th
 - **Duration:** 2 hours
 - **Location:** Room 505, 5th floor
 
-{: .highlight }
+{: .prerequisites }
 Basic knowledge of Python, fundamentals of deep learning. A notebook with a working Python environment is recommended.
 
 #### Abstract
@@ -200,6 +200,7 @@ His reasearch focus on 3D Geometry Processing, Spectral Shape Analysis, and in p
 - **Start time:** 2:00 PM
 - **Duration:** 2 hours
 - **Location:** Room 505, 5th floor
+
 {: .prerequisites }
 Basic knowledge of Matlab. A notebook with a working Matlab/Octave install is recommended.
 
