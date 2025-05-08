@@ -82,17 +82,25 @@ A registration booth will be arranged at the 5th floor. There will be a registra
 
 Welcome and introduction to the CSW. The DoCS team will also present itself and their activities.
 
-### Keynote - TBD by Jesús Gutiérrez
+### Keynote - _Evaluating (quality of) user experiences with immersive technologies_ by Jesús Gutiérrez
 - **Start time:** 2:30 PM
 - **Duration:** 1 hour
 - **Location:** Room 505, 5th floor
 
 #### Abstract
-TBD
+The emergence of immersive media technologies is providing to the users new interactive experiences, which allow a more natural and complete exploration of the represented content in comparison with previous audiovisual technologies.
+These innovative solutions entail novel perceptual and technical factors that should be extensively studied to support an adequate and inclusive development of technology so it meets the expectations and demands of all users.
+In this sense, this talk provides an overview on the evaluation of the quality of user experiences with immersive technologies, primarily by subjective tests.
+Specifically, a set of examples will be presented, covering the evaluation of different use cases of immersive technologies with different level of interaction (e.g., 360-degree video, virtual reality, immersive communications, etc.).
 
 #### Jesús' bio
-<!-- <img src="/assets/images/people/CSW24/fominykh.jpg" style="display: block; max-height: 150px;"> -->
-TBD
+<img src="/assets/images/people/CSW25/gutierrez.jpg" style="display: block; max-height: 150px;">
+Jesús Gutiérrez is Assosiate Professor at the Grupo de Tratamiento de Imágenes (GTI, Image Processing Group) of the Universidad Politécnica de Madrid (UPM), Spain.
+He received the Telecommunication Engineering degree from the Universidad Politécnica de Valencia (Spain) in 2008, the master’s degree in Communications Technologies and Systems in 2011, and the Ph.D. degree in Telecommunication in 2016, both from the UPM.
+From 2016 to 2019 he was a Marie Curie post-doctoral researcher at the Image, Perception and Interaction (IPI) group of the Université de Nantes (France).
+From 2020 to 2022 he was a Juan de la Cierva post-doctoral researcher at GTI of the UPM and then he served as Assistant Professor until 2024.
+His research interests are in the area of image and video processing, evaluation of user quality of experience, immersive media technologies, and visual attention and human perception.
+Currently, he is the chair of Immersive Media Group (IMG) of the Video Quality Experts Group (VQEG).
 
 ### Coffee Break (catered)
 - **Start time:** 3:30 PM
