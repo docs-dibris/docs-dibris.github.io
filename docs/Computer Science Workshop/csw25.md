@@ -82,7 +82,7 @@ A registration booth will be arranged at the 5th floor. There will be a registra
 
 Welcome and introduction to the CSW. The DoCS team will also present itself and their activities.
 
-### Keynote - _Evaluating (quality of) user experiences with immersive technologies_ by Jesús Gutiérrez
+### Keynote - _Evaluating (quality of) user experiences with immersive technologies_ by __Jesús Gutiérrez__
 - **Start time:** 2:30 PM
 - **Duration:** 1 hour
 - **Location:** Room 505, 5th floor
@@ -95,7 +95,7 @@ Specifically, a set of examples will be presented, covering the evaluation of di
 
 #### Jesús' bio
 <img src="/assets/images/people/CSW25/gutierrez.jpg" style="display: block; max-height: 150px;">
-Jesús Gutiérrez is Assosiate Professor at the Grupo de Tratamiento de Imágenes (GTI, Image Processing Group) of the Universidad Politécnica de Madrid (UPM), Spain.
+Jesús Gutiérrez is Associate Professor at the Grupo de Tratamiento de Imágenes (GTI, Image Processing Group) of the Universidad Politécnica de Madrid (UPM), Spain.
 He received the Telecommunication Engineering degree from the Universidad Politécnica de Valencia (Spain) in 2008, the master’s degree in Communications Technologies and Systems in 2011, and the Ph.D. degree in Telecommunication in 2016, both from the UPM.
 From 2016 to 2019 he was a Marie Curie post-doctoral researcher at the Image, Perception and Interaction (IPI) group of the Université de Nantes (France).
 From 2020 to 2022 he was a Juan de la Cierva post-doctoral researcher at GTI of the UPM and then he served as Assistant Professor until 2024.
@@ -107,7 +107,7 @@ Currently, he is the chair of Immersive Media Group (IMG) of the Video Quality E
 - **Duration:** 15 minutes
 - **Location:** 5th floor
 
-### Panel - TBD by Matteo Dell'Amico, Moreno Razzoli (Morrolinux), Raffaele Rialdi
+### Panel - TBD by __Matteo Dell'Amico__, __Moreno Razzoli (Morrolinux)__, __Raffaele Rialdi__
 - **Start time:** 3:45 PM
 - **Duration:** 1 hour and 15 minutes
 - **Location:** Room 505, 5th floor
@@ -144,7 +144,7 @@ Final remarks and thanks. This is the moment when team roles for Friday’s acti
 
 A registration booth will be arranged at the 5th floor. There will be a registration desk where you can pick up your badge.
 
-### Welcome + TBD by Lorenzo Rosasco
+### Welcome + TBD by __Lorenzo Rosasco__
 - **Start time:** 9:15 AM
 - **Duration:** 30 minutes
 - **Location:** Room 505, 5th floor
@@ -155,7 +155,7 @@ After a quick introduction to the second day of the CSW, we will welcome Lorenzo
 <img src="https://rubrica.unige.it/static/foto/UkNHXVxs.jpg?1746373530.704" style="display: block; max-height: 150px;">
 TBD
 
-### Keynote - _AI for All? Navigating Ethical Frontiers in Artificial Intelligence_ by Annalisa Barla
+### Keynote - _AI for All? Navigating Ethical Frontiers in Artificial Intelligence_ by __Annalisa Barla__
 - **Start time:** 9:45 AM
 - **Duration:** 1 hour
 - **Location:** Room 505, 5th floor
@@ -176,7 +176,7 @@ Her main areas of interest are in the field of machine learning spanning from th
 - **Duration:** 15 minutes
 - **Location:** 5th floor
 
-### Hands-On Session - _From Points to Avatars: Processing 3D Data at the time of Metaverse_ by Riccardo Marin
+### Hands-On Session - _From Points to Avatars: Processing 3D Data at the time of Metaverse_ by __Riccardo Marin__
 - **Start time:** 11:00 AM
 - **Duration:** 2 hours
 - **Location:** Room 505, 5th floor
@@ -204,7 +204,7 @@ His reasearch focus on 3D Geometry Processing, Spectral Shape Analysis, and in p
 - **Duration:** 1 hour
 - **Location:** Room 210, 2nd floor
 
-### Hands-On Session - TBD by Danilo Pani
+### Hands-On Session - TBD by __Danilo Pani__
 - **Start time:** 2:00 PM
 - **Duration:** 2 hours
 - **Location:** Room 505, 5th floor
