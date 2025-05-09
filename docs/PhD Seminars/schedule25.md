@@ -8,7 +8,7 @@ nav_order: 4
 # Seminars schedule 2025
 
 {: .highlight }
-The next meeting is scheduled for **Lorenzo Gerini** and **Anna Khristodulo**'s seminars, on **Tuesday, May 13** at 14:30 in Room 217.
+The next meeting is scheduled for **Lorenzo Gerini**'s seminar, on **Tuesday, May 13** at 14:30 in Room 217.
 
 {: .note }
 All seminars are streamed on Microsoft Teams. Code to join: wfogmsx
@@ -68,14 +68,10 @@ We now have a public <a href="https://calendar.google.com/calendar/u/0?cid=NWNlN
         <td>Tackling Data Scarcity and Fairness in Automated X-ray Landmark Detection</td>
     </tr>
     <tr>
-        <td rowspan="2"></td>
-        <td rowspan="2">Tue 13 May<br>14:30-15:30<br>Room 217</td>
+        <td rowspan="2"><a href="/assets/seminar-flyers/seminar_5.pdf" download>download</a></td>
+        <td rowspan="2">Tue 13 May<br>14:30-15:00<br>Room 217</td>
         <td>Lorenzo Gerini</td>
         <td>Exploring the Impact of Virtual Reality in Assessing Spatial Abilities</td>
-    </tr>
-    <tr>
-        <td>Anna Khristodulo</td>
-        <td>TBA</td>
     </tr>
     <tr>
         <td rowspan="2"></td>
