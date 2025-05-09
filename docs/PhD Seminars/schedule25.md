@@ -68,8 +68,8 @@ We now have a public <a href="https://calendar.google.com/calendar/u/0?cid=NWNlN
         <td>Tackling Data Scarcity and Fairness in Automated X-ray Landmark Detection</td>
     </tr>
     <tr>
-        <td rowspan="2"><a href="/assets/seminar-flyers/seminar_5.pdf" download>download</a></td>
-        <td rowspan="2">Tue 13 May<br>14:30-15:00<br>Room 217</td>
+        <td rowspan="1"><a href="/assets/seminar-flyers/seminar_5.pdf" download>download</a></td>
+        <td rowspan="1">Tue 13 May<br>14:30-15:00<br>Room 217</td>
         <td>Lorenzo Gerini</td>
         <td>Exploring the Impact of Virtual Reality in Assessing Spatial Abilities</td>
     </tr>
