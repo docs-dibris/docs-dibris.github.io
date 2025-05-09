@@ -82,24 +82,32 @@ A registration booth will be arranged at the 5th floor. There will be a registra
 
 Welcome and introduction to the CSW. The DoCS team will also present itself and their activities.
 
-### Keynote - TBD by Jesús Gutiérrez
+### Keynote - _Evaluating (quality of) user experiences with immersive technologies_ by __Jesús Gutiérrez__
 - **Start time:** 2:30 PM
 - **Duration:** 1 hour
 - **Location:** Room 505, 5th floor
 
 #### Abstract
-TBD
+The emergence of immersive media technologies is providing to the users new interactive experiences, which allow a more natural and complete exploration of the represented content in comparison with previous audiovisual technologies.
+These innovative solutions entail novel perceptual and technical factors that should be extensively studied to support an adequate and inclusive development of technology so it meets the expectations and demands of all users.
+In this sense, this talk provides an overview on the evaluation of the quality of user experiences with immersive technologies, primarily by subjective tests.
+Specifically, a set of examples will be presented, covering the evaluation of different use cases of immersive technologies with different level of interaction (e.g., 360-degree video, virtual reality, immersive communications, etc.).
 
 #### Jesús' bio
-<!-- <img src="/assets/images/people/CSW24/fominykh.jpg" style="display: block; max-height: 150px;"> -->
-TBD
+<img src="/assets/images/people/CSW25/gutierrez.jpg" style="display: block; max-height: 150px;">
+Jesús Gutiérrez is Associate Professor at the Grupo de Tratamiento de Imágenes (GTI, Image Processing Group) of the Universidad Politécnica de Madrid (UPM), Spain.
+He received the Telecommunication Engineering degree from the Universidad Politécnica de Valencia (Spain) in 2008, the master’s degree in Communications Technologies and Systems in 2011, and the Ph.D. degree in Telecommunication in 2016, both from the UPM.
+From 2016 to 2019 he was a Marie Curie post-doctoral researcher at the Image, Perception and Interaction (IPI) group of the Université de Nantes (France).
+From 2020 to 2022 he was a Juan de la Cierva post-doctoral researcher at GTI of the UPM and then he served as Assistant Professor until 2024.
+His research interests are in the area of image and video processing, evaluation of user quality of experience, immersive media technologies, and visual attention and human perception.
+Currently, he is the chair of Immersive Media Group (IMG) of the Video Quality Experts Group (VQEG).
 
 ### Coffee Break (catered)
 - **Start time:** 3:30 PM
 - **Duration:** 15 minutes
 - **Location:** 5th floor
 
-### Panel - TBD by Matteo Dell'Amico, Moreno Razzoli (Morrolinux), Raffaele Rialdi
+### Panel - TBD by __Matteo Dell'Amico__, __Moreno Razzoli (Morrolinux)__, __Raffaele Rialdi__
 - **Start time:** 3:45 PM
 - **Duration:** 1 hour and 15 minutes
 - **Location:** Room 505, 5th floor
@@ -136,8 +144,8 @@ Final remarks and thanks. This is the moment when team roles for Friday’s acti
 
 A registration booth will be arranged at the 5th floor. There will be a registration desk where you can pick up your badge.
 
-### Welcome + TBD by Lorenzo Rosasco
-- **Start time:** 9:30 AM
+### Welcome + TBD by __Lorenzo Rosasco__
+- **Start time:** 9:15 AM
 - **Duration:** 30 minutes
 - **Location:** Room 505, 5th floor
 
@@ -147,8 +155,8 @@ After a quick introduction to the second day of the CSW, we will welcome Lorenzo
 <img src="https://rubrica.unige.it/static/foto/UkNHXVxs.jpg?1746373530.704" style="display: block; max-height: 150px;">
 TBD
 
-### Keynote - <i>AI for All? Navigating Ethical Frontiers in Artificial Intelligence</i> by Annalisa Barla
-- **Start time:** 10:00 AM
+### Keynote - _AI for All? Navigating Ethical Frontiers in Artificial Intelligence_ by __Annalisa Barla__
+- **Start time:** 9:45 AM
 - **Duration:** 1 hour
 - **Location:** Room 505, 5th floor
 
@@ -164,30 +172,45 @@ She is currently an associate professor of computer science with the University 
 Her main areas of interest are in the field of machine learning spanning from the study of robust and reproducible variable selection methods to the understanding and visualization of complex structured network data.
 
 ### Coffee Break (catered)
-- **Start time:** 11:00 AM
+- **Start time:** 10:45 AM
 - **Duration:** 15 minutes
 - **Location:** 5th floor
 
-### Hands-On Session - TBD by Riccardo Marin
-- **Start time:** 11:15 AM
-- **Duration:** 1 hour and 45 minutes
+### Hands-On Session - _From Points to Avatars: Processing 3D Data at the time of Metaverse_ by __Riccardo Marin__
+- **Start time:** 11:00 AM
+- **Duration:** 2 hours
+- **Location:** Room 505, 5th floor
+
+{: .prerequisites }
+Basic knowledge of Python, fundamentals of deep learning. A notebook with a working Python environment is recommended.
 
 #### Abstract
-TBD
+As humans, our 3D perception of the world is as natural as crucial.
+Understanding spatial relations, finding differences and similarities, and interacting with objects is at the core of almost every daily activity.
+But how can such intelligence be coded into a computer? With recent technological advances in 3D shape acquisitions and processing, the Computer Vision, Graphics, and Artificial Intelligence fields look for methods and representations that ease the reasoning on this structured data.
+Developing systems that perceive the physical world as we do would be terrific for all sorts of applications, from medicine to entertainment, from archeology to social humanities.
+But reasoning about geometry is not just about objects -- it is also about us. At the time of virtual and augmented reality, understanding 3D data is fundamental for a fair and comprehensive representation of our digitized identities.
+In this lecture, we will introduce the core ideas for working with geometrical information, discussing its role in (geometrical) deep learning, and provide the audience with code to visualize and process 3D data.
 
 #### Riccardo's bio
-<!-- <img src="https://rubrica.unige.it/static/foto/UkNHU15t.jpg?1746371391.3473" style="display: block; max-height: 150px;"> -->
-TBD
+<img src="/assets/images/people/CSW25/marin.png" style="display: block; max-height: 150px;">
+Riccardo is a postdoc researcher at the Computer Vision Group of the Technical University of Munich (TUM), part of the Munich Center for Machine Learning (MCML), and member of the European Laboratory for Learning and Intelligent Systems (ELLIS).
+Previously, he has been a Marie-Curie postdoc at the University of Tubingen, and a postdoc at Sapienza University of Rome.
+Riccardo obtained his PhD from University of Verona, collecting the Best PhD Thesis Award in Computer Graphics from the Italian Chapter of EuroGraphics.
+His reasearch focus on 3D Geometry Processing, Spectral Shape Analysis, and in particular on Shape Matching and Virtual Humans applications.
 
 ### Lunch (catered) + Poster Session
 - **Start time:** 1:00 PM
 - **Duration:** 1 hour
 - **Location:** Room 210, 2nd floor
 
-### Hands-On Session - TBD by Danilo Pani
+### Hands-On Session - TBD by __Danilo Pani__
 - **Start time:** 2:00 PM
 - **Duration:** 2 hours
 - **Location:** Room 505, 5th floor
+
+{: .prerequisites }
+Basic knowledge of Matlab. A notebook with a working Matlab/Octave install is recommended.
 
 #### Abstract
 TBD

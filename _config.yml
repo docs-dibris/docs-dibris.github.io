@@ -8,26 +8,28 @@ logo: "/assets/images/docs-grad.png"
 favicon-ico: "/favicon.ico"
 search_enabled: false
 
-
 callouts:
-  highlight:
-    title:
-    color: yellow
-  new:
-    title: New!
-    color: green
-  important:
-    title: Important
-    color: blue
-  warning:
-    title: Warning
-    color: red
-  note:
-    title: Note
-    color: purple
+    highlight:
+        title:
+        color: yellow
+    new:
+        title: New!
+        color: green
+    important:
+        title: Important
+        color: blue
+    warning:
+        title: Warning
+        color: red
+    note:
+        title: Note
+        color: purple
+    prerequisites:
+        title: "Prerequisites and and recommended materials"
+        color: yellow
 
 aux_links:
-  Follow us on Instagram!: https://www.instagram.com/docs.dibris/
+    Follow us on Instagram!: https://www.instagram.com/docs.dibris/
 
 ga_tracking: UA-2709176-10
 ga_tracking_anonymize_ip: true
