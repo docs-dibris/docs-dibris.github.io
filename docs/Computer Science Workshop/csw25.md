@@ -207,19 +207,35 @@ His reasearch focus on 3D Geometry Processing, Spectral Shape Analysis, and in p
 - **Duration:** 1 hour
 - **Location:** Room 210, 2nd floor
 
-### Hands-On Session - TBD by __Danilo Pani__
+### Hands-On Session - _Basic biomedical signal processing case studies: fundamentals, traps, and tricks_ by __Danilo Pani__
 - **Start time:** 2:00 PM
 - **Duration:** 2 hours
 - **Location:** Room 505, 5th floor
 
 {: .prerequisites }
-Basic knowledge of Matlab. A notebook with a working Matlab/Octave install is recommended.
+Basic knowledge of Matlab. A notebook with a MATLAB installation is recommended, equipped with _Statistical Toolbox_, _Signal Processing Toolbox_, _Curve Fitting Toolbox_, and _Wavelet Toolbox_.
+<u>Unige offers a free education license for MATLAB, available [at this page](https://it.mathworks.com/academia/tah-portal/universita-degli-studi-di-genova-955525.html) logging in using UnigePass credentials.</u>
 
 #### Abstract
-TBD
+In this hands-on session, you'll dive into biomedical signals that are primarily encountered in non-clinical applications, such as human-computer interfaces, neuromarketing, and biofeedback.
+We'll begin by refreshing the fundamentals of signal analysis, including Fourier analysis and sampling.
+Then, using a case-study approach, we'll process common biomedical signals, aiming to uncover the main traps and the tricks to overcome them.
+We'll also explore how one signal can be derived from another by exploiting the interrelations between physiological systems.
+Due to practical considerations and time constraints, we will mainly focus on electrophysiological signals (ExG).
+This journey will start in the time domain and move into the frequency and Z domains.
+We will use MATLAB to design and apply signal analysis and processing techniques.
 
 #### Danilo's bio
-TBD
+<img src="/assets/images/people/CSW25/pani.png" style="display: block; max-height: 150px;">
+Prof. Danilo Pani is Associate professor of Biomedical Engineering at the Department of Electrical and Electronic Engineering of the University of Cagliari, where he is coordinator of the integrated BSc and MSc program in Biomedical Engineering.
+He teaches biomedical signal processing (basic and advanced) and biomedical instrumentation.
+He leads the Medical Devices and Signal Processing (MeDSP.it), a biomedical engineering lab specialized in advanced biomedical signal processing, applied machine learning, and the development of medical devices and systems.
+
+His research interests include cardiac electrophysiology, fetal electrocardiography, digital biomarkers, wearable sensors and systems for health monitoring and advanced human-computer interfaces, neurorehabilitation, and telemedicine.
+Prof. Pani is a senior member of the IEEE.
+He has been co-founder and treasurer of the Italian Chapter of the IEEE Sensors Council and member of the Board of Directors of the Italian National Bioengineering Group (GNB).
+He is appointed expert in the UNINFO Commission for Health Informatics and Italian expert in the Technical Committee 251 of CEN, Working Group 2, and member of IEEE EMB TC on Therapeutic & Diagnostic Systems and Technologies.
+He is author of more than 140 indexed scientific publications and 6 patents.
 
 ### Coffee Break (catered)
 - **Start time:** 4:00 PM
