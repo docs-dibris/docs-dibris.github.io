@@ -214,7 +214,8 @@ His reasearch focus on 3D Geometry Processing, Spectral Shape Analysis, and in p
 
 {: .prerequisites }
 Basic knowledge of Matlab. A notebook with a MATLAB installation is recommended, equipped with _Statistical Toolbox_, _Signal Processing Toolbox_, _Curve Fitting Toolbox_, and _Wavelet Toolbox_.
-<u>Unige offers a free education license for MATLAB, available [at this page](https://it.mathworks.com/academia/tah-portal/universita-degli-studi-di-genova-955525.html) logging in using UnigePass credentials.</u>
+<br>
+<u>Unige offers a free education license for MATLAB, available <a href="https://it.mathworks.com/academia/tah-portal/universita-degli-studi-di-genova-955525.html">at this page</a> logging in using UnigePass credentials.</u>
 
 #### Abstract
 In this hands-on session, you'll dive into biomedical signals that are primarily encountered in non-clinical applications, such as human-computer interfaces, neuromarketing, and biofeedback.
@@ -226,7 +227,7 @@ This journey will start in the time domain and move into the frequency and Z dom
 We will use MATLAB to design and apply signal analysis and processing techniques.
 
 #### Danilo's bio
-<img src="/assets/images/people/CSW25/pani.png" style="display: block; max-height: 150px;">
+<img src="/assets/images/people/CSW25/pani.jpg" style="display: block; max-height: 150px;">
 Prof. Danilo Pani is Associate professor of Biomedical Engineering at the Department of Electrical and Electronic Engineering of the University of Cagliari, where he is coordinator of the integrated BSc and MSc program in Biomedical Engineering.
 He teaches biomedical signal processing (basic and advanced) and biomedical instrumentation.
 He leads the Medical Devices and Signal Processing (MeDSP.it), a biomedical engineering lab specialized in advanced biomedical signal processing, applied machine learning, and the development of medical devices and systems.
