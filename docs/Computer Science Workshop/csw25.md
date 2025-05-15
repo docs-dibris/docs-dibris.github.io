@@ -78,14 +78,14 @@ A registration booth will be arranged at the 5th floor. There will be a registra
 ### Welcome
 - **Start time:** 2:00 PM
 - **Duration:** 30 minutes
-- **Location:** Room 505, 5th floor
+- **Location:** Room 322 (conference room), 3rd floor
 
 Welcome and introduction to the CSW. The DoCS team will also present itself and their activities.
 
 ### Keynote - _Evaluating (quality of) user experiences with immersive technologies_ by __Jesús Gutiérrez__
 - **Start time:** 2:30 PM
 - **Duration:** 1 hour
-- **Location:** Room 505, 5th floor
+- **Location:** Room 322 (conference room), 3rd floor
 
 #### Abstract
 The emergence of immersive media technologies is providing to the users new interactive experiences, which allow a more natural and complete exploration of the represented content in comparison with previous audiovisual technologies.
@@ -105,12 +105,12 @@ Currently, he is the chair of Immersive Media Group (IMG) of the Video Quality E
 ### Coffee Break (catered)
 - **Start time:** 3:30 PM
 - **Duration:** 15 minutes
-- **Location:** 5th floor
+- **Location:** TBD, 3rd floor
 
 ### Panel - TBD by __Matteo Dell'Amico__, __Moreno Razzoli (Morrolinux)__, __Raffaele Rialdi__
 - **Start time:** 3:45 PM
 - **Duration:** 1 hour and 15 minutes
-- **Location:** Room 505, 5th floor
+- **Location:** Room 322 (conference room), 3rd floor
 
 #### Abstract
 TBD
@@ -134,7 +134,7 @@ TBD
 ### End of Day
 - **Start time:** 5:00 PM
 - **Duration:** TBD
-- **Location:** Room 505, 5th floor
+- **Location:** Room 322 (conference room), 3rd floor
 
 Final remarks and thanks. This is the moment when team roles for Friday’s activity will be announced.
 
