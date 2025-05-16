@@ -107,13 +107,16 @@ Currently, he is the chair of Immersive Media Group (IMG) of the Video Quality E
 - **Duration:** 15 minutes
 - **Location:** TBD, 3rd floor
 
-### Panel - TBD by __Matteo Dell'Amico__, __Moreno Razzoli (Morrolinux)__, __Raffaele Rialdi__
+### _A Professor, a YouTuber, and an MVP Walk into a Panel… Open Source from Three Very Different Angles_ by __Matteo Dell'Amico__, __Moreno Razzoli (Morrolinux)__, __Raffaele Rialdi__
 - **Start time:** 3:45 PM
 - **Duration:** 1 hour and 15 minutes
 - **Location:** Room 322 (conference room), 3rd floor
 
 #### Abstract
-TBD
+What happens when a university professor, a YouTuber, and a Microsoft MVP sit down to talk open source? 
+You get a lively conversation that spans code, community, ethics, and business. 
+This panel dives into the role of open source in powering today’s AI, explores the challenges of security and sustainability, and questions whether open source is still a rebellious act, or just business as usual. 
+From academic recognition to hardware transparency, the discussion will offer unique perspectives on what openness really means today, and why it still matters
 
 #### Panelists' bios
 ##### Matteo Dell'Amico
