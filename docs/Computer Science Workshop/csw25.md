@@ -26,6 +26,13 @@ nav_order: 6
 </span>
 {: .text-center }
 
+# Flier
+<div style="display: flex; justify-content: center; align-items: center; margin: 20px 0;">
+    <a href="/assets/fliers/2025.png">
+        <img src="/assets/fliers/2025.png" style="width: 500px; height: auto;">
+    </a>
+</div>
+
 ## Motivation and goals
 The DoCS group is pleased to announce the sixth edition of the Computer Science Workshop (CSW), which will take place this year on May 29th and 30th at the Valletta Puggia building of the DIBRIS department, at the University of Genoa.
 
