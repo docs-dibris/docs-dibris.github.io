@@ -107,7 +107,7 @@ Currently, he is the chair of Immersive Media Group (IMG) of the Video Quality E
 - **Duration:** 15 minutes
 - **Location:** TBD, 3rd floor
 
-### _A Professor, a YouTuber, and an MVP Walk into a Panel… Open Source from Three Very Different Angles_ by __Matteo Dell'Amico__, __Moreno Razzoli (Morrolinux)__, __Raffaele Rialdi__
+### A Professor, a YouTuber, and an MVP Walk into a Panel… - _Open Source from Three Very Different Angles_ by __Matteo Dell'Amico__, __Moreno Razzoli (Morrolinux)__, __Raffaele Rialdi__
 - **Start time:** 3:45 PM
 - **Duration:** 1 hour and 15 minutes
 - **Location:** Room 322 (conference room), 3rd floor
