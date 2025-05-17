@@ -26,6 +26,13 @@ nav_order: 6
 </span>
 {: .text-center }
 
+# Flier
+<div style="display: flex; justify-content: center; align-items: center; margin: 20px 0;">
+    <a href="/assets/fliers/2025.png">
+        <img src="/assets/fliers/2025.png" style="width: 500px; height: auto;">
+    </a>
+</div>
+
 ## Motivation and goals
 The DoCS group is pleased to announce the sixth edition of the Computer Science Workshop (CSW), which will take place this year on May 29th and 30th at the Valletta Puggia building of the DIBRIS department, at the University of Genoa.
 
@@ -78,14 +85,14 @@ A registration booth will be arranged at the 5th floor. There will be a registra
 ### Welcome
 - **Start time:** 2:00 PM
 - **Duration:** 30 minutes
-- **Location:** Room 505, 5th floor
+- **Location:** Room 322 (conference room), 3rd floor
 
 Welcome and introduction to the CSW. The DoCS team will also present itself and their activities.
 
 ### Keynote - _Evaluating (quality of) user experiences with immersive technologies_ by __Jesús Gutiérrez__
 - **Start time:** 2:30 PM
 - **Duration:** 1 hour
-- **Location:** Room 505, 5th floor
+- **Location:** Room 322 (conference room), 3rd floor
 
 #### Abstract
 The emergence of immersive media technologies is providing to the users new interactive experiences, which allow a more natural and complete exploration of the represented content in comparison with previous audiovisual technologies.
@@ -105,15 +112,18 @@ Currently, he is the chair of Immersive Media Group (IMG) of the Video Quality E
 ### Coffee Break (catered)
 - **Start time:** 3:30 PM
 - **Duration:** 15 minutes
-- **Location:** 5th floor
+- **Location:** TBD, 3rd floor
 
-### Panel - TBD by __Matteo Dell'Amico__, __Moreno Razzoli (Morrolinux)__, __Raffaele Rialdi__
+### A Professor, a YouTuber, and an MVP Walk into a Panel… - _Open Source from Three Very Different Angles_ by __Matteo Dell'Amico__, __Moreno Razzoli (Morrolinux)__, __Raffaele Rialdi__
 - **Start time:** 3:45 PM
 - **Duration:** 1 hour and 15 minutes
-- **Location:** Room 505, 5th floor
+- **Location:** Room 322 (conference room), 3rd floor
 
 #### Abstract
-TBD
+What happens when a university professor, a YouTuber, and a Microsoft MVP sit down to talk open source? 
+You get a lively conversation that spans code, community, ethics, and business. 
+This panel dives into the role of open source in powering today’s AI, explores the challenges of security and sustainability, and questions whether open source is still a rebellious act, or just business as usual. 
+From academic recognition to hardware transparency, the discussion will offer unique perspectives on what openness really means today, and why it still matters
 
 #### Panelists' bios
 ##### Matteo Dell'Amico
@@ -121,8 +131,11 @@ TBD
 TBD
 
 ##### Moreno Razzoli (Morrolinux)
-<!-- <img src="/assets/images/people/CSW24/fominykh.jpg" style="display: block; max-height: 150px;"> -->
-TBD
+<img src="/assets/images/people/CSW25/morro.jpg" style="display: block; max-height: 150px;">
+Moreno Razzoli è laureato in Scienze Informatiche e possiede diverse certificazioni nel campo del software libero, tra cui Linux LPI, CompTIA Linux+ e Suse CLA.
+È inoltre un Training Partner autorizzato del Linux Professional Institute.
+Attivo da anni nella comunità open source, ha realizzato numerosi progetti propri e ha contribuito a diversi progetti già esistenti su GitHub.
+Dal 2008 produce contenuti didattici su YouTube, dedicati alla divulgazione tecnica e alla formazione in ambito informatico.
 
 ##### Raffaele Rialdi
 <!-- <img src="/assets/images/people/CSW24/fominykh.jpg" style="display: block; max-height: 150px;"> -->
@@ -131,7 +144,7 @@ TBD
 ### End of Day
 - **Start time:** 5:00 PM
 - **Duration:** TBD
-- **Location:** Room 505, 5th floor
+- **Location:** Room 322 (conference room), 3rd floor
 
 Final remarks and thanks. This is the moment when team roles for Friday’s activity will be announced.
 
@@ -204,19 +217,36 @@ His reasearch focus on 3D Geometry Processing, Spectral Shape Analysis, and in p
 - **Duration:** 1 hour
 - **Location:** Room 210, 2nd floor
 
-### Hands-On Session - TBD by __Danilo Pani__
+### Hands-On Session - _Basic biomedical signal processing case studies: fundamentals, traps, and tricks_ by __Danilo Pani__
 - **Start time:** 2:00 PM
 - **Duration:** 2 hours
 - **Location:** Room 505, 5th floor
 
 {: .prerequisites }
-Basic knowledge of Matlab. A notebook with a working Matlab/Octave install is recommended.
+Basic knowledge of Matlab. A notebook with a MATLAB installation is recommended, equipped with _Statistical Toolbox_, _Signal Processing Toolbox_, _Curve Fitting Toolbox_, and _Wavelet Toolbox_.
+<br>
+<u>Unige offers a free education license for MATLAB, available <a href="https://it.mathworks.com/academia/tah-portal/universita-degli-studi-di-genova-955525.html">at this page</a> logging in using UnigePass credentials.</u>
 
 #### Abstract
-TBD
+In this hands-on session, you'll dive into biomedical signals that are primarily encountered in non-clinical applications, such as human-computer interfaces, neuromarketing, and biofeedback.
+We'll begin by refreshing the fundamentals of signal analysis, including Fourier analysis and sampling.
+Then, using a case-study approach, we'll process common biomedical signals, aiming to uncover the main traps and the tricks to overcome them.
+We'll also explore how one signal can be derived from another by exploiting the interrelations between physiological systems.
+Due to practical considerations and time constraints, we will mainly focus on electrophysiological signals (ExG).
+This journey will start in the time domain and move into the frequency and Z domains.
+We will use MATLAB to design and apply signal analysis and processing techniques.
 
 #### Danilo's bio
-TBD
+<img src="/assets/images/people/CSW25/pani.jpg" style="display: block; max-height: 150px;">
+Prof. Danilo Pani is Associate professor of Biomedical Engineering at the Department of Electrical and Electronic Engineering of the University of Cagliari, where he is coordinator of the integrated BSc and MSc program in Biomedical Engineering.
+He teaches biomedical signal processing (basic and advanced) and biomedical instrumentation.
+He leads the Medical Devices and Signal Processing (MeDSP.it), a biomedical engineering lab specialized in advanced biomedical signal processing, applied machine learning, and the development of medical devices and systems.
+
+His research interests include cardiac electrophysiology, fetal electrocardiography, digital biomarkers, wearable sensors and systems for health monitoring and advanced human-computer interfaces, neurorehabilitation, and telemedicine.
+Prof. Pani is a senior member of the IEEE.
+He has been co-founder and treasurer of the Italian Chapter of the IEEE Sensors Council and member of the Board of Directors of the Italian National Bioengineering Group (GNB).
+He is appointed expert in the UNINFO Commission for Health Informatics and Italian expert in the Technical Committee 251 of CEN, Working Group 2, and member of IEEE EMB TC on Therapeutic & Diagnostic Systems and Technologies.
+He is author of more than 140 indexed scientific publications and 6 patents.
 
 ### Coffee Break (catered)
 - **Start time:** 4:00 PM
