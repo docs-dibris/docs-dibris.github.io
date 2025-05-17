@@ -74,7 +74,7 @@ We now have a public <a href="https://calendar.google.com/calendar/u/0?cid=NWNlN
         <td>Exploring the Impact of Virtual Reality in Assessing Spatial Abilities</td>
     </tr>
     <tr>
-        <td rowspan="1"><a href="/assets/seminar-flyers/seminar_5.pdf" download>download</a></td>
+        <td rowspan="1"><a href="/assets/seminar-flyers/seminar_6.pdf" download>download</a></td>
         <td rowspan="1">Tue 20 May<br>14:30-15:00<br>Room 217</td>
         <td>Andrea Gatti</td>
         <td>Games and Agents: a Mutual Benefit</td>
