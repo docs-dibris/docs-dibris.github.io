@@ -114,7 +114,7 @@ We now have a public <a href="https://calendar.google.com/calendar/u/0?cid=NWNlN
         <td rowspan="2">Mon 23 Jun<br>14:30-15:30<br>Room TBD</td>
         <td>Stefano Avola</td>
         <td>TBA</td>
-    <tr>
+    </tr>
     <tr>
         <td>Marianna Pizzo</td>
         <td>TBA</td>
