@@ -74,14 +74,10 @@ We now have a public <a href="https://calendar.google.com/calendar/u/0?cid=NWNlN
         <td>Exploring the Impact of Virtual Reality in Assessing Spatial Abilities</td>
     </tr>
     <tr>
-        <td rowspan="2"></td>
-        <td rowspan="2">Tue 20 May<br>14:30-15:30<br>Room TBD</td>
+        <td rowspan="1"><a href="/assets/seminar-flyers/seminar_6.pdf" download>download</a></td>
+        <td rowspan="1">Tue 20 May<br>14:30-15:00<br>Room 217</td>
         <td>Andrea Gatti</td>
-        <td>TBA</td>
-    </tr>
-    <tr>
-        <td>Matteo Martini</td>
-        <td>TBA</td>
+        <td>Games and Agents: a Mutual Benefit</td>
     </tr>
     <!-- Jun -->
     <tr>
@@ -101,7 +97,7 @@ We now have a public <a href="https://calendar.google.com/calendar/u/0?cid=NWNlN
         <td>TBA</td>
     </tr>
     <tr>
-        <td>Marianna Pizzo</td>
+        <td>Matteo Martini</td>
         <td>TBA</td>
     </tr>
     <tr>
@@ -114,11 +110,15 @@ We now have a public <a href="https://calendar.google.com/calendar/u/0?cid=NWNlN
         <td>Xiaolin Xing</td>
         <td>TBA</td>
     </tr>
-        <td rowspan="1"></td>
-        <td rowspan="1">Mon 23 Jun<br>14:30-15:30<br>Room TBD</td>
+        <td rowspan="2"></td>
+        <td rowspan="2">Mon 23 Jun<br>14:30-15:30<br>Room TBD</td>
         <td>Stefano Avola</td>
         <td>TBA</td>
+    </tr>
     <tr>
+        <td>Marianna Pizzo</td>
+        <td>TBA</td>
+    </tr>
         <th colspan="4" style="text-align: center;">Summer break</th>
     </tr>
     <!-- Sep -->
