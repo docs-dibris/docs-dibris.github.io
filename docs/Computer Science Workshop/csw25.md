@@ -132,10 +132,11 @@ TBD
 
 ##### Moreno Razzoli (Morrolinux)
 <img src="/assets/images/people/CSW25/morro.jpg" style="display: block; max-height: 150px;">
-Moreno Razzoli è laureato in Scienze Informatiche e possiede diverse certificazioni nel campo del software libero, tra cui Linux LPI, CompTIA Linux+ e Suse CLA.
-È inoltre un Training Partner autorizzato del Linux Professional Institute.
-Attivo da anni nella comunità open source, ha realizzato numerosi progetti propri e ha contribuito a diversi progetti già esistenti su GitHub.
-Dal 2008 produce contenuti didattici su YouTube, dedicati alla divulgazione tecnica e alla formazione in ambito informatico.
+Moreno Razzoli holds a degree in Computer Science and several certifications in the field of free and open-source software, including Linux LPI, CompTIA Linux+, and SUSE CLA.
+He is also an authorized Training Partner of the Linux Professional Institute.
+An active member of the open-source community for many years, he has developed numerous personal projects and contributed to several existing ones on GitHub.
+Since 2008, he has been creating educational content on YouTube, focused on technical outreach and computer science training.
+
 
 ##### Raffaele Rialdi
 <!-- <img src="/assets/images/people/CSW24/fominykh.jpg" style="display: block; max-height: 150px;"> -->
