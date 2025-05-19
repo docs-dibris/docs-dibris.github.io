@@ -11,7 +11,7 @@ nav_order: 6
 <img src="/assets/images/csw_logo_light_25.svg" style="display: block; margin: 0 auto; max-width: 300px;">
 
 <div align="center">
-    <h2>Computer Science Workshop 2024</h2>
+    <h2>Computer Science Workshop 2025</h2>
     <h3>6<sup>th</sup> Edition</h3>
     <h2>May 29<sup>th</sup> and 30<sup>th</sup>, 2025</h2>
     Room 505, DIBRIS (Valletta Puggia), Università di Genova
@@ -120,9 +120,9 @@ Currently, he is the chair of Immersive Media Group (IMG) of the Video Quality E
 - **Location:** Room 322 (conference room), 3rd floor
 
 #### Abstract
-What happens when a university professor, a YouTuber, and a Microsoft MVP sit down to talk open source? 
-You get a lively conversation that spans code, community, ethics, and business. 
-This panel dives into the role of open source in powering today’s AI, explores the challenges of security and sustainability, and questions whether open source is still a rebellious act, or just business as usual. 
+What happens when a university professor, a YouTuber, and a Microsoft MVP sit down to talk open source?
+You get a lively conversation that spans code, community, ethics, and business.
+This panel dives into the role of open source in powering today’s AI, explores the challenges of security and sustainability, and questions whether open source is still a rebellious act, or just business as usual.
 From academic recognition to hardware transparency, the discussion will offer unique perspectives on what openness really means today, and why it still matters
 
 #### Panelists' bios
