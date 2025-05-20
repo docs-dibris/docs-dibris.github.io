@@ -128,7 +128,10 @@ From academic recognition to hardware transparency, the discussion will offer un
 #### Panelists' bios
 ##### Matteo Dell'Amico
 <img src="https://rubrica.unige.it/static/foto/UkNGW1tu.jpg?1746368927.5317" style="display: block; max-height: 150px;">
-TBD
+Matteo Dell'Amico is an Associate Professor at DIBRIS.
+His main research interests are distributed systems and cybersecurity.
+In the past, he conducted research in France at EURECOM and Symantec/NortonLifeLock.
+
 
 ##### Moreno Razzoli (Morrolinux)
 <img src="/assets/images/people/CSW25/morro.jpg" style="display: block; max-height: 150px;">
