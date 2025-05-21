@@ -68,6 +68,7 @@ Posters will be set up in the room during the morning. Our staff will handle the
 The final session of CSW 2025 will feature a competitive debate on topics related to _AI and ethics_.
 The debate teams will be composed of Master’s students in Computer Science who have registered for the acquisition of AUK credits.
 The debate will be evaluated by a jury composed of a PhD student, a professor, and a researcher, who will assess the clarity, coherence, and depth of the arguments presented.
+
 Participants will be added to a dedicated Microsoft Teams channel, where all logistical information, preparation materials, and the official debate protocol (rules) will be shared.
 A coaching session will take place on **May 27** to support students in preparing for the event.
 
@@ -275,6 +276,7 @@ He is author of more than 140 indexed scientific publications and 6 patents.
 
 Master's students will engage in a competitive debate focused on the ethical implications of AI.
 Two teams of students will compete, adhering to a specific protocol, each defending distinct positions on a particular motion related to AI and ethics.
+
 The event will be public, allowing the audience to attend and observe the exchange.
 After the formal debate is over, the audience will have the opportunity to interact with the teams, fostering an engaging environment for discussion and exploration of the defended positions.
 
