@@ -65,8 +65,11 @@ The poster session will be held during the lunch of Friday, May 30, in room 210,
 Posters will be set up in the room during the morning. Our staff will handle the setup of those printed by us. If you plan to print your poster in some other way, please be sure to hang it in the designated area within lunch time.
 
 ## Competitive Debate
-TBD
-
+The final session of CSW 2025 will feature a competitive debate on topics related to _AI and ethics_.
+The debate teams will be composed of Master’s students in Computer Science who have registered for the acquisition of AUK credits.
+The debate will be evaluated by a jury composed of a PhD student, a professor, and a researcher, who will assess the clarity, coherence, and depth of the arguments presented.
+Participants will be added to a dedicated Microsoft Teams channel, where all logistical information, preparation materials, and the official debate protocol (rules) will be shared.
+A coaching session will take place on **May 27** to support students in preparing for the event.
 
 # Program
 This year’s edition of the Computer Science Workshop will take place over the course of two days: Thursday, May 29, with activities scheduled in the afternoon, and Friday, May 30, featuring a full-day program.
@@ -270,7 +273,11 @@ He is author of more than 140 indexed scientific publications and 6 patents.
 - **Duration:** 1 hour
 - **Location:** Room 505, 5th floor
 
-TBD
+Master's students will engage in a competitive debate focused on the ethical implications of AI.
+Two teams of students will compete, adhering to a specific protocol, each defending distinct positions on a particular motion related to AI and ethics.
+The event will be public, allowing the audience to attend and observe the exchange.
+After the formal debate is over, the audience will have the opportunity to interact with the teams, fostering an engaging environment for discussion and exploration of the defended positions.
+
 
 ### End of Day
 - **Start time:** 5:30 PM
