@@ -142,8 +142,11 @@ Since 2008, he has been creating educational content on YouTube, focused on tech
 
 
 ##### Raffaele Rialdi
-<!-- <img src="/assets/images/people/CSW24/fominykh.jpg" style="display: block; max-height: 150px;"> -->
-TBD
+<img src="/assets/images/people/CSW25/rialdi.jpg" style="display: block; max-height: 150px;">
+Raffaele Rialdi holds a degree in Electronic Engineering, is registered with the Genoa Order of Engineers, and is a member of its ICT commission. He has been professionally involved in software design and development since 1987.
+He has been a Microsoft MVP since 2003 and participates in weekly meetings with Microsoft teams in Redmond, working on development technologies with access to the Windows source code.
+He is also the president of the DotNetLiguria community, through which he organizes free events focused on software development. He currently works as a consultant, conference speaker, course instructor, and leads a development team at Vevy Europe, where he serves as Senior Software Architect and Developer.
+
 
 ### End of Day
 - **Start time:** 5:00 PM
