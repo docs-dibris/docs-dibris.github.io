@@ -226,7 +226,7 @@ His reasearch focus on 3D Geometry Processing, Spectral Shape Analysis, and in p
 
 {: .highlight }
 You can find the official CSW poster template <a href="https://www.overleaf.com/read/hgbzthtgkshn#72c123">here</a>.
-Please submit your poster by emailing it to either <a href="mailto:lorenzo.gerini@edu.unige.it">Lorenzo</a> or <a href="mailto:matteo.martini@edu.unige.it">Matteo</a> no later than May 25.
+Please submit your poster by emailing it to either <a href="mailto:lorenzo.gerini@edu.unige.it">Lorenzo</a> or <a href="mailto:matteo.martini@edu.unige.it">Matteo</a> **no later than May 25**.
 This will allow us to handle the printing and ensure your poster is set up and ready for the session.
 
 ### Hands-On Session - _Basic biomedical signal processing case studies: fundamentals, traps, and tricks_ by __Danilo Pani__
