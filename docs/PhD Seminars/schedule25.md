@@ -8,7 +8,7 @@ nav_order: 4
 # Seminars schedule 2025
 
 {: .highlight }
-The next meeting is scheduled for **Lorenzo Gerini**'s seminar, on **Tuesday, May 13** at 14:30 in Room 217.
+The next meeting is scheduled for **Dadan Khan** and **Ilaria Stanzani**'s seminars, on **Tuesday, June 3** at 14:30 in Room 214.
 
 {: .note }
 All seminars are streamed on Microsoft Teams. Code to join: wfogmsx
@@ -109,7 +109,7 @@ We now have a public <a href="https://calendar.google.com/calendar/u/0?cid=NWNlN
     <tr>
         <td>Xiaolin Xing</td>
         <td>TBA</td>
-    </tr>
+    <tr>
         <td rowspan="2"></td>
         <td rowspan="2">Mon 23 Jun<br>14:30-15:30<br>Room TBD</td>
         <td>Stefano Avola</td>
@@ -119,6 +119,7 @@ We now have a public <a href="https://calendar.google.com/calendar/u/0?cid=NWNlN
         <td>Marianna Pizzo</td>
         <td>TBA</td>
     </tr>
+    <tr>
         <th colspan="4" style="text-align: center;">Summer break</th>
     </tr>
     <!-- Sep -->
