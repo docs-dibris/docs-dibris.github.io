@@ -150,7 +150,7 @@ He is also the president of the DotNetLiguria community, through which he organi
 
 ### End of Day
 - **Start time:** 5:00 PM
-- **Duration:** TBD
+- **Duration:** 15 minutes
 - **Location:** Room 322 (conference room), 3rd floor
 
 Final remarks and thanks. This is the moment when team roles for Friday’s activity will be announced.
