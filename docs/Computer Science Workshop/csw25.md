@@ -11,7 +11,7 @@ nav_order: 6
 <img src="/assets/images/csw_logo_light_25.svg" style="display: block; margin: 0 auto; max-width: 300px;">
 
 <div align="center">
-    <h2>Computer Science Workshop 2024</h2>
+    <h2>Computer Science Workshop 2025</h2>
     <h3>6<sup>th</sup> Edition</h3>
     <h2>May 29<sup>th</sup> and 30<sup>th</sup>, 2025</h2>
     Room 505, DIBRIS (Valletta Puggia), Università di Genova
@@ -120,30 +120,37 @@ Currently, he is the chair of Immersive Media Group (IMG) of the Video Quality E
 - **Location:** Room 322 (conference room), 3rd floor
 
 #### Abstract
-What happens when a university professor, a YouTuber, and a Microsoft MVP sit down to talk open source? 
-You get a lively conversation that spans code, community, ethics, and business. 
-This panel dives into the role of open source in powering today’s AI, explores the challenges of security and sustainability, and questions whether open source is still a rebellious act, or just business as usual. 
+What happens when a university professor, a YouTuber, and a Microsoft MVP sit down to talk open source?
+You get a lively conversation that spans code, community, ethics, and business.
+This panel dives into the role of open source in powering today’s AI, explores the challenges of security and sustainability, and questions whether open source is still a rebellious act, or just business as usual.
 From academic recognition to hardware transparency, the discussion will offer unique perspectives on what openness really means today, and why it still matters
 
 #### Panelists' bios
 ##### Matteo Dell'Amico
 <img src="https://rubrica.unige.it/static/foto/UkNGW1tu.jpg?1746368927.5317" style="display: block; max-height: 150px;">
-TBD
+Matteo Dell'Amico is an Associate Professor at DIBRIS.
+His main research interests are distributed systems and cybersecurity.
+In the past, he conducted research in France at EURECOM and Symantec/NortonLifeLock.
+
 
 ##### Moreno Razzoli (Morrolinux)
 <img src="/assets/images/people/CSW25/morro.jpg" style="display: block; max-height: 150px;">
-Moreno Razzoli è laureato in Scienze Informatiche e possiede diverse certificazioni nel campo del software libero, tra cui Linux LPI, CompTIA Linux+ e Suse CLA.
-È inoltre un Training Partner autorizzato del Linux Professional Institute.
-Attivo da anni nella comunità open source, ha realizzato numerosi progetti propri e ha contribuito a diversi progetti già esistenti su GitHub.
-Dal 2008 produce contenuti didattici su YouTube, dedicati alla divulgazione tecnica e alla formazione in ambito informatico.
+Moreno Razzoli holds a degree in Computer Science and several certifications in the field of free and open-source software, including Linux LPI, CompTIA Linux+, and SUSE CLA.
+He is also an authorized Training Partner of the Linux Professional Institute.
+An active member of the open-source community for many years, he has developed numerous personal projects and contributed to several existing ones on GitHub.
+Since 2008, he has been creating educational content on YouTube, focused on technical outreach and computer science training.
+
 
 ##### Raffaele Rialdi
-<!-- <img src="/assets/images/people/CSW24/fominykh.jpg" style="display: block; max-height: 150px;"> -->
-TBD
+<img src="/assets/images/people/CSW25/rialdi.jpg" style="display: block; max-height: 150px;">
+Raffaele Rialdi holds a degree in Electronic Engineering, is registered with the Genoa Order of Engineers, and is a member of its ICT commission. He has been professionally involved in software design and development since 1987.
+He has been a Microsoft MVP since 2003 and participates in weekly meetings with Microsoft teams in Redmond, working on development technologies with access to the Windows source code.
+He is also the president of the DotNetLiguria community, through which he organizes free events focused on software development. He currently works as a consultant, conference speaker, course instructor, and leads a development team at Vevy Europe, where he serves as Senior Software Architect and Developer.
+
 
 ### End of Day
 - **Start time:** 5:00 PM
-- **Duration:** TBD
+- **Duration:** 15 minutes
 - **Location:** Room 322 (conference room), 3rd floor
 
 Final remarks and thanks. This is the moment when team roles for Friday’s activity will be announced.
@@ -216,6 +223,11 @@ His reasearch focus on 3D Geometry Processing, Spectral Shape Analysis, and in p
 - **Start time:** 1:00 PM
 - **Duration:** 1 hour
 - **Location:** Room 210, 2nd floor
+
+{: .important }
+You can find the official CSW poster template <a href="https://www.overleaf.com/read/hgbzthtgkshn#72c123">here</a>.
+Please submit your poster by emailing it to either <a href="mailto:lorenzo.gerini@edu.unige.it">Lorenzo</a> or <a href="mailto:matteo.martini@edu.unige.it">Matteo</a> **no later than May 25**.
+This will allow us to handle the printing and ensure your poster is set up and ready for the session.
 
 ### Hands-On Session - _Basic biomedical signal processing case studies: fundamentals, traps, and tricks_ by __Danilo Pani__
 - **Start time:** 2:00 PM
