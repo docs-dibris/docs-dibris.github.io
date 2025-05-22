@@ -44,7 +44,6 @@ The Workshop remains a valuable opportunity for students to get in touch with cu
 
 
 # Activities
-
 ## Keynotes, Hands-on, Panel
 This year's edition will feature activities delivered by distinguished speakers:
  - [Annalisa Barla](https://dibris.unige.it/annalisa.barla%40unige.it), University of Genova
