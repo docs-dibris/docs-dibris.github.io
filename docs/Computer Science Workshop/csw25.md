@@ -63,6 +63,11 @@ The poster session will be held during the lunch of Friday, May 30, in room 210,
 
 Posters will be set up in the room during the morning. Our staff will handle the setup of those printed by us. If you plan to print your poster in some other way, please be sure to hang it in the designated area within lunch time.
 
+{: .important }
+You can find the official CSW poster template <a href="https://www.overleaf.com/read/hgbzthtgkshn#72c123">here</a>.
+Please submit your poster by emailing it to either <a href="mailto:lorenzo.gerini@edu.unige.it">Lorenzo</a> or <a href="mailto:matteo.martini@edu.unige.it">Matteo</a> **no later than May 25**.
+This will allow us to handle the printing and ensure your poster is set up and ready for the session.
+
 ## Competitive Debate
 The final session of CSW 2025 will feature a competitive debate on topics related to _AI and ethics_.
 The debate teams will be composed of Master’s students in Computer Science who have registered for the acquisition of AUK credits.
@@ -226,11 +231,6 @@ His reasearch focus on 3D Geometry Processing, Spectral Shape Analysis, and in p
 - **Start time:** 1:00 PM
 - **Duration:** 1 hour
 - **Location:** Room 210, 2nd floor
-
-{: .important }
-You can find the official CSW poster template <a href="https://www.overleaf.com/read/hgbzthtgkshn#72c123">here</a>.
-Please submit your poster by emailing it to either <a href="mailto:lorenzo.gerini@edu.unige.it">Lorenzo</a> or <a href="mailto:matteo.martini@edu.unige.it">Matteo</a> **no later than May 25**.
-This will allow us to handle the printing and ensure your poster is set up and ready for the session.
 
 ### Hands-On Session - _Basic biomedical signal processing case studies: fundamentals, traps, and tricks_ by __Danilo Pani__
 - **Start time:** 2:00 PM
