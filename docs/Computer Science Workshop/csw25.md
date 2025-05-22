@@ -139,7 +139,7 @@ In the past, he conducted research in France at EURECOM and Symantec/NortonLifeL
 
 ##### Moreno Razzoli (Morrolinux)
 <img src="/assets/images/people/CSW25/morro.jpg" style="display: block; max-height: 150px;">
-Moreno Razzoli holds a degree in Computer Science and several certifications in the field of free and open-source software, including Linux LPI, CompTIA Linux+, and SUSE CLA.
+Moreno Razzoli holds a master degree in Computer Science and several certifications in the field of free and open-source software, including Linux LPI, CompTIA Linux+, and SUSE CLA.
 He is also an authorized Training Partner of the Linux Professional Institute.
 An active member of the open-source community for many years, he has developed numerous personal projects and contributed to several existing ones on GitHub.
 Since 2008, he has been creating educational content on YouTube, focused on technical outreach and computer science training.
