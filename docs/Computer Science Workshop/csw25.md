@@ -172,7 +172,7 @@ Final remarks and thanks. This is the moment when team roles for Friday’s acti
 
 A registration booth will be arranged at the 5th floor. There will be a registration desk where you can pick up your badge.
 
-### Welcome + TBD by __Lorenzo Rosasco__
+### Welcome + _To PhD or Not to PhD?_ by __Lorenzo Rosasco__
 - **Start time:** 9:15 AM
 - **Duration:** 30 minutes
 - **Location:** Room 505, 5th floor
@@ -181,7 +181,12 @@ After a quick introduction to the second day of the CSW, we will welcome Lorenzo
 
 #### Lorenzo's Bio
 <img src="https://rubrica.unige.it/static/foto/UkNHXVxs.jpg?1746373530.704" style="display: block; max-height: 150px;">
-TBD
+Lorenzo Rosasco is a professor at the University of Genova.
+He is a research affiliate at the Massachusetts Institute of Technology (MIT) and a visiting scientist at the Italian Technological Institute (IIT).
+He is a founder of the Machine Learning Genova center (MaLGa) and the Laboratory for Computational and Statistical Learning, focusing on the theory, algorithms, and applications of machine learning.
+He obtained his PhD in 2006 from the University of Genova and was a visiting student at the Center for Biological and Computational Learning at MIT, the Toyota Technological Institute at Chicago (TTI-Chicago), and the Johann Radon Institute for Computational and Applied Mathematics.
+From 2006 to 2013, he worked as a postdoc and research scientist at the Brain and Cognitive Sciences Department at MIT.
+He is an Ellis fellow and serves as the co-director of the "Theory, Algorithms and Computations of Modern Learning Systems" program as well as the Ellis Genoa unit. Lorenzo has received several awards, including an ERC consolidator grant.
 
 ### Keynote - _AI for All? Navigating Ethical Frontiers in Artificial Intelligence_ by __Annalisa Barla__
 - **Start time:** 9:45 AM
