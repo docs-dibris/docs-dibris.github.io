@@ -44,7 +44,6 @@ The Workshop remains a valuable opportunity for students to get in touch with cu
 
 
 # Activities
-
 ## Keynotes, Hands-on, Panel
 This year's edition will feature activities delivered by distinguished speakers:
  - [Annalisa Barla](https://dibris.unige.it/annalisa.barla%40unige.it), University of Genova
@@ -64,9 +63,18 @@ The poster session will be held during the lunch of Friday, May 30, in room 210,
 
 Posters will be set up in the room during the morning. Our staff will handle the setup of those printed by us. If you plan to print your poster in some other way, please be sure to hang it in the designated area within lunch time.
 
-## Competitive Debate
-TBD
+{: .important }
+You can find the official CSW poster template <a href="https://www.overleaf.com/read/hgbzthtgkshn#72c123">here</a>.
+Please submit your poster by emailing it to either <a href="mailto:lorenzo.gerini@edu.unige.it">Lorenzo</a> or <a href="mailto:matteo.martini@edu.unige.it">Matteo</a> **no later than May 25**.
+This will allow us to handle the printing and ensure your poster is set up and ready for the session.
 
+## Competitive Debate
+The final session of CSW 2025 will feature a competitive debate on topics related to _AI and ethics_.
+The debate teams will be composed of Master’s students in Computer Science who have registered for the acquisition of AUK credits.
+The debate will be evaluated by a jury composed of a PhD student, a professor, and a researcher, who will assess the clarity, coherence, and depth of the arguments presented.
+
+Participants will be added to a dedicated Microsoft Teams channel, where all logistical information, preparation materials, and the official debate protocol (rules) will be shared.
+A coaching session will take place on **May 27** to support students in preparing for the event.
 
 # Program
 This year’s edition of the Computer Science Workshop will take place over the course of two days: Thursday, May 29, with activities scheduled in the afternoon, and Friday, May 30, featuring a full-day program.
@@ -135,7 +143,7 @@ In the past, he conducted research in France at EURECOM and Symantec/NortonLifeL
 
 ##### Moreno Razzoli (Morrolinux)
 <img src="/assets/images/people/CSW25/morro.jpg" style="display: block; max-height: 150px;">
-Moreno Razzoli holds a degree in Computer Science and several certifications in the field of free and open-source software, including Linux LPI, CompTIA Linux+, and SUSE CLA.
+Moreno Razzoli holds a master degree in Computer Science and several certifications in the field of free and open-source software, including Linux LPI, CompTIA Linux+, and SUSE CLA.
 He is also an authorized Training Partner of the Linux Professional Institute.
 An active member of the open-source community for many years, he has developed numerous personal projects and contributed to several existing ones on GitHub.
 Since 2008, he has been creating educational content on YouTube, focused on technical outreach and computer science training.
@@ -164,7 +172,7 @@ Final remarks and thanks. This is the moment when team roles for Friday’s acti
 
 A registration booth will be arranged at the 5th floor. There will be a registration desk where you can pick up your badge.
 
-### Welcome + TBD by __Lorenzo Rosasco__
+### Welcome + _To PhD or Not to PhD?_ by __Lorenzo Rosasco__
 - **Start time:** 9:15 AM
 - **Duration:** 30 minutes
 - **Location:** Room 505, 5th floor
@@ -173,7 +181,12 @@ After a quick introduction to the second day of the CSW, we will welcome Lorenzo
 
 #### Lorenzo's Bio
 <img src="https://rubrica.unige.it/static/foto/UkNHXVxs.jpg?1746373530.704" style="display: block; max-height: 150px;">
-TBD
+Lorenzo Rosasco is a professor at the University of Genova.
+He is a research affiliate at the Massachusetts Institute of Technology (MIT) and a visiting scientist at the Italian Technological Institute (IIT).
+He is a founder of the Machine Learning Genova center (MaLGa) and the Laboratory for Computational and Statistical Learning, focusing on the theory, algorithms, and applications of machine learning.
+He obtained his PhD in 2006 from the University of Genova and was a visiting student at the Center for Biological and Computational Learning at MIT, the Toyota Technological Institute at Chicago (TTI-Chicago), and the Johann Radon Institute for Computational and Applied Mathematics.
+From 2006 to 2013, he worked as a postdoc and research scientist at the Brain and Cognitive Sciences Department at MIT.
+He is an Ellis fellow and serves as the co-director of the "Theory, Algorithms and Computations of Modern Learning Systems" program as well as the Ellis Genoa unit. Lorenzo has received several awards, including an ERC consolidator grant.
 
 ### Keynote - _AI for All? Navigating Ethical Frontiers in Artificial Intelligence_ by __Annalisa Barla__
 - **Start time:** 9:45 AM
@@ -224,11 +237,6 @@ His reasearch focus on 3D Geometry Processing, Spectral Shape Analysis, and in p
 - **Duration:** 1 hour
 - **Location:** Room 210, 2nd floor
 
-{: .important }
-You can find the official CSW poster template <a href="https://www.overleaf.com/read/hgbzthtgkshn#72c123">here</a>.
-Please submit your poster by emailing it to either <a href="mailto:lorenzo.gerini@edu.unige.it">Lorenzo</a> or <a href="mailto:matteo.martini@edu.unige.it">Matteo</a> **no later than May 25**.
-This will allow us to handle the printing and ensure your poster is set up and ready for the session.
-
 ### Hands-On Session - _Basic biomedical signal processing case studies: fundamentals, traps, and tricks_ by __Danilo Pani__
 - **Start time:** 2:00 PM
 - **Duration:** 2 hours
@@ -270,7 +278,12 @@ He is author of more than 140 indexed scientific publications and 6 patents.
 - **Duration:** 1 hour
 - **Location:** Room 505, 5th floor
 
-TBD
+Master's students will engage in a competitive debate focused on the ethical implications of AI.
+Two teams of students will compete, adhering to a specific protocol, each defending distinct positions on a particular motion related to AI and ethics.
+
+The event will be public, allowing the audience to attend and observe the exchange.
+After the formal debate is over, the audience will have the opportunity to interact with the teams, fostering an engaging environment for discussion and exploration of the defended positions.
+
 
 ### End of Day
 - **Start time:** 5:30 PM
