@@ -8,7 +8,7 @@ nav_order: 4
 # Seminars schedule 2025
 
 {: .highlight }
-The next meeting is scheduled for **Dadan Khan** and **Ilaria Stanzani**'s seminars, on **Tuesday, June 3** at 14:30 in Room 214.
+The next meeting is scheduled for **Matteo Martini** and **Jacopo Dapueto**'s seminars, on **Tuesday, June 10** at 14:30 in Room 214.
 
 {: .note }
 All seminars are streamed on Microsoft Teams. Code to join: wfogmsx
