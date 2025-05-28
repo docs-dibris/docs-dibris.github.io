@@ -82,16 +82,6 @@ We now have a public <a href="https://calendar.google.com/calendar/u/0?cid=NWNlN
     <!-- Jun -->
     <tr>
         <td rowspan="2"></td>
-        <td rowspan="2">Tue 3 Jun<br>14:30-15:30<br>Room TBD</td>
-        <td>Dadan Khan</td>
-        <td>TBA</td>
-    </tr>
-    <tr>
-        <td>Ilaria Stanzani</td>
-        <td>TBA</td>
-    </tr>
-    <tr>
-        <td rowspan="2"></td>
         <td rowspan="2">Tue 10 Jun<br>14:30-15:30<br>Room TBD</td>
         <td>Jacopo Dapueto</td>
         <td>TBA</td>
@@ -117,6 +107,16 @@ We now have a public <a href="https://calendar.google.com/calendar/u/0?cid=NWNlN
     </tr>
     <tr>
         <td>Marianna Pizzo</td>
+        <td>TBA</td>
+    </tr>
+    <tr>
+        <td rowspan="2"></td>
+        <td rowspan="2">Tue 1 Jul<br>14:30-15:30<br>Room TBD</td>
+        <td>Dadan Khan</td>
+        <td>TBA</td>
+    </tr>
+    <tr>
+        <td>Ilaria Stanzani</td>
         <td>TBA</td>
     </tr>
     <tr>
