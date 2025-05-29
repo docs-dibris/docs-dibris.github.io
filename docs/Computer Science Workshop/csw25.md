@@ -86,7 +86,7 @@ A variety of sessions and formats will follow one another throughout the event, 
 ### Registration
 - **Start time:** 1:30 PM
 - **Duration:** 1 hour
-- **Location:** DIBRIS corridor, 5th floor
+- **Location:** Room 322 (in front of conference room), 3rd floor
 
 A registration booth will be arranged at the 5th floor. There will be a registration desk where you can pick up your badge.
 
