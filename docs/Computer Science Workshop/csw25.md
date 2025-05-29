@@ -88,7 +88,7 @@ A variety of sessions and formats will follow one another throughout the event, 
 - **Duration:** 1 hour
 - **Location:** Room 322 (in front of conference room), 3rd floor
 
-A registration booth will be arranged at the 5th floor. There will be a registration desk where you can pick up your badge.
+A registration booth will be arranged at the 3rd floor. There will be a registration desk where you can pick up your badge.
 
 ### Welcome
 - **Start time:** 2:00 PM
