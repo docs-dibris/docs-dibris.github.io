@@ -10,4 +10,4 @@ images:
   - /assets/images/people/gattiAndrea.jpg
 ---
 
-{% include gallery.html title="Foto CSW" %}
+{% include photogallery.html title="Foto CSW" %}
