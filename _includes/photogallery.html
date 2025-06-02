@@ -2,8 +2,10 @@
 
 <div class="gallery" id="gallery"></div>
 
-<div id="lightbox" onclick="this.style.display='none'">
+<div id="lightbox">
+    <button id="prevBtn" class="nav-btn">&#8592;</button>
     <img id="lightbox-img" src="" />
+    <button id="nextBtn" class="nav-btn">&#8594;</button>
 </div>
 
 <style>
@@ -32,12 +34,25 @@
         display: none;
         justify-content: center;
         align-items: center;
+        gap: 20px;
     }
     #lightbox img {
         max-width: 90%;
         max-height: 90%;
         border: 5px solid white;
         border-radius: 8px;
+    }
+    .nav-btn {
+        background: none;
+        border: none;
+        font-size: 2rem;
+        color: white;
+        cursor: pointer;
+        padding: 1rem;
+        user-select: none;
+    }
+    .nav-btn:hover {
+        color: #ccc;
     }
 </style>
 
@@ -46,15 +61,48 @@
     const gallery = document.getElementById('gallery');
     const lightbox = document.getElementById('lightbox');
     const lightboxImg = document.getElementById('lightbox-img');
+    const prevBtn = document.getElementById('prevBtn');
+    const nextBtn = document.getElementById('nextBtn');
 
-    imageList.forEach(src => {
-      const img = document.createElement('img');
-      img.src = src;
-      img.alt = '';
-      img.addEventListener('click', () => {
-        lightboxImg.src = src;
+    let currentIndex = 0;
+
+    function showImage(index) {
+        if (index < 0) index = imageList.length - 1;
+        if (index >= imageList.length) index = 0;
+        currentIndex = index;
+        lightboxImg.src = imageList[currentIndex];
         lightbox.style.display = 'flex';
-      });
-      gallery.appendChild(img);
+    }
+
+    imageList.forEach((src, index) => {
+        const img = document.createElement('img');
+        img.src = src;
+        img.alt = '';
+        img.addEventListener('click', () => showImage(index));
+        gallery.appendChild(img);
+    });
+
+    prevBtn.addEventListener('click', (e) => {
+        e.stopPropagation();
+        showImage(currentIndex - 1);
+    });
+
+    nextBtn.addEventListener('click', (e) => {
+        e.stopPropagation();
+        showImage(currentIndex + 1);
+    });
+
+    lightbox.addEventListener('click', (e) => {
+        if (e.target === lightbox || e.target === lightboxImg) {
+            lightbox.style.display = 'none';
+        }
+    });
+
+    document.addEventListener('keydown', (e) => {
+        if (lightbox.style.display === 'flex') {
+            if (e.key === 'ArrowRight') showImage(currentIndex + 1);
+            if (e.key === 'ArrowLeft') showImage(currentIndex - 1);
+            if (e.key === 'Escape') lightbox.style.display = 'none';
+        }
     });
 </script>
