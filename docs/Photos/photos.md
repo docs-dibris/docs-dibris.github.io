@@ -16,4 +16,4 @@ If you are present in one or more photos and do not wish to be, please contact u
 {: .new }
 The [CSW 2025 photos][csw25pics] are now available!
 
-[csw25pics]: https://docs-dibris.github.io/docs/photos/csw25gallery.html
+[csw25pics]: https://docs-dibris.github.io/docs/Photos/csw25gallery.html
