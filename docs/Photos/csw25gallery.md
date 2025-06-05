@@ -2,6 +2,7 @@
 layout: default
 title: CSW 25
 parent: Photos
+published: false
 images:
   - /assets/images/people/avatar.png
   - /assets/images/people/martiniMatteo.jpg
