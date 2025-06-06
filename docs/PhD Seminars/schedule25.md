@@ -8,7 +8,7 @@ nav_order: 4
 # Seminars schedule 2025
 
 {: .highlight }
-The next meeting is scheduled for **Matteo Martini** and **Jacopo Dapueto**'s seminars, on **Tuesday, June 10** at 14:30 in Room 214.
+The next meeting is scheduled for **Hisham Unniyankal** and **Xiaolin Xing**'s seminars, on **Tuesday, June 17** at 14:30 in Room 214.
 
 {: .note }
 All seminars are streamed on Microsoft Teams. Code to join: wfogmsx
@@ -82,16 +82,6 @@ We now have a public <a href="https://calendar.google.com/calendar/u/0?cid=NWNlN
     <!-- Jun -->
     <tr>
         <td rowspan="2"></td>
-        <td rowspan="2">Tue 10 Jun<br>14:30-15:30<br>Room TBD</td>
-        <td>Jacopo Dapueto</td>
-        <td>TBA</td>
-    </tr>
-    <tr>
-        <td>Matteo Martini</td>
-        <td>TBA</td>
-    </tr>
-    <tr>
-        <td rowspan="2"></td>
         <td rowspan="2">Tue 17 Jun<br>14:30-15:30<br>Room TBD</td>
         <td>Hisham Unniyankal</td>
         <td>TBA</td>
@@ -112,6 +102,17 @@ We now have a public <a href="https://calendar.google.com/calendar/u/0?cid=NWNlN
     <tr>
         <td rowspan="2"></td>
         <td rowspan="2">Tue 1 Jul<br>14:30-15:30<br>Room TBD</td>
+        <td>Jacopo Dapueto</td>
+        <td>TBA</td>
+    </tr>
+    <!-- Jul -->
+    <tr>
+        <td>Matteo Martini</td>
+        <td>Be BRAVE! The Journey to Build a VR App for Social Anxiety Treatment</td>
+    </tr>
+    <tr>
+        <td rowspan="2"></td>
+        <td rowspan="2">Tue 8 Jul<br>14:30-15:30<br>Room TBD</td>
         <td>Dadan Khan</td>
         <td>TBA</td>
     </tr>
