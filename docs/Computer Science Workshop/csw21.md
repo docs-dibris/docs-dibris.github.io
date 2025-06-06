@@ -38,7 +38,7 @@ Computer Science is constantly increasing in complexity with many and many new f
 
 The presentations are aimed at providing an international view of a wide range of research topics in Computer Science. The workshop includes a coffee break offered to the participants, during which all the PhD students in Computer Science are going to present their work. It is a nice opportunity for discussing, sharing new ideas, and more generally networking.
 
-## Flier
+## Flyer
 
 <div style="display: flex; justify-content: center; align-items: center; margin: 20px 0;">
     <a href="/assets/fliers/2021.png">
@@ -50,18 +50,18 @@ The presentations are aimed at providing an international view of a wide range o
 
 ### _Computational Fact Checking for Textual Claims_ - Paolo Papotti
 
-Fact checkers and social platforms are overwhelmed by the amount of false content that is produced online every day. To support fact checkers and content moderators, several research efforts have been focusing on automatic verification methods to assess claims. These initiatives have grown and multiplied in the last year due to the "infodemic" associated with the COVID-19 pandemic. Better access to data and new algorithms are pushing computational fact checking forward, with experimental results showing that verification methods enable effective labeling of claims, both in simulations and in real world efforts such as https://coronacheck.eurecom.fr. However, while fact checkers start to adopt some of the resulting tools, the misinformation fight is far from being won. In this talk, we will cover the opportunities and limitations of computational fact checking and its role in fighting misinformation. 
+Fact checkers and social platforms are overwhelmed by the amount of false content that is produced online every day. To support fact checkers and content moderators, several research efforts have been focusing on automatic verification methods to assess claims. These initiatives have grown and multiplied in the last year due to the "infodemic" associated with the COVID-19 pandemic. Better access to data and new algorithms are pushing computational fact checking forward, with experimental results showing that verification methods enable effective labeling of claims, both in simulations and in real world efforts such as https://coronacheck.eurecom.fr. However, while fact checkers start to adopt some of the resulting tools, the misinformation fight is far from being won. In this talk, we will cover the opportunities and limitations of computational fact checking and its role in fighting misinformation.
 
- 
+
 
 ### _Positioning in 3D video games_ - Marco Tarini
 
 An element at the core of any 3D video game is the positioning (location and orientation) of objects, such as characters, scene elements, etc., inside a virtual world. How are these spatial relationships internally represented and updated? Which of the known mathematical models are best suited to the typical needs of a videogame (from rendering to animation, from artificial intelligence to physical simulation, from level design to 3D sound rendering)? In this short seminar, we will present and compare the main alternative mathematical approaches that can be adopted for a technical task that is so close to the base of the functioning of a videogame to be too often taken for granted, despite the important far reaching consequences.
 
- 
+
 ### _Tensor decompositions: algebra, geometry and applications_ - Alessandro Oneto
 
-Tensors are higher-order generalisation of matrices, namely multi-indexed arrays of numbers. They are used to store multidimensional datasets, encoding the higher-order relationships which are intrinsic within the data. Tensor decompositions are algorithmic techniques which help to interpret, visualise and store the data. They extend the idea of matrix decompositions, such as singular value decomposition, principal component analysis and non-negative matrix factorisation. The possibility to analyse multi-dimensional structures preserving the high-order nature within the data allowed tensor decompositions to find applications in several areas involving signal processing, data mining, complexity theory, dimensionality reduction and many others. At the same time, tensor decompositions attracted a broad community in pure mathematics. Indeed, there are many successful examples of tensor decompositions problems solved by using methods from multilinear algebra, commutative algebra and algebraic geometry. In this talk, I will give an introduction on tensor decompositions, in particular canonical polyadic decompositions (CPD) and high-order singular value decompositions (HOSVD). In particular, I will try to underline the interdisciplinarity of tensor decompositions by giving examples of their applications as well as describing the algebraic and geometric theory behind them. 
+Tensors are higher-order generalisation of matrices, namely multi-indexed arrays of numbers. They are used to store multidimensional datasets, encoding the higher-order relationships which are intrinsic within the data. Tensor decompositions are algorithmic techniques which help to interpret, visualise and store the data. They extend the idea of matrix decompositions, such as singular value decomposition, principal component analysis and non-negative matrix factorisation. The possibility to analyse multi-dimensional structures preserving the high-order nature within the data allowed tensor decompositions to find applications in several areas involving signal processing, data mining, complexity theory, dimensionality reduction and many others. At the same time, tensor decompositions attracted a broad community in pure mathematics. Indeed, there are many successful examples of tensor decompositions problems solved by using methods from multilinear algebra, commutative algebra and algebraic geometry. In this talk, I will give an introduction on tensor decompositions, in particular canonical polyadic decompositions (CPD) and high-order singular value decompositions (HOSVD). In particular, I will try to underline the interdisciplinarity of tensor decompositions by giving examples of their applications as well as describing the algebraic and geometric theory behind them.
 
 ## Speakers
 
@@ -73,7 +73,7 @@ Paolo Papotti is an Associate Professor at EURECOM, France since 2017. He got hi
 ### Marco Tarini
 
 <img src="http://vcg.isti.cnr.it/~tarini/marco_tarini.jpg" style="display: block; max-height: 200px;">
-Marco Tarini (PhD 2003, Univ. Pisa) works as an Associate Professor at the Università degli Studi di Milano, Italy, where he teaches Computer Graphics and 3D Video game development, as well as other advanced courses on game dev and geometry processing at the same univerity and others. A prolific researcher, his interests are in Computer Graphics (geometry processing and real time rendering, and especially surface representation, remeshing, texturing, 3D  acquisition, and animation) and its applications (Video Games, Scientific Visualization, Cultural Heritage, and 3D Fabrication). In these fields, prof. Tarini authored a large number of influential articles in all the the top-tier scientific journals in the field, receiving several awards and recognitions for this activity, and collaborates with several research lab worldwide. Marie Curie Mobility Fellow, prof. Tarini has been leading several funded projects, in addition to his activity as a core developer in popular Open Source software projects and libraries. A former game developer, his hobbies include game design (including board games). 
+Marco Tarini (PhD 2003, Univ. Pisa) works as an Associate Professor at the Università degli Studi di Milano, Italy, where he teaches Computer Graphics and 3D Video game development, as well as other advanced courses on game dev and geometry processing at the same univerity and others. A prolific researcher, his interests are in Computer Graphics (geometry processing and real time rendering, and especially surface representation, remeshing, texturing, 3D  acquisition, and animation) and its applications (Video Games, Scientific Visualization, Cultural Heritage, and 3D Fabrication). In these fields, prof. Tarini authored a large number of influential articles in all the the top-tier scientific journals in the field, receiving several awards and recognitions for this activity, and collaborates with several research lab worldwide. Marie Curie Mobility Fellow, prof. Tarini has been leading several funded projects, in addition to his activity as a core developer in popular Open Source software projects and libraries. A former game developer, his hobbies include game design (including board games).
 
 ### Alessandro Oneto
 
@@ -101,9 +101,9 @@ Since the Poster Session will be host physically, we will be offering a "quasi-o
 
 ## Organization
 
-This event is thought and fully organized by the organization of PhD students in Computer Science. 
-This organization was born nearly two years ago with the aim of sharing knowledge and discuss the on-going research in our department. We organize weekly seminars and other events during the year. 
-The members of the organization: Matteo Moro, Davide Garbarino, Claudio Mancinelli, Elena Nicora, Issa Mouawad, Federico Dassereto, Francesco Dagnino, Chiara Accinelli and Daniele Traversaro. 
+This event is thought and fully organized by the organization of PhD students in Computer Science.
+This organization was born nearly two years ago with the aim of sharing knowledge and discuss the on-going research in our department. We organize weekly seminars and other events during the year.
+The members of the organization: Matteo Moro, Davide Garbarino, Claudio Mancinelli, Elena Nicora, Issa Mouawad, Federico Dassereto, Francesco Dagnino, Chiara Accinelli and Daniele Traversaro.
 
-A special thanks to Danilo Franco for handling the event on the Master degree side and for the help. 
+A special thanks to Danilo Franco for handling the event on the Master degree side and for the help.
 A special thanks to [SUSI Illustration](https://susannastagliano.com/) for the graphics and the logos.

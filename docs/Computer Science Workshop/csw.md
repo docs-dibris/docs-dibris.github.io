@@ -16,8 +16,8 @@ It is an engaging social and scientific event for students, faculty and guests a
 <!-- {: .new }
 We are now collecting signatures for CSW 2025! Check [the page][csw25] and follow the link there to support us. -->
 
-{: .new }
+<!-- {: .new }
 The 2025 edition of the Computer Science Workshop is taking shape!
-Visit the [dedicated page][csw25] to discover what we are organizing for you.
+Visit the [dedicated page][csw25] to discover what we are organizing for you. -->
 
 [csw25]: https://docs-dibris.github.io/docs/Computer%20Science%20Workshop/csw25.html

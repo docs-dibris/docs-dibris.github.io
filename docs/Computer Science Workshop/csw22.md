@@ -44,9 +44,9 @@ We are glad to announce the 3<sup>rd</sup> edition of the Computer Science Works
 
 ### What about research in Computer Science?
 
-Computer Science is constantly increasing in complexity with many and many new fields of research emerging. 
-Here, at the University of Genoa, we are involved in some of these fields as Virtual and Augmented Reality, Multi-Agent systems, Data Science, Data Management, Computer Graphics, Security, Machine Learning, Programming Languages, Logic, Computer Vision, Software Engineering and many others. 
-The main goal of the workshop is discussing the many aspects of the Computer Science research fields, to present a broad perspective of this subject and look for possible (unexpected) interconnections. 
+Computer Science is constantly increasing in complexity with many and many new fields of research emerging.
+Here, at the University of Genoa, we are involved in some of these fields as Virtual and Augmented Reality, Multi-Agent systems, Data Science, Data Management, Computer Graphics, Security, Machine Learning, Programming Languages, Logic, Computer Vision, Software Engineering and many others.
+The main goal of the workshop is discussing the many aspects of the Computer Science research fields, to present a broad perspective of this subject and look for possible (unexpected) interconnections.
 We are glad to host four speakers:
 
 - [Letizia Tanca](https://tanca.faculty.polimi.it/), Politecnico di Milano (IT)
@@ -55,7 +55,7 @@ We are glad to host four speakers:
 - [Matteo Lissandrini](http://people.cs.aau.dk/~matteo),Aalborg University (DK)
 
 
-## Flier
+## Flyer
 
 <div style="display: flex; justify-content: center; align-items: center; margin: 20px 0;">
     <a href="/assets/fliers/2022.png">
@@ -75,7 +75,7 @@ Automata learning and testing techniques are successful in improving correctness
 
 ### _From learning to search to finding what others miss: developing a theory of mind for human-robot interaction with active perception_ - Dimitri Ognibene
 
-In the last 10 years, with the advent of modern deep learning methodologies, substantial performance improvement has been observed in artificial perception systems. However, the common solution to deal with the sensory limits (e.g. occlusions and limited FOV) through the increase in the number and types of sensors resulted in an escalation of costs, weight, and power demands, while important information can still be missed (e.g. occlusions). Active perception mechanisms, that enable to dynamically deal with sensory limits, have received less attention. Yet, it has been recently shown that such mechanisms, which select part of the input also through spatial relations, may substantially improve learning performance and even enable online adaptation to new environments. Active perception plays a crucial role also when interacting with other agents, who may have a different field of view or occlude relevant information. We here present a line of study about learning to find relevant information in solo tasks and during social interactions. We propose that learning combined with self-observation while performing such tasks may be at the base of the development of the flexible theory of mind capabilities.  
+In the last 10 years, with the advent of modern deep learning methodologies, substantial performance improvement has been observed in artificial perception systems. However, the common solution to deal with the sensory limits (e.g. occlusions and limited FOV) through the increase in the number and types of sensors resulted in an escalation of costs, weight, and power demands, while important information can still be missed (e.g. occlusions). Active perception mechanisms, that enable to dynamically deal with sensory limits, have received less attention. Yet, it has been recently shown that such mechanisms, which select part of the input also through spatial relations, may substantially improve learning performance and even enable online adaptation to new environments. Active perception plays a crucial role also when interacting with other agents, who may have a different field of view or occlude relevant information. We here present a line of study about learning to find relevant information in solo tasks and during social interactions. We propose that learning combined with self-observation while performing such tasks may be at the base of the development of the flexible theory of mind capabilities.
 
 ### _Knowledge Graph Exploration: How to find Your Way in the Data Wilderness_ - Matteo Lissandrini
 
@@ -89,7 +89,7 @@ The widespread adoption of knowledge graphs led to the advent of new KG explorat
 
 <img src="https://tanca.faculty.polimi.it/wp-content/uploads/letizia1-300x200.jpg" style="display: block; max-height: 200px;">
 Currently, she coordinates her Department’s group in the Project Health Big Data (HBD),  a ten-year endeavor funded by the MEF and coordinated by the Ministry of Health. In the past, Letizia served as Chairman of the Board of Studies in Computer Engineering (Milan) from 2000 to 2006, and from 2011 to the end of 2015 as Director of the Computer Science Area of DEIB. More recently, until the end of 2021 she has acted as Vice President of the National Group of Computer Engineers (GII) whose objective is to organize, coordinate and promote, at the Italian national level, the scientific and educational activities of professors and researchers in Computer Science and Engineering.
-Her research interests, in the recent years, have included databases for mobile devices, customizing and integrating data in context-driven, peer-to-peer distributed databases, design of quality- and context-aware databases and applications, the data curation pipeline before data analysis. Letizia Tanca is especially interested in the ethical issues inherently involved in the use of data analysis techniques. 
+Her research interests, in the recent years, have included databases for mobile devices, customizing and integrating data in context-driven, peer-to-peer distributed databases, design of quality- and context-aware databases and applications, the data curation pipeline before data analysis. Letizia Tanca is especially interested in the ethical issues inherently involved in the use of data analysis techniques.
 At the moment she is also responsible for the project RECKON (INAIL – ID 09/2018): “Real-world, context-aware knowledge-based Lab: Definition of an Operating Framework and its Participatory Validation in the Manufacturing Area”, on methods and techniques to integrate and restructure data related to the “operator-machine-environment” domain.
 
 ### Jurriaan Rot

@@ -24,7 +24,7 @@ nav_order: 5
     </a>
 </div>
 
-# Flier
+# Flyer
 <div style="display: flex; justify-content: center; align-items: center; margin: 20px 0;">
     <a href="/assets/fliers/2024.png">
         <img src="/assets/fliers/2024.png" style="width: 500px; height: auto;">
@@ -36,7 +36,7 @@ nav_order: 5
 The DoCS group is pleased to announce that the 5<sup>th</sup> edition of the Computer Science Workshop will be held on <b>September 9 and 10, 2024<b> at the Department of Informatics, Bioengineering, Robotics and System Engineering (DIBRIS) at the University of Genoa.
 
 Computer Science is a vast field of ever-increasing complexity, with new and exciting research challenges emerging at all times.
-Here at the University of Genoa we are involved in active areas of research such as Virtual and Augmented Reality, Multi-Agent systems, Data Management, Geometric Modeling, Security, Machine Learning, Programming Languages, Logic, Computer Vision, Software Engineering, Artificial Intelligence and more. 
+Here at the University of Genoa we are involved in active areas of research such as Virtual and Augmented Reality, Multi-Agent systems, Data Management, Geometric Modeling, Security, Machine Learning, Programming Languages, Logic, Computer Vision, Software Engineering, Artificial Intelligence and more.
 
 Every year, the Workshop provides its attendees with a broad perspective on the state of research in Computer Science, both at our department and abroad. It is an opportunity for students to connect with the research world, and for researchers to discover unexpected connections.
 
@@ -76,33 +76,33 @@ Lunch and coffee breaks will be offered to all participants.
 #### Abstract
 An election is a pair (C,V), where C is a set of candidates and V is a collection of voters, with preferences over the candidates, typically expressed as rankings. Such elections can, naturally, describe political elections, but they are also useful in modelling various sport competitions, participatory budgeting exercises, and many other tasks. In this talk I will present the "map of elections" framework, which is a general method of visualizing relations between elections (or, for that matter, any other compound objects). The talk will include general introduction to the topic of algorithmic analysis of elections and a collection of results, ranging from complexity theory and algorithm analysis, through discrete mathematics, to empirical observations and engineering solutions.
 
-#### Piotr's bio 
+#### Piotr's bio
 <img src="/assets/images/people/CSW24/faliszewski-sq.jpg" style="display: block; max-height: 150px;">
-Piotr Faliszewski is a professor of computer science at the AGH University in Krakow, Poland. 
-His research is focused on computational social choice, a multidisciplinary research area that spans theoretical computer science, multiagent research, economics, operations research and other areas. 
-Main themes of Piotr's research include algorithms for computational analysis of candidate performance in elections, multiwinner and particpatory budgeting elections, and analysis of the space of elections. 
-Piotr has published over 110 conference papers and 50 journal ones. 
+Piotr Faliszewski is a professor of computer science at the AGH University in Krakow, Poland.
+His research is focused on computational social choice, a multidisciplinary research area that spans theoretical computer science, multiagent research, economics, operations research and other areas.
+Main themes of Piotr's research include algorithms for computational analysis of candidate performance in elections, multiwinner and particpatory budgeting elections, and analysis of the space of elections.
+Piotr has published over 110 conference papers and 50 journal ones.
 He has received Friedrich Wilhelm Bessel Research Award from the Alexandra von Humboldta Foundation and currently is running an ERC Consolidator project PRAGMA.
 
 
 ### Toward Egocentric Perception Powered Wearable Artificial Assistants
 #### Abstract
 Computer Vision and Artificial Intelligence have become more and more popular in the last years thanks to important technological and algorithmic breakthroughs. However, the access to AI is still limited to few individuals and mediated through devices, such as computers and smartphones, which detach humans from the reality.
- 
+
 To democratize access to AI, we need to build systems which can perceive the world as humans do, able provide them feedback and assist them while they are engaged in their daily activities.
- 
+
 In this talk, we’ll see how egocentric vision, i.e., the analysis of images, videos and multimodal data captured from the user’s point of view, can answer this call. We’ll discuss the challenges and opportunities provided by the field, point out the scientific contributions and the technological tools which make research in this field possible, showcase the main applications, and highlight the open research questions.
 
 #### Giovanni's bio
 <img src="/assets/images/people/CSW24/farinella.jpg" style="display: block; max-height: 150px;">
-Giovanni Maria Farinella is a Full Professor, at the University of Catania, Italy. 
-His research interests lie in the fields of Computer Vision and Machine Learning with focus on Egocentric Perception. 
+Giovanni Maria Farinella is a Full Professor, at the University of Catania, Italy.
+His research interests lie in the fields of Computer Vision and Machine Learning with focus on Egocentric Perception.
 
-He is Associate Editor of the international journals IEEE Transactions on PAMI, PR, and IJCV. 
-He regularly serves as Area Chair for CVPR/ICCV/ECCV/BMVC/WACV/ICPR and has been Program Chair of ECCV 2022. 
+He is Associate Editor of the international journals IEEE Transactions on PAMI, PR, and IJCV.
+He regularly serves as Area Chair for CVPR/ICCV/ECCV/BMVC/WACV/ICPR and has been Program Chair of ECCV 2022.
 
-Giovanni is part of the EPICKITCHENS and EGO4D teams. 
-He founded and currently directs the International Computer Vision Summer School (ICVSS). 
+Giovanni is part of the EPICKITCHENS and EGO4D teams.
+He founded and currently directs the International Computer Vision Summer School (ICVSS).
 He was awarded the PAMI Mark Everingham Prize 2017 and the Intel's 2022 Outstanding Researcher Award.
 
 ### Trustworthy Autonomous Systems?
@@ -140,16 +140,16 @@ Mikhail is a member of the Innovative Immersive Technologies for Learning (IMTEL
 ### The Value of Studying Computer Graphics and Geometry Processing
 #### Abstract
 Is it worth studying and researching Computer Graphics and Geometry Processing in today's world? The answer is a resounding yes. These disciplines are essential for creating and interacting with the stunning visual content that permeates our lives, from movies and video games to extended reality experiences. However, the significance of Computer Graphics and Geometry Processing extends far beyond entertainment. They play a crucial role in scientific visualization, enabling professionals to interpret complex data and structures in fields such as biology, environmental monitoring, and cultural heritage. Additionally, they enhance design and fabrication processes, from small-scale objects up to architectural projects.
-This talk will explore real-world problems in these fields, and discuss how addressing them requires a blend of concepts from computer science, geometry, optimization, numerical simulation, and artificial intelligence. We will examine the evolving landscape, particularly the increasing influence of AI, and discuss the open challenges and opportunities that lie ahead. 
+This talk will explore real-world problems in these fields, and discuss how addressing them requires a blend of concepts from computer science, geometry, optimization, numerical simulation, and artificial intelligence. We will examine the evolving landscape, particularly the increasing influence of AI, and discuss the open challenges and opportunities that lie ahead.
 
 
 #### Daniela's bio
 <img src="/assets/images/people/CSW24/giorgi.jpg" style="display: block; max-height: 150px;">
 Daniela Giorgi is a Senior Researcher at the Visual Computing Lab at CNR-ISTI (National Research Council of Italy, Institute of Information Science and Technologies).
-Her research interests include Computer Graphics; 3D Shape Analysis; Computational Topology; Artificial Intelligence; Geometric and 3D Deep Learning. 
-She has authored more than 70 peer-reviewed papers published in international journals and conferences. 
+Her research interests include Computer Graphics; 3D Shape Analysis; Computational Topology; Artificial Intelligence; Geometric and 3D Deep Learning.
+She has authored more than 70 peer-reviewed papers published in international journals and conferences.
 
-Currently, she is a Principal Investigator in the PNRR Extended Partnership FAIR - Future Artificial Intelligence Research, and a WP Leader for the Horizon Europe Project SUN (Social and hUman ceNtered XR). 
+Currently, she is a Principal Investigator in the PNRR Extended Partnership FAIR - Future Artificial Intelligence Research, and a WP Leader for the Horizon Europe Project SUN (Social and hUman ceNtered XR).
 In 2022, she was elected President of the Italian Chapter of the European Association for Computer Graphics (Eurographics).
 
 
@@ -164,13 +164,13 @@ By sharing our experience and insights, we aim to contribute to a deeper underst
 
 #### Marco's bio
 <img src="/assets/images/people/CSW24/polignano-sq.jpeg" style="display: block; max-height: 150px;">
-Marco Polignano is an Assistant Professor in the computer science department at the University of Bari Aldo Moro, Italy, and a key member of the SWAP research group. 
-He constantly contributes to cutting-edge AI, NLP, and Recommender Systems advancements. 
-In 2018, he obtained a Ph.D. with a doctoral thesis titled "An affect-aware computational model for supporting decision-making through recommender systems". 
+Marco Polignano is an Assistant Professor in the computer science department at the University of Bari Aldo Moro, Italy, and a key member of the SWAP research group.
+He constantly contributes to cutting-edge AI, NLP, and Recommender Systems advancements.
+In 2018, he obtained a Ph.D. with a doctoral thesis titled "An affect-aware computational model for supporting decision-making through recommender systems".
 
-He served as a program committee member for several international conferences, including IJCAI, IUI, RecSys, and WWW. 
-He served as an organizer for many workshops and has been among the chairs for the ACL 2021, EACL, and EMNLP 2024. 
-He was part of the prestigious Marie Skłodowska-Curie (MSCA-RISE) fellowship program in 2016 and 2018. 
-Recently, he actively worked on the FAIR (Future AI Research) national project. 
-Within this context, he worked on <a href="https://chat.llamantino.it">LLaMAntino</a>, an LLM for the Italian language. 
+He served as a program committee member for several international conferences, including IJCAI, IUI, RecSys, and WWW.
+He served as an organizer for many workshops and has been among the chairs for the ACL 2021, EACL, and EMNLP 2024.
+He was part of the prestigious Marie Skłodowska-Curie (MSCA-RISE) fellowship program in 2016 and 2018.
+Recently, he actively worked on the FAIR (Future AI Research) national project.
+Within this context, he worked on <a href="https://chat.llamantino.it">LLaMAntino</a>, an LLM for the Italian language.
 He is responsible for the "User Preferences and Personalization" task of the FAIR Transversal Project TP2 - Vision, Language, and Multimodal Challenges.
