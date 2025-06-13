@@ -81,14 +81,15 @@ We now have a public <a href="https://calendar.google.com/calendar/u/0?cid=NWNlN
     </tr>
     <!-- Jun -->
     <tr>
-        <td rowspan="2"></td>
+        <td rowspan="2"><a href="/assets/seminar-flyers/seminar_7.pdf" download></td>
         <td rowspan="2">Tue 17 Jun<br>14:30-15:30<br>Room TBD</td>
         <td>Hisham Unniyankal</td>
-        <td>TBA</td>
+        <td>A Runtime Verification Approach for Safe PLC Systems</td>
     </tr>
     <tr>
         <td>Xiaolin Xing</td>
-        <td>TBA</td>
+        <td>Evaluate the Accuracy of Monocular 3D Pose Estimation for Gait Analysis</td>
+    </tr>
     <tr>
         <td rowspan="2"></td>
         <td rowspan="2">Mon 23 Jun<br>14:30-15:30<br>Room TBD</td>
