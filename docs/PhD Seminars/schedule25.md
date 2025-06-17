@@ -119,7 +119,7 @@ We now have a public <a href="https://calendar.google.com/calendar/u/0?cid=NWNlN
     <!-- Sep -->
     <tr>
         <td rowspan="2"></td>
-        <td rowspan="2">Tue 1 Jul<br>14:30-15:30<br>Room TBD</td>
+        <td rowspan="2">Tue 2 Sep<br>14:30-15:30<br>Room TBD</td>
         <td>Jacopo Dapueto</td>
         <td>TBA</td>
     </tr>
