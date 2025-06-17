@@ -91,12 +91,6 @@ We now have a public <a href="https://calendar.google.com/calendar/u/0?cid=NWNlN
         <td>Evaluate the Accuracy of Monocular 3D Pose Estimation for Gait Analysis</td>
     </tr>
     <tr>
-        <td rowspan="1"></td>
-        <td rowspan="1">Mon 23 Jun<br>14:30-15:30<br>Room TBD</td>
-        <td>Stefano Avola</td>
-        <td>TBA</td>
-    </tr>
-    <tr>
         <td rowspan="2"></td>
         <td rowspan="2">Tue 1 Jul<br>14:30-15:30<br>Room TBD</td>
         <td>Ilaria Stanzani</td>
@@ -108,9 +102,13 @@ We now have a public <a href="https://calendar.google.com/calendar/u/0?cid=NWNlN
     </tr>
     <!-- Jul -->
     <tr>
-        <td rowspan="1"></td>
-        <td rowspan="1">Tue 8 Jul<br>14:30-15:30<br>Room TBD</td>
+        <td rowspan="2"></td>
+        <td rowspan="2">Tue 8 Jul<br>14:30-15:30<br>Room TBD</td>
         <td>Dadan Khan</td>
+        <td>TBA</td>
+    </tr>
+    <tr>
+        <td>Stefano Avola</td>
         <td>TBA</td>
     </tr>
     <tr>
