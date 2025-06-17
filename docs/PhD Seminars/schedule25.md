@@ -91,40 +91,42 @@ We now have a public <a href="https://calendar.google.com/calendar/u/0?cid=NWNlN
         <td>Evaluate the Accuracy of Monocular 3D Pose Estimation for Gait Analysis</td>
     </tr>
     <tr>
-        <td rowspan="2"></td>
-        <td rowspan="2">Mon 23 Jun<br>14:30-15:30<br>Room TBD</td>
+        <td rowspan="1"></td>
+        <td rowspan="1">Mon 23 Jun<br>14:30-15:30<br>Room TBD</td>
         <td>Stefano Avola</td>
-        <td>TBA</td>
-    </tr>
-    <tr>
-        <td>Marianna Pizzo</td>
         <td>TBA</td>
     </tr>
     <tr>
         <td rowspan="2"></td>
         <td rowspan="2">Tue 1 Jul<br>14:30-15:30<br>Room TBD</td>
-        <td>Jacopo Dapueto</td>
+        <td>Ilaria Stanzani</td>
         <td>TBA</td>
     </tr>
-    <!-- Jul -->
     <tr>
         <td>Matteo Martini</td>
         <td>Be BRAVE! The Journey to Build a VR App for Social Anxiety Treatment</td>
     </tr>
+    <!-- Jul -->
     <tr>
-        <td rowspan="2"></td>
-        <td rowspan="2">Tue 8 Jul<br>14:30-15:30<br>Room TBD</td>
+        <td rowspan="1"></td>
+        <td rowspan="1">Tue 8 Jul<br>14:30-15:30<br>Room TBD</td>
         <td>Dadan Khan</td>
-        <td>TBA</td>
-    </tr>
-    <tr>
-        <td>Ilaria Stanzani</td>
         <td>TBA</td>
     </tr>
     <tr>
         <th colspan="4" style="text-align: center;">Summer break</th>
     </tr>
     <!-- Sep -->
+    <tr>
+        <td rowspan="2"></td>
+        <td rowspan="2">Tue 1 Jul<br>14:30-15:30<br>Room TBD</td>
+        <td>Jacopo Dapueto</td>
+        <td>TBA</td>
+    </tr>
+    <tr>
+        <td>Marianna Pizzo</td>
+        <td>TBA</td>
+    </tr>
     <tr>
         <td rowspan="2"></td>
         <td rowspan="2">Tue 9 Sep<br>14:30-15:30<br>Room TBD</td>
