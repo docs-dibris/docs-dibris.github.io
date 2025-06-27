@@ -102,9 +102,6 @@ We now have a public <a href="https://calendar.google.com/calendar/u/0?cid=NWNlN
         <td>TBA</td>
     </tr>
     <tr>
-        <th colspan="4" style="text-align: center;">Summer break</th>
-    </tr>
-    <tr>
         <td rowspan="2"></td>
         <td rowspan="2">Tue 15 Jul<br>14:30-15:30<br>Room TBD</td>
         <td>Ilaria Stanzani</td>
@@ -113,6 +110,9 @@ We now have a public <a href="https://calendar.google.com/calendar/u/0?cid=NWNlN
     <tr>
         <td>Matteo Martini</td>
         <td>Be BRAVE! The Journey to Build a VR App for Social Anxiety Treatment</td>
+    </tr>
+    <tr>
+        <th colspan="4" style="text-align: center;">Summer break</th>
     </tr>
     <!-- Sep -->
     <tr>
