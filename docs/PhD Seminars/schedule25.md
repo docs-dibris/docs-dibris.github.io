@@ -8,7 +8,7 @@ nav_order: 4
 # Seminars schedule 2025
 
 {: .highlight }
-The next meeting is scheduled for **Hisham Unniyankal** and **Xiaolin Xing**'s seminars, on **Tuesday, June 17** at 14:30 in Room 214.
+The next meeting is scheduled for **Dadan Khan** and **Stefano Avola**'s seminars, on **Tuesday, July 8** at 14:30 in Room 214.
 
 {: .note }
 All seminars are streamed on Microsoft Teams. Code to join: wfogmsx
@@ -90,16 +90,6 @@ We now have a public <a href="https://calendar.google.com/calendar/u/0?cid=NWNlN
         <td>Xiaolin Xing</td>
         <td>Evaluate the Accuracy of Monocular 3D Pose Estimation for Gait Analysis</td>
     </tr>
-    <tr>
-        <td rowspan="2"></td>
-        <td rowspan="2">Tue 1 Jul<br>14:30-15:30<br>Room TBD</td>
-        <td>Ilaria Stanzani</td>
-        <td>TBA</td>
-    </tr>
-    <tr>
-        <td>Matteo Martini</td>
-        <td>Be BRAVE! The Journey to Build a VR App for Social Anxiety Treatment</td>
-    </tr>
     <!-- Jul -->
     <tr>
         <td rowspan="2"></td>
@@ -113,6 +103,16 @@ We now have a public <a href="https://calendar.google.com/calendar/u/0?cid=NWNlN
     </tr>
     <tr>
         <th colspan="4" style="text-align: center;">Summer break</th>
+    </tr>
+    <tr>
+        <td rowspan="2"></td>
+        <td rowspan="2">Tue 15 Jul<br>14:30-15:30<br>Room TBD</td>
+        <td>Ilaria Stanzani</td>
+        <td>TBA</td>
+    </tr>
+    <tr>
+        <td>Matteo Martini</td>
+        <td>Be BRAVE! The Journey to Build a VR App for Social Anxiety Treatment</td>
     </tr>
     <!-- Sep -->
     <tr>
