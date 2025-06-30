@@ -19,9 +19,9 @@ nav_order: 5
     <br>
     <b><i>with the contribution of the University of Genoa</i></b>
     <br>
-    <a href="https://forms.gle/UhBDbi44Sxr3sSdg9">
+    <!-- <a href="https://forms.gle/UhBDbi44Sxr3sSdg9">
         <button type="button">Register here</button>
-    </a>
+    </a> -->
 </div>
 
 # Flyer
