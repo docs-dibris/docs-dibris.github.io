@@ -21,10 +21,10 @@ nav_order: 6
     <b><i>with the contribution of the University of Genoa</i></b>
     <br>
 </div>
-<span class="fs-8">
+<!-- <span class="fs-8">
 [Register here](https://forms.gle/F2cNJGpat6avP7MH6){: .btn .btn-purple}
 </span>
-{: .text-center }
+{: .text-center } -->
 
 # Flyer
 <div style="display: flex; justify-content: center; align-items: center; margin: 20px 0;">
