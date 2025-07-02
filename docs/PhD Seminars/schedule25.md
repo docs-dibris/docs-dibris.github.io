@@ -8,7 +8,7 @@ nav_order: 4
 # Seminars schedule 2025
 
 {: .highlight }
-The next meeting is scheduled for **Dadan Khan** and **Stefano Avola**'s seminars, on **Tuesday, July 8** at 14:30 in Room 214.
+The next meeting is scheduled for **Dadan Khan** and **Stefano Avola**'s seminars, on **Tuesday, July 8** at 14:30 in Room 217.
 
 {: .note }
 All seminars are streamed on Microsoft Teams. Code to join: wfogmsx
@@ -92,14 +92,14 @@ We now have a public <a href="https://calendar.google.com/calendar/u/0?cid=NWNlN
     </tr>
     <!-- Jul -->
     <tr>
-        <td rowspan="2"></td>
-        <td rowspan="2">Tue 8 Jul<br>14:30-15:30<br>Room TBD</td>
+        <td rowspan="2"><a href="/assets/seminar-flyers/seminar_8.pdf" download>download</a></td>
+        <td rowspan="2">Tue 8 Jul<br>14:30-15:30<br>Room 217</td>
         <td>Dadan Khan</td>
-        <td>TBA</td>
+        <td>Place with Purpose: Pose-and-Prompt Guided Human Synthesis in Real Scenes</td>
     </tr>
     <tr>
         <td>Stefano Avola</td>
-        <td>TBA</td>
+        <td>Confidential and Permissioned Blockchains for the logistics domain</td>
     </tr>
     <tr>
         <td rowspan="2"></td>
