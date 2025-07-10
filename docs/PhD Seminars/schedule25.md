@@ -8,7 +8,7 @@ nav_order: 4
 # Seminars schedule 2025
 
 {: .highlight }
-The next meeting is scheduled for **Dadan Khan** and **Stefano Avola**'s seminars, on **Tuesday, July 8** at 14:30 in Room 217.
+The next meeting is scheduled for **Matteo Martini**'s seminar, on **Thursday, July 17** at 14:30 in Room 217.
 
 {: .note }
 All seminars are streamed on Microsoft Teams. Code to join: wfogmsx
@@ -102,12 +102,8 @@ We now have a public <a href="https://calendar.google.com/calendar/u/0?cid=NWNlN
         <td>Confidential and Permissioned Blockchains for the logistics domain</td>
     </tr>
     <tr>
-        <td rowspan="2"></td>
-        <td rowspan="2">Tue 15 Jul<br>14:30-15:30<br>Room TBD</td>
-        <td>Ilaria Stanzani</td>
-        <td>TBA</td>
-    </tr>
-    <tr>
+        <td rowspan="1"><a href="/assets/seminar-flyers/seminar_9.pdf" download></td>
+        <td rowspan="1">Tue 15 Jul<br>14:30-15:00<br>Room TBD</td>
         <td>Matteo Martini</td>
         <td>Be BRAVE! The Journey to Build a VR App for Social Anxiety Treatment</td>
     </tr>
