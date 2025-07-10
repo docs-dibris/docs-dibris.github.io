@@ -103,7 +103,7 @@ We now have a public <a href="https://calendar.google.com/calendar/u/0?cid=NWNlN
     </tr>
     <tr>
         <td rowspan="1"><a href="/assets/seminar-flyers/seminar_9.pdf" download></td>
-        <td rowspan="1">Tue 15 Jul<br>14:30-15:00<br>Room TBD</td>
+        <td rowspan="1">Thu 17 Jul<br>14:30-15:00<br>Room 217</td>
         <td>Matteo Martini</td>
         <td>Be BRAVE! The Journey to Build a VR App for Social Anxiety Treatment</td>
     </tr>
