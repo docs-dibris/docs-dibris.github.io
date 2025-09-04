@@ -8,7 +8,7 @@ nav_order: 4
 # Seminars schedule 2025
 
 {: .highlight }
-The next meeting is scheduled for **Matteo Martini**'s seminar, on **Thursday, July 17** at 14:30 in Room 217.
+The next meeting is scheduled for **Matteo Martini** and **Peiman Ataei**'s seminars, on **Tuesday, September 9** at 14:30 in Room 217.
 
 {: .note }
 All seminars are streamed on Microsoft Teams. Code to join: wfogmsx
@@ -102,34 +102,18 @@ We now have a public <a href="https://calendar.google.com/calendar/u/0?cid=NWNlN
         <td>Confidential and Permissioned Blockchains for the logistics domain</td>
     </tr>
     <tr>
-        <td rowspan="1"><a href="/assets/seminar-flyers/seminar_9.pdf" download>download</a></td>
-        <td rowspan="1">Thu 17 Jul<br>14:30-15:00<br>Room 217</td>
-        <td>Matteo Martini</td>
-        <td>Be BRAVE! The Journey to Build a VR App for Social Anxiety Treatment</td>
-    </tr>
-    <tr>
         <th colspan="4" style="text-align: center;">Summer break</th>
     </tr>
     <!-- Sep -->
     <tr>
-        <td rowspan="2"></td>
-        <td rowspan="2">Tue 2 Sep<br>14:30-15:30<br>Room TBD</td>
-        <td>Jacopo Dapueto</td>
-        <td>TBA</td>
+        <td rowspan="2"><a href="/assets/seminar-flyers/seminar_9.pdf" download>download</a></td>
+        <td rowspan="2">Tue 9 Sep<br>14:30-15:30<br>Room 217</td>
+        <td>Matteo Martini</td>
+        <td>Be BRAVE! The Journey to Build a VR App for Social Anxiety Treatment</td>
     </tr>
     <tr>
-        <td>Marianna Pizzo</td>
-        <td>TBA</td>
-    </tr>
-    <tr>
-        <td rowspan="2"></td>
-        <td rowspan="2">Tue 9 Sep<br>14:30-15:30<br>Room TBD</td>
         <td>Peiman Ataei</td>
-        <td>TBA</td>
-    </tr>
-    <tr>
-        <td>Andrea De Filippis</td>
-        <td>TBA</td>
+        <td>Revolution in Photovoltaic Inspection: Comparing Traditional and Drone-Based Methods</td>
     </tr>
     <tr>
         <td rowspan="2"></td>
