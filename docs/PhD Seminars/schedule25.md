@@ -82,7 +82,7 @@ We now have a public <a href="https://calendar.google.com/calendar/u/0?cid=NWNlN
     <!-- Jun -->
     <tr>
         <td rowspan="2"><a href="/assets/seminar-flyers/seminar_7.pdf" download>download</a></td>
-        <td rowspan="2">Tue 17 Jun<br>14:30-15:30<br>Room TBD</td>
+        <td rowspan="2">Tue 17 Jun<br>14:30-15:30<br>Room 214</td>
         <td>Hisham Unniyankal</td>
         <td>A Runtime Verification Approach for Safe PLC Systems</td>
     </tr>
