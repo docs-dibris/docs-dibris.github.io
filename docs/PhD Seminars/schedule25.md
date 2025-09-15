@@ -8,7 +8,7 @@ nav_order: 4
 # Seminars schedule 2025
 
 {: .highlight }
-The next meeting is scheduled for **Matteo Martini** and **Peiman Ataei**'s seminars, on **Tuesday, September 9** at 14:30 in Room 217.
+The next meeting is scheduled for **Gabriele Romano** and **Alek Frölich**'s seminars, on **Tuesday, September 23** at 14:30 in Room 214.
 
 {: .note }
 All seminars are streamed on Microsoft Teams. Code to join: wfogmsx
@@ -117,19 +117,9 @@ We now have a public <a href="https://calendar.google.com/calendar/u/0?cid=NWNlN
     </tr>
     <tr>
         <td rowspan="2"></td>
-        <td rowspan="2">Tue 16 Sep<br>14:30-15:30<br>Room TBD</td>
+        <td rowspan="2">Tue 23 Sep<br>14:30-15:30<br>Room 214</td>
         <td>Gabriele Romano</td>
-        <td>TBA</td>
-    </tr>
-    <tr>
-        <td>Arnaud F. Ruymakers</td>
-        <td>TBA</td>
-    </tr>
-    <tr>
-        <td rowspan="2"></td>
-        <td rowspan="2">Tue 23 Sep<br>14:30-15:30<br>Room TBD</td>
-        <td>Lorenzo Farina</td>
-        <td>TBA</td>
+        <td>Closing the Gaps: Three Statistical Approaches to Motion Capture Data Imputation</td>
     </tr>
     <tr>
         <td>Alek Frölich</td>
