@@ -115,14 +115,12 @@ We now have a public <a href="https://calendar.google.com/calendar/u/0?cid=NWNlN
         <td>Peiman Ataei</td>
         <td>Revolution in Photovoltaic Inspection: Comparing Traditional and Drone-Based Methods</td>
     </tr>
-    <!--
     <tr>
         <td rowspan="1"><a href="/assets/seminar-flyers/seminar_10.pdf" download>download</a></td>
-        <td rowspan="1">Tue 23 Sep<br>14:30-15:30<br>Room 214</td>
+        <td rowspan="1">Tue 23 Sep<br>14:30-15:00<br>Room 214</td>
         <td>Gabriele Romano</td>
         <td>Closing the Gaps: Three Statistical Approaches to Motion Capture Data Imputation</td>
     </tr>
-    -->
     <tr>
         <td rowspan="2"></td>
         <td rowspan="2">Tue 30 Sep<br>14:30-15:30<br>Room TBD</td>
