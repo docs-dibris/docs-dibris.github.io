@@ -8,7 +8,7 @@ nav_order: 4
 # Seminars schedule 2025
 
 {: .highlight }
-The next meeting is scheduled for **Gabriele Romano**'s seminar, on **Tuesday, September 23** at 14:30 in Room 214.
+The next meeting is scheduled for **Irem Arici** and **Veronica Pignedoli**'s seminar, on **Tuesday, September 30** at 14:30 in Room 214.
 
 {: .note }
 All seminars are streamed on Microsoft Teams. Code to join: wfogmsx
@@ -123,13 +123,13 @@ We now have a public <a href="https://calendar.google.com/calendar/u/0?cid=NWNlN
     </tr>
     <tr>
         <td rowspan="2"></td>
-        <td rowspan="2">Tue 30 Sep<br>14:30-15:30<br>Room TBD</td>
-        <td>Arici Irem</td>
+        <td rowspan="2">Tue 30 Sep<br>14:30-15:30<br>Room 214</td>
+        <td>Irem Arici</td>
         <td>TBA</td>
     </tr>
     <tr>
         <td>Veronica Pignedoli</td>
-        <td>TBA</td>
+        <td>Learning with Privileged Information for Medical Image Segmentation</td>
     </tr>
     <!-- Oct -->
     <tr>
