@@ -122,10 +122,10 @@ We now have a public <a href="https://calendar.google.com/calendar/u/0?cid=NWNlN
         <td>Closing the Gaps: Three Statistical Approaches to Motion Capture Data Imputation</td>
     </tr>
     <tr>
-        <td rowspan="2"></td>
+        <td rowspan="2"><a href="/assets/seminar-flyers/seminar_11.pdf" download></td>
         <td rowspan="2">Tue 30 Sep<br>14:30-15:30<br>Room 214</td>
         <td>Irem Arici</td>
-        <td>TBA</td>
+        <td>From Intuition to Algorithms: Computational Perspectives on Emotion</td>
     </tr>
     <tr>
         <td>Veronica Pignedoli</td>
