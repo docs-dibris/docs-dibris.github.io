@@ -173,6 +173,36 @@ We now have a public <a href="https://calendar.google.com/calendar/u/0?cid=NWNlN
         <td>Silvia Ferrando</td>
         <td>TBA</td>
     </tr>
+    <tr>
+        <td rowspan="1"></td>
+        <td rowspan="1">TBA</td>
+        <td>Alek Fröhlich</td>
+        <td>TBA</td>
+    </tr>
+    <tr>
+        <td rowspan="1"></td>
+        <td rowspan="1">TBA</td>
+        <td>Arnaud Ruymaekers</td>
+        <td>TBA</td>
+    </tr>
+    <tr>
+        <td rowspan="1"></td>
+        <td rowspan="1">TBA</td>
+        <td>Ilaria Stanzani</td>
+        <td>TBA</td>
+    </tr>
+	<!--
+    <tr>
+        <td rowspan="2"></td>
+        <td rowspan="2">Tue 11 Nov<br>14:30-15:30<br>Room TBD</td>
+        <td>TBA</td>
+        <td>TBA</td>
+    </tr>
+    <tr>
+        <td>TBA</td>
+        <td>TBA</td>
+    </tr>
+	-->
 </table>
 
 
