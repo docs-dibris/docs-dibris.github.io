@@ -8,7 +8,7 @@ nav_order: 4
 # Seminars schedule 2025
 
 {: .highlight }
-The next meeting is scheduled for **Irem Arici** and **Veronica Pignedoli**'s seminar, on **Tuesday, September 30** at 14:30 in Room 214.
+The next meeting is scheduled for **Alek Fröhlich** and **George Kurshakov**'s seminars, on **Tuesday, October 7** at 14:30 in Room 214.
 
 {: .note }
 All seminars are streamed on Microsoft Teams. Code to join: wfogmsx
@@ -133,14 +133,14 @@ We now have a public <a href="https://calendar.google.com/calendar/u/0?cid=NWNlN
     </tr>
     <!-- Oct -->
     <tr>
-        <td rowspan="2"></td>
-        <td rowspan="2">Tue 14 Oct<br>14:30-15:30<br>Room TBD</td>
+        <td rowspan="2"><a href="/assets/seminar-flyers/seminar_12.pdf" download>download</a></td>
+        <td rowspan="2">Tue 7 Oct<br>14:30-15:30<br>Room 214</td>
         <td>George Kurshakov</td>
-        <td>TBA</td>
+        <td>Satellite Positioning for Motion Capture: Inspiration and Limitation</td>
     </tr>
     <tr>
-        <td>Abdelmalik Benfadhil</td>
-        <td>TBA</td>
+        <td>Alek Fröhlich</td>
+        <td>Spectral Representation Learning</td>
     </tr>
     <tr>
         <td rowspan="2"></td>
