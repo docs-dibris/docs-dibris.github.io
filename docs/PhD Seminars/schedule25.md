@@ -8,7 +8,7 @@ nav_order: 4
 # Seminars schedule 2025
 
 {: .highlight }
-The next meeting is scheduled for **Alek Fröhlich** and **George Kurshakov**'s seminars, on **Tuesday, October 7** at 14:30 in Room 214.
+The next meeting is scheduled for **Abdelmalik Benfadhil** and **Marianna Pizzo**'s seminars, on **Tuesday, October 14** at 14:30 in Room 214.
 
 {: .note }
 All seminars are streamed on Microsoft Teams. Code to join: wfogmsx
@@ -133,14 +133,20 @@ We now have a public <a href="https://calendar.google.com/calendar/u/0?cid=NWNlN
     </tr>
     <!-- Oct -->
     <tr>
-        <td rowspan="2"><a href="/assets/seminar-flyers/seminar_12.pdf" download>download</a></td>
-        <td rowspan="2">Tue 7 Oct<br>14:30-15:30<br>Room 214</td>
-        <td>George Kurshakov</td>
-        <td>Satellite Positioning for Motion Capture: Inspiration and Limitation</td>
-    </tr>
-    <tr>
+        <td rowspan="1"><a href="/assets/seminar-flyers/seminar_12c.pdf" download>download</a></td>
+        <td rowspan="1">Tue 7 Oct<br>14:30-15:30<br>Room 214</td>
         <td>Alek Fröhlich</td>
         <td>Spectral Representation Learning</td>
+    </tr>
+    <tr>
+        <td rowspan="2"><a href="/assets/seminar-flyers/seminar_13c.pdf" download>download</a></td>
+        <td rowspan="2">Tue 14 Oct<br>14:30-15:30<br>Room 214</td>
+        <td>Abdelmalik Benfadhil</td>
+        <td>Finite State Controllers for Partially Observable Problems</td>
+    </tr>
+    <tr>
+        <td>Marianna Pizzo</td>
+        <td>ActivePaws and Playcuff: Pilot Evaluation of a Non-Immersive Exergame Suite Controlled by a Wearable Device</td>
     </tr>
     <tr>
         <td rowspan="2"></td>
@@ -176,8 +182,8 @@ We now have a public <a href="https://calendar.google.com/calendar/u/0?cid=NWNlN
     <tr>
         <td rowspan="1"></td>
         <td rowspan="1">TBA</td>
-        <td>Alek Fröhlich</td>
-        <td>TBA</td>
+        <td>George Kurshakov</td>
+        <td>Satellite Positioning for Motion Capture: Inspiration and Limitation</td>
     </tr>
     <tr>
         <td rowspan="1"></td>
