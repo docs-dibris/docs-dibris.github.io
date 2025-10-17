@@ -8,7 +8,7 @@ nav_order: 4
 # Seminars schedule 2025
 
 {: .highlight }
-The next meeting is scheduled for **Abdelmalik Benfadhil** and **Marianna Pizzo**'s seminars, on **Tuesday, October 14** at 14:30 in Room 214.
+The next meeting is scheduled for **Christian Daniele** and **Zahra Daoui**'s seminars, on **Tuesday, October 21** at 14:30 in Room 214.
 
 {: .note }
 All seminars are streamed on Microsoft Teams. Code to join: wfogmsx
@@ -149,14 +149,14 @@ We now have a public <a href="https://calendar.google.com/calendar/u/0?cid=NWNlN
         <td>ActivePaws and Playcuff: Pilot Evaluation of a Non-Immersive Exergame Suite Controlled by a Wearable Device</td>
     </tr>
     <tr>
-        <td rowspan="2"></td>
+        <td rowspan="2"><a href="/assets/seminar-flyers/seminar_14.pdf" download>download</a></td>
         <td rowspan="2">Tue 21 Oct<br>14:30-15:30<br>Room TBD</td>
         <td>Christian Daniele</td>
-        <td>TBA</td>
+        <td>Deep Equilibrium Models for Poisson Inverse Problems via Mirror Descent</td>
     </tr>
     <tr>
         <td>Zahra Daoui</td>
-        <td>TBA</td>
+        <td>Bridging Symbolic and Subsymbolic AI in Explainable Autonomous Agents</td>
     </tr>
     <tr>
         <td rowspan="2"></td>
