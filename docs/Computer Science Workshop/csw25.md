@@ -255,6 +255,7 @@ We'll also explore how one signal can be derived from another by exploiting the 
 Due to practical considerations and time constraints, we will mainly focus on electrophysiological signals (ExG).
 This journey will start in the time domain and move into the frequency and Z domains.
 We will use MATLAB to design and apply signal analysis and processing techniques.
+You can download the material used in this session <a href="/assets/csw25-material/pani.zip">here</a>.
 
 #### Danilo's bio
 <img src="/assets/images/people/CSW25/pani.jpg" style="display: block; max-height: 150px;">
