@@ -7,8 +7,8 @@ nav_order: 4
 
 # Seminars schedule 2025
 
-{: .highlight }
-The next meeting is scheduled for **Christian Daniele** and **Zahra Daoui**'s seminars, on **Tuesday, October 21** at 14:30 in Room 214.
+#{: .highlight }
+#The next meeting is scheduled for **Christian Daniele** and **Zahra Daoui**'s seminars, on **Tuesday, October 21** at 14:30 in Room 214.
 
 {: .note }
 All seminars are streamed on Microsoft Teams. Code to join: wfogmsx
@@ -158,16 +158,6 @@ We now have a public <a href="https://calendar.google.com/calendar/u/0?cid=NWNlN
         <td>Zahra Daoui</td>
         <td>Bridging Symbolic and Subsymbolic AI in Explainable Autonomous Agents</td>
     </tr>
-    <tr>
-        <td rowspan="2"></td>
-        <td rowspan="2">Tue 28 Oct<br>14:30-15:30<br>Room TBD</td>
-        <td>Abdolhamid Livani</td>
-        <td>TBA</td>
-    </tr>
-    <tr>
-        <td>Monica Parodi</td>
-        <td>TBA</td>
-    </tr>
     <!-- Nov -->
     <tr>
         <td rowspan="2"></td>
@@ -195,6 +185,12 @@ We now have a public <a href="https://calendar.google.com/calendar/u/0?cid=NWNlN
         <td rowspan="1"></td>
         <td rowspan="1">TBA</td>
         <td>Ilaria Stanzani</td>
+        <td>TBA</td>
+    </tr>
+    <tr>
+        <td rowspan="1"></td>
+        <td rowspan="1">TBA</td>
+        <td>Monica Parodi</td>
         <td>TBA</td>
     </tr>
 	<!--
