@@ -193,6 +193,18 @@ We now have a public <a href="https://calendar.google.com/calendar/u/0?cid=NWNlN
         <td>Monica Parodi</td>
         <td>TBA</td>
     </tr>
+    <tr>
+        <td rowspan="1"></td>
+        <td rowspan="1">TBA</td>
+        <td>Jacopo Dapueto</td>
+        <td>TBA</td>
+    </tr>
+    <tr>
+        <td rowspan="1"></td>
+        <td rowspan="1">TBA</td>
+        <td>Andrea de Filippis</td>
+        <td>TBA</td>
+    </tr>
 	<!--
     <tr>
         <td rowspan="2"></td>
