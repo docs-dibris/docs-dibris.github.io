@@ -8,7 +8,7 @@ nav_order: 4
 # Seminars schedule 2025
 
 #{: .highlight }
-#The next meeting is scheduled for **Christian Daniele** and **Zahra Daoui**'s seminars, on **Tuesday, October 21** at 14:30 in Room 214.
+#The next meeting is scheduled for **Silvia Ferrando** and **Ziad Janpih**'s seminars, on **Tuesday, November 4** at 14:30 in Room 214.
 
 {: .note }
 All seminars are streamed on Microsoft Teams. Code to join: wfogmsx
@@ -160,14 +160,14 @@ We now have a public <a href="https://calendar.google.com/calendar/u/0?cid=NWNlN
     </tr>
     <!-- Nov -->
     <tr>
-        <td rowspan="2"></td>
-        <td rowspan="2">Tue 4 Nov<br>14:30-15:30<br>Room TBD</td>
-        <td>Ziad Janpih</td>
-        <td>TBA</td>
+        <td rowspan="2"><a href="/assets/seminar-flyers/seminar_15.pdf" download>download</a></td>
+        <td rowspan="2">Tue 4 Nov<br>14:30-15:30<br>Room 214</td>
+        <td>Silvia Ferrando</td>
+        <td>TRATTO: a tangible interface for socio-emotional learning in children</td>
     </tr>
     <tr>
-        <td>Silvia Ferrando</td>
-        <td>TBA</td>
+        <td>Ziad Janpih</td>
+        <td>Mitigating representation bias through constrained optimization</td>
     </tr>
     <tr>
         <td rowspan="1"></td>
