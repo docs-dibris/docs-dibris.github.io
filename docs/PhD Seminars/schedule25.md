@@ -7,8 +7,8 @@ nav_order: 4
 
 # Seminars schedule 2025
 
-#{: .highlight }
-#The next meeting is scheduled for **Silvia Ferrando** and **Ziad Janpih**'s seminars, on **Tuesday, November 4** at 14:30 in Room 214.
+{: .highlight }
+The next meeting is scheduled for **Silvia Ferrando** and **Ziad Janpih**'s seminars, on **Tuesday, November 4** at 14:30 in Room 214.
 
 {: .note }
 All seminars are streamed on Microsoft Teams. Code to join: wfogmsx
@@ -170,14 +170,12 @@ We now have a public <a href="https://calendar.google.com/calendar/u/0?cid=NWNlN
         <td>Mitigating representation bias through constrained optimization</td>
     </tr>
     <tr>
-        <td rowspan="1"></td>
-        <td rowspan="1">TBA</td>
+        <td rowspan="2"></td>
+        <td rowspan="2">Tue 11 Nov<br>14:30-15:30<br>Room 214</td>
         <td>George Kurshakov</td>
         <td>Satellite Positioning for Motion Capture: Inspiration and Limitation</td>
     </tr>
     <tr>
-        <td rowspan="1"></td>
-        <td rowspan="1">TBA</td>
         <td>Arnaud Ruymaekers</td>
         <td>TBA</td>
     </tr>
@@ -190,13 +188,13 @@ We now have a public <a href="https://calendar.google.com/calendar/u/0?cid=NWNlN
     <tr>
         <td rowspan="1"></td>
         <td rowspan="1">TBA</td>
-        <td>Monica Parodi</td>
+        <td>Jacopo Dapueto</td>
         <td>TBA</td>
     </tr>
     <tr>
         <td rowspan="1"></td>
         <td rowspan="1">TBA</td>
-        <td>Jacopo Dapueto</td>
+        <td>Monica Parodi</td>
         <td>TBA</td>
     </tr>
     <tr>
