@@ -20,4 +20,4 @@ We are now collecting signatures for CSW 2026! Check [the page][csw26] and follo
 The 2025 edition of the Computer Science Workshop is taking shape!
 Visit the [dedicated page][csw25] to discover what we are organizing for you. -->
 
-[csw25]: https://docs-dibris.github.io/docs/Computer%20Science%20Workshop/csw25.html
+[csw26]: https://docs-dibris.github.io/docs/Computer%20Science%20Workshop/csw26.html
