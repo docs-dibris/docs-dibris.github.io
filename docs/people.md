@@ -41,19 +41,6 @@ Here you can find the list of current members of the DoCS group, along with some
 <table>
     <tr>
         <td>
-            <img src="https://media.licdn.com/dms/image/v2/D4D03AQEXp1mYO-MQoQ/profile-displayphoto-shrink_800_800/B4DZRgcS8nHcAc-/0/1736784818422?e=1753315200&v=beta&t=UgTbvygj9bTpFWa5omQCgOdkb-AZH4VdcIeDYiiixy0">
-        </td>
-        <td>
-            <dl>
-                <dt>Name</dt>
-                <dd>Riccardo Bianchini</dd>
-                <dt>Research group</dt>
-                <dd>FORMA</dd>
-            </dl>
-        </td>
-    </tr>
-    <tr>
-        <td>
             <img src="https://rubrica.unige.it/static/foto/UUBDXlhs.jpg?1699915150.365">
         </td>
         <td>
@@ -176,8 +163,7 @@ Here you can find the list of current members of the DoCS group, along with some
 - Eros Viola
 - Larbi Touijer
 - Muhammad Mohsin
-
-
+- Riccardo Bianchini
 
 ## Future members?
 
