@@ -17,8 +17,8 @@ nav_order: 7
     <!--Room 505, DIBRIS (Valletta Puggia), Università di Genova-->
     <!--<br>-->
     <!--Via Dodecaneso 35, Genoa-->
-    <br>
-    <b><i>with the contribution of the University of Genoa</i></b>
+    <!--<br>-->
+    <!--<b><i>with the contribution of the University of Genoa</i></b>-->
     <br>
 </div>
  <span class="fs-8">
