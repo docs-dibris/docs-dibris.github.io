@@ -22,6 +22,6 @@ nav_order: 7
     <br>
 </div>
  <span class="fs-8">
-[Sign here](https://forms.gle/F2cNJGpat6avP7MH6){: .btn .btn-purple}
+[Sign here](https://forms.gle/zH85EgX97Dw2fgyV9){: .btn .btn-purple}
 </span>
 {: .text-center }
