@@ -8,7 +8,7 @@ nav_order: 7
 [registration_url]: https://forms.gle/DAmEFqNGWGjdkH6r8
 
 # CSW 2026
-<img src="/assets/images/csw_logo_light_25.svg" style="display: block; margin: 0 auto; max-width: 300px;">
+<img src="/assets/images/csw_logo_26.svg" style="display: block; margin: 0 auto; max-width: 300px;">
 
 <div align="center">
     <h2>Computer Science Workshop 2026</h2>
