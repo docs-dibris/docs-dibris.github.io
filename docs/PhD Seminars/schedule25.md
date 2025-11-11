@@ -8,7 +8,7 @@ nav_order: 4
 # Seminars schedule 2025
 
 {: .highlight }
-The next meeting is scheduled for **George Kurshakov** and **Arnaud Ruymaekers**'s seminars, on **Tuesday, November 11** at 14:30 in Room 214.
+The next meeting is scheduled for **Jacopo Dapueto** and **Andrea de Filippis**'s seminars, on **Tuesday, November 25** at 14:30 in Room 214.
 
 {: .note }
 All seminars are streamed on Microsoft Teams. Code to join: wfogmsx
@@ -181,13 +181,13 @@ We now have a public <a href="https://calendar.google.com/calendar/u/0?cid=NWNlN
     </tr>
     <tr>
         <td rowspan="2"></td>
-        <td rowspan="2">Tue 18 Nov<br>14:30-15:30<br>Room 214</td>
+        <td rowspan="2">Tue 25 Nov<br>14:30-15:30<br>Room 214</td>
         <td>Jacopo Dapueto</td>
         <td>TBA</td>
     </tr>
     <tr>
         <td>Andrea de Filippis</td>
-        <td>TBA</td>
+        <td>Immersive Virtual Reality for Orthopedic Shoulder Rehabilitation</td>
     </tr>
 	<!--
     <tr>
