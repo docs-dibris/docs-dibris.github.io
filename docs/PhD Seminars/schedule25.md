@@ -8,7 +8,7 @@ nav_order: 4
 # Seminars schedule 2025
 
 {: .highlight }
-The next meeting is scheduled for **Silvia Ferrando** and **Ziad Janpih**'s seminars, on **Tuesday, November 4** at 14:30 in Room 214.
+The next meeting is scheduled for **Jacopo Dapueto** and **Andrea de Filippis**'s seminars, on **Tuesday, November 25** at 14:30 in Room 214.
 
 {: .note }
 All seminars are streamed on Microsoft Teams. Code to join: wfogmsx
@@ -170,38 +170,24 @@ We now have a public <a href="https://calendar.google.com/calendar/u/0?cid=NWNlN
         <td>Mitigating representation bias through constrained optimization</td>
     </tr>
     <tr>
-        <td rowspan="2"></td>
+        <td rowspan="2"><a href="/assets/seminar-flyers/seminar_16c.pdf" download>download</a></td>
         <td rowspan="2">Tue 11 Nov<br>14:30-15:30<br>Room 214</td>
         <td>George Kurshakov</td>
         <td>Satellite Positioning for Motion Capture: Inspiration and Limitation</td>
     </tr>
     <tr>
         <td>Arnaud Ruymaekers</td>
-        <td>TBA</td>
+        <td>Olfactory Navigation - A Case Study for Model-Based Reinforcement Learning</td>
     </tr>
     <tr>
-        <td rowspan="1"></td>
-        <td rowspan="1">TBA</td>
-        <td>Ilaria Stanzani</td>
-        <td>TBA</td>
-    </tr>
-    <tr>
-        <td rowspan="1"></td>
-        <td rowspan="1">TBA</td>
+        <td rowspan="2"><a href="/assets/seminar-flyers/seminar_17.pdf" download>download</a></td>
+        <td rowspan="2">Tue 25 Nov<br>14:30-15:30<br>Room 214</td>
         <td>Jacopo Dapueto</td>
-        <td>TBA</td>
+        <td>An introduction to interventional causal representation learning</td>
     </tr>
     <tr>
-        <td rowspan="1"></td>
-        <td rowspan="1">TBA</td>
-        <td>Monica Parodi</td>
-        <td>TBA</td>
-    </tr>
-    <tr>
-        <td rowspan="1"></td>
-        <td rowspan="1">TBA</td>
         <td>Andrea de Filippis</td>
-        <td>TBA</td>
+        <td>Immersive Virtual Reality for Orthopedic Shoulder Rehabilitation</td>
     </tr>
 	<!--
     <tr>
