@@ -16,15 +16,15 @@ nav_order: 5
 
 # Seminars schedule 2026
 
-{: .highlight }
-The next meeting is scheduled for **Jacopo Dapueto** and **Andrea de Filippis**'s seminars, on **Tuesday, November 25** at 14:30 in Room TBD. <!-- change -->
+<!-- {: .highlight }
+ The next meeting is scheduled for **Jacopo Dapueto** and **Andrea de Filippis**'s seminars, on **Tuesday, November 25** at 14:30 in Room TBD. -->
 
 {: .note }
-All seminars are streamed on Microsoft Teams. Code to join: xxxx <!-- change -->
+All seminars are streamed on Microsoft Teams. Code to join: wfogmsx <!-- change -->
 
 This schedule is subject to changes. If you see typos or cannot be present on your assigned date, please send an email to <a href="mailto:irem.arici@edu.unige.it">Irem</a>.
 
-We now have a public <a href="https://calendar.google.com/calendar/u/0?cid=NWNlNTFkZDlmNTJmYmI2NjU5NDQ3YjMxYzhkZTAzN2I2YTZhNmE0Yzk4ZDU0ZmY5ZDQ1NjA3NmJmYzgyZjRmMUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t">Google Calendar</a> with the seminar dates for your convenience. <!-- change -->
+<!-- We now have a public <a href="https://calendar.google.com/calendar/u/0?cid=NWNlNTFkZDlmNTJmYmI2NjU5NDQ3YjMxYzhkZTAzN2I2YTZhNmE0Yzk4ZDU0ZmY5ZDQ1NjA3NmJmYzgyZjRmMUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t">Google Calendar</a> with the seminar dates for your convenience.  change -->
 
 
 <table>
