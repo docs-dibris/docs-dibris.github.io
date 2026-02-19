@@ -93,7 +93,7 @@ This schedule is subject to changes. If you see typos or cannot be present on yo
         <td>TBA</td>
     </tr>
     <tr>
-        <td>Irem Arici</td>
+        <td>Alek Fröhlich</td>
         <td>TBA</td>
     </tr>
     <tr>
@@ -114,7 +114,7 @@ This schedule is subject to changes. If you see typos or cannot be present on yo
         <td>TBA</td>
     </tr>
     <tr>
-        <td>Alek Fröhlich</td>
+        <td>Irem Arici</td>
         <td>TBA</td>
     </tr>
     <tr>
