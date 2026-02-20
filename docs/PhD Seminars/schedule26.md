@@ -58,7 +58,7 @@ This schedule is subject to changes. If you see typos or cannot be present on yo
     <tr>
         <td rowspan="2"><a href=download>download</a></td>
         <td rowspan="2">Tue 5 May<br>14:30-15:30<br>Room TBD</td>
-        <td>Anna Khristodulo</td>
+        <td>Gabriele Bortolai</td>
         <td>TBA</td>
     </tr>
     <tr>
@@ -79,12 +79,12 @@ This schedule is subject to changes. If you see typos or cannot be present on yo
     <tr>
         <td rowspan="2"><a href= download>download</a></td>
         <td rowspan="2">Tue 19 May<br>14:30-15:00<br>Room TBD</td>
-        <td>Gabriele Bortolai</td>
-        <td>TBA</td>
+        <td>Anna Khristodulo</td>
+        <td>TBA</td> <!-- changed -->
     </tr>
     <tr>
         <td>Giampiero Granatella</td>
-        <td>TBA</td>
+        <td>TBA</td> <!-- confirmed -->
     </tr>
     <tr>
         <td rowspan="2"><a href=download>download</a></td>
@@ -185,13 +185,13 @@ This schedule is subject to changes. If you see typos or cannot be present on yo
     </tr>
     <tr>
         <td rowspan="2"><a href=download>download</a></td>
-        <td rowspan="2">Tue 22 Sep<br>14:30-15:00<br>Room TBD</td>
+        <td rowspan="2">Tue 22 Sep<br>14:30-15:30<br>Room TBD</td>
         <td>Christian Daniele</td>
         <td>TBA</td>
     </tr>
     <tr>
-        <td>Andrea Giusto</td>
-        <td>TBA</td>
+        <td>Andrea Maffia</td>
+        <td>TBA</td> <!-- changed -->
     </tr>
     <tr>
         <td rowspan="2"><a href= download>download</a></td>
@@ -222,7 +222,7 @@ This schedule is subject to changes. If you see typos or cannot be present on yo
     </tr>
     <tr>
         <td>Armin Sargolzaei</td>
-        <td>TBA</td>
+        <td>TBA</td> <!-- confirmed -->
     </tr>
     <tr>
         <td rowspan="2"><a href=download>download</a></td>
@@ -242,6 +242,12 @@ This schedule is subject to changes. If you see typos or cannot be present on yo
     </tr>
     <tr>
         <td>Raffaele Rialdi</td>
+        <td>TBA</td>
+    </tr>
+    <tr>
+        <td rowspan="1"><a href=download>download</a></td>
+        <td rowspan="1">Tue 10 Nov<br>14:30-15:00<br>Room TBD</td>
+        <td>Andrea Giusto</td>
         <td>TBA</td>
     </tr>
     <!--
