@@ -39,6 +39,69 @@ nav_order: 4
 Here you can find the list of current members of the DoCS group, along with some personal and contact information.
 
 <table>
+    <!-- president -->
+    <tr>
+        <td>
+            <img src="https://rubrica.unige.it/static/foto/VkpFWVNt.jpg?1742916843.5705">
+        </td>
+        <td>
+            <dl>
+                <dt>Name</dt>
+                <dd>Matteo Martini</dd>
+                <dt>Email</dt>
+                <dd><a href="mailto:matteo.martini@edu.unige.it">matteo.martini@edu.unige.it</a></dd>
+                <dt>Research group</dt>
+                <dd>PILab</dd>
+                <dt></dt>
+                <dd>President</dd>
+            </dl>
+        </td>
+    </tr>
+    <!-- vice-president -->
+    <tr>
+        <td>
+            <!--<img src="https://rubrica.unige.it/static/foto/UUdAX1Jv.jpg?1699729176.6326">-->
+        </td>
+        <td>
+            <dl>
+                <dt>Name</dt>
+                <dd>Andrea Giusto</dd>
+                <dt>Email</dt>
+                <dd><a href="mailto:andrea.giusto@edu.unige.it">andrea.giusto@edu.unige.it</a></dd>
+                <dt></dt>
+                <dd>Vice President</dd>
+            </dl>
+        </td>
+    </tr>
+    <!-- members -->
+    <tr>
+        <td>
+            <!--<img src="https://rubrica.unige.it/static/foto/UUdAX1Jv.jpg?1699729176.6326">-->
+        </td>
+        <td>
+            <dl>
+                <dt>Name</dt>
+                <dd>Irem Arici</dd>
+                <dt>Email</dt>
+                <dd><a href="mailto:irem.arici@edu.unige.it">irem.arici@edu.unige.it</a></dd>
+            </dl>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <!--<img src="https://rubrica.unige.it/static/foto/UUdAX1Jv.jpg?1699729176.6326">-->
+        </td>
+        <td>
+            <dl>
+                <dt>Name</dt>
+                <dd>Zahra Daoui</dd>
+                <dt>Email</dt>
+                <dd><a href="mailto:zahra.daoui@edu.unige.it">zahra.daoui@edu.unige.it</a></dd>
+                <dt>Research group</dt>
+                <dd>FORMA</dd>
+            </dl>
+        </td>
+    </tr>
     <tr>
         <td>
             <img src="https://rubrica.unige.it/static/foto/UUBDXlhs.jpg?1699915150.365">
@@ -101,16 +164,14 @@ Here you can find the list of current members of the DoCS group, along with some
     </tr>
     <tr>
         <td>
-            <img src="https://rubrica.unige.it/static/foto/VkpFWVNt.jpg?1742916843.5705">
+            <!--<img src="https://rubrica.unige.it/static/foto/UUdAX1Jv.jpg?1699729176.6326">-->
         </td>
         <td>
             <dl>
                 <dt>Name</dt>
-                <dd>Matteo Martini</dd>
+                <dd>Monica Parodi</dd>
                 <dt>Email</dt>
-                <dd><a href="mailto:matteo.martini@edu.unige.it">matteo.martini@edu.unige.it</a></dd>
-                <dt>Research group</dt>
-                <dd>PILab</dd>
+                <dd><a href="mailto:monica.parodi@edu.unige.it">monica.parodi@edu.unige.it</a></dd>
             </dl>
         </td>
     </tr>
@@ -131,14 +192,14 @@ Here you can find the list of current members of the DoCS group, along with some
     </tr>
     <tr>
         <td>
-            <img src="https://rubrica.unige.it/static/foto/UUdAX1Jv.jpg?1699729176.6326">
+            <!--<img src="https://rubrica.unige.it/static/foto/UUdAX1Jv.jpg?1699729176.6326">-->
         </td>
         <td>
             <dl>
                 <dt>Name</dt>
-                <dd>Federico Sichetti</dd>
-                <dt>Email</dt>
-                <dd><a href="mailto:federico.sichetti@edu.unige.it">federico.sichetti@edu.unige.it</a></dd>
+                <dd>Armin Sargolzaei</dd>
+                <!--<dt>Email</dt>
+                <dd><a href="mailto:federico.sichetti@edu.unige.it">federico.sichetti@edu.unige.it</a></dd>-->
             </dl>
         </td>
     </tr>
@@ -164,6 +225,7 @@ Here you can find the list of current members of the DoCS group, along with some
 - Larbi Touijer
 - Muhammad Mohsin
 - Riccardo Bianchini
+- Federico Sichetti
 
 ## Future members?
 
