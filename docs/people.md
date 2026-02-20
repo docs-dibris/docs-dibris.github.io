@@ -52,7 +52,7 @@ Here you can find the list of current members of the DoCS group, along with some
                 <dd><a href="mailto:matteo.martini@edu.unige.it">matteo.martini@edu.unige.it</a></dd>
                 <dt>Research group</dt>
                 <dd>PILab</dd>
-                <dt></dt>
+                <dt>Position</dt>
                 <dd>President</dd>
             </dl>
         </td>
@@ -68,7 +68,7 @@ Here you can find the list of current members of the DoCS group, along with some
                 <dd>Andrea Giusto</dd>
                 <dt>Email</dt>
                 <dd><a href="mailto:andrea.giusto@edu.unige.it">andrea.giusto@edu.unige.it</a></dd>
-                <dt></dt>
+                <dt>Position</dt>
                 <dd>Vice President</dd>
             </dl>
         </td>
