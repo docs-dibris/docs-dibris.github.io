@@ -60,7 +60,7 @@ Here you can find the list of current members of the DoCS group, along with some
     <!-- vice-president -->
     <tr>
         <td>
-            <!--<img src="https://rubrica.unige.it/static/foto/UUdAX1Jv.jpg?1699729176.6326">-->
+            <img src="/assets/images/people/avatar.png">
         </td>
         <td>
             <dl>
@@ -76,7 +76,7 @@ Here you can find the list of current members of the DoCS group, along with some
     <!-- members -->
     <tr>
         <td>
-            <!--<img src="https://rubrica.unige.it/static/foto/UUdAX1Jv.jpg?1699729176.6326">-->
+            <img src="/assets/images/people/avatar.png">
         </td>
         <td>
             <dl>
@@ -89,7 +89,7 @@ Here you can find the list of current members of the DoCS group, along with some
     </tr>
     <tr>
         <td>
-            <!--<img src="https://rubrica.unige.it/static/foto/UUdAX1Jv.jpg?1699729176.6326">-->
+            <img src="/assets/images/people/avatar.png">
         </td>
         <td>
             <dl>
@@ -164,7 +164,7 @@ Here you can find the list of current members of the DoCS group, along with some
     </tr>
     <tr>
         <td>
-            <!--<img src="https://rubrica.unige.it/static/foto/UUdAX1Jv.jpg?1699729176.6326">-->
+            <img src="/assets/images/people/parodiMonica.jpg">
         </td>
         <td>
             <dl>
@@ -192,7 +192,7 @@ Here you can find the list of current members of the DoCS group, along with some
     </tr>
     <tr>
         <td>
-            <!--<img src="https://rubrica.unige.it/static/foto/UUdAX1Jv.jpg?1699729176.6326">-->
+            <img src="/assets/images/people/avatar.png">
         </td>
         <td>
             <dl>
