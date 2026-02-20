@@ -192,14 +192,16 @@ Here you can find the list of current members of the DoCS group, along with some
     </tr>
     <tr>
         <td>
-            <img src="/assets/images/people/avatar.png">
+            <img src="/assets/images/people/sargolzaeiArmin.jpg">
         </td>
         <td>
             <dl>
                 <dt>Name</dt>
                 <dd>Armin Sargolzaei</dd>
-                <!--<dt>Email</dt>
-                <dd><a href="mailto:federico.sichetti@edu.unige.it">federico.sichetti@edu.unige.it</a></dd>-->
+                <dt>Email</dt>
+                <dd><a href="mailto:armin.sargolzaei@edu.unige.it">armin.sargolzaei@edu.unige.it</a></dd>
+                <dt>Research group</dt>
+                <dd>Vega Research Lab</dd>
             </dl>
         </td>
     </tr>
