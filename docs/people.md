@@ -52,7 +52,7 @@ Here you can find the list of current members of the DoCS group, along with some
                 <dd><a href="mailto:matteo.martini@edu.unige.it">matteo.martini@edu.unige.it</a></dd>
                 <dt>Research group</dt>
                 <dd>PILab</dd>
-                <dt></dt>
+                <dt>Position</dt>
                 <dd>President</dd>
             </dl>
         </td>
@@ -60,7 +60,7 @@ Here you can find the list of current members of the DoCS group, along with some
     <!-- vice-president -->
     <tr>
         <td>
-            <!--<img src="https://rubrica.unige.it/static/foto/UUdAX1Jv.jpg?1699729176.6326">-->
+            <img src="/assets/images/people/avatar.png">
         </td>
         <td>
             <dl>
@@ -68,7 +68,7 @@ Here you can find the list of current members of the DoCS group, along with some
                 <dd>Andrea Giusto</dd>
                 <dt>Email</dt>
                 <dd><a href="mailto:andrea.giusto@edu.unige.it">andrea.giusto@edu.unige.it</a></dd>
-                <dt></dt>
+                <dt>Position</dt>
                 <dd>Vice President</dd>
             </dl>
         </td>
@@ -76,7 +76,7 @@ Here you can find the list of current members of the DoCS group, along with some
     <!-- members -->
     <tr>
         <td>
-            <!--<img src="https://rubrica.unige.it/static/foto/UUdAX1Jv.jpg?1699729176.6326">-->
+            <img src="/assets/images/people/avatar.png">
         </td>
         <td>
             <dl>
@@ -89,7 +89,7 @@ Here you can find the list of current members of the DoCS group, along with some
     </tr>
     <tr>
         <td>
-            <!--<img src="https://rubrica.unige.it/static/foto/UUdAX1Jv.jpg?1699729176.6326">-->
+            <img src="/assets/images/people/avatar.png">
         </td>
         <td>
             <dl>
@@ -164,7 +164,7 @@ Here you can find the list of current members of the DoCS group, along with some
     </tr>
     <tr>
         <td>
-            <!--<img src="https://rubrica.unige.it/static/foto/UUdAX1Jv.jpg?1699729176.6326">-->
+            <img src="/assets/images/people/parodiMonica.jpg">
         </td>
         <td>
             <dl>
@@ -192,14 +192,16 @@ Here you can find the list of current members of the DoCS group, along with some
     </tr>
     <tr>
         <td>
-            <!--<img src="https://rubrica.unige.it/static/foto/UUdAX1Jv.jpg?1699729176.6326">-->
+            <img src="/assets/images/people/sargolzaeiArmin.jpg">
         </td>
         <td>
             <dl>
                 <dt>Name</dt>
                 <dd>Armin Sargolzaei</dd>
-                <!--<dt>Email</dt>
-                <dd><a href="mailto:federico.sichetti@edu.unige.it">federico.sichetti@edu.unige.it</a></dd>-->
+                <dt>Email</dt>
+                <dd><a href="mailto:armin.sargolzaei@edu.unige.it">armin.sargolzaei@edu.unige.it</a></dd>
+                <dt>Research group</dt>
+                <dd>Vega Research Lab</dd>
             </dl>
         </td>
     </tr>
