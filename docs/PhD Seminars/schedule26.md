@@ -36,13 +36,9 @@ This schedule is subject to changes. If you see typos or cannot be present on yo
     </tr>
     <!-- Apr -->
     <tr>
-        <td rowspan="2"><a href= download>download</a></td>
-        <td rowspan="2">Tue 7 Apr<br>14:30-15:30<br>Room TBD</td>
+        <td rowspan="1"><a href= download>download</a></td>
+        <td rowspan="1">Tue 7 Apr<br>14:30-15:30<br>Room TBD</td>
         <td>Xiaolin Xing</td>
-        <td>TBA</td>
-    </tr>
-    <tr>
-        <td>Andrea Maffia</td>
         <td>TBA</td>
     </tr>
     <tr>
