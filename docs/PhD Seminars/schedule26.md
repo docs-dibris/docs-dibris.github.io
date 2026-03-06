@@ -36,6 +36,7 @@ This schedule is subject to changes. If you see typos or cannot be present on yo
     </tr>
     <!-- Apr -->
     <tr>
+        <td></td>
         <td>Tue 7 Apr<br>14:30-15:00<br>Room TBD</td>
         <td>Xiaolin Xing</td>
         <td>TBA</td>
