@@ -36,13 +36,13 @@ This schedule is subject to changes. If you see typos or cannot be present on yo
     </tr>
     <!-- Apr -->
     <tr>
-        <td rowspan="1"><a href= download>download</a></td>
+        <td rowspan="1"></td>
         <td rowspan="1">Tue 7 Apr<br>14:30-15:30<br>Room TBD</td>
         <td>Xiaolin Xing</td>
         <td>TBA</td>
     </tr>
     <tr>
-        <td rowspan="2"><a href= download>download</a></td>
+        <td rowspan="2"></td>
         <td rowspan="2">Tue 28 Apr<br>14:30-15:30<br>Room TBD</td>
         <td>Roberto Di Via</td>
         <td>TBA</td>
@@ -52,7 +52,7 @@ This schedule is subject to changes. If you see typos or cannot be present on yo
         <td>TBA</td> <!-- do not change -->
     </tr>
     <tr>
-        <td rowspan="2"><a href=download>download</a></td>
+        <td rowspan="2"></td>
         <td rowspan="2">Tue 5 May<br>14:30-15:30<br>Room TBD</td>
         <td>Gabriele Bortolai</td>
         <td>TBA</td>
@@ -63,7 +63,7 @@ This schedule is subject to changes. If you see typos or cannot be present on yo
     </tr>
     <!-- May -->
     <tr>
-        <td rowspan="2"><a href=download>download</a></td>
+        <td rowspan="2"></td>
         <td rowspan="2">Tue 12 May<br>14:30-15:30<br>Room TBD</td>
         <td>Massimiliano Ciranni</td>
         <td>TBA</td>
@@ -73,7 +73,7 @@ This schedule is subject to changes. If you see typos or cannot be present on yo
         <td>TBA</td>
     </tr>
     <tr>
-        <td rowspan="2"><a href= download>download</a></td>
+        <td rowspan="2"></td>
         <td rowspan="2">Tue 19 May<br>14:30-15:00<br>Room TBD</td>
         <td>Anna Khristodulo</td>
         <td>TBA</td> <!-- changed -->
@@ -83,7 +83,7 @@ This schedule is subject to changes. If you see typos or cannot be present on yo
         <td>TBA</td> <!-- confirmed -->
     </tr>
     <tr>
-        <td rowspan="2"><a href=download>download</a></td>
+        <td rowspan="2"></td>
         <td rowspan="2">Tue 26 May<br>14:30-15:00<br>Room TBD</td>
         <td>Ilaria Stanzani</td>
         <td>TBA</td>
@@ -93,7 +93,7 @@ This schedule is subject to changes. If you see typos or cannot be present on yo
         <td>TBA</td>
     </tr>
     <tr>
-        <td rowspan="2"><a href=download>download</a></td>
+        <td rowspan="2"></td>
         <td rowspan="2">Tue 2 Jun<br>14:30-15:00<br>Room TBD</td>
         <td>Abdel Malik Benfadhil</td>
         <td>TBA</td>
@@ -104,7 +104,7 @@ This schedule is subject to changes. If you see typos or cannot be present on yo
     </tr>
     <!-- Jun -->
     <tr>
-        <td rowspan="2"><a href=download>download</a></td>
+        <td rowspan="2"></td>
         <td rowspan="2">Tue 9 Jun<br>14:30-15:30<br>Room TBD</td>
         <td>Arnaud F. Ruymakers</td>
         <td>TBA</td>
@@ -114,7 +114,7 @@ This schedule is subject to changes. If you see typos or cannot be present on yo
         <td>TBA</td>
     </tr>
     <tr>
-        <td rowspan="2"><a href=download>download</a></td>
+        <td rowspan="2"></td>
         <td rowspan="2">Tue 16 Jun<br>14:30-15:30<br>Room TBD</td>
         <td>Veronica Pignedoli</td>
         <td>TBA</td>
@@ -124,7 +124,7 @@ This schedule is subject to changes. If you see typos or cannot be present on yo
         <td>TBA</td>
     </tr>
     <tr>
-        <td rowspan="2"><a href=download>download</a></td>
+        <td rowspan="2"></td>
         <td rowspan="2">Tue 23 Jun<br>14:30-15:30<br>Room TBD</td>
         <td>Abdolhamid Livani</td>
         <td>TBA</td>
@@ -134,7 +134,7 @@ This schedule is subject to changes. If you see typos or cannot be present on yo
         <td>TBA</td>
     </tr>
     <tr>
-        <td rowspan="2"><a href=download>download</a></td>
+        <td rowspan="2"></td>
         <td rowspan="2">Tue 30 Jun<br>14:30-15:30<br>Room TBD</td>
         <td>Peiman Ataei</td>
         <td>TBA</td>
@@ -144,7 +144,7 @@ This schedule is subject to changes. If you see typos or cannot be present on yo
         <td>TBA</td>
     </tr>
     <tr>
-        <td rowspan="2"><a href=download>download</a></td>
+        <td rowspan="2"></td>
         <td rowspan="2">Tue 7 July<br>14:30-15:30<br>Room TBD</td>
         <td>Giacomo Raimondi</td>
         <td>TBA</td>
@@ -155,7 +155,7 @@ This schedule is subject to changes. If you see typos or cannot be present on yo
     </tr>
     <!-- Jul -->
     <tr>
-        <td rowspan="2"><a href=download>download</a></td>
+        <td rowspan="2"></td>
         <td rowspan="2">Tue 14 Jul<br>14:30-15:30<br>Room TBD</td>
         <td>Zahra Daoui</td>
         <td>TBA</td>
@@ -170,7 +170,7 @@ This schedule is subject to changes. If you see typos or cannot be present on yo
     </tr>
     <!-- Sep -->
     <tr>
-        <td rowspan="2"><a href= download>download</a></td>
+        <td rowspan="2"></td>
         <td rowspan="2">Tue 15 Sep<br>14:30-15:30<br>Room TBD</td>
         <td>Daniel Rodrigues Perazzo</td>
         <td>TBA</td>
@@ -180,7 +180,7 @@ This schedule is subject to changes. If you see typos or cannot be present on yo
         <td>TBA</td>
     </tr>
     <tr>
-        <td rowspan="2"><a href=download>download</a></td>
+        <td rowspan="2"></td>
         <td rowspan="2">Tue 22 Sep<br>14:30-15:30<br>Room TBD</td>
         <td>Christian Daniele</td>
         <td>TBA</td>
@@ -190,7 +190,7 @@ This schedule is subject to changes. If you see typos or cannot be present on yo
         <td>TBA</td> <!-- changed -->
     </tr>
     <tr>
-        <td rowspan="2"><a href= download>download</a></td>
+        <td rowspan="2"></td>
         <td rowspan="2">Tue 29 Sep<br>14:30-15:30<br>Room TBD</td>
         <td>Matteo Aicardi</td>
         <td>TBA</td>
@@ -201,7 +201,7 @@ This schedule is subject to changes. If you see typos or cannot be present on yo
     </tr>
     <!-- Oct -->
     <tr>
-        <td rowspan="2"><a href= download>download</a></td>
+        <td rowspan="2"></td>
         <td rowspan="2">Tue 13 Oct<br>14:30-15:30<br>Room TBD</td>
         <td>Andrea Marchi</td>
         <td>TBA</td>
@@ -211,7 +211,7 @@ This schedule is subject to changes. If you see typos or cannot be present on yo
         <td>TBA</td>
     </tr>
     <tr>
-        <td rowspan="2"><a href=download>download</a></td>
+        <td rowspan="2"></td>
         <td rowspan="2">Tue 20 Oct<br>14:30-15:30<br>Room TBD</td>
         <td>Giacomo Ganassoli</td>
         <td>TBA</td>
@@ -221,7 +221,7 @@ This schedule is subject to changes. If you see typos or cannot be present on yo
         <td>TBA</td> <!-- confirmed -->
     </tr>
     <tr>
-        <td rowspan="2"><a href=download>download</a></td>
+        <td rowspan="2"></td>
         <td rowspan="2">Tue 27 Oct<br>14:30-15:30<br>Room TBD</td>
         <td>Marco Tessore</td>
         <td>TBA</td>
@@ -231,7 +231,7 @@ This schedule is subject to changes. If you see typos or cannot be present on yo
         <td>TBA</td>
     </tr>
     <tr>
-        <td rowspan="2"><a href=download>download</a></td>
+        <td rowspan="2"></td>
         <td rowspan="2">Tue 3 Nov<br>14:30-15:30<br>Room TBD</td>
         <td>Giordano Vitale</td>
         <td>TBA</td>
@@ -241,7 +241,7 @@ This schedule is subject to changes. If you see typos or cannot be present on yo
         <td>TBA</td>
     </tr>
     <tr>
-        <td rowspan="1"><a href=download>download</a></td>
+        <td rowspan="1"></td>
         <td rowspan="1">Tue 10 Nov<br>14:30-15:00<br>Room TBD</td>
         <td>Andrea Giusto</td>
         <td>TBA</td>
