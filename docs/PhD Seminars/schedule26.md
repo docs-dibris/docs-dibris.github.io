@@ -46,10 +46,6 @@ This schedule is subject to changes. If you see typos or cannot be present on yo
         <td>TBA</td> <!-- confirmed -->
     </tr>
     <tr>
-        <td>Hisham Unniyankal</td>
-        <td>TBA</td> <!-- confirmed -->
-    </tr>
-    <tr>
         <td rowspan="2"></td>
         <td rowspan="2">Tue 28 Apr<br>14:30-15:30<br>Room TBD</td>
         <td>Roberto Di Via</td>
