@@ -36,10 +36,14 @@ This schedule is subject to changes. If you see typos or cannot be present on yo
     </tr>
     <!-- Apr -->
     <tr>
-        <td rowspan="1"><a href= download>download</a></td>
-        <td rowspan="1">Tue 7 Apr<br>14:30-15:30<br>Room TBD</td>
+        <td rowspan="2"><a href= download>download</a></td>
+        <td rowspan="2">Tue 7 Apr<br>14:30-15:30<br>Room TBD</td>
         <td>Xiaolin Xing</td>
         <td>TBA</td>
+    </tr>
+    <tr>
+        <td>Hisham Unniyankal</td>
+        <td>TBA</td> <!-- confirmed -->
     </tr>
     <tr>
         <td rowspan="2"><a href= download>download</a></td>
@@ -51,17 +55,19 @@ This schedule is subject to changes. If you see typos or cannot be present on yo
         <td>Matteo Martini</td>
         <td>TBA</td> <!-- do not change -->
     </tr>
+       <!-- May -->
     <tr>
-        <td rowspan="2"><a href=download>download</a></td>
-        <td rowspan="2">Tue 5 May<br>14:30-15:30<br>Room TBD</td>
+        <td rowspan="1"><a href=download>download</a></td>
+        <td rowspan="1">Tue 5 May<br>14:30-15:30<br>Room TBD</td>
         <td>Gabriele Bortolai</td>
         <td>TBA</td>
     </tr>
+    <!--
     <tr>
         <td>Hisham Unniyankal</td>
         <td>TBA</td>
     </tr>
-    <!-- May -->
+    -->
     <tr>
         <td rowspan="2"><a href=download>download</a></td>
         <td rowspan="2">Tue 12 May<br>14:30-15:30<br>Room TBD</td>
