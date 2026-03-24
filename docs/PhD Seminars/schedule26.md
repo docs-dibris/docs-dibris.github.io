@@ -71,7 +71,7 @@ This schedule is subject to changes. If you see typos or cannot be present on yo
     <tr>
         <td rowspan="2"></td>
         <td rowspan="2">Tue 12 May<br>14:30-15:30<br>Room TBD</td>
-        <td>Massimiliano Ciranni</td>
+        <td>Anna Khristodulo</td><!-- changed -->
         <td>TBA</td>
     </tr>
     <tr>
@@ -81,7 +81,7 @@ This schedule is subject to changes. If you see typos or cannot be present on yo
     <tr>
         <td rowspan="2"></td>
         <td rowspan="2">Tue 19 May<br>14:30-15:00<br>Room TBD</td>
-        <td>Anna Khristodulo</td>
+        <td>Massimiliano Ciranni</td>
         <td>TBA</td> <!-- changed -->
     </tr>
     <tr>
