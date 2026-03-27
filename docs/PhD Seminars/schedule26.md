@@ -17,7 +17,7 @@ nav_order: 5
 # Seminars schedule 2026
 
 <!-- {: .highlight }
-The next meeting is scheduled for **Jacopo Dapueto** and **Andrea de Filippis**'s seminars, on **Tuesday, November 25** at 14:30 in Room TBD. -->
+The next meeting is scheduled for **Jacopo Dapueto** and **Andrea de Filippis**'s seminars, on **Tuesday, November 25** at 14:30 in Room 214. -->
 
 {: .note }
 All seminars are streamed on Microsoft Teams. Code to join: wfogmsx <!-- change -->
@@ -25,6 +25,17 @@ All seminars are streamed on Microsoft Teams. Code to join: wfogmsx <!-- change 
 This schedule is subject to changes. If you see typos or cannot be present on your assigned date, please send an email to <a href="mailto:irem.arici@edu.unige.it">Irem</a>.
 
 <!-- We now have a public <a href="https://calendar.google.com/calendar/u/0?cid=NWNlNTFkZDlmNTJmYmI2NjU5NDQ3YjMxYzhkZTAzN2I2YTZhNmE0Yzk4ZDU0ZmY5ZDQ1NjA3NmJmYzgyZjRmMUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t">Google Calendar</a> with the seminar dates for your convenience.  change -->
+
+<!-- EXAMPLE ASSET STRUCTURE
+<tr>
+        <td rowspan="2"><a href= download>download</a></td>
+        <td rowspan="2">Tue 7 Apr<br>14:30-15:30<br>Room 214</td>
+        <td>Xiaolin Xing</td>
+        <td>TBA</td>
+    </tr>
+    <tr>
+        <td>Hisham Unniyankal</td>
+        <td>TBA</td></tr>-->
 
 
 <table>
@@ -36,8 +47,8 @@ This schedule is subject to changes. If you see typos or cannot be present on yo
     </tr>
     <!-- Apr -->
     <tr>
-        <td rowspan="2"><a href= download>download</a></td>
-        <td rowspan="2">Tue 7 Apr<br>14:30-15:30<br>Room TBD</td>
+        <td rowspan="2"></td>
+        <td rowspan="2">Tue 7 Apr<br>14:30-15:30<br>Room 214</td>
         <td>Xiaolin Xing</td>
         <td>TBA</td>
     </tr>
@@ -47,7 +58,7 @@ This schedule is subject to changes. If you see typos or cannot be present on yo
     </tr>
     <tr>
         <td rowspan="2"></td>
-        <td rowspan="2">Tue 28 Apr<br>14:30-15:30<br>Room TBD</td>
+        <td rowspan="2">Tue 28 Apr<br>14:30-15:30<br>Room 214</td>
         <td>Roberto Di Via</td>
         <td>TBA</td>
     </tr>
@@ -57,20 +68,14 @@ This schedule is subject to changes. If you see typos or cannot be present on yo
     </tr>
        <!-- May -->
     <tr>
-        <td rowspan="1"><a href=download>download</a></td>
-        <td rowspan="1">Tue 5 May<br>14:30-15:30<br>Room TBD</td>
+        <td rowspan="1"></td>
+        <td rowspan="1">Tue 5 May<br>14:30-15:30<br>Room 214</td>
         <td>Gabriele Bortolai</td>
         <td>TBA</td>
     </tr>
-    <!--
-    <tr>
-        <td>Hisham Unniyankal</td>
-        <td>TBA</td>
-    </tr>
-    -->
     <tr>
         <td rowspan="2"></td>
-        <td rowspan="2">Tue 12 May<br>14:30-15:30<br>Room TBD</td>
+        <td rowspan="2">Tue 12 May<br>14:30-15:30<br>Room 214</td>
         <td>Anna Khristodulo</td><!-- changed -->
         <td>TBA</td>
     </tr>
@@ -80,7 +85,7 @@ This schedule is subject to changes. If you see typos or cannot be present on yo
     </tr>
     <tr>
         <td rowspan="2"></td>
-        <td rowspan="2">Tue 19 May<br>14:30-15:00<br>Room TBD</td>
+        <td rowspan="2">Tue 19 May<br>14:30-15:00<br>Room 214</td>
         <td>Massimiliano Ciranni</td>
         <td>TBA</td> <!-- changed -->
     </tr>
@@ -90,7 +95,7 @@ This schedule is subject to changes. If you see typos or cannot be present on yo
     </tr>
     <tr>
         <td rowspan="2"></td>
-        <td rowspan="2">Tue 26 May<br>14:30-15:00<br>Room TBD</td>
+        <td rowspan="2">Tue 26 May<br>14:30-15:00<br>Room 214</td>
         <td>Ilaria Stanzani</td>
         <td>TBA</td>
     </tr>
@@ -98,20 +103,10 @@ This schedule is subject to changes. If you see typos or cannot be present on yo
         <td>Alek Fröhlich</td>
         <td>TBA</td>
     </tr>
-    <tr>
-        <td rowspan="2"></td>
-        <td rowspan="2">Tue 2 Jun<br>14:30-15:00<br>Room TBD</td>
-        <td>Abdel Malik Benfadhil</td>
-        <td>TBA</td>
-    </tr>
-    <tr>
-        <td>Alessandra Elisa Sindi Morando</td>
-        <td>TBA</td>
-    </tr>
     <!-- Jun -->
     <tr>
         <td rowspan="2"></td>
-        <td rowspan="2">Tue 9 Jun<br>14:30-15:30<br>Room TBD</td>
+        <td rowspan="2">Tue 9 Jun<br>14:30-15:30<br>Room 214</td>
         <td>Arnaud F. Ruymakers</td>
         <td>TBA</td>
     </tr>
@@ -121,7 +116,7 @@ This schedule is subject to changes. If you see typos or cannot be present on yo
     </tr>
     <tr>
         <td rowspan="2"></td>
-        <td rowspan="2">Tue 16 Jun<br>14:30-15:30<br>Room TBD</td>
+        <td rowspan="2">Tue 16 Jun<br>14:30-15:30<br>Room 215</td>
         <td>Veronica Pignedoli</td>
         <td>TBA</td>
     </tr>
@@ -131,7 +126,7 @@ This schedule is subject to changes. If you see typos or cannot be present on yo
     </tr>
     <tr>
         <td rowspan="2"></td>
-        <td rowspan="2">Tue 23 Jun<br>14:30-15:30<br>Room TBD</td>
+        <td rowspan="2">Tue 23 Jun<br>14:30-15:30<br>Room 214</td>
         <td>Abdolhamid Livani</td>
         <td>TBA</td>
     </tr>
@@ -141,7 +136,7 @@ This schedule is subject to changes. If you see typos or cannot be present on yo
     </tr>
     <tr>
         <td rowspan="2"></td>
-        <td rowspan="2">Tue 30 Jun<br>14:30-15:30<br>Room TBD</td>
+        <td rowspan="2">Tue 30 Jun<br>14:30-15:30<br>Room 214</td>
         <td>Peiman Ataei</td>
         <td>TBA</td>
     </tr>
@@ -151,7 +146,7 @@ This schedule is subject to changes. If you see typos or cannot be present on yo
     </tr>
     <tr>
         <td rowspan="2"></td>
-        <td rowspan="2">Tue 7 July<br>14:30-15:30<br>Room TBD</td>
+        <td rowspan="2">Tue 7 July<br>14:30-15:30<br>Room 214</td>
         <td>Giacomo Raimondi</td>
         <td>TBA</td>
     </tr>
@@ -162,12 +157,22 @@ This schedule is subject to changes. If you see typos or cannot be present on yo
     <!-- Jul -->
     <tr>
         <td rowspan="2"></td>
-        <td rowspan="2">Tue 14 Jul<br>14:30-15:30<br>Room TBD</td>
+        <td rowspan="2">Tue 14 Jul<br>14:30-15:30<br>Room 214</td>
         <td>Zahra Daoui</td>
         <td>TBA</td>
     </tr>
     <tr>
         <td>Monica Parodi</td>
+        <td>TBA</td>
+    </tr>
+    <tr>
+        <td rowspan="2"></td>
+        <td rowspan="2">Tue 21 Jun<br>14:30-15:00<br>Room 214</td>
+        <td>Abdel Malik Benfadhil</td>
+        <td>TBA</td>
+    </tr>
+    <tr>
+        <td>Alessandra Elisa Sindi Morando</td>
         <td>TBA</td>
     </tr>
     <!-- Sep -->
@@ -177,7 +182,7 @@ This schedule is subject to changes. If you see typos or cannot be present on yo
     <!-- Sep -->
     <tr>
         <td rowspan="2"></td>
-        <td rowspan="2">Tue 15 Sep<br>14:30-15:30<br>Room TBD</td>
+        <td rowspan="2">Tue 15 Sep<br>14:30-15:30<br>Room 214</td>
         <td>Daniel Rodrigues Perazzo</td>
         <td>TBA</td>
     </tr>
@@ -187,7 +192,7 @@ This schedule is subject to changes. If you see typos or cannot be present on yo
     </tr>
     <tr>
         <td rowspan="2"></td>
-        <td rowspan="2">Tue 22 Sep<br>14:30-15:30<br>Room TBD</td>
+        <td rowspan="2">Tue 22 Sep<br>14:30-15:30<br>Room 214</td>
         <td>Christian Daniele</td>
         <td>TBA</td>
     </tr>
@@ -197,7 +202,7 @@ This schedule is subject to changes. If you see typos or cannot be present on yo
     </tr>
     <tr>
         <td rowspan="2"></td>
-        <td rowspan="2">Tue 29 Sep<br>14:30-15:30<br>Room TBD</td>
+        <td rowspan="2">Tue 29 Sep<br>14:30-15:30<br>Room 214</td>
         <td>Matteo Aicardi</td>
         <td>TBA</td>
     </tr>
@@ -208,7 +213,7 @@ This schedule is subject to changes. If you see typos or cannot be present on yo
     <!-- Oct -->
     <tr>
         <td rowspan="2"></td>
-        <td rowspan="2">Tue 13 Oct<br>14:30-15:30<br>Room TBD</td>
+        <td rowspan="2">Tue 13 Oct<br>14:30-15:30<br>Room 214</td>
         <td>Andrea Marchi</td>
         <td>TBA</td>
     </tr>
@@ -218,7 +223,7 @@ This schedule is subject to changes. If you see typos or cannot be present on yo
     </tr>
     <tr>
         <td rowspan="2"></td>
-        <td rowspan="2">Tue 20 Oct<br>14:30-15:30<br>Room TBD</td>
+        <td rowspan="2">Tue 20 Oct<br>14:30-15:30<br>Room 214</td>
         <td>Giacomo Ganassoli</td>
         <td>TBA</td>
     </tr>
@@ -228,7 +233,7 @@ This schedule is subject to changes. If you see typos or cannot be present on yo
     </tr>
     <tr>
         <td rowspan="2"></td>
-        <td rowspan="2">Tue 27 Oct<br>14:30-15:30<br>Room TBD</td>
+        <td rowspan="2">Tue 27 Oct<br>14:30-15:30<br>Room 214</td>
         <td>Marco Tessore</td>
         <td>TBA</td>
     </tr>
@@ -238,7 +243,7 @@ This schedule is subject to changes. If you see typos or cannot be present on yo
     </tr>
     <tr>
         <td rowspan="2"></td>
-        <td rowspan="2">Tue 3 Nov<br>14:30-15:30<br>Room TBD</td>
+        <td rowspan="2">Tue 3 Nov<br>14:30-15:30<br>Room 214</td>
         <td>Giordano Vitale</td>
         <td>TBA</td>
     </tr>
@@ -248,14 +253,14 @@ This schedule is subject to changes. If you see typos or cannot be present on yo
     </tr>
     <tr>
         <td rowspan="1"></td>
-        <td rowspan="1">Tue 10 Nov<br>14:30-15:00<br>Room TBD</td>
+        <td rowspan="1">Tue 10 Nov<br>14:30-15:00<br>Room 214</td>
         <td>Andrea Giusto</td>
         <td>TBA</td>
     </tr>
     <!--
     <tr>
         <td rowspan="2"><a href=download>download</a></td>
-        <td rowspan="2">Tue 25 Nov<br>14:30-15:30<br>Room TBD</td>
+        <td rowspan="2">Tue 25 Nov<br>14:30-15:30<br>Room 214</td>
         <td>XXX</td>
         <td>TBA</td>
     </tr>
@@ -265,7 +270,7 @@ This schedule is subject to changes. If you see typos or cannot be present on yo
     </tr>
     <tr>
         <td rowspan="2"></td>
-        <td rowspan="2">Tue 11 Nov<br>14:30-15:30<br>Room TBD</td>
+        <td rowspan="2">Tue 11 Nov<br>14:30-15:30<br>Room 214</td>
         <td>TBA</td>
         <td>TBA</td>
     </tr>
@@ -278,37 +283,37 @@ This schedule is subject to changes. If you see typos or cannot be present on yo
 
 
 <!--
-<td rowspan="2">Tue 1 Apr<br>14:30-15:30<br>Room TBD</td>
-<td rowspan="2">Tue 8 Apr<br>14:30-15:30<br>Room TBD</td>
-<td rowspan="2">Tue 15 Apr<br>14:30-15:30<br>Room TBD</td>
-<td rowspan="2">Thu 24 Apr<br>14:30-15:30<br>Room TBD</td>
-<td rowspan="2">Tue 29 Apr<br>14:30-15:30<br>Room TBD</td>
-<td rowspan="2">Tue 6 May<br>14:30-15:30<br>Room TBD</td>
-<td rowspan="2">Tue 13 May<br>14:30-15:30<br>Room TBD</td>
-<td rowspan="2">Tue 20 May<br>14:30-15:30<br>Room TBD</td>
-<td rowspan="2">Tue 27 May<br>14:30-15:30<br>Room TBD</td>
-<td rowspan="2">Tue 3 Jun<br>14:30-15:30<br>Room TBD</td>
-<td rowspan="2">Tue 10 Jun<br>14:30-15:30<br>Room TBD</td>
-<td rowspan="2">Tue 17 Jun<br>14:30-15:30<br>Room TBD</td>
-<td rowspan="2">Mon 23 Jun<br>14:30-15:30<br>Room TBD</td>
-<td rowspan="2">Tue 1 Jul<br>14:30-15:30<br>Room TBD</td>
-<td rowspan="2">Tue 8 Jul<br>14:30-15:30<br>Room TBD</td>
-<td rowspan="2">Tue 15 Jul<br>14:30-15:30<br>Room TBD</td>
-<td rowspan="2">Tue 22 Jul<br>14:30-15:30<br>Room TBD</td>
-<td rowspan="2">Tue 29 Jul<br>14:30-15:30<br>Room TBD</td>
-<td rowspan="2">Tue 9 Sep<br>14:30-15:30<br>Room TBD</td>
-<td rowspan="2">Tue 16 Sep<br>14:30-15:30<br>Room TBD</td>
-<td rowspan="2">Tue 23 Sep<br>14:30-15:30<br>Room TBD</td>
-<td rowspan="2">Tue 30 Sep<br>14:30-15:30<br>Room TBD</td>
-<td rowspan="2">Tue 7 Oct<br>14:30-15:30<br>Room TBD</td>
-<td rowspan="2">Tue 14 Oct<br>14:30-15:30<br>Room TBD</td>
-<td rowspan="2">Tue 21 Oct<br>14:30-15:30<br>Room TBD</td>
-<td rowspan="2">Tue 28 Oct<br>14:30-15:30<br>Room TBD</td>
-<td rowspan="2">Tue 4 Nov<br>14:30-15:30<br>Room TBD</td>
-<td rowspan="2">Tue 11 Nov<br>14:30-15:30<br>Room TBD</td>
-<td rowspan="2">Tue 18 Nov<br>14:30-15:30<br>Room TBD</td>
-<td rowspan="2">Tue 25 Nov<br>14:30-15:30<br>Room TBD</td>
-<td rowspan="2">Tue 02 Dec<br>14:30-15:30<br>Room TBD</td>
-<td rowspan="2">Tue 9 Dec<br>14:30-15:30<br>Room TBD</td>
-<td rowspan="2">Tue 16 Dec<br>14:30-15:30<br>Room TBD</td>
+<td rowspan="2">Tue 1 Apr<br>14:30-15:30<br>Room 214</td>
+<td rowspan="2">Tue 8 Apr<br>14:30-15:30<br>Room 214</td>
+<td rowspan="2">Tue 15 Apr<br>14:30-15:30<br>Room 214</td>
+<td rowspan="2">Thu 24 Apr<br>14:30-15:30<br>Room 214</td>
+<td rowspan="2">Tue 29 Apr<br>14:30-15:30<br>Room 214</td>
+<td rowspan="2">Tue 6 May<br>14:30-15:30<br>Room 214</td>
+<td rowspan="2">Tue 13 May<br>14:30-15:30<br>Room 214</td>
+<td rowspan="2">Tue 20 May<br>14:30-15:30<br>Room 214</td>
+<td rowspan="2">Tue 27 May<br>14:30-15:30<br>Room 214</td>
+<td rowspan="2">Tue 3 Jun<br>14:30-15:30<br>Room 214</td>
+<td rowspan="2">Tue 10 Jun<br>14:30-15:30<br>Room 214</td>
+<td rowspan="2">Tue 17 Jun<br>14:30-15:30<br>Room 214</td>
+<td rowspan="2">Mon 23 Jun<br>14:30-15:30<br>Room 214</td>
+<td rowspan="2">Tue 1 Jul<br>14:30-15:30<br>Room 214</td>
+<td rowspan="2">Tue 8 Jul<br>14:30-15:30<br>Room 214</td>
+<td rowspan="2">Tue 15 Jul<br>14:30-15:30<br>Room 214</td>
+<td rowspan="2">Tue 22 Jul<br>14:30-15:30<br>Room 214</td>
+<td rowspan="2">Tue 29 Jul<br>14:30-15:30<br>Room 214</td>
+<td rowspan="2">Tue 9 Sep<br>14:30-15:30<br>Room 214</td>
+<td rowspan="2">Tue 16 Sep<br>14:30-15:30<br>Room 214</td>
+<td rowspan="2">Tue 23 Sep<br>14:30-15:30<br>Room 214</td>
+<td rowspan="2">Tue 30 Sep<br>14:30-15:30<br>Room 214</td>
+<td rowspan="2">Tue 7 Oct<br>14:30-15:30<br>Room 214</td>
+<td rowspan="2">Tue 14 Oct<br>14:30-15:30<br>Room 214</td>
+<td rowspan="2">Tue 21 Oct<br>14:30-15:30<br>Room 214</td>
+<td rowspan="2">Tue 28 Oct<br>14:30-15:30<br>Room 214</td>
+<td rowspan="2">Tue 4 Nov<br>14:30-15:30<br>Room 214</td>
+<td rowspan="2">Tue 11 Nov<br>14:30-15:30<br>Room 214</td>
+<td rowspan="2">Tue 18 Nov<br>14:30-15:30<br>Room 214</td>
+<td rowspan="2">Tue 25 Nov<br>14:30-15:30<br>Room 214</td>
+<td rowspan="2">Tue 02 Dec<br>14:30-15:30<br>Room 214</td>
+<td rowspan="2">Tue 9 Dec<br>14:30-15:30<br>Room 214</td>
+<td rowspan="2">Tue 16 Dec<br>14:30-15:30<br>Room 214</td>
 -->
