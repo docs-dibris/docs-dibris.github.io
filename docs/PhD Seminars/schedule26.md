@@ -47,14 +47,14 @@ This schedule is subject to changes. If you see typos or cannot be present on yo
     </tr>
     <!-- Apr -->
     <tr>
-        <td rowspan="2"></td>
+        <td rowspan="2"><a href="/assets/seminar-flyers/seminar_26/seminar_1.pdf" download>download</a></td>
         <td rowspan="2">Tue 7 Apr<br>14:30-15:30<br>Room 214</td>
         <td>Xiaolin Xing</td>
-        <td>TBA</td>
+        <td>Gait Analysis for Medical Assessment: Visualization Functionalities for Medical Doctors</td>
     </tr>
     <tr>
         <td>Hisham Unniyankal</td>
-        <td>TBA</td> <!-- confirmed -->
+        <td>Toward Architectural Foundations for Runtime Verification in Real-Time Programmable Logic Controllers</td> <!-- confirmed -->
     </tr>
     <tr>
         <td rowspan="2"></td>
