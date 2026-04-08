@@ -17,7 +17,7 @@ nav_order: 5
 # Seminars schedule 2026
 
 {: .highlight }
-The next meeting is scheduled for **Xiaolin Xing** and **Hisham Unniyankal**'s seminars, on **Tuesday, April 7** at 14:30 in Room 214. 
+The next meeting is scheduled for **Matteo Martini**'s seminar, on **Tuesday, April 21** at 14:30 in Room 214. 
 
 {: .note }
 All seminars are streamed on Microsoft Teams. Code to join: wfogmsx <!-- change -->
@@ -57,14 +57,16 @@ This schedule is subject to changes. If you see typos or cannot be present on yo
         <td>Toward Architectural Foundations for Runtime Verification in Real-Time Programmable Logic Controllers</td> <!-- confirmed -->
     </tr>
     <tr>
-        <td rowspan="2"></td>
-        <td rowspan="2">Tue 28 Apr<br>14:30-15:30<br>Room 214</td>
-        <td>Roberto Di Via</td>
-        <td>TBA</td>
-    </tr>
-    <tr>
+        <td rowspan="1"></td>
+        <td rowspan="1">Tue 21 Apr<br>14:30-15:00<br>Room 214</td>
         <td>Matteo Martini</td>
         <td>TBA</td> <!-- do not change -->
+    </tr>
+    <tr>
+        <td rowspan="1"></td>
+        <td rowspan="1">Tue 28 Apr<br>14:30-15:00<br>Room 214</td>
+        <td>Roberto Di Via</td>
+        <td>TBA</td> 
     </tr>
        <!-- May -->
     <tr>
