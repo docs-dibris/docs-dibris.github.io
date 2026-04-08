@@ -159,7 +159,7 @@ This schedule is subject to changes. If you see typos or cannot be present on yo
     <!-- Jul -->
     <tr>
         <td rowspan="2"></td>
-        <td rowspan="2">Tue 14 Jul<br>14:30-15:30<br>Room 214</td>
+        <td rowspan="2">Tue 14 July<br>14:30-15:30<br>Room 214</td>
         <td>Zahra Daoui</td>
         <td>TBA</td>
     </tr>
@@ -169,7 +169,7 @@ This schedule is subject to changes. If you see typos or cannot be present on yo
     </tr>
     <tr>
         <td rowspan="2"></td>
-        <td rowspan="2">Tue 21 Jun<br>14:30-15:00<br>Room 214</td>
+        <td rowspan="2">Tue 21 July<br>14:30-15:00<br>Room 214</td>
         <td>Abdel Malik Benfadhil</td>
         <td>TBA</td>
     </tr>
