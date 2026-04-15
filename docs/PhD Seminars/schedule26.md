@@ -47,7 +47,7 @@ This schedule is subject to changes. If you see typos or cannot be present on yo
     </tr>
     <!-- Apr -->
     <tr>
-        <td rowspan="2"><a href="/assets/seminar-flyers/seminar_26/seminar_1.pdf" download>download</a></td>
+        <td rowspan="2"><a href="/assets/seminar-flyers/seminar_26/seminar_1i.pdf" download>download</a></td>
         <td rowspan="2">Tue 7 Apr<br>14:30-15:30<br>Room 214</td>
         <td>Xiaolin Xing</td>
         <td>Gait Analysis for Medical Assessment: Visualization Functionalities for Medical Doctors</td>
@@ -57,10 +57,10 @@ This schedule is subject to changes. If you see typos or cannot be present on yo
         <td>Toward Architectural Foundations for Runtime Verification in Real-Time Programmable Logic Controllers</td> <!-- confirmed -->
     </tr>
     <tr>
-        <td rowspan="1"></td>
+        <td rowspan="1"><a href="/assets/seminar-flyers/seminar_26/seminar_2.pdf" download>download</a></td>
         <td rowspan="1">Tue 21 Apr<br>14:30-15:00<br>Room 214</td>
         <td>Matteo Martini</td>
-        <td>TBA</td> <!-- do not change -->
+        <td>An Introduction to 3D Printing for Computer Scientists</td> <!-- do not change -->
     </tr>
     <tr>
         <td rowspan="1"></td>
