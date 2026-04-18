@@ -91,7 +91,7 @@ This schedule is subject to changes. If you see typos or cannot be present on yo
     </tr>
     <tr>
         <td rowspan="2"></td>
-        <td rowspan="2">Tue 19 May<br>14:30-15:00<br>Room 214</td>
+        <td rowspan="2">Tue 19 May<br>14:30-15:30<br>Room 214</td>
         <td>Massimiliano Ciranni</td>
         <td>TBA</td> <!-- changed -->
     </tr>
