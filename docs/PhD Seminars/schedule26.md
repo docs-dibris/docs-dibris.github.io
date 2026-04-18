@@ -70,9 +70,13 @@ This schedule is subject to changes. If you see typos or cannot be present on yo
     </tr>
        <!-- May -->
     <tr>
-        <td rowspan="1"></td>
-        <td rowspan="1">Tue 5 May<br>14:30-15:30<br>Room 214</td>
+        <td rowspan="2"></td>
+        <td rowspan="2">Tue 5 May<br>14:30-15:30<br>Room 214</td>
         <td>Gabriele Bortolai</td>
+        <td>TBA</td>
+    </tr>
+    <tr>
+        <td>Ilaria Stanzani</td>
         <td>TBA</td>
     </tr>
     <tr>
@@ -96,12 +100,8 @@ This schedule is subject to changes. If you see typos or cannot be present on yo
         <td>TBA</td> <!-- confirmed -->
     </tr>
     <tr>
-        <td rowspan="2"></td>
-        <td rowspan="2">Tue 26 May<br>14:30-15:00<br>Room 214</td>
-        <td>Ilaria Stanzani</td>
-        <td>TBA</td>
-    </tr>
-    <tr>
+        <td rowspan="1"></td>
+        <td rowspan="1">Tue 26 May<br>14:30-15:00<br>Room 214</td>
         <td>Alek Fröhlich</td>
         <td>TBA</td>
     </tr>
