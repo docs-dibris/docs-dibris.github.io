@@ -17,7 +17,7 @@ nav_order: 5
 # Seminars schedule 2026
 
 {: .highlight }
-The next meeting is scheduled for **Matteo Martini**'s seminar, on **Tuesday, April 21** at 14:30 in Room 214. 
+The next meeting is scheduled for **Roberto Di Via**'s seminar, on **Tuesday, April 28** at 14:30 in Room 214. 
 
 {: .note }
 All seminars are streamed on Microsoft Teams. Code to join: wfogmsx <!-- change -->
@@ -63,10 +63,10 @@ This schedule is subject to changes. If you see typos or cannot be present on yo
         <td>An Introduction to 3D Printing for Computer Scientists</td> <!-- do not change -->
     </tr>
     <tr>
-        <td rowspan="1"></td>
+        <td rowspan="1"><a href="/assets/seminar-flyers/seminar_26/seminar_3.pdf" download>download</a></td>
         <td rowspan="1">Tue 28 Apr<br>14:30-15:00<br>Room 214</td>
         <td>Roberto Di Via</td>
-        <td>TBA</td> 
+        <td>Deep Learning Approaches to Support Diagnosis in the Veterinary Domain</td> 
     </tr>
        <!-- May -->
     <tr>
