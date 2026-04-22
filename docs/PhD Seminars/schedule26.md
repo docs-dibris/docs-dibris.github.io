@@ -107,12 +107,8 @@ This schedule is subject to changes. If you see typos or cannot be present on yo
     </tr>
     <!-- Jun -->
     <tr>
-        <td rowspan="2"></td>
-        <td rowspan="2">Tue 9 Jun<br>14:30-15:30<br>Room 214</td>
-        <td>Arnaud F. Ruymakers</td>
-        <td>TBA</td>
-    </tr>
-    <tr>
+        <td rowspan="1"></td>
+        <td rowspan="1">Tue 9 Jun<br>14:30-15:00<br>Room 214</td>
         <td>Irem Arici</td>
         <td>TBA</td>
     </tr>
@@ -169,7 +165,7 @@ This schedule is subject to changes. If you see typos or cannot be present on yo
     </tr>
     <tr>
         <td rowspan="2"></td>
-        <td rowspan="2">Tue 21 July<br>14:30-15:00<br>Room 214</td>
+        <td rowspan="2">Tue 21 July<br>14:30-15:30<br>Room 214</td>
         <td>Abdel Malik Benfadhil</td>
         <td>TBA</td>
     </tr>
@@ -177,11 +173,17 @@ This schedule is subject to changes. If you see typos or cannot be present on yo
         <td>Alessandra Elisa Sindi Morando</td>
         <td>TBA</td>
     </tr>
+    <tr>
+        <td rowspan="1"></td>
+        <td rowspan="1">Tue 28 July<br>14:30-15:00<br>Room 214</td>
+        <td>Arnaud Francois D Ruymaekers</td>
+        <td>TBA</td>
+    </tr>
     <!-- Sep -->
     <tr>
         <th colspan="4" style="text-align: center;">Summer break</th>
     </tr>
-    <!-- Sep -->
+    <!-- Sept -->
     <tr>
         <td rowspan="2"></td>
         <td rowspan="2">Tue 15 Sep<br>14:30-15:30<br>Room 214</td>
