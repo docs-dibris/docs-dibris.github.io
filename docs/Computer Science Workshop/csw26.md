@@ -83,7 +83,8 @@ A variety of sessions and formats will follow one another throughout the event, 
 
 ## --- Thursday, May 28 ---
 TBD
-<!--### Registration
+<!--
+### Registration
 - **Start time:** 1:30 PM
 - **Duration:** 1 hour
 - **Location:** Room 322 (in front of conference room), 3rd floor
@@ -161,11 +162,13 @@ He is also the president of the DotNetLiguria community, through which he organi
 - **Duration:** 15 minutes
 - **Location:** Room 322 (conference room), 3rd floor
 
-Final remarks and thanks. This is the moment when team roles for Friday’s activity will be announced.-->
+Final remarks and thanks. This is the moment when team roles for Friday’s activity will be announced.
+-->
 
 ## --- Friday, May 29 ---
 TBD
-<!--### Registration
+<!--
+### Registration
 - **Start time:** 9:00 AM
 - **Duration:** 1 hour
 - **Location:** DIBRIS corridor, 5th floor
@@ -291,7 +294,8 @@ After the formal debate is over, the audience will have the opportunity to inter
 - **Duration:** 15 minutes
 - **Location:** Room 505, 5th floor
 
-Closing of the event, acknowledgments, and farewells.-->
+Closing of the event, acknowledgments, and farewells.
+-->
 
 # Additional information
 <!--Participation is free of charge and open to everyone, but registration is required.
