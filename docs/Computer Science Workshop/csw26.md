@@ -44,7 +44,6 @@ The annual Workshop brings our community together to share ideas, present resear
 The Workshop offers students access to cutting-edge research and researchers the chance to explore cross-disciplinary connections. Building on last year's success, this year also targets Master's students to strengthen their engagement with departmental research. Students seeking AUK credits for attendance should consult [the dedicated section](#additional-useful-knowledge-auk-credits-for-master-students).
 
 # Activities
-## Keynotes, Hands-on, Panel
 This year's edition will feature activities delivered by distinguished speakers:
 - [Emanuele Rodolà](https://gladia.di.uniroma1.it/authors/rodola/), Sapienza, University of Rome
 - [Claudio Pacchierotti](https://team.inria.fr/rainbow/team/claudio-pacchierotti/), National Institute for Research in Digital Science and Technology, Rennes
