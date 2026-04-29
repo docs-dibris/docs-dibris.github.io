@@ -22,9 +22,10 @@ nav_order: 7
     <b><i>with the contribution of the University of Genoa</i></b>
     <br>
 </div>
-
-<alert>This page is currently under construction. Please check back later for updates on the program, speakers, and activities.</alert>
-
+<br>
+<strong>This page is currently under construction. Please check back later for updates on the program, speakers, and activities.</strong>
+<br>
+    
 # Flyer
 TBD
 <!--<div style="display: flex; justify-content: center; align-items: center; margin: 20px 0;">
@@ -44,7 +45,7 @@ The Workshop offers students access to cutting-edge research and researchers the
 
 # Activities
 ## Keynotes, Hands-on, Panel
-This year's edition will feature activities delivered by distinguished speakers:
+<!--This year's edition will feature activities delivered by distinguished speakers:
  - [Annalisa Barla](https://dibris.unige.it/annalisa.barla%40unige.it), University of Genova
  - [Matteo Dell'Amico](https://dibris.unige.it/matteo.dellamico%40unige.it), University of Genoa
  - [Jesús Gutiérrez](https://www.gti.ssr.upm.es/jesus-gutierrez), Universidad Politécnica de Madrid
@@ -54,7 +55,7 @@ This year's edition will feature activities delivered by distinguished speakers:
  - [Lorenzo Rosasco](https://dibris.unige.it/lorenzo.rosasco%40unige.it), University of Genoa
  - [Danilo Pani](https://sites.unica.it/medsp/danilo-pani/), University of Cagliari
 
-Additional information about the speakers and their activities can be found in the [program](#program) section.
+Additional information about the speakers and their activities can be found in the [program](#program) section.-->
 
 ## PhD Poster Session
 During lunches of the event, Computer Science and Systems Engineering PhD students will have two poster sessions to present their work to participants and speakers.
