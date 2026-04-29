@@ -66,8 +66,9 @@ Posters will be set up in the room during the morning. Our staff will handle the
 <!--You can find the official CSW poster template <a href="https://www.overleaf.com/read/xnbjygqsmqtq#87d93e">here</a>.-->
 Please submit your poster by emailing it to either <a href="mailto:matteo.martini@edu.unige.it">Matteo</a> or <a href="mailto:andrea.giusto@edu.unige.it">Andrea</a> **no later than May 22**.
 This will allow us to handle the printing and ensure your poster is set up and ready for your session.
-If you are not able to submit your poster by the deadline, or if you prefer to just print it yourself, you are welcome to do so, but please make sure to hang it in the designated area within lunch time.
-Reimbursement for printing costs will be guaranteed for expenses up to 20 euros, upon presentation of the receipt, stating clearly that you paid for printing an A0 poster.
+
+If you are not able to submit your poster by the deadline, or if you prefer to just print it yourself, you are welcome to do so, but please make sure to hang it in the designated area **within lunch time**.
+Reimbursement for printing costs will be guaranteed for expenses **up to 20 euros**, upon presentation of the **receipt**, stating clearly that you paid for printing an A0 poster.
 
 ## Competitive Debate
 The afternoon of the first day will feature a competitive debate.
