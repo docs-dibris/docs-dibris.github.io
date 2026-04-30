@@ -39,7 +39,7 @@ The DoCS group is pleased to announce the seventh edition of the Computer Scienc
 
 Computer Science evolves rapidly, driven by innovation and interdisciplinary challenges. The DIBRIS department conducts research across Virtual and Augmented Reality, Multi-Agent Systems, Data Management, Geometric Modeling, Cybersecurity, Machine Learning, Programming Languages, Logic, Computer Vision, Software Engineering, and Artificial Intelligence.
 
-The annual Workshop brings our community together to share ideas, present research, and build collaborations. This edition maintains last year's successful two-day format while while adding interactive sessions alongside keynote talks, fostering interaction and engagement for all participants.
+The annual Workshop brings our community together to share ideas, present research, and build collaborations. This edition maintains last year's successful two-day format while adding interactive sessions alongside keynote talks, fostering interaction and engagement for all participants.
 
 The Workshop offers students access to cutting-edge research and researchers the chance to explore cross-disciplinary connections. Building on last year's success, this year also targets Master's students to strengthen their engagement with departmental research. Students seeking AUK credits for attendance should consult [the dedicated section](#additional-useful-knowledge-auk-credits-for-master-students).
 
@@ -48,7 +48,7 @@ This year's edition will feature activities delivered by distinguished speakers:
 - [Emanuele Rodolà](https://gladia.di.uniroma1.it/authors/rodola/), Sapienza, University of Rome
 - [Claudio Pacchierotti](https://team.inria.fr/rainbow/team/claudio-pacchierotti/), National Institute for Research in Digital Science and Technology, Rennes
 - [Alessandra Sciutti](https://www.iit.it/it/people-profile/-/people/alessandra-sciutti), Italian Institute of Technology, Genoa
-- [Raffaele Rialdi](https://www.ugidotnet.org/autore/4991/Raffaele-Rialdi), Vevy Europe, DotNetLiguriam, Genoa
+- [Raffaele Rialdi](https://www.ugidotnet.org/autore/4991/Raffaele-Rialdi), Vevy Europe, DotNetLiguria, Genoa
 - [Luca Demetrio](https://www.saiferlab.ai/people/lucademetrio), University of Genoa
 - [Luca Franceschini](https://www.linkedin.com/in/luca-franceschini-phd/), Esaote, Genoa
 - [Ulderico Fugacci](https://fugacci.github.io/home/), National Research Council, Genoa
@@ -60,14 +60,18 @@ Additional information about the speakers and their activities can be found in t
 During lunches of the event, Computer Science and Systems Engineering PhD students will have two poster sessions to present their work to participants and speakers.
 The poster sessions will be held in room 210, 2nd floor.
 
-Posters will be set up in the room during the morning. Our staff will handle the setup of those printed by us. If you plan to print your poster in some other way, please be sure to hang it in the designated area within lunch time.
+Posters will be set up in the room during the morning. Our staff will handle the setup of those printed by us. If you plan to print your poster in some other way, please be sure to hang it in the designated area within the lunch break.
 
-{: .important }
 You can find the official CSW poster template <a href="https://www.overleaf.com/read/xnbjygqsmqtq#87d93e">here</a>.
+
 Please submit your poster by emailing it to either <a href="mailto:matteo.martini@edu.unige.it">Matteo</a> or <a href="mailto:andrea.giusto@edu.unige.it">Andrea</a> **no later than May 22**.
 This will allow us to handle the printing and ensure your poster is set up and ready for your session.
+A few days before the event, we will share with you which poster session you have been assigned to.
 
-If you are not able to submit your poster by the deadline, or if you prefer to just print it yourself, you are welcome to do so, but please make sure to hang it in the designated area **within lunch time**.
+{: .important }
+If you are not able to submit your poster by the deadline, or if you prefer to just print it yourself, you are welcome to do so, but please make sure to hang it in the designated area **within the lunch break**.
+We also ask you to please let us know if you will be printing the poster yourself, so that we can plan accordingly.
+<br>
 Reimbursement for printing costs will be guaranteed for expenses **up to 20 euros**, upon presentation of the **receipt**, stating clearly that you paid for printing an A0 poster.
 
 ## Competitive Debate
@@ -98,7 +102,7 @@ A registration booth will be arranged at the 3rd floor. There will be a registra
 - **Duration:** 15 minutes
 - **Location:** Room 323 (conference room), 3rd floor
 
-Welcome and introduction to the CSW. The DoCS team will also present itself and their activities.
+Welcome and introduction to the CSW. The DoCS team will also present themselves and their activities.
 
 ### DIBRIS PhD programs presentation
 - **Start time:** 10:00 AM
@@ -127,9 +131,11 @@ He is also the president of the DotNetLiguria community, through which he organi
 - **Location:** Room 326, 3rd floor
 
 ### Panel - _Getting Your PhD: What We Learned Along the Way_ by __Luca Demetrio__ and __Andrea Valenza__
-- **Start time:** 12:15 AM
+- **Start time:** 12:15 PM
 - **Duration:** 45 minutes
 - **Location:** Room 323 (conference room), 3rd floor
+
+After the panel and before the lunch break, PhD students having a poster in Poster Session 1 will give a flash presentation of their work, to encourage participants to attend the poster session and interact with them during lunch.
 
 #### Abstract
 TBD
@@ -198,7 +204,7 @@ A registration booth will be arranged at the 3rd floor. There will be a registra
 - **Duration:** 15 minutes
 - **Location:** Room 323 (conference room), 3rd floor
 
-Welcome and introduction to the second day. The DoCS team will also present itself and their activities.
+Welcome and introduction to the second day. The DoCS team will also present themselves and their activities.
 
 ### Keynote - _TBD_ by __Alessandra Sciutti__
 - **Start time:** 10:00 AM
@@ -221,6 +227,8 @@ TBD
 - **Start time:** 11:45 AM
 - **Duration:** 1 hour and 15 minutes
 - **Location:** Room 323 (conference room), 3rd floor
+
+After the keynote and before the lunch break, PhD students having a poster in Poster Session 2 will give a flash presentation of their work, to encourage participants to attend the poster session and interact with them during lunch.
 
 #### Abstract
 TBD
