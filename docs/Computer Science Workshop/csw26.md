@@ -72,7 +72,7 @@ A few days before the event, we will share with you which poster session you hav
 If you are not able to submit your poster by the deadline, or if you prefer to just print it yourself, you are welcome to do so, but please make sure to hang it in the designated area **within the lunch break**.
 We also ask you to please let us know if you will be printing the poster yourself, so that we can plan accordingly.
 <br>
-Reimbursement for printing costs will be guaranteed for expenses **up to 20 euros**, upon presentation of the **receipt**, stating clearly that you paid for printing an A0 poster.
+Reimbursement for printing costs will be guaranteed for expenses **up to 20 euros**, upon presentation of the **receipt**, stating clearly that you paid for printing an A0 poster, so please be sure to ask for it to the printing service you use.
 
 ## Competitive Debate
 The afternoon of the first day will feature a competitive debate.
