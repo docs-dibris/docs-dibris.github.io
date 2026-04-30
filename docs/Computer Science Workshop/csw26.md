@@ -292,10 +292,12 @@ Lunch and coffee breaks will be offered to all participants.
 
 ## Additional Useful Knowledge (AUK) credits for Master Students
 TBD
-<!--This year’s edition has also been designed with a special focus on Master's students, with the goal of bringing them closer to the world of research—both in general and with particular attention to the work carried out by the department’s research groups, faculty members, and PhD students.
+<!--
+This year’s edition has also been designed with a special focus on Master's students, with the goal of bringing them closer to the world of research—both in general and with particular attention to the work carried out by the department’s research groups, faculty members, and PhD students.
 
 To this end, students whose study plan includes the acquisition of AUK credits will be eligible to receive 2 AUK credits for participating in the event.
 
 Students will be required to demonstrate their attendance, and credits will be awarded only to those who attend all activities, with the exception of at most one session. Participation in the debate is mandatory.
 
-After the event, eligible students will be notified via email regarding the proper registration of the acquired credits.-->
+After the event, eligible students will be notified via email regarding the proper registration of the acquired credits.
+-->
