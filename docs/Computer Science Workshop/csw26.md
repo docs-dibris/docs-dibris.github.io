@@ -22,6 +22,11 @@ nav_order: 7
     <b><i>with the contribution of the University of Genoa</i></b>
     <br>
 </div>
+ <span class="fs-8">
+[Register here](https://forms.gle/eUqT9dmoikaPxaau8){: .btn .btn-purple}
+</span>
+{: .text-center } 
+
 <br>
 <strong>This page is currently under construction. Please check back later for updates on the program, speakers, and activities.</strong>
 <br>
