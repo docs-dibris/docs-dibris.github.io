@@ -63,7 +63,7 @@ The poster sessions will be held in room 210, 2nd floor.
 Posters will be set up in the room during the morning. Our staff will handle the setup of those printed by us. If you plan to print your poster in some other way, please be sure to hang it in the designated area within lunch time.
 
 {: .important }
-<!--You can find the official CSW poster template <a href="https://www.overleaf.com/read/xnbjygqsmqtq#87d93e">here</a>.-->
+You can find the official CSW poster template <a href="https://www.overleaf.com/read/xnbjygqsmqtq#87d93e">here</a>.
 Please submit your poster by emailing it to either <a href="mailto:matteo.martini@edu.unige.it">Matteo</a> or <a href="mailto:andrea.giusto@edu.unige.it">Andrea</a> **no later than May 22**.
 This will allow us to handle the printing and ensure your poster is set up and ready for your session.
 
@@ -100,7 +100,7 @@ A registration booth will be arranged at the 3rd floor. There will be a registra
 
 Welcome and introduction to the CSW. The DoCS team will also present itself and their activities.
 
-### Welcome
+### DIBRIS PhD programs presentation
 - **Start time:** 10:00 AM
 - **Duration:** 15 minutes
 - **Location:** Room 323 (conference room), 3rd floor
@@ -115,7 +115,7 @@ Prof. Giorgio Delzanno will present the DIBRIS PhD programs, with a particular f
 #### Abstract
 TBD
 
-#### Raffaeles' bio
+#### Raffaele's bio
 <img src="/assets/images/people/CSW26/rialdi.jpg" style="display: block; max-height: 150px;">
 Raffaele Rialdi holds a degree in Electronic Engineering, is registered with the Genoa Order of Engineers, and is a member of its ICT commission. He has been professionally involved in software design and development since 1987.
 He has been a Microsoft MVP since 2003 and participates in weekly meetings with Microsoft teams in Redmond, working on development technologies with access to the Windows source code.
@@ -173,7 +173,7 @@ After the formal debate is over, the audience will have the opportunity to inter
 #### Abstract
 TBD
 
-#### Emanueles' bio
+#### Emanuele's bio
 <img src="/assets/images/people/avatar.png" style="display: block; max-height: 150px;">
 TBD
 
@@ -185,7 +185,96 @@ TBD
 Final remarks and thanks. This is the moment when team roles for Friday’s activity will be announced.
 
 ## --- Friday, May 29 ---
+
+### Registration
+- **Start time:** 9:30 AM
+- **Duration:** 30 minutes
+- **Location:** Room 323 (corridor), 3rd floor
+
+A registration booth will be arranged at the 3rd floor. There will be a registration desk where you can pick up your badge.
+
+### Welcome
+- **Start time:** 9:45 AM
+- **Duration:** 15 minutes
+- **Location:** Room 323 (conference room), 3rd floor
+
+Welcome and introduction to the second day. The DoCS team will also present itself and their activities.
+
+### Keynote - _TBD_ by __Alessandra Sciutti__
+- **Start time:** 10:00 AM
+- **Duration:** 1 hour and 15 minutes
+- **Location:** Room 323 (conference room), 3rd floor
+
+#### Abstract
 TBD
+
+#### Alessandra's bio
+<img src="/assets/images/people/avatar.png" style="display: block; max-height: 150px;">
+TBD
+
+### Coffee Break (catered)
+- **Start time:** 11:15 AM
+- **Duration:** 30 minutes
+- **Location:** Room 326, 3rd floor
+
+### Keynote - _TBD_ by __TBD__
+- **Start time:** 11:45 AM
+- **Duration:** 1 hour and 15 minutes
+- **Location:** Room 323 (conference room), 3rd floor
+
+#### Abstract
+TBD
+
+#### TBD's bio
+<img src="/assets/images/people/avatar.png" style="display: block; max-height: 150px;">
+TBD
+
+### Lunch (catered) + Poster Session 2
+- **Start time:** 1:00 PM
+- **Duration:** 1 hour and 30 minutes
+- **Location:** Room 210, 2nd floor
+
+### Keynote - _TBD_ by __Claudio Pacchierotti__
+- **Start time:** 2:30 PM
+- **Duration:** 1 hour and 15 minutes
+- **Location:** Room 323 (conference room), 3rd floor
+
+#### Abstract
+TBD
+
+#### Claudio's bio
+<img src="/assets/images/people/avatar.png" style="display: block; max-height: 150px;">
+TBD
+
+### Coffee Break (catered)
+- **Start time:** 3:45 PM
+- **Duration:** 30 minutes
+- **Location:** Room 326, 3rd floor
+
+### Panel - _So... What Now? A Postdoc Panel_ by __Ulderico Fugacci__ and __Luca Franceschini__
+- **Start time:** 4:15 PM
+- **Duration:** 45 minutes
+- **Location:** Room 323 (conference room), 3rd floor
+
+#### Abstract
+TBD
+
+#### Panelists' bios
+##### Ulderico Fugacci
+<img src="/assets/images/people/avatar.png" style="display: block; max-height: 150px;">
+TBD
+
+
+##### Luca Franceschini
+<img src="/assets/images/people/avatar.png" style="display: block; max-height: 150px;">
+TBD
+
+### End of Day
+- **Start time:** 5:00 PM
+- **Duration:** 15 minutes
+- **Location:** Room 323 (conference room), 3rd floor
+
+Final remarks and thanks.
 
 # Additional information
 Participation is free of charge and open to everyone, but registration is required.
