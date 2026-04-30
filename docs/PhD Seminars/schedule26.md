@@ -17,7 +17,7 @@ nav_order: 5
 # Seminars schedule 2026
 
 {: .highlight }
-The next meeting is scheduled for **Roberto Di Via**'s seminar, on **Tuesday, April 28** at 14:30 in Room 214. 
+The next meeting is scheduled for **Gabriele Bortolai** and **Ilaria Stanzani**'s seminar, on **Tuesday, May 5** at 14:30 in Room 214. 
 
 {: .note }
 All seminars are streamed on Microsoft Teams. Code to join: wfogmsx <!-- change -->
@@ -70,14 +70,14 @@ This schedule is subject to changes. If you see typos or cannot be present on yo
     </tr>
        <!-- May -->
     <tr>
-        <td rowspan="2"></td>
+        <td rowspan="2"><a href="/assets/seminar-flyers/seminar_26/seminar_4.pdf" download>download</a></td>
         <td rowspan="2">Tue 5 May<br>14:30-15:30<br>Room 214</td>
         <td>Gabriele Bortolai</td>
-        <td>TBA</td>
+        <td>Leveraging Smartphone Inertial Data for User Authentication</td>
     </tr>
     <tr>
         <td>Ilaria Stanzani</td>
-        <td>TBA</td>
+        <td>Exploring Data Visualization Strategies to Study Academic Research</td>
     </tr>
     <tr>
         <td rowspan="2"></td>
