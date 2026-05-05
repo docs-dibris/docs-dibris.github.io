@@ -304,6 +304,6 @@ Students will be required to demonstrate their attendance, and credits will be a
 
 The participation to the Competitive Debate is instead part of this year's Soft Skills Camp, or <b>AUK Part 1</b>.
 
-Please note that in order to obtain the credits, you must register to the workshop <b>by the 11th of May</b> also on the dedicated form on the [auk_registration_url][AUK Aulaweb module] and attend all the activities on both days.
+Please note that in order to obtain the credits, <b>you must register to the workshop by the 11th of May also on the dedicated form on the [AUK Aulaweb module][auk_registration_url]</b>.
 
 After the event, eligible students will be notified regarding the proper registration of the acquired credits.
