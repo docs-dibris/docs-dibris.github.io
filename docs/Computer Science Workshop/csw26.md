@@ -296,13 +296,11 @@ You can register by clicking on the button under the CSW logo at the top of the 
 Lunch and coffee breaks will be offered to all participants.
 
 ## Additional Useful Knowledge (AUK) credits for Master Students
-TBD
-{% comment %}
-This year’s edition has also been designed with a special focus on Master's students, with the goal of bringing them closer to the world of research—both in general and with particular attention to the work carried out by the department’s research groups, faculty members, and PhD students.
+As for past year's edition, this edition has also been designed with a special focus on Master's students, with the goal of bringing them closer to the world of research—both in general and with particular attention to the work carried out by the department’s research groups, faculty members, and PhD students.
 
-To this end, students whose study plan includes the acquisition of AUK credits will be eligible to receive 2 AUK credits for participating in the event.
+To this end, students attending the DSE Curriculum will be eligible to receive <b>AUK Part 2</b> credits (Scientific Activity) for participating in the event.
+Students will be required to demonstrate their attendance, and credits will be awarded only to those who attend all activities on both days.
 
-Students will be required to demonstrate their attendance, and credits will be awarded only to those who attend all activities, with the exception of at most one session. Participation in the debate is mandatory.
+The participation to the Competitive Debate is instead part of this year's Soft Skills Camp, or <b>AUK Part 1</b>.
 
-After the event, eligible students will be notified via email regarding the proper registration of the acquired credits.
-{% endcomment %}
+After the event, eligible students will be notified regarding the proper registration of the acquired credits.
