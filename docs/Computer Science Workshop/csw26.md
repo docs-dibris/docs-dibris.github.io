@@ -7,6 +7,7 @@ nav_order: 7
 
 [registration_url]: https://forms.gle/eUqT9dmoikaPxaau8
 [auk_registration_url]: https://blu.aulaweb.unige.it/course/view.php?id=792
+[auk_part1]: https://blu.aulaweb.unige.it/mod/reservation/view.php?id=43683
 
 # CSW 2026
 
@@ -81,13 +82,12 @@ We also ask you to please let us know if you will be printing the poster yoursel
 Reimbursement for printing costs will be guaranteed for expenses **up to 20 euros**, upon presentation of the **receipt**, stating clearly that you paid for printing an A0 poster, so please be sure to ask for it to the printing service you use.
 
 ## Competitive Debate
-The afternoon of the first day will feature a competitive debate.
+The afternoon of the first day will feature the final competitive debate session of the AUK Part 1 (Soft Skills).
 The debate teams will be composed of Master’s students in Computer Science who have registered for the acquisition of AUK credits.
 The debate will be evaluated by a jury composed of a PhD student, a professor, and a researcher, who will assess the clarity, coherence, and depth of the arguments presented.
 
 Participants will be added to a dedicated Microsoft Teams channel, where all logistical information, preparation materials, and the official debate protocol (rules) will be shared.
-A coaching session will take place in advance to support students in preparing for the event.
-The topic of the debate will be announced in advance, allowing students to prepare their arguments and positions.
+An introduction to debating will be provided on the **18th of May, 2:30 PM**. During that meeting, we will also provide the debate topica and some initial material on that, although students will be encouraged to look for their own.
 
 # Program
 This year’s edition of the Computer Science Workshop will take place over the course of two full days: Thursday, May 28, and Friday, May 29.
@@ -299,11 +299,10 @@ Lunch and coffee breaks will be offered to all participants.
 ## Additional Useful Knowledge (AUK) credits for Master Students
 As for past year's edition, this edition has also been designed with a special focus on Master's students, with the goal of bringing them closer to the world of research—both in general and with particular attention to the work carried out by the department’s research groups, faculty members, and PhD students.
 
-To this end, students attending the DSE Curriculum will be eligible to receive <b>AUK Part 2</b> credits (Scientific Activity) for participating in the event.
-Students will be required to demonstrate their attendance, and credits will be awarded only to those who attend all activities on both days.
-
-The participation to the Competitive Debate is instead part of this year's Soft Skills Camp, or <b>AUK Part 1</b>.
-
-Please note that in order to obtain the credits, <b>you must register to the workshop by the 11th of May also on the dedicated form on the [AUK Aulaweb module][auk_registration_url]</b>.
+To this end, students attending the DSE Curriculum will be eligible to receive AUK credist. In particular
+    - **AUK Part 1** credits (_Soft Skills_) for participating to the competitive debate. In order to obtain the credits, **you must register on the [dedicated form][auk_part1] on the [AUK Aulaweb module][auk_registration_url]** in addition to the regular CSW registration.
+    - **AUK Part 2** credits (_Scientific Activity_) for participating in the event. Students will be required to demonstrate their attendance, and credits will be awarded only to those who attend all activities on both days.
 
 After the event, eligible students will be notified regarding the proper registration of the acquired credits.
+
+In case of any doubt or question regarding the AUK credits, please do not hesitate to contact the professors of the AUK committee.
