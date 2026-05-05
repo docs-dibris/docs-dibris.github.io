@@ -15,7 +15,7 @@ nav_order: 7
     <h2>Computer Science Workshop 2026</h2>
     <h3>7<sup>th</sup> Edition</h3>
     <h2>May 28<sup>th</sup> and 29<sup>th</sup>, 2026</h2>
-    Room 323, DIBRIS (Valletta Puggia), Università di Genova
+    Room 322, DIBRIS (Valletta Puggia), Università di Genova
     <br>
     Via Dodecaneso 35, Genoa
     <br>
@@ -25,12 +25,12 @@ nav_order: 7
  <span class="fs-8">
 [Register here](https://forms.gle/eUqT9dmoikaPxaau8){: .btn .btn-purple}
 </span>
-{: .text-center } 
+{: .text-center }
 
 <br>
 <strong>This page is currently under construction. Please check back later for updates on the program, speakers, and activities.</strong>
 <br>
-    
+
 # Flyer
 TBD
 <!--<div style="display: flex; justify-content: center; align-items: center; margin: 20px 0;">
@@ -98,28 +98,28 @@ A variety of sessions and formats will follow one another throughout the event, 
 ### Registration
 - **Start time:** 9:30 AM
 - **Duration:** 30 minutes
-- **Location:** Room 323 (corridor), 3rd floor
+- **Location:** Room 322 (corridor), 3rd floor
 
 A registration booth will be arranged at the 3rd floor. There will be a registration desk where you can pick up your badge.
 
 ### Welcome
 - **Start time:** 9:45 AM
 - **Duration:** 15 minutes
-- **Location:** Room 323 (conference room), 3rd floor
+- **Location:** Room 322, 3rd floor
 
 Welcome and introduction to the CSW. The DoCS team will also present themselves and their activities.
 
 ### DIBRIS PhD programs presentation
 - **Start time:** 10:00 AM
 - **Duration:** 15 minutes
-- **Location:** Room 323 (conference room), 3rd floor
+- **Location:** Room 322, 3rd floor
 
 Prof. Giorgio Delzanno will present the DIBRIS PhD programs, with a particular focus on the Computer Science and Systems Engineering PhD one, and the opportunities it offers to students.
 
 ### Keynote - _TBD_ by __Raffaele Rialdi__
 - **Start time:** 10:15 AM
 - **Duration:** 1 hour + 30 minutes for open discussion
-- **Location:** Room 322 (conference room), 3rd floor
+- **Location:** Room 322, 3rd floor
 
 #### Abstract
 TBD
@@ -138,7 +138,7 @@ He is also the president of the DotNetLiguria community, through which he organi
 ### Panel - _Getting Your PhD: What We Learned Along the Way_ by __Luca Demetrio__ and __Andrea Valenza__
 - **Start time:** 12:15 PM
 - **Duration:** 45 minutes
-- **Location:** Room 323 (conference room), 3rd floor
+- **Location:** Room 322, 3rd floor
 
 After the panel and before the lunch break, PhD students having a poster in Poster Session 1 will give a flash presentation of their work, to encourage participants to attend the poster session and interact with them during lunch.
 
@@ -163,7 +163,7 @@ TBD
 ### Competitive Debate - TBD
 - **Start time:** 2:30 PM
 - **Duration:** 1 hour and 15 minutes
-- **Location:** Room 323, 3rd floor
+- **Location:** Room 322, 3rd floor
 
 Master's students will engage in a competitive debate focused on _Topic TBD_.
 Two teams of students will compete, adhering to a specific protocol, each defending distinct positions on a particular motion related to _TBD_.
@@ -179,7 +179,7 @@ After the formal debate is over, the audience will have the opportunity to inter
 ### Keynote - _TBD_ by __Emanuele Rodolà__
 - **Start time:** 4:15 PM
 - **Duration:** 1 hour
-- **Location:** Room 323 (conference room), 3rd floor
+- **Location:** Room 322, 3rd floor
 
 #### Abstract
 TBD
@@ -191,7 +191,7 @@ TBD
 ### End of Day
 - **Start time:** 5:15 PM
 - **Duration:** 15 minutes
-- **Location:** Room 323 (conference room), 3rd floor
+- **Location:** Room 322, 3rd floor
 
 Final remarks and thanks. This is the moment when team roles for Friday’s activity will be announced.
 
@@ -200,21 +200,21 @@ Final remarks and thanks. This is the moment when team roles for Friday’s acti
 ### Registration
 - **Start time:** 9:30 AM
 - **Duration:** 30 minutes
-- **Location:** Room 323 (corridor), 3rd floor
+- **Location:** Room 322 (corridor), 3rd floor
 
 A registration booth will be arranged at the 3rd floor. There will be a registration desk where you can pick up your badge.
 
 ### Welcome
 - **Start time:** 9:45 AM
 - **Duration:** 15 minutes
-- **Location:** Room 323 (conference room), 3rd floor
+- **Location:** Room 322, 3rd floor
 
 Welcome and introduction to the second day. The DoCS team will also present themselves and their activities.
 
 ### Keynote - _TBD_ by __Alessandra Sciutti__
 - **Start time:** 10:00 AM
 - **Duration:** 1 hour and 15 minutes
-- **Location:** Room 323 (conference room), 3rd floor
+- **Location:** Room 322, 3rd floor
 
 #### Abstract
 TBD
@@ -231,7 +231,7 @@ TBD
 ### Keynote - _TBD_ by __TBD__
 - **Start time:** 11:45 AM
 - **Duration:** 1 hour and 15 minutes
-- **Location:** Room 323 (conference room), 3rd floor
+- **Location:** Room 322, 3rd floor
 
 After the keynote and before the lunch break, PhD students having a poster in Poster Session 2 will give a flash presentation of their work, to encourage participants to attend the poster session and interact with them during lunch.
 
@@ -250,7 +250,7 @@ TBD
 ### Keynote - _TBD_ by __Claudio Pacchierotti__
 - **Start time:** 2:30 PM
 - **Duration:** 1 hour and 15 minutes
-- **Location:** Room 323 (conference room), 3rd floor
+- **Location:** Room 322, 3rd floor
 
 #### Abstract
 TBD
@@ -267,7 +267,7 @@ TBD
 ### Panel - _So... What Now? A Postdoc Panel_ by __Ulderico Fugacci__ and __Luca Franceschini__
 - **Start time:** 4:15 PM
 - **Duration:** 45 minutes
-- **Location:** Room 323 (conference room), 3rd floor
+- **Location:** Room 322, 3rd floor
 
 #### Abstract
 TBD
@@ -285,7 +285,7 @@ TBD
 ### End of Day
 - **Start time:** 5:00 PM
 - **Duration:** 15 minutes
-- **Location:** Room 323 (conference room), 3rd floor
+- **Location:** Room 322, 3rd floor
 
 Final remarks and thanks.
 
