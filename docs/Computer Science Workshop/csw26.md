@@ -212,17 +212,28 @@ A registration booth will be arranged at the 3rd floor. There will be a registra
 
 Welcome and introduction to the second day. The DoCS team will also present themselves and their activities.
 
-### Keynote - _TBD_ by __Alessandra Sciutti__
+### Keynote - _Toward a Cognitive Architecture for Adaptive Human–Robot Interaction_ by __Alessandra Sciutti__
 - **Start time:** 10:00 AM
 - **Duration:** 1 hour and 15 minutes
 - **Location:** Room 322, 3rd floor
 
 #### Abstract
-TBD
+Effective human–robot collaboration requires more than high task performance; it depends on alignment between human and robotic cognition.
+Human interaction relies heavily on non-verbal cues such as gaze, motion dynamics, and timing to support anticipation and coordination.
+Drawing on these principles, robotic systems can be designed to perceive and express meaning in ways that are compatible with human expectations.
+Embedding embodied interaction mechanisms within cognitive architectures grounded in memory and motivation enables robots to adapt to different partners and contexts over time.
+Bio-inspired approaches that integrate perception, action, memory, motivation, and prospection support learning from experience, anticipating others’ behavior, and generating socially meaningful responses.
+This perspective moves human–robot interaction beyond reactive control toward adaptive, cognitively grounded collaboration, contributing to robots that can co-adapt with humans through shared experience and operate as intuitive and trustworthy partners.
 
 #### Alessandra's bio
-<img src="/assets/images/people/avatar.png" style="display: block; max-height: 150px;">
-TBD
+<img src="/assets/images/people/CSW26/sciutti.jpg" style="display: block; max-height: 150px;">
+Alessandra Sciutti is a Senior Tenure Track Researcher and head of the CONTACT (COgNiTive Architecture for Collaborative Technologies) Unit of the Italian Institute of Technology (IIT).
+She received her B.S. and M.S. degrees in Bioengineering and her Ph.D. in Humanoid Technologies from the University of Genova in 2010.
+After two research periods in the USA and Japan, in 2018, she was awarded the ERC Starting Grant wHiSPER (www.whisperproject.eu), focused on the investigation of joint perception between humans and robots.
+She has published more than 100 papers and abstracts in international journals and conferences, coordinates the ERC POC Project ARIEL (Assessing Children Manipulation and Exploration Skills), and has participated in the coordination of the CODEFROR European IRSES project (https://www.codefror.eu/).
+She is currently Chief Editor of the HRI Section of Frontiers in Robotics and AI and Associate Editor for several journals, including the International Journal of Social Robotics and Cognitive System Research.
+She is an ELLIS scholar and the corresponding co-chair of the IEEE RAS Technical Committee for Cognitive Robotics.
+Her research aims to investigate the sensory and motor mechanisms underlying mutual understanding in human-human and human-robot interaction.
 
 ### Coffee Break (catered)
 - **Start time:** 11:15 AM
