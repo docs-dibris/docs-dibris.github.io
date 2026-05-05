@@ -6,6 +6,7 @@ nav_order: 7
 ---
 
 [registration_url]: https://forms.gle/eUqT9dmoikaPxaau8
+[auk_registration_url]: https://blu.aulaweb.unige.it/course/view.php?id=792
 
 # CSW 2026
 
@@ -302,5 +303,7 @@ To this end, students attending the DSE Curriculum will be eligible to receive <
 Students will be required to demonstrate their attendance, and credits will be awarded only to those who attend all activities on both days.
 
 The participation to the Competitive Debate is instead part of this year's Soft Skills Camp, or <b>AUK Part 1</b>.
+
+Please note that in order to obtain the credits, you must register to the workshop <b>by the 11th of May</b> also on the dedicated form on the [auk_registration_url][AUK Aulaweb module] and attend all the activities on both days.
 
 After the event, eligible students will be notified regarding the proper registration of the acquired credits.
