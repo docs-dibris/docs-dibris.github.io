@@ -321,8 +321,8 @@ Lunch and coffee breaks will be offered to all participants.
 As for past year's edition, this edition has also been designed with a special focus on Master's students, with the goal of bringing them closer to the world of research—both in general and with particular attention to the work carried out by the department’s research groups, faculty members, and PhD students.
 
 To this end, students attending the DSE Curriculum will be eligible to receive AUK credist. In particular
-    - **AUK Part 1** credits (_Soft Skills_) for participating to the competitive debate. In order to obtain the credits, **you must register on the [dedicated form][auk_part1] on the [AUK Aulaweb module][auk_registration_url]** in addition to the regular CSW registration.
-    - **AUK Part 2** credits (_Scientific Activity_) for participating in the event. Students will be required to demonstrate their attendance, and credits will be awarded only to those who attend all activities on both days.
+- **AUK Part 1** credits (_Soft Skills_) for participating to the competitive debate. In order to obtain the credits, **you must register on the [dedicated form][auk_part1] on the [AUK Aulaweb module][auk_registration_url]** in addition to the regular CSW registration.
+- **AUK Part 2** credits (_Scientific Activity_) for participating in the event. Students will be required to demonstrate their attendance, and credits will be awarded only to those who attend all activities on both days.
 
 After the event, eligible students will be notified regarding the proper registration of the acquired credits.
 
