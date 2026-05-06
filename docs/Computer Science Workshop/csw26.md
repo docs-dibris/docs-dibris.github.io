@@ -302,8 +302,11 @@ TBD
 
 
 ##### Luca Franceschini
-<img src="/assets/images/people/avatar.png" style="display: block; max-height: 150px;">
-TBD
+<img src="/assets/images/people/CSW26/franceschini.jpg" style="display: block; max-height: 150px;">
+Luca Franceschini is currently a Software Engineer at Esaote, a medical diagnostic systems manufacturer, working in the ultrasound imaging R&D department.
+He previously worked as a software development consultant, and contributed to the early stage of an agritech startup.
+Luca completed his PhD in Computer Science at the University of Genoa in 2021, focusing on programming languages and software analysis and verification.
+In his thesis he proposed and implemented RML, a system agnostic domain specific language for runtime monitoring and verification.
 
 ### End of Day
 - **Start time:** 5:00 PM
