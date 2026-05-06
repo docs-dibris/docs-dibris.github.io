@@ -148,9 +148,10 @@ TBD
 
 #### Panelists' bios
 ##### Luca Demetrio
-<img src="https://rubrica.unige.it/static/foto/VkRBWF1p.jpg" style="display: block; max-height: 150px;">
-TBD
-
+<img src="/assets/images/people/CSW26/demetrio.jpg" style="display: block; max-height: 150px;">
+Luca Demetrio is Assistant Professor (tenure-track) at the University of Genoa.
+During his Ph.D. (concluded in 2021) he produced seminal techniques and software libraries to conduct security evaluations of AI-based Windows anti-malware programs, widely used by the community.
+He is currently studying the reliability of machine learning in cybersecurity contexts, where deployed AI technologies must be accurate in flagging potential threats, while also being robust against adversarial attacks.
 
 ##### Andrea Valenza
 <img src="/assets/images/people/avatar.png" style="display: block; max-height: 150px;">
