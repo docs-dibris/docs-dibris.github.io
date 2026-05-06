@@ -53,7 +53,7 @@ The Workshop offers students access to cutting-edge research and researchers the
 # Activities
 This year's edition will feature activities delivered by distinguished speakers:
 - [Emanuele Rodolà](https://gladia.di.uniroma1.it/authors/rodola/), Sapienza, University of Rome
-- [Claudio Pacchierotti](https://team.inria.fr/rainbow/team/claudio-pacchierotti/), National Institute for Research in Digital Science and Technology, Rennes
+- [Claudio Pacchierotti](https://team.inria.fr/rainbow/team/claudio-pacchierotti/), Centre National de la Recherche Scientifique, Rennes
 - [Alessandra Sciutti](https://www.iit.it/it/people-profile/-/people/alessandra-sciutti), Italian Institute of Technology, Genoa
 - [Raffaele Rialdi](https://www.ugidotnet.org/autore/4991/Raffaele-Rialdi), Vevy Europe, DotNetLiguria, Genoa
 - [Luca Demetrio](https://www.saiferlab.ai/people/lucademetrio), University of Genoa
@@ -259,17 +259,27 @@ TBD
 - **Duration:** 1 hour and 30 minutes
 - **Location:** Room 210, 2nd floor
 
-### Keynote - _TBD_ by __Claudio Pacchierotti__
+### Keynote - _Cutaneous Haptics for Human-centered Robotics and Immersive Realities_ by __Claudio Pacchierotti__
 - **Start time:** 2:30 PM
 - **Duration:** 1 hour and 15 minutes
 - **Location:** Room 322, 3rd floor
 
 #### Abstract
-TBD
+As robotics advances into more integrated human-centered applications, haptic feedback plays a crucial role in connecting humans and robots seamlessly.
+While force feedback has traditionally played a crucial role, this presentation explores the untapped potential of cutaneous haptics to create more natural, richer, and safer interactions in human-centered robotics.
+Dr. Pacchierotti will share his contributions to this field, discussing the role of cutaneous and kinesthetic haptics in human-machine interaction, presenting the design of innovative cutaneous haptic interfaces and rendering techniques, along with their application in human-centered robotics and immersive environments.
+Emphasizing a holistic and multi-modal approach to haptic feedback, this talk aims to inspire researchers and engineers to explore cutaneous haptics for developing the next generation of sensory human-robot interfaces.
+The presentation concludes by addressing the scientific and technological challenges in this evolving field.
 
 #### Claudio's bio
-<img src="/assets/images/people/avatar.png" style="display: block; max-height: 150px;">
-TBD
+<img src="/assets/images/people/CSW26/pacchierotti.jpg" style="display: block; max-height: 150px;">
+Claudio Pacchierotti is a tenured researcher at CNRS-IRISA in Rennes, France, since 2016.
+He was previously a postdoctoral researcher at the Italian Institute of Technology, Genova, Italy.
+Pacchierotti earned his PhD at the University of Siena in 2014.
+He was Visiting Researcher at the University of Pennsylvania in 2014, at the University of Padua in 2013, at the University of Twente in 2014, at the Sapienza University of Rome in 2022, and at the University of Siena in 2026.
+Pacchierotti received the 2014 EuroHaptics Best PhD Thesis Award and the 2022 CNRS Bronze Medal.
+He currently serves as Associate Vice President of the IEEE RAS Technical Activities Board (TAB).
+He is also Co-Chair of the IEEE Technical Committee on Telerobotics, Secretary of the Eurohaptics Society, and Associate Editor for IEEE Trans. Haptics, IEEE Trans. Robotics, and the Intl. J. Robotics Research.
 
 ### Coffee Break (catered)
 - **Start time:** 3:45 PM
