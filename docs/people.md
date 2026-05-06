@@ -212,7 +212,6 @@ Here you can find the list of current members of the DoCS group, along with some
 
 - Chiara Accinelli
 - Pietro Barbieri
-- Riccardo Bianchini
 - Luca Ciccone
 - Francesco Dagnino
 - Federico Dassereto
