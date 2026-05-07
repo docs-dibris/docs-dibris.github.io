@@ -297,8 +297,11 @@ TBD
 
 #### Panelists' bios
 ##### Ulderico Fugacci
-<img src="/assets/images/people/avatar.png" style="display: block; max-height: 150px;">
-TBD
+<img src="/assets/images/people/CSW26/fugacci.jpg" style="display: block; max-height: 150px;">
+Ulderico Fugacci is a researcher at the Institute for Applied Mathematics and Information Technologies “Enrico Magenes” (IMATI) of the National Research Council (CNR), Italy.
+He earned his Master’s Degree in Mathematics from the University of Genova in 2012 and a Ph.D. in Computer Science from the same university in 2016, under the supervision of Prof. Leila De Floriani and Prof. Maria Evelina Rossi.
+Following his Ph.D., he held several postdoctoral positions, including at the University of Maryland, the University of Kaiserslautern, Graz University of Technology, and the Polytechnic University of Torino.
+His research focuses on Topological Data Analysis, at the intersection of applied mathematics, computer science, and data analysis.
 
 
 ##### Luca Franceschini
