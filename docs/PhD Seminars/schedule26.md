@@ -80,14 +80,14 @@ This schedule is subject to changes. If you see typos or cannot be present on yo
         <td>Exploring Data Visualization Strategies to Study Academic Research</td>
     </tr>
     <tr>
-        <td rowspan="2"></td>
+        <td rowspan="2"><a href="/assets/seminar-flyers/seminar_26/seminar_5.pdf" download>download</a></td>
         <td rowspan="2">Tue 12 May<br>14:30-15:30<br>Room 214</td>
         <td>Anna Khristodulo</td><!-- changed -->
-        <td>TBA</td>
+        <td>From Population Patterns to Patient Profiles: A Digital Twin Approach to Glucose Simulation in Adolescents with Type 1 Diabetes</td>
     </tr>
     <tr>
         <td>Andrea Gatti</td>
-        <td>TBA</td>
+        <td>Watermarking LLM: Why, How and Generated Future</td>
     </tr>
     <tr>
         <td rowspan="2"></td>
