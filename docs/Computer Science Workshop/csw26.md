@@ -6,6 +6,8 @@ nav_order: 7
 ---
 
 [registration_url]: https://forms.gle/eUqT9dmoikaPxaau8
+[auk_registration_url]: https://blu.aulaweb.unige.it/course/view.php?id=792
+[auk_part1]: https://blu.aulaweb.unige.it/mod/reservation/view.php?id=43683
 
 # CSW 2026
 
@@ -15,7 +17,7 @@ nav_order: 7
     <h2>Computer Science Workshop 2026</h2>
     <h3>7<sup>th</sup> Edition</h3>
     <h2>May 28<sup>th</sup> and 29<sup>th</sup>, 2026</h2>
-    Room 323, DIBRIS (Valletta Puggia), Università di Genova
+    Room 322, DIBRIS (Valletta Puggia), Università di Genova
     <br>
     Via Dodecaneso 35, Genoa
     <br>
@@ -25,12 +27,12 @@ nav_order: 7
  <span class="fs-8">
 [Register here](https://forms.gle/eUqT9dmoikaPxaau8){: .btn .btn-purple}
 </span>
-{: .text-center } 
+{: .text-center }
 
 <br>
 <strong>This page is currently under construction. Please check back later for updates on the program, speakers, and activities.</strong>
 <br>
-    
+
 # Flyer
 TBD
 <!--<div style="display: flex; justify-content: center; align-items: center; margin: 20px 0;">
@@ -51,7 +53,7 @@ The Workshop offers students access to cutting-edge research and researchers the
 # Activities
 This year's edition will feature activities delivered by distinguished speakers:
 - [Emanuele Rodolà](https://gladia.di.uniroma1.it/authors/rodola/), Sapienza, University of Rome
-- [Claudio Pacchierotti](https://team.inria.fr/rainbow/team/claudio-pacchierotti/), National Institute for Research in Digital Science and Technology, Rennes
+- [Claudio Pacchierotti](https://team.inria.fr/rainbow/team/claudio-pacchierotti/), Centre National de la Recherche Scientifique, Rennes
 - [Alessandra Sciutti](https://www.iit.it/it/people-profile/-/people/alessandra-sciutti), Italian Institute of Technology, Genoa
 - [Raffaele Rialdi](https://www.ugidotnet.org/autore/4991/Raffaele-Rialdi), Vevy Europe, DotNetLiguria, Genoa
 - [Luca Demetrio](https://www.saiferlab.ai/people/lucademetrio), University of Genoa
@@ -80,13 +82,12 @@ We also ask you to please let us know if you will be printing the poster yoursel
 Reimbursement for printing costs will be guaranteed for expenses **up to 20 euros**, upon presentation of the **receipt**, stating clearly that you paid for printing an A0 poster, so please be sure to ask for it to the printing service you use.
 
 ## Competitive Debate
-The afternoon of the first day will feature a competitive debate.
+The afternoon of the first day will feature the final competitive debate session of the AUK Part 1 (Soft Skills).
 The debate teams will be composed of Master’s students in Computer Science who have registered for the acquisition of AUK credits.
 The debate will be evaluated by a jury composed of a PhD student, a professor, and a researcher, who will assess the clarity, coherence, and depth of the arguments presented.
 
 Participants will be added to a dedicated Microsoft Teams channel, where all logistical information, preparation materials, and the official debate protocol (rules) will be shared.
-A coaching session will take place in advance to support students in preparing for the event.
-The topic of the debate will be announced in advance, allowing students to prepare their arguments and positions.
+An introduction to debating will be provided on the **18th of May, 2:30 PM**. During that meeting, we will also provide the debate topica and some initial material on that, although students will be encouraged to look for their own.
 
 # Program
 This year’s edition of the Computer Science Workshop will take place over the course of two full days: Thursday, May 28, and Friday, May 29.
@@ -98,28 +99,28 @@ A variety of sessions and formats will follow one another throughout the event, 
 ### Registration
 - **Start time:** 9:30 AM
 - **Duration:** 30 minutes
-- **Location:** Room 323 (corridor), 3rd floor
+- **Location:** Room 322 (corridor), 3rd floor
 
 A registration booth will be arranged at the 3rd floor. There will be a registration desk where you can pick up your badge.
 
 ### Welcome
 - **Start time:** 9:45 AM
 - **Duration:** 15 minutes
-- **Location:** Room 323 (conference room), 3rd floor
+- **Location:** Room 322, 3rd floor
 
 Welcome and introduction to the CSW. The DoCS team will also present themselves and their activities.
 
 ### DIBRIS PhD programs presentation
 - **Start time:** 10:00 AM
 - **Duration:** 15 minutes
-- **Location:** Room 323 (conference room), 3rd floor
+- **Location:** Room 322, 3rd floor
 
 Prof. Giorgio Delzanno will present the DIBRIS PhD programs, with a particular focus on the Computer Science and Systems Engineering PhD one, and the opportunities it offers to students.
 
 ### Keynote - _TBD_ by __Raffaele Rialdi__
 - **Start time:** 10:15 AM
 - **Duration:** 1 hour + 30 minutes for open discussion
-- **Location:** Room 322 (conference room), 3rd floor
+- **Location:** Room 322, 3rd floor
 
 #### Abstract
 TBD
@@ -138,7 +139,7 @@ He is also the president of the DotNetLiguria community, through which he organi
 ### Panel - _Getting Your PhD: What We Learned Along the Way_ by __Luca Demetrio__ and __Andrea Valenza__
 - **Start time:** 12:15 PM
 - **Duration:** 45 minutes
-- **Location:** Room 323 (conference room), 3rd floor
+- **Location:** Room 322, 3rd floor
 
 After the panel and before the lunch break, PhD students having a poster in Poster Session 1 will give a flash presentation of their work, to encourage participants to attend the poster session and interact with them during lunch.
 
@@ -147,9 +148,10 @@ TBD
 
 #### Panelists' bios
 ##### Luca Demetrio
-<img src="https://rubrica.unige.it/static/foto/VkRBWF1p.jpg" style="display: block; max-height: 150px;">
-TBD
-
+<img src="/assets/images/people/CSW26/demetrio.jpg" style="display: block; max-height: 150px;">
+Luca Demetrio is Assistant Professor (tenure-track) at the University of Genoa.
+During his Ph.D. (concluded in 2021) he produced seminal techniques and software libraries to conduct security evaluations of AI-based Windows anti-malware programs, widely used by the community.
+He is currently studying the reliability of machine learning in cybersecurity contexts, where deployed AI technologies must be accurate in flagging potential threats, while also being robust against adversarial attacks.
 
 ##### Andrea Valenza
 <img src="/assets/images/people/avatar.png" style="display: block; max-height: 150px;">
@@ -163,7 +165,7 @@ TBD
 ### Competitive Debate - TBD
 - **Start time:** 2:30 PM
 - **Duration:** 1 hour and 15 minutes
-- **Location:** Room 323, 3rd floor
+- **Location:** Room 322, 3rd floor
 
 Master's students will engage in a competitive debate focused on _Topic TBD_.
 Two teams of students will compete, adhering to a specific protocol, each defending distinct positions on a particular motion related to _TBD_.
@@ -179,7 +181,7 @@ After the formal debate is over, the audience will have the opportunity to inter
 ### Keynote - _TBD_ by __Emanuele Rodolà__
 - **Start time:** 4:15 PM
 - **Duration:** 1 hour
-- **Location:** Room 323 (conference room), 3rd floor
+- **Location:** Room 322, 3rd floor
 
 #### Abstract
 TBD
@@ -191,7 +193,7 @@ TBD
 ### End of Day
 - **Start time:** 5:15 PM
 - **Duration:** 15 minutes
-- **Location:** Room 323 (conference room), 3rd floor
+- **Location:** Room 322, 3rd floor
 
 Final remarks and thanks. This is the moment when team roles for Friday’s activity will be announced.
 
@@ -200,28 +202,39 @@ Final remarks and thanks. This is the moment when team roles for Friday’s acti
 ### Registration
 - **Start time:** 9:30 AM
 - **Duration:** 30 minutes
-- **Location:** Room 323 (corridor), 3rd floor
+- **Location:** Room 322 (corridor), 3rd floor
 
 A registration booth will be arranged at the 3rd floor. There will be a registration desk where you can pick up your badge.
 
 ### Welcome
 - **Start time:** 9:45 AM
 - **Duration:** 15 minutes
-- **Location:** Room 323 (conference room), 3rd floor
+- **Location:** Room 322, 3rd floor
 
 Welcome and introduction to the second day. The DoCS team will also present themselves and their activities.
 
-### Keynote - _TBD_ by __Alessandra Sciutti__
+### Keynote - _Toward a Cognitive Architecture for Adaptive Human–Robot Interaction_ by __Alessandra Sciutti__
 - **Start time:** 10:00 AM
 - **Duration:** 1 hour and 15 minutes
-- **Location:** Room 323 (conference room), 3rd floor
+- **Location:** Room 322, 3rd floor
 
 #### Abstract
-TBD
+Effective human–robot collaboration requires more than high task performance; it depends on alignment between human and robotic cognition.
+Human interaction relies heavily on non-verbal cues such as gaze, motion dynamics, and timing to support anticipation and coordination.
+Drawing on these principles, robotic systems can be designed to perceive and express meaning in ways that are compatible with human expectations.
+Embedding embodied interaction mechanisms within cognitive architectures grounded in memory and motivation enables robots to adapt to different partners and contexts over time.
+Bio-inspired approaches that integrate perception, action, memory, motivation, and prospection support learning from experience, anticipating others’ behavior, and generating socially meaningful responses.
+This perspective moves human–robot interaction beyond reactive control toward adaptive, cognitively grounded collaboration, contributing to robots that can co-adapt with humans through shared experience and operate as intuitive and trustworthy partners.
 
 #### Alessandra's bio
-<img src="/assets/images/people/avatar.png" style="display: block; max-height: 150px;">
-TBD
+<img src="/assets/images/people/CSW26/sciutti.jpg" style="display: block; max-height: 150px;">
+Alessandra Sciutti is a Senior Tenure Track Researcher and head of the CONTACT (COgNiTive Architecture for Collaborative Technologies) Unit of the Italian Institute of Technology (IIT).
+She received her B.S. and M.S. degrees in Bioengineering and her Ph.D. in Humanoid Technologies from the University of Genova in 2010.
+After two research periods in the USA and Japan, in 2018, she was awarded the ERC Starting Grant wHiSPER (www.whisperproject.eu), focused on the investigation of joint perception between humans and robots.
+She has published more than 100 papers and abstracts in international journals and conferences, coordinates the ERC POC Project ARIEL (Assessing Children Manipulation and Exploration Skills), and has participated in the coordination of the CODEFROR European IRSES project (https://www.codefror.eu/).
+She is currently Chief Editor of the HRI Section of Frontiers in Robotics and AI and Associate Editor for several journals, including the International Journal of Social Robotics and Cognitive System Research.
+She is an ELLIS scholar and the corresponding co-chair of the IEEE RAS Technical Committee for Cognitive Robotics.
+Her research aims to investigate the sensory and motor mechanisms underlying mutual understanding in human-human and human-robot interaction.
 
 ### Coffee Break (catered)
 - **Start time:** 11:15 AM
@@ -231,7 +244,7 @@ TBD
 ### Keynote - _TBD_ by __TBD__
 - **Start time:** 11:45 AM
 - **Duration:** 1 hour and 15 minutes
-- **Location:** Room 323 (conference room), 3rd floor
+- **Location:** Room 322, 3rd floor
 
 After the keynote and before the lunch break, PhD students having a poster in Poster Session 2 will give a flash presentation of their work, to encourage participants to attend the poster session and interact with them during lunch.
 
@@ -247,17 +260,27 @@ TBD
 - **Duration:** 1 hour and 30 minutes
 - **Location:** Room 210, 2nd floor
 
-### Keynote - _TBD_ by __Claudio Pacchierotti__
+### Keynote - _Cutaneous Haptics for Human-centered Robotics and Immersive Realities_ by __Claudio Pacchierotti__
 - **Start time:** 2:30 PM
 - **Duration:** 1 hour and 15 minutes
-- **Location:** Room 323 (conference room), 3rd floor
+- **Location:** Room 322, 3rd floor
 
 #### Abstract
-TBD
+As robotics advances into more integrated human-centered applications, haptic feedback plays a crucial role in connecting humans and robots seamlessly.
+While force feedback has traditionally played a crucial role, this presentation explores the untapped potential of cutaneous haptics to create more natural, richer, and safer interactions in human-centered robotics.
+Dr. Pacchierotti will share his contributions to this field, discussing the role of cutaneous and kinesthetic haptics in human-machine interaction, presenting the design of innovative cutaneous haptic interfaces and rendering techniques, along with their application in human-centered robotics and immersive environments.
+Emphasizing a holistic and multi-modal approach to haptic feedback, this talk aims to inspire researchers and engineers to explore cutaneous haptics for developing the next generation of sensory human-robot interfaces.
+The presentation concludes by addressing the scientific and technological challenges in this evolving field.
 
 #### Claudio's bio
-<img src="/assets/images/people/avatar.png" style="display: block; max-height: 150px;">
-TBD
+<img src="/assets/images/people/CSW26/pacchierotti.jpg" style="display: block; max-height: 150px;">
+Claudio Pacchierotti is a tenured researcher at CNRS-IRISA in Rennes, France, since 2016.
+He was previously a postdoctoral researcher at the Italian Institute of Technology, Genova, Italy.
+Pacchierotti earned his PhD at the University of Siena in 2014.
+He was Visiting Researcher at the University of Pennsylvania in 2014, at the University of Padua in 2013, at the University of Twente in 2014, at the Sapienza University of Rome in 2022, and at the University of Siena in 2026.
+Pacchierotti received the 2014 EuroHaptics Best PhD Thesis Award and the 2022 CNRS Bronze Medal.
+He currently serves as Associate Vice President of the IEEE RAS Technical Activities Board (TAB).
+He is also Co-Chair of the IEEE Technical Committee on Telerobotics, Secretary of the Eurohaptics Society, and Associate Editor for IEEE Trans. Haptics, IEEE Trans. Robotics, and the Intl. J. Robotics Research.
 
 ### Coffee Break (catered)
 - **Start time:** 3:45 PM
@@ -267,7 +290,7 @@ TBD
 ### Panel - _So... What Now? A Postdoc Panel_ by __Ulderico Fugacci__ and __Luca Franceschini__
 - **Start time:** 4:15 PM
 - **Duration:** 45 minutes
-- **Location:** Room 323 (conference room), 3rd floor
+- **Location:** Room 322, 3rd floor
 
 #### Abstract
 TBD
@@ -279,13 +302,16 @@ TBD
 
 
 ##### Luca Franceschini
-<img src="/assets/images/people/avatar.png" style="display: block; max-height: 150px;">
-TBD
+<img src="/assets/images/people/CSW26/franceschini.jpg" style="display: block; max-height: 150px;">
+Luca Franceschini is currently a Software Engineer at Esaote, a medical diagnostic systems manufacturer, working in the ultrasound imaging R&D department.
+He previously worked as a software development consultant, and contributed to the early stage of an agritech startup.
+Luca completed his PhD in Computer Science at the University of Genoa in 2021, focusing on programming languages and software analysis and verification.
+In his thesis he proposed and implemented RML, a system agnostic domain specific language for runtime monitoring and verification.
 
 ### End of Day
 - **Start time:** 5:00 PM
 - **Duration:** 15 minutes
-- **Location:** Room 323 (conference room), 3rd floor
+- **Location:** Room 322, 3rd floor
 
 Final remarks and thanks.
 
@@ -296,13 +322,12 @@ You can register by clicking on the button under the CSW logo at the top of the 
 Lunch and coffee breaks will be offered to all participants.
 
 ## Additional Useful Knowledge (AUK) credits for Master Students
-TBD
-{% comment %}
-This year’s edition has also been designed with a special focus on Master's students, with the goal of bringing them closer to the world of research—both in general and with particular attention to the work carried out by the department’s research groups, faculty members, and PhD students.
+As for past year's edition, this edition has also been designed with a special focus on Master's students, with the goal of bringing them closer to the world of research—both in general and with particular attention to the work carried out by the department’s research groups, faculty members, and PhD students.
 
-To this end, students whose study plan includes the acquisition of AUK credits will be eligible to receive 2 AUK credits for participating in the event.
+To this end, students attending the DSE Curriculum will be eligible to receive AUK credist. In particular
+- **AUK Part 1** credits (_Soft Skills_) for participating to the competitive debate. In order to obtain the credits, **you must register on the [dedicated form][auk_part1] on the [AUK Aulaweb module][auk_registration_url]** in addition to the regular CSW registration.
+- **AUK Part 2** credits (_Scientific Activity_) for participating in the event. Students will be required to demonstrate their attendance, and credits will be awarded only to those who attend all activities on both days.
 
-Students will be required to demonstrate their attendance, and credits will be awarded only to those who attend all activities, with the exception of at most one session. Participation in the debate is mandatory.
+After the event, eligible students will be notified regarding the proper registration of the acquired credits.
 
-After the event, eligible students will be notified via email regarding the proper registration of the acquired credits.
-{% endcomment %}
+In case of any doubt or question regarding the AUK credits, please do not hesitate to contact the professors of the AUK committee.
