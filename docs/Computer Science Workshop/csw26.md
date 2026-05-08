@@ -154,8 +154,11 @@ During his Ph.D. (concluded in 2021) he produced seminal techniques and software
 He is currently studying the reliability of machine learning in cybersecurity contexts, where deployed AI technologies must be accurate in flagging potential threats, while also being robust against adversarial attacks.
 
 ##### Andrea Valenza
-<img src="/assets/images/people/avatar.png" style="display: block; max-height: 150px;">
-TBD
+<img src="/assets/images/people/CSW26/valenza.jpg" style="display: block; max-height: 150px;">
+Andrea Valenza is a Security Engineer at Prima Assicurazioni, focused on Agentic AI Security, Application Security, and Incident Response.
+He previously worked at IMQ Minded Security as a Security Consultant and Trainer, delivering security assessments and training on critical banking applications.
+He holds a PhD in Computer Security from the University of Genoa (2021), with research on counter-attacking security scanners (notably Metasploit Pro) and bypassing ML-based web application firewalls.
+He co-founded the ZenHack CTF team.
 
 ### Lunch (catered) + Poster Session 1
 - **Start time:** 1:00 PM
