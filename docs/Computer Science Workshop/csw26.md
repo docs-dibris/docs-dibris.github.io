@@ -192,8 +192,14 @@ Instead of building bigger black boxes, we'll look at how we can repurpose and s
 This approach has the potential to make AI more sustainable, democratize research, and ensure that human scientists stay central to the process of creating and verifying knowledge.
 
 #### Emanuele's bio
-<img src="/assets/images/people/avatar.png" style="display: block; max-height: 150px;">
-TBD
+<img src="/assets/images/people/CSW26/rodola.jpg" style="display: block; max-height: 150px;">
+Emanuele Rodolà is a Full Professor of Computer Science at Sapienza University of Rome, where he leads the GLADIA group on AI.
+His work in this field has been supported by an ERC grant, a FIS grant, and a Google Research Award among others.
+In the past, he was a postdoctoral researcher at USI Lugano (2016–2017), a Humboldt Fellow at TU Munich (2013–2016), and a JSPS Fellow at the University of Tokyo (2013), in addition to visiting periods at Tel Aviv University, Technion, École Polytechnique, and Stanford.
+He is a fellow of ELLIS and a fellow of the Young Academy of Europe.
+Professor Rodolà has received numerous awards for his research and plays an active role in the academic community, serving on program committees and as Area Chair for major conferences in AI and ML.
+His current research focuses primarily on neural model fusion, representation learning, language models, ML for audio, and multimodal learning, with around 200 publications in these areas.
+His work has been featured in media outlets including Fortune, Wired, RAI, and Internazionale.
 
 ### End of Day
 - **Start time:** 5:15 PM
