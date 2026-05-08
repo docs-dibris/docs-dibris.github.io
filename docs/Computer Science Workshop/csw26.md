@@ -178,13 +178,18 @@ After the formal debate is over, the audience will have the opportunity to inter
 - **Duration:** 30 minutes
 - **Location:** Room 326, 3rd floor
 
-### Keynote - _TBD_ by __Emanuele Rodolà__
+### Keynote - _Science at Scale Without Scaling Up_ by __Emanuele Rodolà__
 - **Start time:** 4:15 PM
 - **Duration:** 1 hour
 - **Location:** Room 322, 3rd floor
 
 #### Abstract
-TBD
+Scientific discovery is moving at a pace that is increasingly hard to track.
+While we have looked to AI to manage this information explosion, current "artificial scientist" models are running into serious technical and ethical barriers.
+The dominant trend of scaling up has become too expensive and environmentally costly, creating a divide that favors only the most resource-rich institutions.
+This presentation is going to propose a different path: interoperable machine learning.
+Instead of building bigger black boxes, we'll look at how we can repurpose and stitch together existing models.
+This approach has the potential to make AI more sustainable, democratize research, and ensure that human scientists stay central to the process of creating and verifying knowledge.
 
 #### Emanuele's bio
 <img src="/assets/images/people/avatar.png" style="display: block; max-height: 150px;">
