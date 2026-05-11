@@ -144,7 +144,10 @@ He is also the president of the DotNetLiguria community, through which he organi
 After the panel and before the lunch break, PhD students having a poster in Poster Session 1 will give a flash presentation of their work, to encourage participants to attend the poster session and interact with them during lunch.
 
 #### Abstract
-TBD
+This panel features two alumni of our department, Luca and Andrea, who will share their doctoral experiences and insights.
+They will discuss their motivations for pursuing a PhD, challenges encountered during their studies, and whether they would make the same choice again.
+Luca has pursued a career in academia, while Andrea has transitioned to industry, allowing them to offer contrasting perspectives on how doctoral training has shaped their professional paths.
+They will also welcome questions, curiosities, and concerns from the audience, providing an interactive opportunity for prospective doctoral students to engage directly with their experiences.
 
 #### Panelists' bios
 ##### Luca Demetrio
@@ -307,7 +310,11 @@ He is also Co-Chair of the IEEE Technical Committee on Telerobotics, Secretary o
 - **Location:** Room 322, 3rd floor
 
 #### Abstract
-TBD
+This panel brings together Ulderico and Luca to discuss the critical transition from doctoral studies to the next career stage.
+With one panelist continuing in research and the other moving into industry, they offer complementary perspectives on navigating the postdoctoral phase and beyond.
+They will explore key questions: Is a postdoc the right choice? What skills and experiences matter most for different career paths? How do you make informed decisions about your professional future?
+Through their contrasting trajectories, Ulderico and Luca will provide practical guidance on evaluating opportunities, building networks, and planning a successful transition.
+Aimed at PhD students facing these pivotal decisions, this interactive session invites questions and discussion to help you chart your own path forward.
 
 #### Panelists' bios
 ##### Ulderico Fugacci
