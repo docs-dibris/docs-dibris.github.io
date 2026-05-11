@@ -34,7 +34,6 @@ nav_order: 7
 <br>
 
 # Flyer
-TBD
 <div style="display: flex; justify-content: center; align-items: center; margin: 20px 0;">
     <a href="/assets/fliers/2026.png">
         <img src="/assets/fliers/2026.png" style="width: 500px; height: auto;">
