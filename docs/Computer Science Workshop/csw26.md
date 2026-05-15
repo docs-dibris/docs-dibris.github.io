@@ -34,12 +34,11 @@ nav_order: 7
 <br>
 
 # Flyer
-TBD
-<!--<div style="display: flex; justify-content: center; align-items: center; margin: 20px 0;">
-    <a href="/assets/fliers/2025.png">
-        <img src="/assets/fliers/2025.png" style="width: 500px; height: auto;">
+<div style="display: flex; justify-content: center; align-items: center; margin: 20px 0;">
+    <a href="/assets/fliers/2026.png">
+        <img src="/assets/fliers/2026.png" style="width: 500px; height: auto;">
     </a>
-</div>-->
+</div>
 
 ## Motivation and goals
 The DoCS group is pleased to announce the seventh edition of the Computer Science Workshop (CSW), taking place May 28–29 at the Valletta Puggia building (DIBRIS department, University of Genoa).
@@ -144,7 +143,10 @@ He is also the president of the DotNetLiguria community, through which he organi
 After the panel and before the lunch break, PhD students having a poster in Poster Session 1 will give a flash presentation of their work, to encourage participants to attend the poster session and interact with them during lunch.
 
 #### Abstract
-TBD
+This panel features two alumni of our department, Luca and Andrea, who will share their doctoral experiences and insights.
+They will discuss their motivations for pursuing a PhD, challenges encountered during their studies, and whether they would make the same choice again.
+Luca has pursued a career in academia, while Andrea has transitioned to industry, allowing them to offer contrasting perspectives on how doctoral training has shaped their professional paths.
+They will also welcome questions, curiosities, and concerns from the audience, providing an interactive opportunity for prospective doctoral students to engage directly with their experiences.
 
 #### Panelists' bios
 ##### Luca Demetrio
@@ -154,8 +156,11 @@ During his Ph.D. (concluded in 2021) he produced seminal techniques and software
 He is currently studying the reliability of machine learning in cybersecurity contexts, where deployed AI technologies must be accurate in flagging potential threats, while also being robust against adversarial attacks.
 
 ##### Andrea Valenza
-<img src="/assets/images/people/avatar.png" style="display: block; max-height: 150px;">
-TBD
+<img src="/assets/images/people/CSW26/valenza.jpg" style="display: block; max-height: 150px;">
+Andrea Valenza is a Security Engineer at Prima Assicurazioni, focused on Agentic AI Security, Application Security, and Incident Response.
+He previously worked at IMQ Minded Security as a Security Consultant and Trainer, delivering security assessments and training on critical banking applications.
+He holds a PhD in Computer Security from the University of Genoa (2021), with research on counter-attacking security scanners (notably Metasploit Pro) and bypassing ML-based web application firewalls.
+He co-founded the ZenHack CTF team.
 
 ### Lunch (catered) + Poster Session 1
 - **Start time:** 1:00 PM
@@ -178,17 +183,28 @@ After the formal debate is over, the audience will have the opportunity to inter
 - **Duration:** 30 minutes
 - **Location:** Room 326, 3rd floor
 
-### Keynote - _TBD_ by __Emanuele Rodolà__
+### Keynote - _Science at Scale Without Scaling Up_ by __Emanuele Rodolà__
 - **Start time:** 4:15 PM
 - **Duration:** 1 hour
 - **Location:** Room 322, 3rd floor
 
 #### Abstract
-TBD
+Scientific discovery is moving at a pace that is increasingly hard to track.
+While we have looked to AI to manage this information explosion, current "artificial scientist" models are running into serious technical and ethical barriers.
+The dominant trend of scaling up has become too expensive and environmentally costly, creating a divide that favors only the most resource-rich institutions.
+This presentation is going to propose a different path: interoperable machine learning.
+Instead of building bigger black boxes, we'll look at how we can repurpose and stitch together existing models.
+This approach has the potential to make AI more sustainable, democratize research, and ensure that human scientists stay central to the process of creating and verifying knowledge.
 
 #### Emanuele's bio
-<img src="/assets/images/people/avatar.png" style="display: block; max-height: 150px;">
-TBD
+<img src="/assets/images/people/CSW26/rodola.jpg" style="display: block; max-height: 150px;">
+Emanuele Rodolà is a Full Professor of Computer Science at Sapienza University of Rome, where he leads the GLADIA group on AI.
+His work in this field has been supported by an ERC grant, a FIS grant, and a Google Research Award among others.
+In the past, he was a postdoctoral researcher at USI Lugano (2016–2017), a Humboldt Fellow at TU Munich (2013–2016), and a JSPS Fellow at the University of Tokyo (2013), in addition to visiting periods at Tel Aviv University, Technion, École Polytechnique, and Stanford.
+He is a fellow of ELLIS and a fellow of the Young Academy of Europe.
+Professor Rodolà has received numerous awards for his research and plays an active role in the academic community, serving on program committees and as Area Chair for major conferences in AI and ML.
+His current research focuses primarily on neural model fusion, representation learning, language models, ML for audio, and multimodal learning, with around 200 publications in these areas.
+His work has been featured in media outlets including Fortune, Wired, RAI, and Internazionale.
 
 ### End of Day
 - **Start time:** 5:15 PM
@@ -293,12 +309,19 @@ He is also Co-Chair of the IEEE Technical Committee on Telerobotics, Secretary o
 - **Location:** Room 322, 3rd floor
 
 #### Abstract
-TBD
+This panel brings together Ulderico and Luca to discuss the critical transition from doctoral studies to the next career stage.
+With one panelist continuing in research and the other moving into industry, they offer complementary perspectives on navigating the postdoctoral phase and beyond.
+They will explore key questions: Is a postdoc the right choice? What skills and experiences matter most for different career paths? How do you make informed decisions about your professional future?
+Through their contrasting trajectories, Ulderico and Luca will provide practical guidance on evaluating opportunities, building networks, and planning a successful transition.
+Aimed at PhD students facing these pivotal decisions, this interactive session invites questions and discussion to help you chart your own path forward.
 
 #### Panelists' bios
 ##### Ulderico Fugacci
-<img src="/assets/images/people/avatar.png" style="display: block; max-height: 150px;">
-TBD
+<img src="/assets/images/people/CSW26/fugacci.jpg" style="display: block; max-height: 150px;">
+Ulderico Fugacci is a researcher at the Institute for Applied Mathematics and Information Technologies “Enrico Magenes” (IMATI) of the National Research Council (CNR), Italy.
+He earned his Master’s Degree in Mathematics from the University of Genova in 2012 and a Ph.D. in Computer Science from the same university in 2016, under the supervision of Prof. Leila De Floriani and Prof. Maria Evelina Rossi.
+Following his Ph.D., he held several postdoctoral positions, including at the University of Maryland, the University of Kaiserslautern, Graz University of Technology, and the Polytechnic University of Torino.
+His research focuses on Topological Data Analysis, at the intersection of applied mathematics, computer science, and data analysis.
 
 
 ##### Luca Franceschini
