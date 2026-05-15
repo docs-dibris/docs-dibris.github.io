@@ -90,11 +90,7 @@ This schedule is subject to changes. If you see typos or cannot be present on yo
         <td>Watermarking LLM: Why, How and Generated Future</td>
     </tr>
     <tr>
-<<<<<<< HEAD
         <td rowspan="2"><a href="/assets/seminar-flyers/seminar_26/seminar_6.pdf" download>download</a></td>
-=======
-        <td rowspan="2"></td>
->>>>>>> d037b62cb0b048f338dc98495bc163448d18d704
         <td rowspan="2">Tue 19 May<br>14:30-15:30<br>Room 215</td>
         <td>Massimiliano Ciranni</td>
         <td>Discovering and Mitigating Bias in Deep Image Classifiers</td> <!-- changed -->
@@ -107,10 +103,6 @@ This schedule is subject to changes. If you see typos or cannot be present on yo
         <td rowspan="1"></td>
         <td rowspan="1">Tue 26 May<br>14:30-15:00<br>Room 214</td>
         <td>TBA</td>
-<<<<<<< HEAD
-=======
-        <td>TBA</td>
->>>>>>> d037b62cb0b048f338dc98495bc163448d18d704
     </tr> -->
     <!-- Jun -->
     <tr>
@@ -182,20 +174,12 @@ This schedule is subject to changes. If you see typos or cannot be present on yo
     </tr>
     <tr>
         <td rowspan="2"></td>
-<<<<<<< HEAD
-        <td rowspan="2">Tue 28 July<br>14:30-15:00<br>Room 214</td>
-=======
         <td rowspan="2">Tue 28 July<br>14:30-15:30<br>Room 214</td>
->>>>>>> d037b62cb0b048f338dc98495bc163448d18d704
         <td>Arnaud Francois D Ruymaekers</td>
         <td>TBA</td>
     </tr>
     <tr>
-<<<<<<< HEAD
         <td>Alek Frohlich</td>
-=======
-        <td>Alek Fröhlich</td>
->>>>>>> d037b62cb0b048f338dc98495bc163448d18d704
         <td>TBA</td>
     </tr>
     <!-- Sep -->
