@@ -90,21 +90,21 @@ This schedule is subject to changes. If you see typos or cannot be present on yo
         <td>Watermarking LLM: Why, How and Generated Future</td>
     </tr>
     <tr>
-        <td rowspan="2"></td>
-        <td rowspan="2">Tue 19 May<br>14:30-15:30<br>Room 214</td>
+        <td rowspan="2"><a href="/assets/seminar-flyers/seminar_26/seminar_6.pdf" download>download</a></td>
+        <td rowspan="2">Tue 19 May<br>14:30-15:30<br>Room 215</td>
         <td>Massimiliano Ciranni</td>
-        <td>TBA</td> <!-- changed -->
+        <td>Discovering and Mitigating Bias in Deep Image Classifiers</td> <!-- changed -->
     </tr>
     <tr>
         <td>Giampiero Granatella</td>
-        <td>TBA</td> <!-- confirmed -->
+        <td>Continuous Talent Intelligence: A DevOps-Inspired Knowledge Graph and RAG Architecture for Real-Time Competency Management</td> <!-- confirmed -->
     </tr>
-    <tr>
+    <!-- <tr>
         <td rowspan="1"></td>
         <td rowspan="1">Tue 26 May<br>14:30-15:00<br>Room 214</td>
         <td>Alek Fröhlich</td>
         <td>TBA</td>
-    </tr>
+    </tr> -->
     <!-- Jun -->
     <tr>
         <td rowspan="1"></td>
@@ -174,9 +174,13 @@ This schedule is subject to changes. If you see typos or cannot be present on yo
         <td>TBA</td>
     </tr>
     <tr>
-        <td rowspan="1"></td>
-        <td rowspan="1">Tue 28 July<br>14:30-15:00<br>Room 214</td>
+        <td rowspan="2"></td>
+        <td rowspan="2">Tue 28 July<br>14:30-15:00<br>Room 214</td>
         <td>Arnaud Francois D Ruymaekers</td>
+        <td>TBA</td>
+    </tr>
+    <tr>
+        <td>Alek Frohlich</td>
         <td>TBA</td>
     </tr>
     <!-- Sep -->
