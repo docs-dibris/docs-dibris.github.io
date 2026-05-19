@@ -55,6 +55,7 @@ This year's edition will feature activities delivered by distinguished speakers:
 - [Claudio Pacchierotti](https://team.inria.fr/rainbow/team/claudio-pacchierotti/), Centre National de la Recherche Scientifique, Rennes
 - [Alessandra Sciutti](https://www.iit.it/it/people-profile/-/people/alessandra-sciutti), Italian Institute of Technology, Genoa
 - [Raffaele Rialdi](https://www.ugidotnet.org/autore/4991/Raffaele-Rialdi), Vevy Europe, DotNetLiguria, Genoa
+- [Greta Coraglia](https://etagreta.github.io/), MIRAI, Milan
 - [Luca Demetrio](https://www.saiferlab.ai/people/lucademetrio), University of Genoa
 - [Luca Franceschini](https://www.linkedin.com/in/luca-franceschini-phd/), Esaote, Genoa
 - [Ulderico Fugacci](https://fugacci.github.io/home/), National Research Council, Genoa
