@@ -258,7 +258,7 @@ Her research aims to investigate the sensory and motor mechanisms underlying mut
 - **Duration:** 30 minutes
 - **Location:** Room 326, 3rd floor
 
-### Keynote - _Greta Coraglia_ by __TBD__
+### Keynote - _TBD_ by __Greta Coraglia__
 - **Start time:** 11:45 AM
 - **Duration:** 1 hour and 15 minutes
 - **Location:** Room 322, 3rd floor
