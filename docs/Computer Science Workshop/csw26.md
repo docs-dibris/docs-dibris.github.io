@@ -117,13 +117,14 @@ Welcome and introduction to the CSW. The DoCS team will also present themselves 
 
 Prof. Giorgio Delzanno will present the DIBRIS PhD programs, with a particular focus on the Computer Science and Systems Engineering PhD one, and the opportunities it offers to students.
 
-### Keynote - _TBD_ by __Raffaele Rialdi__
+### Keynote - _Beyond hand-coding: generative AI is reshaping the Software Engineering Stack_ by __Raffaele Rialdi__
 - **Start time:** 10:15 AM
 - **Duration:** 1 hour + 30 minutes for open discussion
 - **Location:** Room 322, 3rd floor
 
 #### Abstract
-TBD
+In 2026, generative AI and agentic architectures have brought software development to a qualitatively new level, enabling the transformation of natural language specifications into working code while agentic pipelines independently review correctness, validate logic, and surface security vulnerabilities. 
+While this remains only an initial step toward automation across several other disciplines, the real challenge is now to figure out how humans can lead the orchestration role rather than _vibe_ functionalities as if rubbing an Aladdin lamp.
 
 #### Raffaele's bio
 <img src="/assets/images/people/CSW26/rialdi.jpg" style="display: block; max-height: 150px;">
