@@ -311,10 +311,10 @@ He is also Co-Chair of the IEEE Technical Committee on Telerobotics, Secretary o
 - **Location:** Room 322, 3rd floor
 
 #### Abstract
-This panel brings together Ulderico and Luca to discuss the critical transition from doctoral studies to the next career stage.
-With one panelist continuing in research and the other moving into industry, they offer complementary perspectives on navigating the postdoctoral phase and beyond.
-They will explore key questions: Is a postdoc the right choice? What skills and experiences matter most for different career paths? How do you make informed decisions about your professional future?
-Through their contrasting trajectories, Ulderico and Luca will provide practical guidance on evaluating opportunities, building networks, and planning a successful transition.
+This panel brings together Ulderico and Luca to discuss the critical transition from doctoral studies to the next career stage. 
+With one panelist continuing in research and the other moving into industry, they offer complementary perspectives on navigating the postdoctoral phase and beyond. 
+They will explore key questions: how do you choose the right path after a PhD, whether in research or industry? What skills and experiences matter most for different careers? How do you make informed decisions about your professional future? 
+Through their contrasting trajectories, Ulderico and Luca will provide practical guidance on evaluating opportunities, building networks, and planning a successful transition. 
 Aimed at PhD students facing these pivotal decisions, this interactive session invites questions and discussion to help you chart your own path forward.
 
 #### Panelists' bios
