@@ -176,51 +176,51 @@ You will find the following posters:
     <th>Poster Title</th>
   </tr>
   <tr>
-    <td>Arici Irem</td>
+    <td>Irem Arici</td>
     <td>Modeling the Relationship Between Appraisals and Facial Expressions</td>
   </tr>
   <tr>
-    <td>Ataei Peiman</td>
+    <td>Peiman Ataei</td>
     <td>Autonomous Drone-Based Photovoltaic Inspection for Standardized Data Acquisition</td>
   </tr>
   <tr>
-    <td>Benfadhil Abdelmalik</td>
+    <td>Abdelmalik Benfadhil</td>
     <td>Stochastic Policies for Olfactory Search in POMDPs using Natural Actor-Critic</td>
   </tr>
   <tr>
-    <td>Bortolai Gabriele</td>
+    <td>Gabriele Bortolai</td>
     <td>Leveraging Smartphone Inertial Data for User Authentication</td>
   </tr>
   <tr>
-    <td>Ciranni Massimiliano</td>
+    <td>Massimiliano Ciranni</td>
     <td>Lose Your Self (LoYS): an adversarial entropy-based unsupervised approach for model debiasing</td>
   </tr>
   <tr>
-    <td>Gatti Andrea</td>
+    <td>Andrea Gatti</td>
     <td>VEsNA: Virtual Environments via Natural language Agents</td>
   </tr>
   <tr>
-    <td>Gerini Lorenzo</td>
+    <td>Lorenzo Gerini</td>
     <td>Immersive VR for the Assessment of Spatial Skills in Adolescents</td>
   </tr>
   <tr>
-    <td>Giusto Andrea</td>
+    <td>Andrea Giusto</td>
     <td>Dependent type theories for differentiable programming over manifolds</td>
   </tr>
   <tr>
-    <td>Granatella Giampiero</td>
+    <td>Giampiero Granatella</td>
     <td>Continuous Talent Intelligence: A DevOps-Inspired Knowledge Graph and RAG Architecture for Real-Time Competency Management</td>
   </tr>
   <tr>
-    <td>Monteverde Marco</td>
+    <td>Marco Monteverde</td>
     <td>Quantifying Impact and Innovation in Scientific Publications: A Structural–Semantic Framework Combining Co-authorship and Research Topics</td>
   </tr>
   <tr>
-    <td>Pignedoli Veronica</td>
+    <td>Veronica Pignedoli</td>
     <td>FRODO: 3D Classification of Paramagnetic Rim Lesions in Multiple Sclerosis via Asymmetric QSM-FLAIR Modeling</td>
   </tr>
   <tr>
-    <td>Pizzo Marianna</td>
+    <td>Marianna Pizzo</td>
     <td>ActivePaws: A Wearable-Controlled Exergame Platform for Pediatric Motor Rehabilitation</td>
   </tr>
 </table>
@@ -341,51 +341,51 @@ You will find the following posters:
     <th>Poster Title</th>
   </tr>
   <tr>
-    <td>Agostoni Sofia</td>
+    <td>Sofia Agostoni</td>
     <td>Automatic regularisation approaches for 2D/3D Image Scanning Microscopy (ISM)</td>
   </tr>
   <tr>
-    <td>Daoui Zahra</td>
+    <td>Zahra Daoui</td>
     <td>VEsNA with Region-Agnostic Reinforcement Learning for Interpretable BDI Navigation</td>
   </tr>
   <tr>
-    <td>De Filippis Andrea</td>
+    <td>Andrea De Filippis</td>
     <td>Semi-Immersive Virtual Reality System for Rehabilitation in Rett Syndrome</td>
   </tr>
   <tr>
-    <td>Di Via Roberto</td>
+    <td>Roberto Di Via</td>
     <td>CDPM-Align: Multi-Scale Guidance-Aligned Diffusion Pretraining for Robust Few-Shot Anatomical Landmark Detection</td>
   </tr>
   <tr>
-    <td>Fröhlich Alek, Rodrigues Perazzo Daniel</td>
+    <td>Alek Fröhlich, Daniel Rodrigues Perazzo</td>
     <td>Spectral Representation Learning for Conditional Independence Testing</td>
   </tr>
   <tr>
-    <td>Marchi Andrea</td>
+    <td>Andrea Marchi</td>
     <td>Finite State Controllers for Olfactory Navigation</td>
   </tr>
   <tr>
-    <td>Martini Matteo</td>
+    <td>Matteo Martini</td>
     <td>Avatar Exposure and Strategic Coordination in Virtual Reality - Recycling in Positano</td>
   </tr>
   <tr>
-    <td>Parodi Monica</td>
+    <td>Monica Parodi</td>
     <td>Context-Aware Computing and Precise GNSS for the Autonomy of Fragile Individuals</td>
   </tr>
   <tr>
-    <td>Roccatello Mattia</td>
+    <td>Mattia Roccatello</td>
     <td>Chromatin Signal Detection and Reconstruction techniques for SMLM Point Cloud Data</td>
   </tr>
   <tr>
-    <td>Romano Gabriele</td>
+    <td>Gabriele Romano</td>
     <td>Gathering Children's Affective Data through Embodied Technologies: Highs and Lows</td>
   </tr>
   <tr>
-    <td>Stanzani Ilaria</td>
+    <td>Ilaria Stanzani</td>
     <td>Sailing the Research Ocean: A Transparent Pipeline for Exploring NSF grants through Keyword-Based Visual Analytics</td>
   </tr>
   <tr>
-    <td>Vitale Giordano</td>
+    <td>Giordano Vitale</td>
     <td>Kernel methods through the sky: flying above the Falkon</td>
   </tr>
 </table>
