@@ -171,57 +171,57 @@ He co-founded the ZenHack CTF team.
 
 You will find the following posters:
 <table>
-  <tr style="background-color: #4472C4; color: white; font-weight: bold;">
-    <th style="border: 1px solid #000; padding: 12px; text-align: left;">Name</th>
-    <th style="border: 1px solid #000; padding: 12px; text-align: left;">Poster Title</th>
+  <tr>
+    <th>Name</th>
+    <th>Poster Title</th>
   </tr>
   <tr>
-    <td style="border: 1px solid #000; padding: 12px;">Arici Irem</td>
-    <td style="border: 1px solid #000; padding: 12px;">Modeling the Relationship Between Appraisals and Facial Expressions</td>
-  </tr>
-  <tr style="background-color: #F2F2F2;">
-    <td style="border: 1px solid #000; padding: 12px;">Ataei Peiman</td>
-    <td style="border: 1px solid #000; padding: 12px;">Autonomous Drone-Based Photovoltaic Inspection for Standardized Data Acquisition</td>
+    <td>Arici Irem</td>
+    <td>Modeling the Relationship Between Appraisals and Facial Expressions</td>
   </tr>
   <tr>
-    <td style="border: 1px solid #000; padding: 12px;">Benfadhil Abdelmalik</td>
-    <td style="border: 1px solid #000; padding: 12px;">Stochastic Policies for Olfactory Search in POMDPs using Natural Actor-Critic</td>
-  </tr>
-  <tr style="background-color: #F2F2F2;">
-    <td style="border: 1px solid #000; padding: 12px;">Bortolai Gabriele</td>
-    <td style="border: 1px solid #000; padding: 12px;">Leveraging Smartphone Inertial Data for User Authentication</td>
+    <td>Ataei Peiman</td>
+    <td>Autonomous Drone-Based Photovoltaic Inspection for Standardized Data Acquisition</td>
   </tr>
   <tr>
-    <td style="border: 1px solid #000; padding: 12px;">Ciranni Massimiliano</td>
-    <td style="border: 1px solid #000; padding: 12px;">Lose Your Self (LoYS): an adversarial entropy-based unsupervised approach for model debiasing</td>
-  </tr>
-  <tr style="background-color: #F2F2F2;">
-    <td style="border: 1px solid #000; padding: 12px;">Gatti Andrea</td>
-    <td style="border: 1px solid #000; padding: 12px;">VEsNA: Virtual Environments via Natural language Agents</td>
+    <td>Benfadhil Abdelmalik</td>
+    <td>Stochastic Policies for Olfactory Search in POMDPs using Natural Actor-Critic</td>
   </tr>
   <tr>
-    <td style="border: 1px solid #000; padding: 12px;">Gerini Lorenzo</td>
-    <td style="border: 1px solid #000; padding: 12px;">Immersive VR for the Assessment of Spatial Skills in Adolescents</td>
-  </tr>
-  <tr style="background-color: #F2F2F2;">
-    <td style="border: 1px solid #000; padding: 12px;">Giusto Andrea</td>
-    <td style="border: 1px solid #000; padding: 12px;">Dependent type theories for differentiable programming over manifolds</td>
+    <td>Bortolai Gabriele</td>
+    <td>Leveraging Smartphone Inertial Data for User Authentication</td>
   </tr>
   <tr>
-    <td style="border: 1px solid #000; padding: 12px;">Granatella Giampiero</td>
-    <td style="border: 1px solid #000; padding: 12px;">Continuous Talent Intelligence: A DevOps-Inspired Knowledge Graph and RAG Architecture for Real-Time Competency Management</td>
-  </tr>
-  <tr style="background-color: #F2F2F2;">
-    <td style="border: 1px solid #000; padding: 12px;">Monteverde Marco</td>
-    <td style="border: 1px solid #000; padding: 12px;">Quantifying Impact and Innovation in Scientific Publications: A Structural–Semantic Framework Combining Co-authorship and Research Topics</td>
+    <td>Ciranni Massimiliano</td>
+    <td>Lose Your Self (LoYS): an adversarial entropy-based unsupervised approach for model debiasing</td>
   </tr>
   <tr>
-    <td style="border: 1px solid #000; padding: 12px;">Pignedoli Veronica</td>
-    <td style="border: 1px solid #000; padding: 12px;">FRODO: 3D Classification of Paramagnetic Rim Lesions in Multiple Sclerosis via Asymmetric QSM-FLAIR Modeling</td>
+    <td>Gatti Andrea</td>
+    <td>VEsNA: Virtual Environments via Natural language Agents</td>
   </tr>
-  <tr style="background-color: #F2F2F2;">
-    <td style="border: 1px solid #000; padding: 12px;">Pizzo Marianna</td>
-    <td style="border: 1px solid #000; padding: 12px;">ActivePaws: A Wearable-Controlled Exergame Platform for Pediatric Motor Rehabilitation</td>
+  <tr>
+    <td>Gerini Lorenzo</td>
+    <td>Immersive VR for the Assessment of Spatial Skills in Adolescents</td>
+  </tr>
+  <tr>
+    <td>Giusto Andrea</td>
+    <td>Dependent type theories for differentiable programming over manifolds</td>
+  </tr>
+  <tr>
+    <td>Granatella Giampiero</td>
+    <td>Continuous Talent Intelligence: A DevOps-Inspired Knowledge Graph and RAG Architecture for Real-Time Competency Management</td>
+  </tr>
+  <tr>
+    <td>Monteverde Marco</td>
+    <td>Quantifying Impact and Innovation in Scientific Publications: A Structural–Semantic Framework Combining Co-authorship and Research Topics</td>
+  </tr>
+  <tr>
+    <td>Pignedoli Veronica</td>
+    <td>FRODO: 3D Classification of Paramagnetic Rim Lesions in Multiple Sclerosis via Asymmetric QSM-FLAIR Modeling</td>
+  </tr>
+  <tr>
+    <td>Pizzo Marianna</td>
+    <td>ActivePaws: A Wearable-Controlled Exergame Platform for Pediatric Motor Rehabilitation</td>
   </tr>
 </table>
 
@@ -336,57 +336,57 @@ TBD
 
 You will find the following posters:
 <table>
-  <tr style="background-color: #4472C4; color: white; font-weight: bold;">
-    <th style="border: 1px solid #000; padding: 12px; text-align: left;">Name</th>
-    <th style="border: 1px solid #000; padding: 12px; text-align: left;">Poster Title</th>
+  <tr>
+    <th>Name</th>
+    <th>Poster Title</th>
   </tr>
   <tr>
-    <td style="border: 1px solid #000; padding: 12px;">Agostoni Sofia</td>
-    <td style="border: 1px solid #000; padding: 12px;">Automatic regularisation approaches for 2D/3D Image Scanning Microscopy (ISM)</td>
-  </tr>
-  <tr style="background-color: #F2F2F2;">
-    <td style="border: 1px solid #000; padding: 12px;">Daoui Zahra</td>
-    <td style="border: 1px solid #000; padding: 12px;">VEsNA with Region-Agnostic Reinforcement Learning for Interpretable BDI Navigation</td>
+    <td>Agostoni Sofia</td>
+    <td>Automatic regularisation approaches for 2D/3D Image Scanning Microscopy (ISM)</td>
   </tr>
   <tr>
-    <td style="border: 1px solid #000; padding: 12px;">De Filippis Andrea</td>
-    <td style="border: 1px solid #000; padding: 12px;">Semi-Immersive Virtual Reality System for Rehabilitation in Rett Syndrome</td>
-  </tr>
-  <tr style="background-color: #F2F2F2;">
-    <td style="border: 1px solid #000; padding: 12px;">Di Via Roberto</td>
-    <td style="border: 1px solid #000; padding: 12px;">CDPM-Align: Multi-Scale Guidance-Aligned Diffusion Pretraining for Robust Few-Shot Anatomical Landmark Detection</td>
+    <td>Daoui Zahra</td>
+    <td>VEsNA with Region-Agnostic Reinforcement Learning for Interpretable BDI Navigation</td>
   </tr>
   <tr>
-    <td style="border: 1px solid #000; padding: 12px;">Fröhlich Alek, Rodrigues Perazzo Daniel</td>
-    <td style="border: 1px solid #000; padding: 12px;">Spectral Representation Learning for Conditional Independence Testing</td>
-  </tr>
-  <tr style="background-color: #F2F2F2;">
-    <td style="border: 1px solid #000; padding: 12px;">Marchi Andrea</td>
-    <td style="border: 1px solid #000; padding: 12px;">Finite State Controllers for Olfactory Navigation</td>
+    <td>De Filippis Andrea</td>
+    <td>Semi-Immersive Virtual Reality System for Rehabilitation in Rett Syndrome</td>
   </tr>
   <tr>
-    <td style="border: 1px solid #000; padding: 12px;">Martini Matteo</td>
-    <td style="border: 1px solid #000; padding: 12px;">Avatar Exposure and Strategic Coordination in Virtual Reality - Recycling in Positano</td>
-  </tr>
-  <tr style="background-color: #F2F2F2;">
-    <td style="border: 1px solid #000; padding: 12px;">Parodi Monica</td>
-    <td style="border: 1px solid #000; padding: 12px;">Context-Aware Computing and Precise GNSS for the Autonomy of Fragile Individuals</td>
+    <td>Di Via Roberto</td>
+    <td>CDPM-Align: Multi-Scale Guidance-Aligned Diffusion Pretraining for Robust Few-Shot Anatomical Landmark Detection</td>
   </tr>
   <tr>
-    <td style="border: 1px solid #000; padding: 12px;">Roccatello Mattia</td>
-    <td style="border: 1px solid #000; padding: 12px;">Chromatin Signal Detection and Reconstruction techniques for SMLM Point Cloud Data</td>
-  </tr>
-  <tr style="background-color: #F2F2F2;">
-    <td style="border: 1px solid #000; padding: 12px;">Romano Gabriele</td>
-    <td style="border: 1px solid #000; padding: 12px;">Gathering Children's Affective Data through Embodied Technologies: Highs and Lows</td>
+    <td>Fröhlich Alek, Rodrigues Perazzo Daniel</td>
+    <td>Spectral Representation Learning for Conditional Independence Testing</td>
   </tr>
   <tr>
-    <td style="border: 1px solid #000; padding: 12px;">Stanzani Ilaria</td>
-    <td style="border: 1px solid #000; padding: 12px;">Sailing the Research Ocean: A Transparent Pipeline for Exploring NSF grants through Keyword-Based Visual Analytics</td>
+    <td>Marchi Andrea</td>
+    <td>Finite State Controllers for Olfactory Navigation</td>
   </tr>
-  <tr style="background-color: #F2F2F2;">
-    <td style="border: 1px solid #000; padding: 12px;">Vitale Giordano</td>
-    <td style="border: 1px solid #000; padding: 12px;">Kernel methods through the sky: flying above the Falkon</td>
+  <tr>
+    <td>Martini Matteo</td>
+    <td>Avatar Exposure and Strategic Coordination in Virtual Reality - Recycling in Positano</td>
+  </tr>
+  <tr>
+    <td>Parodi Monica</td>
+    <td>Context-Aware Computing and Precise GNSS for the Autonomy of Fragile Individuals</td>
+  </tr>
+  <tr>
+    <td>Roccatello Mattia</td>
+    <td>Chromatin Signal Detection and Reconstruction techniques for SMLM Point Cloud Data</td>
+  </tr>
+  <tr>
+    <td>Romano Gabriele</td>
+    <td>Gathering Children's Affective Data through Embodied Technologies: Highs and Lows</td>
+  </tr>
+  <tr>
+    <td>Stanzani Ilaria</td>
+    <td>Sailing the Research Ocean: A Transparent Pipeline for Exploring NSF grants through Keyword-Based Visual Analytics</td>
+  </tr>
+  <tr>
+    <td>Vitale Giordano</td>
+    <td>Kernel methods through the sky: flying above the Falkon</td>
   </tr>
 </table>
 
