@@ -170,20 +170,60 @@ He co-founded the ZenHack CTF team.
 - **Location:** Room 210, 2nd floor
 
 You will find the following posters:
-| Name | Poster Title |
-|------|--------------|
-| Arici Irem | Modeling the Relationship Between Appraisals and Facial Expressions |
-| Ataei Peiman | Autonomous Drone-Based Photovoltaic Inspection for Standardized Data Acquisition |
-| Benfadhil Abdelmalik | Stochastic Policies for Olfactory Search in POMDPs using Natural Actor-Critic |
-| Bortolai Gabriele | Leveraging Smartphone Inertial Data for User Authentication |
-| Ciranni Massimiliano | Lose Your Self (LoYS): an adversarial entropy-based unsupervised approach for model debiasing |
-| Gatti Andrea | VEsNA: Virtual Environments via Natural language Agents |
-| Gerini Lorenzo | Immersive VR for the Assessment of Spatial Skills in Adolescents |
-| Giusto Andrea | Dependent type theories for differentiable programming over manifolds |
-| Granatella Giampiero | Continuous Talent Intelligence: A DevOps-Inspired Knowledge Graph and RAG Architecture for Real-Time Competency Management |
-| Monteverde Marco | Quantifying Impact and Innovation in Scientific Publications: A Structural–Semantic Framework Combining Co-authorship and Research Topics |
-| Pignedoli Veronica | FRODO: 3D Classification of Paramagnetic Rim Lesions in Multiple Sclerosis via Asymmetric QSM-FLAIR Modeling |
-| Pizzo Marianna | ActivePaws: A Wearable-Controlled Exergame Platform for Pediatric Motor Rehabilitation |
+<table>
+  <tr style="background-color: #4472C4; color: white; font-weight: bold;">
+    <th style="border: 1px solid #000; padding: 12px; text-align: left;">Name</th>
+    <th style="border: 1px solid #000; padding: 12px; text-align: left;">Poster Title</th>
+  </tr>
+  <tr>
+    <td style="border: 1px solid #000; padding: 12px;">Arici Irem</td>
+    <td style="border: 1px solid #000; padding: 12px;">Modeling the Relationship Between Appraisals and Facial Expressions</td>
+  </tr>
+  <tr style="background-color: #F2F2F2;">
+    <td style="border: 1px solid #000; padding: 12px;">Ataei Peiman</td>
+    <td style="border: 1px solid #000; padding: 12px;">Autonomous Drone-Based Photovoltaic Inspection for Standardized Data Acquisition</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid #000; padding: 12px;">Benfadhil Abdelmalik</td>
+    <td style="border: 1px solid #000; padding: 12px;">Stochastic Policies for Olfactory Search in POMDPs using Natural Actor-Critic</td>
+  </tr>
+  <tr style="background-color: #F2F2F2;">
+    <td style="border: 1px solid #000; padding: 12px;">Bortolai Gabriele</td>
+    <td style="border: 1px solid #000; padding: 12px;">Leveraging Smartphone Inertial Data for User Authentication</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid #000; padding: 12px;">Ciranni Massimiliano</td>
+    <td style="border: 1px solid #000; padding: 12px;">Lose Your Self (LoYS): an adversarial entropy-based unsupervised approach for model debiasing</td>
+  </tr>
+  <tr style="background-color: #F2F2F2;">
+    <td style="border: 1px solid #000; padding: 12px;">Gatti Andrea</td>
+    <td style="border: 1px solid #000; padding: 12px;">VEsNA: Virtual Environments via Natural language Agents</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid #000; padding: 12px;">Gerini Lorenzo</td>
+    <td style="border: 1px solid #000; padding: 12px;">Immersive VR for the Assessment of Spatial Skills in Adolescents</td>
+  </tr>
+  <tr style="background-color: #F2F2F2;">
+    <td style="border: 1px solid #000; padding: 12px;">Giusto Andrea</td>
+    <td style="border: 1px solid #000; padding: 12px;">Dependent type theories for differentiable programming over manifolds</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid #000; padding: 12px;">Granatella Giampiero</td>
+    <td style="border: 1px solid #000; padding: 12px;">Continuous Talent Intelligence: A DevOps-Inspired Knowledge Graph and RAG Architecture for Real-Time Competency Management</td>
+  </tr>
+  <tr style="background-color: #F2F2F2;">
+    <td style="border: 1px solid #000; padding: 12px;">Monteverde Marco</td>
+    <td style="border: 1px solid #000; padding: 12px;">Quantifying Impact and Innovation in Scientific Publications: A Structural–Semantic Framework Combining Co-authorship and Research Topics</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid #000; padding: 12px;">Pignedoli Veronica</td>
+    <td style="border: 1px solid #000; padding: 12px;">FRODO: 3D Classification of Paramagnetic Rim Lesions in Multiple Sclerosis via Asymmetric QSM-FLAIR Modeling</td>
+  </tr>
+  <tr style="background-color: #F2F2F2;">
+    <td style="border: 1px solid #000; padding: 12px;">Pizzo Marianna</td>
+    <td style="border: 1px solid #000; padding: 12px;">ActivePaws: A Wearable-Controlled Exergame Platform for Pediatric Motor Rehabilitation</td>
+  </tr>
+</table>
 
 ### Competitive Debate - TBD
 - **Start time:** 2:30 PM
@@ -295,20 +335,60 @@ TBD
 - **Location:** Room 210, 2nd floor
 
 You will find the following posters:
-| Name | Poster Title |
-|------|--------------|
-| Agostoni Sofia | Automatic regularisation approaches for 2D/3D Image Scanning Microscopy (ISM) |
-| Daoui Zahra | VEsNA with Region-Agnostic Reinforcement Learning for Interpretable BDI Navigation |
-| De Filippis Andrea | Semi-Immersive Virtual Reality System for Rehabilitation in Rett Syndrome |
-| Di Via Roberto | CDPM-Align: Multi-Scale Guidance-Aligned Diffusion Pretraining for Robust Few-Shot Anatomical Landmark Detection |
-| Fröhlich Alek, Rodrigues Perazzo Daniel | Spectral Representation Learning for Conditional Independence Testing |
-| Marchi Andrea | Finite State Controllers for Olfactory Navigation |
-| Martini Matteo | Avatar Exposure and Strategic Coordination in Virtual Reality - Recycling in Positano |
-| Parodi Monica | Context-Aware Computing and Precise GNSS for the Autonomy of Fragile Individuals |
-| Roccatello Mattia | Chromatin Signal Detection and Reconstruction techniques for SMLM Point Cloud Data |
-| Romano Gabriele | Gathering Children's Affective Data through Embodied Technologies: Highs and Lows |
-| Stanzani Ilaria | Sailing the Research Ocean: A Transparent Pipeline for Exploring NSF grants through Keyword-Based Visual Analytics |
-| Vitale Giordano | Kernel methods through the sky: flying above the Falkon |
+<table>
+  <tr style="background-color: #4472C4; color: white; font-weight: bold;">
+    <th style="border: 1px solid #000; padding: 12px; text-align: left;">Name</th>
+    <th style="border: 1px solid #000; padding: 12px; text-align: left;">Poster Title</th>
+  </tr>
+  <tr>
+    <td style="border: 1px solid #000; padding: 12px;">Agostoni Sofia</td>
+    <td style="border: 1px solid #000; padding: 12px;">Automatic regularisation approaches for 2D/3D Image Scanning Microscopy (ISM)</td>
+  </tr>
+  <tr style="background-color: #F2F2F2;">
+    <td style="border: 1px solid #000; padding: 12px;">Daoui Zahra</td>
+    <td style="border: 1px solid #000; padding: 12px;">VEsNA with Region-Agnostic Reinforcement Learning for Interpretable BDI Navigation</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid #000; padding: 12px;">De Filippis Andrea</td>
+    <td style="border: 1px solid #000; padding: 12px;">Semi-Immersive Virtual Reality System for Rehabilitation in Rett Syndrome</td>
+  </tr>
+  <tr style="background-color: #F2F2F2;">
+    <td style="border: 1px solid #000; padding: 12px;">Di Via Roberto</td>
+    <td style="border: 1px solid #000; padding: 12px;">CDPM-Align: Multi-Scale Guidance-Aligned Diffusion Pretraining for Robust Few-Shot Anatomical Landmark Detection</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid #000; padding: 12px;">Fröhlich Alek, Rodrigues Perazzo Daniel</td>
+    <td style="border: 1px solid #000; padding: 12px;">Spectral Representation Learning for Conditional Independence Testing</td>
+  </tr>
+  <tr style="background-color: #F2F2F2;">
+    <td style="border: 1px solid #000; padding: 12px;">Marchi Andrea</td>
+    <td style="border: 1px solid #000; padding: 12px;">Finite State Controllers for Olfactory Navigation</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid #000; padding: 12px;">Martini Matteo</td>
+    <td style="border: 1px solid #000; padding: 12px;">Avatar Exposure and Strategic Coordination in Virtual Reality - Recycling in Positano</td>
+  </tr>
+  <tr style="background-color: #F2F2F2;">
+    <td style="border: 1px solid #000; padding: 12px;">Parodi Monica</td>
+    <td style="border: 1px solid #000; padding: 12px;">Context-Aware Computing and Precise GNSS for the Autonomy of Fragile Individuals</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid #000; padding: 12px;">Roccatello Mattia</td>
+    <td style="border: 1px solid #000; padding: 12px;">Chromatin Signal Detection and Reconstruction techniques for SMLM Point Cloud Data</td>
+  </tr>
+  <tr style="background-color: #F2F2F2;">
+    <td style="border: 1px solid #000; padding: 12px;">Romano Gabriele</td>
+    <td style="border: 1px solid #000; padding: 12px;">Gathering Children's Affective Data through Embodied Technologies: Highs and Lows</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid #000; padding: 12px;">Stanzani Ilaria</td>
+    <td style="border: 1px solid #000; padding: 12px;">Sailing the Research Ocean: A Transparent Pipeline for Exploring NSF grants through Keyword-Based Visual Analytics</td>
+  </tr>
+  <tr style="background-color: #F2F2F2;">
+    <td style="border: 1px solid #000; padding: 12px;">Vitale Giordano</td>
+    <td style="border: 1px solid #000; padding: 12px;">Kernel methods through the sky: flying above the Falkon</td>
+  </tr>
+</table>
 
 ### Keynote - _Cutaneous Haptics for Human-centered Robotics and Immersive Realities_ by __Claudio Pacchierotti__
 - **Start time:** 2:30 PM
