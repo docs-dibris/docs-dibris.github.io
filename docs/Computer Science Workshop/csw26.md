@@ -55,6 +55,7 @@ This year's edition will feature activities delivered by distinguished speakers:
 - [Claudio Pacchierotti](https://team.inria.fr/rainbow/team/claudio-pacchierotti/), Centre National de la Recherche Scientifique, Rennes
 - [Alessandra Sciutti](https://www.iit.it/it/people-profile/-/people/alessandra-sciutti), Italian Institute of Technology, Genoa
 - [Raffaele Rialdi](https://www.ugidotnet.org/autore/4991/Raffaele-Rialdi), Vevy Europe, DotNetLiguria, Genoa
+- [Greta Coraglia](https://etagreta.github.io/), MIRAI, Milan
 - [Luca Demetrio](https://www.saiferlab.ai/people/lucademetrio), University of Genoa
 - [Luca Franceschini](https://www.linkedin.com/in/luca-franceschini-phd/), Esaote, Genoa
 - [Ulderico Fugacci](https://fugacci.github.io/home/), National Research Council, Genoa
@@ -116,13 +117,14 @@ Welcome and introduction to the CSW. The DoCS team will also present themselves 
 
 Prof. Giorgio Delzanno will present the DIBRIS PhD programs, with a particular focus on the Computer Science and Systems Engineering PhD one, and the opportunities it offers to students.
 
-### Keynote - _TBD_ by __Raffaele Rialdi__
+### Keynote - _Beyond hand-coding: generative AI is reshaping the Software Engineering Stack_ by __Raffaele Rialdi__
 - **Start time:** 10:15 AM
 - **Duration:** 1 hour + 30 minutes for open discussion
 - **Location:** Room 322, 3rd floor
 
 #### Abstract
-TBD
+In 2026, generative AI and agentic architectures have brought software development to a qualitatively new level, enabling the transformation of natural language specifications into working code while agentic pipelines independently review correctness, validate logic, and surface security vulnerabilities. 
+While this remains only an initial step toward automation across several other disciplines, the real challenge is now to figure out how humans can lead the orchestration role rather than _vibe_ functionalities as if rubbing an Aladdin lamp.
 
 #### Raffaele's bio
 <img src="/assets/images/people/CSW26/rialdi.jpg" style="display: block; max-height: 150px;">
@@ -257,7 +259,7 @@ Her research aims to investigate the sensory and motor mechanisms underlying mut
 - **Duration:** 30 minutes
 - **Location:** Room 326, 3rd floor
 
-### Keynote - _TBD_ by __TBD__
+### Keynote - _TBD_ by __Greta Coraglia__
 - **Start time:** 11:45 AM
 - **Duration:** 1 hour and 15 minutes
 - **Location:** Room 322, 3rd floor
@@ -309,10 +311,10 @@ He is also Co-Chair of the IEEE Technical Committee on Telerobotics, Secretary o
 - **Location:** Room 322, 3rd floor
 
 #### Abstract
-This panel brings together Ulderico and Luca to discuss the critical transition from doctoral studies to the next career stage.
-With one panelist continuing in research and the other moving into industry, they offer complementary perspectives on navigating the postdoctoral phase and beyond.
-They will explore key questions: Is a postdoc the right choice? What skills and experiences matter most for different career paths? How do you make informed decisions about your professional future?
-Through their contrasting trajectories, Ulderico and Luca will provide practical guidance on evaluating opportunities, building networks, and planning a successful transition.
+This panel brings together Ulderico and Luca to discuss the critical transition from doctoral studies to the next career stage. 
+With one panelist continuing in research and the other moving into industry, they offer complementary perspectives on navigating the postdoctoral phase and beyond. 
+They will explore key questions: how do you choose the right path after a PhD, whether in research or industry? What skills and experiences matter most for different careers? How do you make informed decisions about your professional future? 
+Through their contrasting trajectories, Ulderico and Luca will provide practical guidance on evaluating opportunities, building networks, and planning a successful transition. 
 Aimed at PhD students facing these pivotal decisions, this interactive session invites questions and discussion to help you chart your own path forward.
 
 #### Panelists' bios
