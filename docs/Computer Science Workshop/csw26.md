@@ -345,6 +345,10 @@ You will find the following posters:
     <td>Automatic regularisation approaches for 2D/3D Image Scanning Microscopy (ISM)</td>
   </tr>
   <tr>
+      <td>Christian Daniele</td>
+      <td>Deep equilibrium models for Poisson inverse problems via mirror descent</td>
+  </tr>
+  <tr>
     <td>Zahra Daoui</td>
     <td>VEsNA with Region-Agnostic Reinforcement Learning for Interpretable BDI Navigation</td>
   </tr>
