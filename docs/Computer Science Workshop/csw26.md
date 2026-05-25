@@ -169,6 +169,22 @@ He co-founded the ZenHack CTF team.
 - **Duration:** 1 hour and 30 minutes
 - **Location:** Room 210, 2nd floor
 
+You will find the following posters:
+| Name | Poster Title |
+|------|--------------|
+| Arici Irem | Modeling the Relationship Between Appraisals and Facial Expressions |
+| Ataei Peiman | Autonomous Drone-Based Photovoltaic Inspection for Standardized Data Acquisition |
+| Benfadhil Abdelmalik | Stochastic Policies for Olfactory Search in POMDPs using Natural Actor-Critic |
+| Bortolai Gabriele | Leveraging Smartphone Inertial Data for User Authentication |
+| Ciranni Massimiliano | Lose Your Self (LoYS): an adversarial entropy-based unsupervised approach for model debiasing |
+| Gatti Andrea | VEsNA: Virtual Environments via Natural language Agents |
+| Gerini Lorenzo | Immersive VR for the Assessment of Spatial Skills in Adolescents |
+| Giusto Andrea | Dependent type theories for differentiable programming over manifolds |
+| Granatella Giampiero | Continuous Talent Intelligence: A DevOps-Inspired Knowledge Graph and RAG Architecture for Real-Time Competency Management |
+| Monteverde Marco | Quantifying Impact and Innovation in Scientific Publications: A Structural–Semantic Framework Combining Co-authorship and Research Topics |
+| Pignedoli Veronica | FRODO: 3D Classification of Paramagnetic Rim Lesions in Multiple Sclerosis via Asymmetric QSM-FLAIR Modeling |
+| Pizzo Marianna | ActivePaws: A Wearable-Controlled Exergame Platform for Pediatric Motor Rehabilitation |
+
 ### Competitive Debate - TBD
 - **Start time:** 2:30 PM
 - **Duration:** 1 hour and 15 minutes
@@ -277,6 +293,22 @@ TBD
 - **Start time:** 1:00 PM
 - **Duration:** 1 hour and 30 minutes
 - **Location:** Room 210, 2nd floor
+
+You will find the following posters:
+| Name | Poster Title |
+|------|--------------|
+| Agostoni Sofia | Automatic regularisation approaches for 2D/3D Image Scanning Microscopy (ISM) |
+| Daoui Zahra | VEsNA with Region-Agnostic Reinforcement Learning for Interpretable BDI Navigation |
+| De Filippis Andrea | Semi-Immersive Virtual Reality System for Rehabilitation in Rett Syndrome |
+| Di Via Roberto | CDPM-Align: Multi-Scale Guidance-Aligned Diffusion Pretraining for Robust Few-Shot Anatomical Landmark Detection |
+| Fröhlich Alek, Rodrigues Perazzo Daniel | Spectral Representation Learning for Conditional Independence Testing |
+| Marchi Andrea | Finite State Controllers for Olfactory Navigation |
+| Martini Matteo | Avatar Exposure and Strategic Coordination in Virtual Reality - Recycling in Positano |
+| Parodi Monica | Context-Aware Computing and Precise GNSS for the Autonomy of Fragile Individuals |
+| Roccatello Mattia | Chromatin Signal Detection and Reconstruction techniques for SMLM Point Cloud Data |
+| Romano Gabriele | Gathering Children's Affective Data through Embodied Technologies: Highs and Lows |
+| Stanzani Ilaria | Sailing the Research Ocean: A Transparent Pipeline for Exploring NSF grants through Keyword-Based Visual Analytics |
+| Vitale Giordano | Kernel methods through the sky: flying above the Falkon |
 
 ### Keynote - _Cutaneous Haptics for Human-centered Robotics and Immersive Realities_ by __Claudio Pacchierotti__
 - **Start time:** 2:30 PM
