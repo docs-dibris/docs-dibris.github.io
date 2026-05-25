@@ -112,12 +112,12 @@ This schedule is subject to changes. If you see typos or cannot be present on yo
         <td>TBA</td>
     </tr>
     <tr>
-        <td rowspan="2"></td>
-        <td rowspan="2">Tue 16 Jun<br>14:30-15:30<br>Room 215</td>
-        <td>Veronica Pignedoli</td>
+        <td rowspan="1"></td>
+        <td rowspan="1">Tue 16 Jun<br>14:30-15:00<br>Room 215</td>
+        <!-- <td>Veronica Pignedoli</td>
         <td>TBA</td>
     </tr>
-    <tr>
+    <tr> -->
         <td>Gabriele Romano</td>
         <td>TBA</td>
     </tr>
@@ -259,11 +259,14 @@ This schedule is subject to changes. If you see typos or cannot be present on yo
         <td>TBA</td>
     </tr>
     <tr>
-        <td rowspan="1"></td>
-        <td rowspan="1">Tue 10 Nov<br>14:30-15:00<br>Room 214</td>
+        <td rowspan="2"></td>
+        <td rowspan="2">Tue 10 Nov<br>14:30-15:30<br>Room 214</td>
         <td>Andrea Giusto</td>
         <td>TBA</td>
     </tr>
+        <td>Veronica Pignedoli</td>
+        <td>TBA</td>
+        </tr>
     <!--
     <tr>
         <td rowspan="2"><a href=download>download</a></td>
