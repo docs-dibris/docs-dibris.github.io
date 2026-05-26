@@ -17,7 +17,7 @@ nav_order: 7
     <h2>Computer Science Workshop 2026</h2>
     <h3>7<sup>th</sup> Edition</h3>
     <h2>May 28<sup>th</sup> and 29<sup>th</sup>, 2026</h2>
-    Room 322, DIBRIS (Valletta Puggia), Università di Genova
+    DIBRIS (Valletta Puggia), Università di Genova
     <br>
     Via Dodecaneso 35, Genoa
     <br>
