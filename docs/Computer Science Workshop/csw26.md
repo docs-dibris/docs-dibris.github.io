@@ -123,7 +123,7 @@ Prof. Giorgio Delzanno will present the DIBRIS PhD programs, with a particular f
 - **Location:** Room 322, 3rd floor
 
 #### Abstract
-In 2026, generative AI and agentic architectures have brought software development to a qualitatively new level, enabling the transformation of natural language specifications into working code while agentic pipelines independently review correctness, validate logic, and surface security vulnerabilities. 
+In 2026, generative AI and agentic architectures have brought software development to a qualitatively new level, enabling the transformation of natural language specifications into working code while agentic pipelines independently review correctness, validate logic, and surface security vulnerabilities.
 While this remains only an initial step toward automation across several other disciplines, the real challenge is now to figure out how humans can lead the orchestration role rather than _vibe_ functionalities as if rubbing an Aladdin lamp.
 
 #### Raffaele's bio
@@ -315,19 +315,27 @@ Her research aims to investigate the sensory and motor mechanisms underlying mut
 - **Duration:** 30 minutes
 - **Location:** Room 326, 3rd floor
 
-### Keynote - _TBD_ by __Greta Coraglia__
+### Keynote - _Cutaneous Haptics for Human-centered Robotics and Immersive Realities_ by __Claudio Pacchierotti__
 - **Start time:** 11:45 AM
 - **Duration:** 1 hour and 15 minutes
 - **Location:** Room 322, 3rd floor
 
-After the keynote and before the lunch break, PhD students having a poster in Poster Session 2 will give a flash presentation of their work, to encourage participants to attend the poster session and interact with them during lunch.
-
 #### Abstract
-TBD
+As robotics advances into more integrated human-centered applications, haptic feedback plays a crucial role in connecting humans and robots seamlessly.
+While force feedback has traditionally played a crucial role, this presentation explores the untapped potential of cutaneous haptics to create more natural, richer, and safer interactions in human-centered robotics.
+Dr. Pacchierotti will share his contributions to this field, discussing the role of cutaneous and kinesthetic haptics in human-machine interaction, presenting the design of innovative cutaneous haptic interfaces and rendering techniques, along with their application in human-centered robotics and immersive environments.
+Emphasizing a holistic and multi-modal approach to haptic feedback, this talk aims to inspire researchers and engineers to explore cutaneous haptics for developing the next generation of sensory human-robot interfaces.
+The presentation concludes by addressing the scientific and technological challenges in this evolving field.
 
-#### TBD's bio
-<img src="/assets/images/people/avatar.png" style="display: block; max-height: 150px;">
-TBD
+#### Claudio's bio
+<img src="/assets/images/people/CSW26/pacchierotti.jpg" style="display: block; max-height: 150px;">
+Claudio Pacchierotti is a tenured researcher at CNRS-IRISA in Rennes, France, since 2016.
+He was previously a postdoctoral researcher at the Italian Institute of Technology, Genova, Italy.
+Pacchierotti earned his PhD at the University of Siena in 2014.
+He was Visiting Researcher at the University of Pennsylvania in 2014, at the University of Padua in 2013, at the University of Twente in 2014, at the Sapienza University of Rome in 2022, and at the University of Siena in 2026.
+Pacchierotti received the 2014 EuroHaptics Best PhD Thesis Award and the 2022 CNRS Bronze Medal.
+He currently serves as Associate Vice President of the IEEE RAS Technical Activities Board (TAB).
+He is also Co-Chair of the IEEE Technical Committee on Telerobotics, Secretary of the Eurohaptics Society, and Associate Editor for IEEE Trans. Haptics, IEEE Trans. Robotics, and the Intl. J. Robotics Research.
 
 ### Lunch (catered) + Poster Session 2
 - **Start time:** 1:00 PM
@@ -394,27 +402,24 @@ You will find the following posters:
   </tr>
 </table>
 
-### Keynote - _Cutaneous Haptics for Human-centered Robotics and Immersive Realities_ by __Claudio Pacchierotti__
+### Keynote - _Bias Amplification Chains, And What Can We Do About It_ by __Greta Coraglia__
 - **Start time:** 2:30 PM
 - **Duration:** 1 hour and 15 minutes
 - **Location:** Room 322, 3rd floor
 
-#### Abstract
-As robotics advances into more integrated human-centered applications, haptic feedback plays a crucial role in connecting humans and robots seamlessly.
-While force feedback has traditionally played a crucial role, this presentation explores the untapped potential of cutaneous haptics to create more natural, richer, and safer interactions in human-centered robotics.
-Dr. Pacchierotti will share his contributions to this field, discussing the role of cutaneous and kinesthetic haptics in human-machine interaction, presenting the design of innovative cutaneous haptic interfaces and rendering techniques, along with their application in human-centered robotics and immersive environments.
-Emphasizing a holistic and multi-modal approach to haptic feedback, this talk aims to inspire researchers and engineers to explore cutaneous haptics for developing the next generation of sensory human-robot interfaces.
-The presentation concludes by addressing the scientific and technological challenges in this evolving field.
+After the keynote and before the lunch break, PhD students having a poster in Poster Session 2 will give a flash presentation of their work, to encourage participants to attend the poster session and interact with them during lunch.
 
-#### Claudio's bio
-<img src="/assets/images/people/CSW26/pacchierotti.jpg" style="display: block; max-height: 150px;">
-Claudio Pacchierotti is a tenured researcher at CNRS-IRISA in Rennes, France, since 2016.
-He was previously a postdoctoral researcher at the Italian Institute of Technology, Genova, Italy.
-Pacchierotti earned his PhD at the University of Siena in 2014.
-He was Visiting Researcher at the University of Pennsylvania in 2014, at the University of Padua in 2013, at the University of Twente in 2014, at the Sapienza University of Rome in 2022, and at the University of Siena in 2026.
-Pacchierotti received the 2014 EuroHaptics Best PhD Thesis Award and the 2022 CNRS Bronze Medal.
-He currently serves as Associate Vice President of the IEEE RAS Technical Activities Board (TAB).
-He is also Co-Chair of the IEEE Technical Committee on Telerobotics, Secretary of the Eurohaptics Society, and Associate Editor for IEEE Trans. Haptics, IEEE Trans. Robotics, and the Intl. J. Robotics Research.
+#### Abstract
+We know that ML systems don't just reflect societal bias -- they amplify it.
+What is less clear is where in the pipeline this happens, by how much, and what to do about it.
+This talk introduces the notion of Bias Amplification Chains, a framework grounded in formal logical methods that quantifies amplification at each stage, from data sampling to model output, and illustrates it across several high-stakes domains including credit scoring, HR decision-making, and fraud detection.
+
+#### Greta's bio
+<img src="/assets/images/people/CSW26/coraglia.jpg" style="display: block; max-height: 150px;">
+Greta Coraglia is a mathematician specialising in category theory, type theory, and theoretical computer science, with a focus on how compositionality and formal logical methods can make AI systems more transparent and accountable.
+She co-founded MIRAI, a responsible AI spinoff of the University of Milan, where she leads R\&D on algorithmic fairness and bias detection.
+Her work bridges foundational research and applied engineering, spanning ML fairness, generative AI evaluation, and the development of logic-based tools for AI auditing.
+She holds a PhD in Mathematics from the University of Genova and has previously been a postdoc at the LUCI Lab, University of Milan.
 
 ### Coffee Break (catered)
 - **Start time:** 3:45 PM
@@ -427,10 +432,10 @@ He is also Co-Chair of the IEEE Technical Committee on Telerobotics, Secretary o
 - **Location:** Room 322, 3rd floor
 
 #### Abstract
-This panel brings together Ulderico and Luca to discuss the critical transition from doctoral studies to the next career stage. 
-With one panelist continuing in research and the other moving into industry, they offer complementary perspectives on navigating the postdoctoral phase and beyond. 
-They will explore key questions: how do you choose the right path after a PhD, whether in research or industry? What skills and experiences matter most for different careers? How do you make informed decisions about your professional future? 
-Through their contrasting trajectories, Ulderico and Luca will provide practical guidance on evaluating opportunities, building networks, and planning a successful transition. 
+This panel brings together Ulderico and Luca to discuss the critical transition from doctoral studies to the next career stage.
+With one panelist continuing in research and the other moving into industry, they offer complementary perspectives on navigating the postdoctoral phase and beyond.
+They will explore key questions: how do you choose the right path after a PhD, whether in research or industry? What skills and experiences matter most for different careers? How do you make informed decisions about your professional future?
+Through their contrasting trajectories, Ulderico and Luca will provide practical guidance on evaluating opportunities, building networks, and planning a successful transition.
 Aimed at PhD students facing these pivotal decisions, this interactive session invites questions and discussion to help you chart your own path forward.
 
 #### Panelists' bios
