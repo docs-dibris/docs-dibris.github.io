@@ -29,10 +29,6 @@ nav_order: 7
 </span>
 {: .text-center }
 
-<br>
-<strong>This page is currently under construction. Please check back later for updates on the program, speakers, and activities.</strong>
-<br>
-
 # Flyer
 <div style="display: flex; justify-content: center; align-items: center; margin: 20px 0;">
     <a href="/assets/fliers/2026.png">
