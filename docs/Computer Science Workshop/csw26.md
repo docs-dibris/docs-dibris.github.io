@@ -228,7 +228,7 @@ You will find the following posters:
 ### Competitive Debate - TBD
 - **Start time:** 2:30 PM
 - **Duration:** 1 hour and 15 minutes
-- **Location:** Room 322, 3rd floor
+- **Location:** Room 506, 5th floor
 
 Master's students will engage in a competitive debate focused on _Topic TBD_.
 Two teams of students will compete, adhering to a specific protocol, each defending distinct positions on a particular motion related to _TBD_.
@@ -239,12 +239,12 @@ After the formal debate is over, the audience will have the opportunity to inter
 ### Coffee Break (catered)
 - **Start time:** 3:45 PM
 - **Duration:** 30 minutes
-- **Location:** Room 326, 3rd floor
+- **Location:** Room 506, 5th floor
 
 ### Keynote - _Science at Scale Without Scaling Up_ by __Emanuele Rodolà__
 - **Start time:** 4:15 PM
 - **Duration:** 1 hour
-- **Location:** Room 322, 3rd floor
+- **Location:** Room 506, 5th floor
 
 #### Abstract
 Scientific discovery is moving at a pace that is increasingly hard to track.
@@ -267,7 +267,7 @@ His work has been featured in media outlets including Fortune, Wired, RAI, and I
 ### End of Day
 - **Start time:** 5:15 PM
 - **Duration:** 15 minutes
-- **Location:** Room 322, 3rd floor
+- **Location:** Room 506, 5th floor
 
 Final remarks and thanks. This is the moment when team roles for Friday’s activity will be announced.
 
