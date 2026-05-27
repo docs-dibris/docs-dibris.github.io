@@ -422,16 +422,16 @@ She holds a PhD in Mathematics from the University of Genova and has previously 
 - **Duration:** 30 minutes
 - **Location:** Room 326, 3rd floor
 
-### Panel - _So... What Now? A Postdoc Panel_ by __Ulderico Fugacci__ and __Luca Franceschini__
+### Panel - _So... What Now? A Postdoc Panel_ by __Ulderico Fugacci__, __Luca Franceschini__ and __Laura Di Rocco__
 - **Start time:** 4:15 PM
 - **Duration:** 45 minutes
 - **Location:** Room 322, 3rd floor
 
 #### Abstract
-This panel brings together Ulderico and Luca to discuss the critical transition from doctoral studies to the next career stage.
-With one panelist continuing in research and the other moving into industry, they offer complementary perspectives on navigating the postdoctoral phase and beyond.
+This panel brings together Ulderico, Luca and Laura to discuss the critical transition from doctoral studies to the next career stage.
+With two panelist continuing in research and one moving into industry, they offer complementary perspectives on navigating the postdoctoral phase and beyond.
 They will explore key questions: how do you choose the right path after a PhD, whether in research or industry? What skills and experiences matter most for different careers? How do you make informed decisions about your professional future?
-Through their contrasting trajectories, Ulderico and Luca will provide practical guidance on evaluating opportunities, building networks, and planning a successful transition.
+Through their contrasting trajectories panning research careers in Italy and abroad and transitions into industry, the panelists will provide practical guidance on evaluating opportunities, building networks, and planning a successful transition.
 Aimed at PhD students facing these pivotal decisions, this interactive session invites questions and discussion to help you chart your own path forward.
 
 #### Panelists' bios
@@ -442,13 +442,20 @@ He earned his Master’s Degree in Mathematics from the University of Genova in 
 Following his Ph.D., he held several postdoctoral positions, including at the University of Maryland, the University of Kaiserslautern, Graz University of Technology, and the Polytechnic University of Torino.
 His research focuses on Topological Data Analysis, at the intersection of applied mathematics, computer science, and data analysis.
 
-
 ##### Luca Franceschini
 <img src="/assets/images/people/CSW26/franceschini.jpg" style="display: block; max-height: 150px;">
 Luca Franceschini is currently a Software Engineer at Esaote, a medical diagnostic systems manufacturer, working in the ultrasound imaging R&D department.
 He previously worked as a software development consultant, and contributed to the early stage of an agritech startup.
 Luca completed his PhD in Computer Science at the University of Genoa in 2021, focusing on programming languages and software analysis and verification.
 In his thesis he proposed and implemented RML, a system agnostic domain specific language for runtime monitoring and verification.
+
+#### Laura Di Rocco
+<img src="/assets/images/people/CSW26/dirocco.jpg" style="display: block; max-height: 150px;">
+Laura Di Rocco is currently the Clinical Data Platform Manager at Gather Health.
+She previously worked at Bayer in Berlin for over four years in progressively senior roles, including Master Data Manager & Knowledge Graph Expert and Lead Knowledge Engineer, and held a Data Engineering Manager position at Intapp.
+Prior to her industry career, she was a Postdoctoral Researcher at Northeastern University in Boston.
+Laura completed her PhD in Computer Science at the University of Genoa in 2019.
+Her expertise lies in databases, data integration, and knowledge graphs.
 
 ### End of Day
 - **Start time:** 5:00 PM
