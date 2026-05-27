@@ -76,7 +76,7 @@ Here you can find the list of current members of the DoCS group, along with some
     <!-- members -->
     <tr>
         <td>
-            <img src="/assets/images/people/avatar.png">
+            <img src="/assets/images/people/ariciIrem.jpg">
         </td>
         <td>
             <dl>
