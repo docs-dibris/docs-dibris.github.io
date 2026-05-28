@@ -385,6 +385,10 @@ You will find the following posters:
     <td>Chromatin Signal Detection and Reconstruction techniques for SMLM Point Cloud Data</td>
   </tr>
   <tr>
+    <td>Arnaud Ruymaekers</td>
+    <td>Comparing Model-Based Reinforcement Learning techniques for Olfactory Navigation</td>
+  </tr>
+  <tr>
     <td>Gabriele Romano</td>
     <td>Gathering Children's Affective Data through Embodied Technologies: Highs and Lows</td>
   </tr>
