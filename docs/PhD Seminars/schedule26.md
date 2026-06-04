@@ -105,20 +105,24 @@ This schedule is subject to changes. If you see typos or cannot be present on yo
         <td>TBA</td>
     </tr> -->
     <!-- Jun -->
-    <tr>
+    <!-- <tr>
         <td rowspan="1"></td>
         <td rowspan="1">Tue 9 Jun<br>14:30-15:00<br>Room 214</td>
         <td>Irem Arici</td>
         <td>TBA</td>
-    </tr>
+    </tr> -->
     <tr>
-        <td rowspan="1"></td>
-        <td rowspan="1">Tue 16 Jun<br>14:30-15:00<br>Room 215</td>
+        <td rowspan="2"></td>
+        <td rowspan="2">Tue 16 Jun<br>14:30-15:30<br>Room 215</td>
         <!-- <td>Veronica Pignedoli</td>
         <td>TBA</td>
     </tr>
     <tr> -->
         <td>Gabriele Romano</td>
+        <td>TBA</td>
+    </tr>
+    <tr>
+        <td>Irem Arici</td>
         <td>TBA</td>
     </tr>
     <tr>
