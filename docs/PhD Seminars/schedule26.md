@@ -125,7 +125,7 @@ This schedule is subject to changes. If you see typos or cannot be present on yo
         <td>Irem Arici</td>
         <td>Towards Emotion Regulation Detection Using Predictive Processing Framework</td>
     </tr>
-    <tr>
+    <!-- <tr>
         <td rowspan="2"></td>
         <td rowspan="2">Tue 23 Jun<br>14:30-15:30<br>Room 214</td>
         <td>Abdolhamid Livani</td>
@@ -134,7 +134,7 @@ This schedule is subject to changes. If you see typos or cannot be present on yo
     <tr>
         <td>Lorenzo Farina</td>
         <td>TBA</td>
-    </tr>
+    </tr> -->
     <tr>
         <td rowspan="2"></td>
         <td rowspan="2">Tue 30 Jun<br>14:30-15:30<br>Room 214</td>
