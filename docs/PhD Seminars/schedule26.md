@@ -17,7 +17,7 @@ nav_order: 5
 # Seminars schedule 2026
 
 {: .highlight }
-The next meeting is scheduled for **Peiman Ataei** and **Andrea De Filippis**'s seminar, on **Tuesday, June 30** at 14:30 in Room 214. 
+The next meeting is scheduled for **Peiman Ataei** and **Andrea De Filippis**'s seminars, on **Tuesday, June 30** at 14:30 in Room 214. 
 
 {: .note }
 All seminars are streamed on Microsoft Teams. Code to join: wfogmsx <!-- change -->
