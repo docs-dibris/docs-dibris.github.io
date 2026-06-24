@@ -17,7 +17,7 @@ nav_order: 5
 # Seminars schedule 2026
 
 {: .highlight }
-The next meeting is scheduled for **Massimiliano Ciranni** and **Giampiero Granatella**'s seminar, on **Tuesday, May 19** at 14:30 in Room 215. 
+The next meeting is scheduled for **Peiman Ataei** and **Andrea De Filippis**'s seminar, on **Tuesday, June 30** at 14:30 in Room 214. 
 
 {: .note }
 All seminars are streamed on Microsoft Teams. Code to join: wfogmsx <!-- change -->
@@ -136,14 +136,14 @@ This schedule is subject to changes. If you see typos or cannot be present on yo
         <td>TBA</td>
     </tr> -->
     <tr>
-        <td rowspan="2"></td>
+        <td rowspan="2"><a href="/assets/seminar-flyers/seminar_26/seminar_8.pdf" download>download</a></td>
         <td rowspan="2">Tue 30 Jun<br>14:30-15:30<br>Room 214</td>
         <td>Peiman Ataei</td>
-        <td>TBA</td>
+        <td>Drone-Based Thermal Imaging: Principles, Applications, and Challenges</td>
     </tr>
     <tr>
         <td>Andrea de Filippis</td>
-        <td>TBA</td>
+        <td>Semi-Immersive Virtual Reality System for Motor Rehabilitation in Individuals with Rett Syndrome</td>
     </tr>
     <tr>
         <td rowspan="2"></td>
