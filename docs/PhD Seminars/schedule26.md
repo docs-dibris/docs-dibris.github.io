@@ -146,12 +146,12 @@ This schedule is subject to changes. If you see typos or cannot be present on yo
         <td>Semi-Immersive Virtual Reality System for Motor Rehabilitation in Individuals with Rett Syndrome</td>
     </tr>
     <tr>
-        <td rowspan="2"></td>
-        <td rowspan="2">Tue 7 July<br>14:30-15:30<br>Room 214</td>
-        <td>Giacomo Raimondi</td>
+        <td rowspan="1"></td>
+        <td rowspan="1">Tue 7 July<br>14:30-15:00<br>Room 214</td>
+        <!-- <td>Giacomo Raimondi</td>
         <td>TBA</td>
     </tr>
-    <tr>
+    <tr> -->
         <td>Lorenzo Gerini</td> <!-- do not change -->
         <td>TBA</td>
     </tr>
@@ -167,15 +167,15 @@ This schedule is subject to changes. If you see typos or cannot be present on yo
         <td>TBA</td>
     </tr>
     <tr>
-        <td rowspan="2"></td>
-        <td rowspan="2">Tue 21 July<br>14:30-15:30<br>Room 214</td>
+        <td rowspan="1"></td>
+        <td rowspan="1">Tue 21 July<br>14:30-15:00<br>Room 214</td>
         <td>Abdel Malik Benfadhil</td>
         <td>TBA</td>
     </tr>
-    <tr>
+    <!-- <tr>
         <td>Alessandra Elisa Sindi Morando</td>
         <td>TBA</td>
-    </tr>
+    </tr> -->
     <tr>
         <td rowspan="2"></td>
         <td rowspan="2">Tue 28 July<br>14:30-15:30<br>Room 214</td>
@@ -212,12 +212,12 @@ This schedule is subject to changes. If you see typos or cannot be present on yo
         <td>TBA</td> <!-- changed -->
     </tr>
     <tr>
-        <td rowspan="2"></td>
-        <td rowspan="2">Tue 29 Sep<br>14:30-15:30<br>Room 214</td>
-        <td>Matteo Aicardi</td>
+        <td rowspan="1"></td>
+        <td rowspan="1">Tue 29 Sep<br>14:30-15:00<br>Room 214</td>
+        <!-- <td>Matteo Aicardi</td>
         <td>TBA</td>
     </tr>
-    <tr>
+    <tr> -->
         <td>Marco Monteverde</td>
         <td>TBA</td>
     </tr>
@@ -233,22 +233,22 @@ This schedule is subject to changes. If you see typos or cannot be present on yo
         <td>TBA</td>
     </tr>
     <tr>
-        <td rowspan="2"></td>
-        <td rowspan="2">Tue 20 Oct<br>14:30-15:30<br>Room 214</td>
-        <td>Giacomo Ganassoli</td>
+        <td rowspan="1"></td>
+        <td rowspan="1">Tue 20 Oct<br>14:30-15:00<br>Room 214</td>
+        <!-- <td>Giacomo Ganassoli</td>
         <td>TBA</td>
     </tr>
-    <tr>
+    <tr> -->
         <td>Armin Sargolzaei</td>
         <td>TBA</td> <!-- confirmed -->
     </tr>
     <tr>
-        <td rowspan="2"></td>
-        <td rowspan="2">Tue 27 Oct<br>14:30-15:30<br>Room 214</td>
-        <td>Marco Tessore</td>
+        <td rowspan="1"></td>
+        <td rowspan="1">Tue 27 Oct<br>14:30-15:00<br>Room 214</td>
+        <!-- <td>Marco Tessore</td>
         <td>TBA</td>
     </tr>
-    <tr>
+    <tr> -->
         <td>Salah Yousef Mohamed Mokhtar Ismail</td>
         <td>TBA</td>
     </tr>
