@@ -17,7 +17,7 @@ nav_order: 5
 # Seminars schedule 2026
 
 {: .highlight }
-The next meeting is scheduled for **Peiman Ataei** and **Andrea De Filippis**'s seminars, on **Tuesday, June 30** at 14:30 in Room 214. 
+The next meeting is scheduled for **Lorenzo Gerini**'s seminar, on **Tuesday, July 7** at 14:30 in Room 214. 
 
 {: .note }
 All seminars are streamed on Microsoft Teams. Code to join: wfogmsx <!-- change -->
@@ -146,14 +146,14 @@ This schedule is subject to changes. If you see typos or cannot be present on yo
         <td>Semi-Immersive Virtual Reality System for Motor Rehabilitation in Individuals with Rett Syndrome</td>
     </tr>
     <tr>
-        <td rowspan="1"></td>
+        <td rowspan="1"><a href="/assets/seminar-flyers/seminar_26/seminar_9.pdf" download>download</a></td>
         <td rowspan="1">Tue 7 July<br>14:30-15:00<br>Room 214</td>
         <!-- <td>Giacomo Raimondi</td>
         <td>TBA</td>
     </tr>
     <tr> -->
         <td>Lorenzo Gerini</td> <!-- do not change -->
-        <td>TBA</td>
+        <td>Rotating Cubes by Writing Code: Measuring and Training Spatial Ability and Computational Thinking in Immersive Environments</td>
     </tr>
     <!-- Jul -->
     <tr>
