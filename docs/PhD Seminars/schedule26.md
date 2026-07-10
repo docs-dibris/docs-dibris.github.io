@@ -17,7 +17,7 @@ nav_order: 5
 # Seminars schedule 2026
 
 {: .highlight }
-The next meeting is scheduled for **Lorenzo Gerini**'s seminar, on **Tuesday, July 7** at 14:30 in Room 214. 
+The next meeting is scheduled for **Monica Parodi** and **Zahra Daoui**'s seminar, on **Tuesday, July 14** at 14:30 in Room 214. 
 
 {: .note }
 All seminars are streamed on Microsoft Teams. Code to join: wfogmsx <!-- change -->
@@ -157,14 +157,14 @@ This schedule is subject to changes. If you see typos or cannot be present on yo
     </tr>
     <!-- Jul -->
     <tr>
-        <td rowspan="2"></td>
+        <td rowspan="2"><a href="/assets/seminar-flyers/seminar_26/seminar_10.pdf" download>download</a></td>
         <td rowspan="2">Tue 14 July<br>14:30-15:30<br>Room 214</td>
-        <td>Zahra Daoui</td>
-        <td>TBA</td>
+        <td>Monica Parodi</td>
+        <td>GNSS and Wandering Detection for Fragile People</td>
     </tr>
     <tr>
-        <td>Monica Parodi</td>
-        <td>TBA</td>
+        <td>Zahra Daoui</td>
+        <td>What Do You Regret Most? Learning from Regret with BDI agents</td>
     </tr>
     <tr>
         <td rowspan="1"></td>
