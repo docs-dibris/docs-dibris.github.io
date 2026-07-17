@@ -17,7 +17,7 @@ nav_order: 5
 # Seminars schedule 2026
 
 {: .highlight }
-The next meeting is scheduled for **Monica Parodi** and **Zahra Daoui**'s seminar, on **Tuesday, July 14** at 14:30 in Room 214. 
+The next meeting is scheduled for **Abdelmalik Benfadhil**'s seminar, on **Tuesday, July 21** at 14:30 in Room 214. 
 
 {: .note }
 All seminars are streamed on Microsoft Teams. Code to join: wfogmsx <!-- change -->
