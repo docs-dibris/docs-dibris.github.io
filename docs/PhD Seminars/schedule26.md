@@ -167,10 +167,10 @@ This schedule is subject to changes. If you see typos or cannot be present on yo
         <td>What Do You Regret Most? Learning from Regret with BDI agents</td>
     </tr>
     <tr>
-        <td rowspan="1"></td>
+        <td rowspan="1"><a href="/assets/seminar-flyers/seminar_26/seminar_11.pdf" download>download</a></td>
         <td rowspan="1">Tue 21 July<br>14:30-15:00<br>Room 214</td>
-        <td>Abdel Malik Benfadhil</td>
-        <td>TBA</td>
+        <td>Abdelmalik Benfadhil</td>
+        <td>Stochastic Policies for Olfactory Navigation in POMDPs using Natural Actor-Critic</td>
     </tr>
     <!-- <tr>
         <td>Alessandra Elisa Sindi Morando</td>
