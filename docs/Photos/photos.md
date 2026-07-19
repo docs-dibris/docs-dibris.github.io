@@ -14,6 +14,6 @@ Here you can find the photos of our past events, subdivided by category.
 If you are present in one or more photos and do not wish to be, please contact us indicating the specific photos, and we will remove you as soon as possible.
 
 {: .new }
-The [CSW 2025 photos][csw25pics] are now available!
+The [CSW 2026 photos][csw26pics] are now available!
 
-[csw25pics]: https://docs-dibris.github.io/docs/Photos/csw25gallery.html
+[csw26pics]: https://docs-dibris.github.io/docs/Photos/csw26gallery.html
