@@ -177,14 +177,14 @@ This schedule is subject to changes. If you see typos or cannot be present on yo
         <td>TBA</td>
     </tr> -->
     <tr>
-        <td rowspan="2"></td>
+        <td rowspan="2"><a href="/assets/seminar-flyers/seminar_26/seminar_12.pdf" download>download</a></td>
         <td rowspan="2">Tue 28 July<br>14:30-15:30<br>Room 214</td>
-        <td>Arnaud Francois D Ruymaekers</td>
-        <td>TBA</td>
+        <td>Alek Fröhlich</td>
+        <td>Toward Scalable and Valid Conditional Independence Testing with Spectral Representations</td>
     </tr>
     <tr>
-        <td>Alek Frohlich</td>
-        <td>TBA</td>
+        <td>Arnaud Francois D Ruymaekers</td>
+        <td>Model-Based Reinforcement Learning for Olfactory Navigation: From Algorithmic Comparison to Sea Robin Behavior</td>
     </tr>
     <!-- Sep -->
     <tr>
