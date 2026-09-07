@@ -191,6 +191,7 @@ This schedule is subject to changes. If you see typos or cannot be present on yo
         <th colspan="4" style="text-align: center;">Summer break</th>
     </tr>
     <!-- Sept -->
+    <!--
     <tr>
         <td rowspan="2"></td>
         <td rowspan="2">Tue 15 Sep<br>14:30-15:30<br>Room 214</td>
@@ -201,6 +202,7 @@ This schedule is subject to changes. If you see typos or cannot be present on yo
         <td>Sofia Agostoni</td>
         <td>TBA</td>
     </tr>
+    -->
     <tr>
         <td rowspan="2"></td>
         <td rowspan="2">Tue 22 Sep<br>14:30-15:30<br>Room 214</td>
@@ -212,14 +214,18 @@ This schedule is subject to changes. If you see typos or cannot be present on yo
         <td>TBA</td> <!-- changed -->
     </tr>
     <tr>
-        <td rowspan="1"></td>
-        <td rowspan="1">Tue 29 Sep<br>14:30-15:00<br>Room 214</td>
+        <td rowspan="2"></td>
+        <td rowspan="2">Tue 29 Sep<br>14:30-15:30<br>Room 214</td>
         <!-- <td>Matteo Aicardi</td>
         <td>TBA</td>
     </tr>
     <tr> -->
         <td>Marco Monteverde</td>
         <td>TBA</td>
+    </tr>
+    <tr>
+        <td>Sofia Agostoni</td>
+        <td>TBA</td> <!-- changed -->
     </tr>
     <!-- Oct -->
     <tr>
@@ -271,13 +277,13 @@ This schedule is subject to changes. If you see typos or cannot be present on yo
         <td>Veronica Pignedoli</td>
         <td>TBA</td>
         </tr>
-    <!--
     <tr>
-        <td rowspan="2"><a href=download>download</a></td>
-        <td rowspan="2">Tue 25 Nov<br>14:30-15:30<br>Room 214</td>
-        <td>XXX</td>
+        <td rowspan="1"></td>
+        <td rowspan="1">Tue 17 Nov<br>14:30-15:00<br>Room 214</td>
+        <td>Daniel Rodrigues Perazzo</td>
         <td>TBA</td>
     </tr>
+    <!--
     <tr>
         <td>XXX</td>
         <td>TBA</td>
