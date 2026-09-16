@@ -203,12 +203,14 @@ This schedule is subject to changes. If you see typos or cannot be present on yo
         <td>TBA</td>
     </tr>
     -->
-    <tr>
+<!-- 
+<tr>
         <td rowspan="1"></td>
         <td rowspan="1">Tue 22 Sep<br>14:30-15:00<br>Room 214</td>
         <td>Andrea Maffia</td>
-        <td>TBA</td> <!-- changed -->
+        <td>TBA</td> 
     </tr>
+ -->   
     <tr>
         <td rowspan="2"></td>
         <td rowspan="2">Tue 29 Sep<br>14:30-15:30<br>Room 214</td>
@@ -245,13 +247,17 @@ This schedule is subject to changes. If you see typos or cannot be present on yo
         <td>TBA</td> <!-- confirmed -->
     </tr>
     <tr>
-        <td rowspan="1"></td>
-        <td rowspan="1">Tue 27 Oct<br>14:30-15:00<br>Room 214</td>
+        <td rowspan="2"></td>
+        <td rowspan="2">Tue 27 Oct<br>14:30-15:30<br>Room 214</td>
         <!-- <td>Marco Tessore</td>
         <td>TBA</td>
     </tr>
     <tr> -->
         <td>Salah Yousef Mohamed Mokhtar Ismail</td>
+        <td>TBA</td>
+    </tr>
+    <tr>
+        <td>Andrea Maffia</td>
         <td>TBA</td>
     </tr>
     <tr>
