@@ -17,7 +17,7 @@ nav_order: 5
 # Seminars schedule 2026
 
 {: .highlight }
-The next meeting is scheduled for **Abdelmalik Benfadhil**'s seminar, on **Tuesday, July 21** at 14:30 in Room 214. 
+The next meeting is scheduled for **Marco Monteverde** and **Sofia Agostini**'s seminar, on **Tuesday, September 29** at 14:30 in Room 214. 
 
 {: .note }
 All seminars are streamed on Microsoft Teams. Code to join: wfogmsx <!-- change -->
@@ -212,18 +212,18 @@ This schedule is subject to changes. If you see typos or cannot be present on yo
     </tr>
  -->   
     <tr>
-        <td rowspan="2"></td>
+        <td rowspan="2"><a href="/assets/seminar-flyers/seminar_26/seminar_13.pdf" download>download</a></td>
         <td rowspan="2">Tue 29 Sep<br>14:30-15:30<br>Room 214</td>
         <!-- <td>Matteo Aicardi</td>
         <td>TBA</td>
     </tr>
     <tr> -->
         <td>Marco Monteverde</td>
-        <td>TBA</td>
+        <td>Moving Minds, Producing Science: A Computational Study of Researcher Mobility and Regional Scientific Productivity</td>
     </tr>
     <tr>
         <td>Sofia Agostoni</td>
-        <td>TBA</td> <!-- changed -->
+        <td>Learned Regularization for Image Deconvolution in Fluorescence Microscopy</td> <!-- changed -->
     </tr>
     <!-- Oct -->
     <tr>
