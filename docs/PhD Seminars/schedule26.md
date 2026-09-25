@@ -227,13 +227,9 @@ This schedule is subject to changes. If you see typos or cannot be present on yo
     </tr>
     <!-- Oct -->
     <tr>
-        <td rowspan="2"></td>
-        <td rowspan="2">Tue 13 Oct<br>14:30-15:30<br>Room 214</td>
+        <td rowspan="1"></td>
+        <td rowspan="1">Tue 13 Oct<br>14:30-15:00<br>Room 214</td>
         <td>Andrea Marchi</td>
-        <td>TBA</td>
-    </tr>
-    <tr>
-        <td>Mattia Roccatello</td>
         <td>TBA</td>
     </tr>
     <tr>
@@ -288,6 +284,12 @@ This schedule is subject to changes. If you see typos or cannot be present on yo
         <td>Christian Daniele</td>
         <td>TBA</td>
         </tr>
+    </tr>
+    <tr>
+        <td rowspan="1"></td>
+        <td rowspan="1">Tue 24 Nov<br>14:30-15:00<br>Room 214</td>
+        <td>Mattia Roccatello</td>
+        <td>TBA</td>
     </tr>
     <!--
     <tr>
