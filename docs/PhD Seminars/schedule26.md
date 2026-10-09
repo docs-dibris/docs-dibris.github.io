@@ -227,14 +227,18 @@ This schedule is subject to changes. If you see typos or cannot be present on yo
     </tr>
     <!-- Oct -->
     <tr>
-        <td rowspan="1"></td>
-        <td rowspan="1">Tue 13 Oct<br>14:30-15:00<br>Room 214</td>
+        <td rowspan="2"><a href="/assets/seminar-flyers/seminar_26/seminar_14.pdf" download>download</a></td>
+        <td rowspan="2">Tue 13 Oct<br>14:30-15:30<br>Room 322</td>
         <td>Andrea Marchi</td>
-        <td>TBA</td>
+        <td>Finite State Controllers for Model-free Olfactory Navigation</td>
+    </tr>
+    <tr>
+        <td>Ankit Gahlawat</td>
+        <td>Where the Training Signal Comes From: Label Generation for Face Parsing and Reward-Based Sketch Completion</td> <!-- changed -->
     </tr>
     <tr>
         <td rowspan="1"></td>
-        <td rowspan="1">Tue 20 Oct<br>14:30-15:00<br>Room 214</td>
+        <td rowspan="1">Tue 20 Oct<br>14:30-15:00<br>Room 322</td>
         <!-- <td>Giacomo Ganassoli</td>
         <td>TBA</td>
     </tr>
@@ -244,7 +248,7 @@ This schedule is subject to changes. If you see typos or cannot be present on yo
     </tr>
     <tr>
         <td rowspan="2"></td>
-        <td rowspan="2">Tue 27 Oct<br>14:30-15:30<br>Room 214</td>
+        <td rowspan="2">Tue 27 Oct<br>14:30-15:30<br>Room 322</td>
         <!-- <td>Marco Tessore</td>
         <td>TBA</td>
     </tr>
@@ -258,7 +262,7 @@ This schedule is subject to changes. If you see typos or cannot be present on yo
     </tr>
     <tr>
         <td rowspan="2"></td>
-        <td rowspan="2">Tue 3 Nov<br>14:30-15:30<br>Room 214</td>
+        <td rowspan="2">Tue 3 Nov<br>14:30-15:30<br>Room 322</td>
         <td>Giordano Vitale</td>
         <td>TBA</td>
     </tr>
@@ -268,7 +272,7 @@ This schedule is subject to changes. If you see typos or cannot be present on yo
     </tr>
     <tr>
         <td rowspan="2"></td>
-        <td rowspan="2">Tue 10 Nov<br>14:30-15:30<br>Room 214</td>
+        <td rowspan="2">Tue 10 Nov<br>14:30-15:30<br>Room 322</td>
         <td>Andrea Giusto</td>
         <td>TBA</td>
     </tr>
@@ -277,7 +281,7 @@ This schedule is subject to changes. If you see typos or cannot be present on yo
         </tr>
     <tr>
         <td rowspan="2"></td>
-        <td rowspan="2">Tue 17 Nov<br>14:30-15:30<br>Room 214</td>
+        <td rowspan="2">Tue 17 Nov<br>14:30-15:30<br>Room 322</td>
         <td>Daniel Rodrigues Perazzo</td>
         <td>TBA</td>
     </tr>
@@ -287,7 +291,7 @@ This schedule is subject to changes. If you see typos or cannot be present on yo
     </tr>
     <tr>
         <td rowspan="1"></td>
-        <td rowspan="1">Tue 24 Nov<br>14:30-15:00<br>Room 214</td>
+        <td rowspan="1">Tue 24 Nov<br>14:30-15:00<br>Room 322</td>
         <td>Mattia Roccatello</td>
         <td>TBA</td>
     </tr>
