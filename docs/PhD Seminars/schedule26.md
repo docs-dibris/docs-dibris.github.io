@@ -17,7 +17,7 @@ nav_order: 5
 # Seminars schedule 2026
 
 {: .highlight }
-The next meeting is scheduled for **Andrea Marchi** and **Ankit Gahlawat**'s seminar, on **Tuesday, October 13** at 14:30 in Room 322. 
+The next meeting is scheduled for **Armin Sargolzaei**'s seminar, on **Tuesday, October 20** at 14:30 in Room 322. 
 
 {: .note }
 All seminars are streamed on Microsoft Teams. Code to join: wfogmsx <!-- change -->
@@ -225,14 +225,14 @@ This schedule is subject to changes. If you see typos or cannot be present on yo
         <td>Where the Training Signal Comes From: Label Generation for Face Parsing and Reward-Based Sketch Completion</td> <!-- changed -->
     </tr>
     <tr>
-        <td rowspan="1"></td>
+        <td rowspan="1"><a href="/assets/seminar-flyers/seminar_26/seminar_15.pdf" download>download</a></td>
         <td rowspan="1">Tue 20 Oct<br>14:30-15:00<br>Room 322</td>
         <!-- <td>Giacomo Ganassoli</td>
         <td>TBA</td>
     </tr>
     <tr> -->
         <td>Armin Sargolzaei</td>
-        <td>TBA</td> <!-- confirmed -->
+        <td>Domain Shift in Unsupervised Anomalous Sound Detection: Evidence from Two-Channel Machine Recordings</td> <!-- confirmed -->
     </tr>
     <tr>
         <td rowspan="2"></td>
