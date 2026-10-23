@@ -226,7 +226,7 @@ This schedule is subject to changes. If you see typos or cannot be present on yo
     </tr>
     <tr>
         <td rowspan="1"><a href="/assets/seminar-flyers/seminar_26/seminar_15.pdf" download>download</a></td>
-        <td rowspan="1">Tue 20 Oct<br>14:30-15:00<br>Room 322</td>
+        <td rowspan="1">Tue 23 Oct<br>14:30-15:00<br>Room 214</td>
         <!-- <td>Giacomo Ganassoli</td>
         <td>TBA</td>
     </tr>
@@ -235,18 +235,14 @@ This schedule is subject to changes. If you see typos or cannot be present on yo
         <td>Domain Shift in Unsupervised Anomalous Sound Detection: Evidence from Two-Channel Machine Recordings</td> <!-- confirmed -->
     </tr>
     <tr>
-        <td rowspan="2"></td>
+        <td rowspan="2"><a href="/assets/seminar-flyers/seminar_26/seminar_16.pdf" download>download</a></td>
         <td rowspan="2">Tue 27 Oct<br>14:30-15:30<br>Room 322</td>
-        <!-- <td>Marco Tessore</td>
-        <td>TBA</td>
-    </tr>
-    <tr> -->
         <td>Salah Yousef Mohamed Mokhtar Ismail</td>
-        <td>TBA</td>
+        <td>A Wearable System for Posture Monitoring and Positional Sleep Apnea</td>
     </tr>
     <tr>
         <td>Andrea Maffia</td>
-        <td>TBA</td>
+        <td>Deep Learning for GNSS Satellite Visibility Classification via CNN and Multi-Head Attention</td>
     </tr>
     <tr>
         <td rowspan="2"></td>
