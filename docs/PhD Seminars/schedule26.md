@@ -245,7 +245,7 @@ This schedule is subject to changes. If you see typos or cannot be present on yo
         <td>Deep Learning for GNSS Satellite Visibility Classification via CNN and Multi-Head Attention</td>
     </tr>
     <tr>
-        <td rowspan="2"><a href="/assets/seminar-flyers/seminar_26/seminar_16.pdf" download>download</a></td>
+        <td rowspan="2"><a href="/assets/seminar-flyers/seminar_26/seminar_17.pdf" download>download</a></td>
         <td rowspan="2">Tue 3 Nov<br>14:30-15:30<br>Room 322</td>
         <td>Giordano Vitale</td>
         <td>BLOKS: Scaling Kernel Solvers with Sketched Block Preconditioning</td>
