@@ -255,11 +255,11 @@ This schedule is subject to changes. If you see typos or cannot be present on yo
         <td>Reasoning with Spreadsheets: Challenges and Strategies</td>
     </tr>
     <tr>
-        <td rowspan="2"></td>
-        <td rowspan="2">Tue 10 Nov<br>14:30-15:30<br>Room 322</td>
-        <td>Andrea Giusto</td>
+        <td rowspan="1"></td>
+        <td rowspan="1">Tue 10 Nov<br>14:30-15:00<br>Room 322</td>
+    <!-- <td>Andrea Giusto</td>
         <td>TBA</td>
-    </tr>
+    </tr> -->
         <td>Veronica Pignedoli</td>
         <td>TBA</td>
         </tr>
@@ -274,16 +274,16 @@ This schedule is subject to changes. If you see typos or cannot be present on yo
         </tr>
     </tr>
     <tr>
-        <td rowspan="1"></td>
-        <td rowspan="1">Tue 24 Nov<br>14:30-15:00<br>Room 322</td>
+        <td rowspan="2"></td>
+        <td rowspan="2">Tue 24 Nov<br>14:30-15:30<br>Room 322</td>
         <td>Mattia Roccatello</td>
         <td>TBA</td>
     </tr>
-    <!--
     <tr>
-        <td>XXX</td>
+        <td>Gabriele Romano</td>
         <td>TBA</td>
     </tr>
+    <!--
     <tr>
         <td rowspan="2"></td>
         <td rowspan="2">Tue 11 Nov<br>14:30-15:30<br>Room 214</td>
