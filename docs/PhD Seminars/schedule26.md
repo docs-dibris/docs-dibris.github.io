@@ -17,14 +17,12 @@ nav_order: 5
 # Seminars schedule 2026
 
 {: .highlight }
-The next meeting is scheduled for **Giordano Vitale** and **Raffaele Rialdi**'s seminar, on **Tuesday, November 3** at 14:30 in Room 322. 
+The next meeting is scheduled for **Andrea Giusto** and **Veronica Pignedoli**'s seminar, on **Tuesday, November 10** at 16:00 in Room 322. 
 
 {: .note }
 All seminars are streamed on Microsoft Teams. Code to join: wfogmsx <!-- change -->
 
-This schedule is subject to changes. If you see typos or cannot be present on your assigned date, please send an email to <a href="mailto:irem.arici@edu.unige.it">Irem</a>.
-
-<!-- We now have a public <a href="https://calendar.google.com/calendar/u/0?cid=NWNlNTFkZDlmNTJmYmI2NjU5NDQ3YjMxYzhkZTAzN2I2YTZhNmE0Yzk4ZDU0ZmY5ZDQ1NjA3NmJmYzgyZjRmMUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t">Google Calendar</a> with the seminar dates for your convenience.  change -->
+This schedule is subject to changes. If you see typos or cannot be present on your assigned date, please email <a href="mailto:irem.arici@edu.unige.it">Irem</a>.
 
 <table>
     <tr>
@@ -100,29 +98,11 @@ This schedule is subject to changes. If you see typos or cannot be present on yo
         <td>TBA</td>
     </tr> -->
     <tr>
-        <td rowspan="2"><a href="/assets/seminar-flyers/seminar_26/seminar_7.pdf" download>download</a></td>
-        <td rowspan="2">Tue 16 Jun<br>14:30-15:00<br>Room 215</td>
-        <!-- <td>Veronica Pignedoli</td>
-        <td>TBA</td>
-    </tr>
-    <tr> 
-        <td>Gabriele Romano</td>
-        <td>TBA</td>
-    </tr> -->
-    <tr>
+        <td rowspan="1"><a href="/assets/seminar-flyers/seminar_26/seminar_7.pdf" download>download</a></td>
+        <td rowspan="1">Tue 16 Jun<br>14:30-15:00<br>Room 215</td>
         <td>Irem Arici</td>
         <td>Towards Emotion Regulation Detection Using Predictive Processing Framework</td>
     </tr>
-    <!-- <tr>
-        <td rowspan="2"></td>
-        <td rowspan="2">Tue 23 Jun<br>14:30-15:30<br>Room 214</td>
-        <td>Abdolhamid Livani</td>
-        <td>TBA</td>
-    </tr>
-    <tr>
-        <td>Lorenzo Farina</td>
-        <td>TBA</td>
-    </tr> -->
     <tr>
         <td rowspan="2"><a href="/assets/seminar-flyers/seminar_26/seminar_8.pdf" download>download</a></td>
         <td rowspan="2">Tue 30 Jun<br>14:30-15:30<br>Room 214</td>
