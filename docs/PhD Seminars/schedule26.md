@@ -158,27 +158,6 @@ This schedule is subject to changes. If you see typos or cannot be present on yo
     <tr>
         <th colspan="4" style="text-align: center;">Summer break</th>
     </tr>
-    <!-- Sept -->
-    <!--
-    <tr>
-        <td rowspan="2"></td>
-        <td rowspan="2">Tue 15 Sep<br>14:30-15:30<br>Room 214</td>
-        <td>Daniel Rodrigues Perazzo</td>
-        <td>TBA</td>
-    </tr>
-    <tr>
-        <td>Sofia Agostoni</td>
-        <td>TBA</td>
-    </tr>
-    -->
-<!-- 
-<tr>
-        <td rowspan="1"></td>
-        <td rowspan="1">Tue 22 Sep<br>14:30-15:00<br>Room 214</td>
-        <td>Andrea Maffia</td>
-        <td>TBA</td> 
-    </tr>
- -->   
     <tr>
         <td rowspan="2"><a href="/assets/seminar-flyers/seminar_26/seminar_13.pdf" download>download</a></td>
         <td rowspan="2">Tue 29 Sep<br>14:30-15:30<br>Room 214</td>
@@ -235,23 +214,22 @@ This schedule is subject to changes. If you see typos or cannot be present on yo
         <td>Reasoning with Spreadsheets: Challenges and Strategies</td>
     </tr>
     <tr>
-        <td rowspan="2"><a href="/assets/seminar-flyers/seminar_26/seminar_17.pdf" download>download</a></td>
+        <td rowspan="2"><a href="/assets/seminar-flyers/seminar_26/seminar_18.pdf" download>download</a></td>
         <td rowspan="2">Tue 10 Nov<br>16:00-16:30<br>Room 322</td>
         <td>Andrea Giusto</td>
         <td>An Introduction to Linear Logic</td>
     </tr>
         <td>Veronica Pignedoli</td>
         <td>Learning Under Privileged Information in Deep Neural Networks</td>
-        </tr>
+    </tr>
     <tr>
-        <td rowspan="2"></td>
+        <td rowspan="2"><a href="/assets/seminar-flyers/seminar_26/seminar_19.pdf" download>download</a></td>
         <td rowspan="2">Tue 17 Nov<br>14:30-15:30<br>Room 322</td>
         <td>Daniel Rodrigues Perazzo</td>
-        <td>TBA</td>
+        <td>Neural Operators and Neural Fields for Scientific Applications</td>
     </tr>
-        <td>Christian Daniele</td>
-        <td>TBA</td>
-        </tr>
+        <td>Neven Villani</td>
+        <td>An Introduction to Linear Logic</td>
     </tr>
     <tr>
         <td rowspan="2"></td>
@@ -263,18 +241,16 @@ This schedule is subject to changes. If you see typos or cannot be present on yo
         <td>Gabriele Romano</td>
         <td>TBA</td>
     </tr>
-    <!--
     <tr>
-        <td rowspan="2"></td>
-        <td rowspan="2">Tue 11 Nov<br>14:30-15:30<br>Room 214</td>
-        <td>TBA</td>
+        <td rowspan="1"></td>
+        <td rowspan="1">Tue 1 Dec<br>14:30-15:00<br>Room 312</td>
+        <td>Christian Daniele</td>
         <td>TBA</td>
     </tr>
-    <tr>
+    <!-- <tr>
         <td>TBA</td>
         <td>TBA</td>
-    </tr>
-	-->
+    </tr> -->
 </table>
 
 
