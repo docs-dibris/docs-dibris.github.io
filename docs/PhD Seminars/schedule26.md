@@ -229,7 +229,7 @@ This schedule is subject to changes. If you see typos or cannot be present on yo
         <td>Neural Operators and Neural Fields for Scientific Applications</td>
     </tr>
         <td>Neven Villani</td>
-        <td>An Introduction to Linear Logic</td>
+        <td>Labeled Token Sliding in Directed Graphs</td>
     </tr>
     <tr>
         <td rowspan="2"></td>
