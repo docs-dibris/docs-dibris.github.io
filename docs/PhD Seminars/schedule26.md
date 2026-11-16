@@ -243,7 +243,7 @@ This schedule is subject to changes. If you see typos or cannot be present on yo
     </tr>
     <tr>
         <td rowspan="1"></td>
-        <td rowspan="1">Tue 1 Dec<br>14:30-15:00<br>Room 312</td>
+        <td rowspan="1">Tue 1 Dec<br>14:30-15:00<br>Room 322</td>
         <td>Christian Daniele</td>
         <td>TBA</td>
     </tr>
