@@ -17,7 +17,7 @@ nav_order: 5
 # Seminars schedule 2026
 
 {: .highlight }
-The next meeting is scheduled for **Daniel Rodrigues Perazzo** and **Neven Villani**'s seminar, on **Tuesday, November 17** at 14:30 in Room 322. 
+The next meeting is scheduled for **Mattia Roccatello**'s seminar, on **Tuesday, November 24** at 14:30 in Room 322. 
 
 {: .note }
 All seminars are streamed on Microsoft Teams. Code to join: wfogmsx <!-- change -->
@@ -232,19 +232,21 @@ This schedule is subject to changes. If you see typos or cannot be present on yo
         <td>Labeled Token Sliding in Directed Graphs</td>
     </tr>
     <tr>
-        <td rowspan="2"></td>
-        <td rowspan="2">Tue 24 Nov<br>14:30-15:30<br>Room 322</td>
+        <td rowspan="1"><a href="/assets/seminar-flyers/seminar_26/seminar_20.pdf" download>download</a></td>
+        <td rowspan="1">Tue 24 Nov<br>14:30-15:00<br>Room 322</td>
         <td>Mattia Roccatello</td>
-        <td>TBA</td>
-    </tr>
-    <tr>
-        <td>Gabriele Romano</td>
-        <td>TBA</td>
+        <td>Optimizing Detection and Reconstruction for Volumetric Chromatin Tracing</td>
     </tr>
     <tr>
         <td rowspan="1"></td>
         <td rowspan="1">Tue 1 Dec<br>14:30-15:00<br>Room 322</td>
         <td>Christian Daniele</td>
+        <td>TBA</td>
+    </tr>
+    <tr>
+        <td rowspan="1"></td>
+        <td rowspan="1">Wed 9 Dec<br>14:30-15:00<br>Room 322</td>
+        <td>Gabriele Romano</td>
         <td>TBA</td>
     </tr>
     <!-- <tr>
