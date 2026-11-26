@@ -17,7 +17,7 @@ nav_order: 5
 # Seminars schedule 2026
 
 {: .highlight }
-The next meeting is scheduled for **Mattia Roccatello**'s seminar, on **Tuesday, November 24** at 14:30 in Room 322. 
+The next meeting is scheduled for **Christian Daniele** and **Christoffer Lind Andersen**'s seminar, on **Tuesday, December 1** at 14:30 in Room 322. 
 
 {: .note }
 All seminars are streamed on Microsoft Teams. Code to join: wfogmsx <!-- change -->
@@ -238,10 +238,14 @@ This schedule is subject to changes. If you see typos or cannot be present on yo
         <td>Optimizing Detection and Reconstruction for Volumetric Chromatin Tracing</td>
     </tr>
     <tr>
-        <td rowspan="1"></td>
-        <td rowspan="1">Tue 1 Dec<br>14:30-15:00<br>Room 322</td>
+        <td rowspan="2"><a href="/assets/seminar-flyers/seminar_26/seminar_21.pdf" download>download</a></td>
+        <td rowspan="2">Tue 1 Dec<br>14:30-15:30<br>Room 322</td>
         <td>Christian Daniele</td>
-        <td>TBA</td>
+        <td>Algorithmic Differentiation for Problems with Non-isolated Solutions
+</td>
+    </tr>
+        <td>Christoffer Lind Andersen</td>
+        <td>Verfication of Broadcast Networks</td>
     </tr>
     <tr>
         <td rowspan="1"></td>
